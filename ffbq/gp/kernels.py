@@ -124,5 +124,35 @@ class NonstationaryRFF(tinygp.kernels.base.Kernel):
 class M32(tinygp.kernels.base.Kernel):
     @jit
     def evaluate(self, x1, x2):
-        arg = jnp.sqrt(3) * jnp.abs(x1 - x2).sum(axis=-1)
-        return (1 + arg) * jnp.exp(-arg)
+        l1 = jnp.abs(x1 - x2).sum(axis=-1)
+        arg = jnp.sqrt(3) * l1
+
+        val = jnp.where(
+            l1 == 0., 1., 
+            (1 + arg) * jnp.exp(-arg)
+        )
+
+        return val
+
+
+# --------------------------------------- PERIODIC --------------------------------------- #
+class Periodic(tinygp.kernels.base.Kernel):
+    """Formulated as a product kernel for N_d"""
+    gamma: Float
+
+    def __init__(self, gamma):
+        self.gamma = jnp.log(gamma)
+
+    @property
+    def _gamma(self):
+        return jnp.exp(self.gamma)
+
+    @jit
+    def evaluate(self, x1, x2):
+        l1 = jnp.abs(x1 - x2)
+        val = jnp.where(
+            l1 == 0., 1., 
+            jnp.exp(-self._gamma * jnp.square(jnp.sin(jnp.pi * l1)))
+        )
+
+        return jnp.prod(val)

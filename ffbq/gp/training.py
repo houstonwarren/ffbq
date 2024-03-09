@@ -87,15 +87,18 @@ def run_optax(y, gp, param_fn, epochs, lr, **kwargs):
     criteria_fn = _loss_criteria_fn(patience, eta)
 
     # define an opt step
-    schedule = optax.warmup_cosine_decay_schedule(
-        init_value=0.0,
-        peak_value=lr,
-        warmup_steps=50,
-        decay_steps=epochs - epochs // 10,
-        end_value=kwargs.pop("lr_min", 1e-4),
-    )
+    if epochs > 100:
+        schedule = optax.warmup_cosine_decay_schedule(
+            init_value=0.0,
+            peak_value=lr,
+            warmup_steps=50,
+            decay_steps=epochs - epochs // 10,
+            end_value=kwargs.pop("lr_min", 5e-5),
+        )
 
-    opt = optax.adamw(learning_rate=schedule)
+        opt = optax.adamw(learning_rate=schedule)
+    else:
+        opt = optax.adamw(lr)
     params, static = param_fn(gp)
 
     @eqx.filter_jit
@@ -206,12 +209,17 @@ def fitgp(gp, y, epochs, to_train=None, opt="adam", **kwargs):
 
 # ------------------------------------- LOW RANK FIT ------------------------------------- #
 @jax.jit
-def dropout_lrgp(params, key, sigma):
+def dropout_lrgp(lrgp, key, sigma):
     key, subkey = jax.random.split(key)
-    w = params.kernel.kernel.w
-    w_dropout = jnp.where(sigma == 0., jnp.ones_like(w), jax.random.normal(subkey, w.shape))
-    params = eqx.tree_at(lambda t: t.kernel.kernel.w, params, w_dropout)
-    return key, params
+    w = lrgp.kernel.kernel.w
+    dropout_mult = jnp.where(
+        sigma > 0., 
+        jnp.ones_like(w) + jax.random.normal(subkey, w.shape) * sigma, 
+        jnp.ones_like(w)
+    )
+    w_dropout = w * dropout_mult
+    lrgp = eqx.tree_at(lambda t: t.kernel.kernel.w, lrgp, w_dropout)
+    return lrgp
 
 
 def fit_lrgp(gp, y, epochs, to_train=None, dropout=0., **kwargs):
@@ -234,7 +242,7 @@ def fit_lrgp(gp, y, epochs, to_train=None, dropout=0., **kwargs):
         peak_value=lr,
         warmup_steps=50,
         decay_steps=epochs - epochs // 10,
-        end_value=kwargs.pop("lr_min", 1e-4),
+        end_value=kwargs.pop("lr_min", 5e-5),
     )
 
     opt = optax.adamw(learning_rate=schedule)
@@ -246,8 +254,8 @@ def fit_lrgp(gp, y, epochs, to_train=None, dropout=0., **kwargs):
     def opt_step(params, opt_state, dkey):
         @jax.value_and_grad
         def loss_fn(_params):
-            d_params = dropout_lrgp(_params, dkey, dropout)[1]
-            model = eqx.combine(d_params, static)
+            model = eqx.combine(_params, static)
+            model = dropout_lrgp(model, dkey, dropout)
             return model.nll(y)
 
         # loss, grads = loss_fn(dropout_params)  # dropout_params loss
@@ -262,7 +270,6 @@ def fit_lrgp(gp, y, epochs, to_train=None, dropout=0., **kwargs):
     print_iter = kwargs.get("print_iter", 50)
     loss_vals = []
     for epoch in range(epochs):
-        # dropout_key, dropout_params = dropout_lrgp(params, dropout_key, dropout)
         params, opt_state, loss = opt_step(params, opt_state, dkeys[epoch])
         loss_vals.append(loss)
 
