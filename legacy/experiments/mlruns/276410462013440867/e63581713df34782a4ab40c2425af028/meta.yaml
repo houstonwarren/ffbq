@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e63581713df34782a4ab40c2425af028/artifacts
+end_time: 1697197938365
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e63581713df34782a4ab40c2425af028
+run_name: nebulous-wolf-904
+run_uuid: e63581713df34782a4ab40c2425af028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197938345
+status: 3
+tags: []
+user_id: houston

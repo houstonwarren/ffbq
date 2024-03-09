@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/346639a660194cf08fce22ff0f4c2a77/artifacts
+end_time: 1698114879571
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 346639a660194cf08fce22ff0f4c2a77
+run_name: auspicious-hen-722
+run_uuid: 346639a660194cf08fce22ff0f4c2a77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114879509
+status: 3
+tags: []
+user_id: houston

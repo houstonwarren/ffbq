@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/569c6a74af234623a7cebc041bbeaa2d/artifacts
+end_time: 1697440752943
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 569c6a74af234623a7cebc041bbeaa2d
+run_name: bemused-squirrel-999
+run_uuid: 569c6a74af234623a7cebc041bbeaa2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440752891
+status: 3
+tags: []
+user_id: houston

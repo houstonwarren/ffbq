@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ab671dcbfb544a91960bd8e7d920728b/artifacts
+end_time: 1698115115519
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ab671dcbfb544a91960bd8e7d920728b
+run_name: magnificent-loon-410
+run_uuid: ab671dcbfb544a91960bd8e7d920728b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115115457
+status: 3
+tags: []
+user_id: houston

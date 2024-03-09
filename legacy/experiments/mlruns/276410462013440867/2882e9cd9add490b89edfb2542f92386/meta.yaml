@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2882e9cd9add490b89edfb2542f92386/artifacts
+end_time: 1697195710240
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2882e9cd9add490b89edfb2542f92386
+run_name: intelligent-boar-652
+run_uuid: 2882e9cd9add490b89edfb2542f92386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710227
+status: 3
+tags: []
+user_id: houston

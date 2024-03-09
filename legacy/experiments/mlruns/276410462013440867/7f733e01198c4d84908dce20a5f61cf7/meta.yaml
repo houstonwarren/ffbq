@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7f733e01198c4d84908dce20a5f61cf7/artifacts
+end_time: 1697196373129
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7f733e01198c4d84908dce20a5f61cf7
+run_name: amazing-crane-986
+run_uuid: 7f733e01198c4d84908dce20a5f61cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196373113
+status: 3
+tags: []
+user_id: houston

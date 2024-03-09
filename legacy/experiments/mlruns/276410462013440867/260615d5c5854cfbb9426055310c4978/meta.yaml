@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/260615d5c5854cfbb9426055310c4978/artifacts
+end_time: 1697198400753
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 260615d5c5854cfbb9426055310c4978
+run_name: rare-sponge-964
+run_uuid: 260615d5c5854cfbb9426055310c4978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198400731
+status: 3
+tags: []
+user_id: houston

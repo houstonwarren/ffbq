@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7b1f6ac8e50e4c05a153b32057072c54/artifacts
+end_time: 1697359154452
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7b1f6ac8e50e4c05a153b32057072c54
+run_name: amusing-skink-774
+run_uuid: 7b1f6ac8e50e4c05a153b32057072c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359154377
+status: 3
+tags: []
+user_id: houston

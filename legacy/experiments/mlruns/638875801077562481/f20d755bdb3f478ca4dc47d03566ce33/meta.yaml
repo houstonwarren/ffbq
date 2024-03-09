@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f20d755bdb3f478ca4dc47d03566ce33/artifacts
+end_time: 1701667512695
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f20d755bdb3f478ca4dc47d03566ce33
+run_name: classy-bear-804
+run_uuid: f20d755bdb3f478ca4dc47d03566ce33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667512616
+status: 3
+tags: []
+user_id: houston

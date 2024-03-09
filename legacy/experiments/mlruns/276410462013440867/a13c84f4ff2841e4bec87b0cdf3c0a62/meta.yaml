@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a13c84f4ff2841e4bec87b0cdf3c0a62/artifacts
+end_time: 1697197799508
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a13c84f4ff2841e4bec87b0cdf3c0a62
+run_name: omniscient-sow-798
+run_uuid: a13c84f4ff2841e4bec87b0cdf3c0a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197799489
+status: 3
+tags: []
+user_id: houston

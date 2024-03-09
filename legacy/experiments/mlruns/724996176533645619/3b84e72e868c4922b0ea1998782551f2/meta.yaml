@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3b84e72e868c4922b0ea1998782551f2/artifacts
+end_time: 1697194964620
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3b84e72e868c4922b0ea1998782551f2
+run_name: lyrical-wolf-82
+run_uuid: 3b84e72e868c4922b0ea1998782551f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194964598
+status: 3
+tags: []
+user_id: houston

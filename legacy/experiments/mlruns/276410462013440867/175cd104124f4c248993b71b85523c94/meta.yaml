@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/175cd104124f4c248993b71b85523c94/artifacts
+end_time: 1697197972600
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 175cd104124f4c248993b71b85523c94
+run_name: stylish-snake-939
+run_uuid: 175cd104124f4c248993b71b85523c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197972581
+status: 3
+tags: []
+user_id: houston

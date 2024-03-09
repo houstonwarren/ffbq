@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/cd8085a141104983ab4ff84c09334ebb/artifacts
+deleted_time: 1701665274136
+end_time: 1701664868726
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: cd8085a141104983ab4ff84c09334ebb
+run_name: ambitious-sponge-849
+run_uuid: cd8085a141104983ab4ff84c09334ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664868683
+status: 3
+tags: []
+user_id: houston

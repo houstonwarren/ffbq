@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e6022229c9d04584a31ff48fb0e85a34/artifacts
+end_time: 1697194241606
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e6022229c9d04584a31ff48fb0e85a34
+run_name: big-grub-235
+run_uuid: e6022229c9d04584a31ff48fb0e85a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241583
+status: 3
+tags: []
+user_id: houston

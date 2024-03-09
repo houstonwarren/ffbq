@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e4db23bbb3574d9ca6772707f575f43d/artifacts
+end_time: 1701660492090
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e4db23bbb3574d9ca6772707f575f43d
+run_name: indecisive-duck-44
+run_uuid: e4db23bbb3574d9ca6772707f575f43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660491933
+status: 3
+tags: []
+user_id: houston

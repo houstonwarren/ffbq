@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/f2c5c17efd914b7fbff9c7ef40a1a17b/artifacts
+end_time: 1701660316914
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: f2c5c17efd914b7fbff9c7ef40a1a17b
+run_name: upset-pig-825
+run_uuid: f2c5c17efd914b7fbff9c7ef40a1a17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660316855
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b361e4de6ac24fe0a340d6a5f9b6eb9b/artifacts
+end_time: 1701659412797
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b361e4de6ac24fe0a340d6a5f9b6eb9b
+run_name: stylish-squirrel-216
+run_uuid: b361e4de6ac24fe0a340d6a5f9b6eb9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659412652
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/1963fb9d7e89403a96749a99089ad03e/artifacts
+end_time: 1701659540168
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 1963fb9d7e89403a96749a99089ad03e
+run_name: bustling-ram-745
+run_uuid: 1963fb9d7e89403a96749a99089ad03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659540020
+status: 3
+tags: []
+user_id: houston

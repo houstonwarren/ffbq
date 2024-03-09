@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/76c88eaa915d498f9f94c5caaeb07da1/artifacts
+end_time: 1697193964618
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 76c88eaa915d498f9f94c5caaeb07da1
+run_name: valuable-snipe-518
+run_uuid: 76c88eaa915d498f9f94c5caaeb07da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193964587
+status: 3
+tags: []
+user_id: houston

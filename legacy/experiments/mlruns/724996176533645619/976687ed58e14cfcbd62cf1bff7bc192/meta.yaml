@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/976687ed58e14cfcbd62cf1bff7bc192/artifacts
+end_time: 1697194206926
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 976687ed58e14cfcbd62cf1bff7bc192
+run_name: orderly-conch-345
+run_uuid: 976687ed58e14cfcbd62cf1bff7bc192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194206907
+status: 3
+tags: []
+user_id: houston

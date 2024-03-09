@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/934a76de41af45b6a9d1341ca2676059/artifacts
+end_time: 1698113640689
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 934a76de41af45b6a9d1341ca2676059
+run_name: rogue-goose-964
+run_uuid: 934a76de41af45b6a9d1341ca2676059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113640634
+status: 3
+tags: []
+user_id: houston

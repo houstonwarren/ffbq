@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/25b4a60ffd114ae798a3c111230720cf/artifacts
+end_time: 1697193920952
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 25b4a60ffd114ae798a3c111230720cf
+run_name: industrious-lark-202
+run_uuid: 25b4a60ffd114ae798a3c111230720cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193920929
+status: 3
+tags: []
+user_id: houston

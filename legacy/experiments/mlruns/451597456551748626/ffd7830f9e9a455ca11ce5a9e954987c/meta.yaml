@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ffd7830f9e9a455ca11ce5a9e954987c/artifacts
+end_time: 1701660417130
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ffd7830f9e9a455ca11ce5a9e954987c
+run_name: big-moose-112
+run_uuid: ffd7830f9e9a455ca11ce5a9e954987c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660417021
+status: 3
+tags: []
+user_id: houston

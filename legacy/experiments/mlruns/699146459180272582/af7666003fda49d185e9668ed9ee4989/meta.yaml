@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/af7666003fda49d185e9668ed9ee4989/artifacts
+end_time: 1698113434448
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: af7666003fda49d185e9668ed9ee4989
+run_name: painted-squirrel-965
+run_uuid: af7666003fda49d185e9668ed9ee4989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113434397
+status: 3
+tags: []
+user_id: houston

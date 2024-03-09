@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/14ee3c9f94254a2f9471c37ed57a3390/artifacts
+end_time: 1697359160862
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 14ee3c9f94254a2f9471c37ed57a3390
+run_name: amusing-shoat-162
+run_uuid: 14ee3c9f94254a2f9471c37ed57a3390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359160806
+status: 3
+tags: []
+user_id: houston

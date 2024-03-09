@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/42dab1f6d1e74e57b58cce19f365ca62/artifacts
+end_time: 1701667945012
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 42dab1f6d1e74e57b58cce19f365ca62
+run_name: calm-bear-281
+run_uuid: 42dab1f6d1e74e57b58cce19f365ca62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667944838
+status: 3
+tags: []
+user_id: houston

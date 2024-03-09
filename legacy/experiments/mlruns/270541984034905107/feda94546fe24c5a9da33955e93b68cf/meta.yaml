@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/feda94546fe24c5a9da33955e93b68cf/artifacts
+end_time: 1697440444948
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: feda94546fe24c5a9da33955e93b68cf
+run_name: ambitious-hound-235
+run_uuid: feda94546fe24c5a9da33955e93b68cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444902
+status: 3
+tags: []
+user_id: houston

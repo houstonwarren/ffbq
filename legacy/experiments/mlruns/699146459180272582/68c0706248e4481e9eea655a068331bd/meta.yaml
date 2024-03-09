@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/68c0706248e4481e9eea655a068331bd/artifacts
+end_time: 1698113681480
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 68c0706248e4481e9eea655a068331bd
+run_name: defiant-swan-477
+run_uuid: 68c0706248e4481e9eea655a068331bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113681425
+status: 3
+tags: []
+user_id: houston

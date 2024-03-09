@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/6440783ee70e43acb6c2c93ac2449e73/artifacts
+end_time: 1701660393467
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 6440783ee70e43acb6c2c93ac2449e73
+run_name: upset-gnu-244
+run_uuid: 6440783ee70e43acb6c2c93ac2449e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660393364
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/7eb23b9f88bc4698893bd37bd577bfa0/artifacts
+end_time: 1697194241632
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 7eb23b9f88bc4698893bd37bd577bfa0
+run_name: blushing-mule-121
+run_uuid: 7eb23b9f88bc4698893bd37bd577bfa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241612
+status: 3
+tags: []
+user_id: houston

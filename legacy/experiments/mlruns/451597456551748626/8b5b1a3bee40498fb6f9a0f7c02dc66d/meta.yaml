@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8b5b1a3bee40498fb6f9a0f7c02dc66d/artifacts
+end_time: 1701660425790
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8b5b1a3bee40498fb6f9a0f7c02dc66d
+run_name: thundering-moose-585
+run_uuid: 8b5b1a3bee40498fb6f9a0f7c02dc66d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660425690
+status: 3
+tags: []
+user_id: houston

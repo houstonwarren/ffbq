@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/52b4900c1fe54ee688e30f54f82127ec/artifacts
+end_time: 1701660348213
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 52b4900c1fe54ee688e30f54f82127ec
+run_name: amusing-chimp-741
+run_uuid: 52b4900c1fe54ee688e30f54f82127ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660348104
+status: 3
+tags: []
+user_id: houston

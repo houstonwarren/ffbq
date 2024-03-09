@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a95ba86ddfcc47009a17fa6ed18f2333/artifacts
+end_time: 1697194088979
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a95ba86ddfcc47009a17fa6ed18f2333
+run_name: bedecked-sloth-844
+run_uuid: a95ba86ddfcc47009a17fa6ed18f2333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194088962
+status: 3
+tags: []
+user_id: houston

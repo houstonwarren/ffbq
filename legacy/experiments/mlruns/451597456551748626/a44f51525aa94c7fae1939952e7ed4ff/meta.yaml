@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a44f51525aa94c7fae1939952e7ed4ff/artifacts
+end_time: 1701660265903
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a44f51525aa94c7fae1939952e7ed4ff
+run_name: bustling-lamb-264
+run_uuid: a44f51525aa94c7fae1939952e7ed4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660265810
+status: 3
+tags: []
+user_id: houston

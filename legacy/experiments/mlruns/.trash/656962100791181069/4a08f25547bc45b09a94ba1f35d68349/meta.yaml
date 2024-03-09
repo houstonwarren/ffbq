@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4a08f25547bc45b09a94ba1f35d68349/artifacts
+deleted_time: 1701665274136
+end_time: 1701664884842
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4a08f25547bc45b09a94ba1f35d68349
+run_name: adaptable-sheep-467
+run_uuid: 4a08f25547bc45b09a94ba1f35d68349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664884786
+status: 3
+tags: []
+user_id: houston

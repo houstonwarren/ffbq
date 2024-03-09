@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/bd284da3d383409ab99695c98d364c04/artifacts
+end_time: 1701659486506
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: bd284da3d383409ab99695c98d364c04
+run_name: capricious-slug-531
+run_uuid: bd284da3d383409ab99695c98d364c04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659486343
+status: 3
+tags: []
+user_id: houston

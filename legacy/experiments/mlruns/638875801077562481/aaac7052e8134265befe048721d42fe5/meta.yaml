@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/aaac7052e8134265befe048721d42fe5/artifacts
+end_time: 1701667813495
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: aaac7052e8134265befe048721d42fe5
+run_name: bright-snipe-437
+run_uuid: aaac7052e8134265befe048721d42fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667813352
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ecc944be96a74962b3c809d8f129db6d/artifacts
+end_time: 1697198344607
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ecc944be96a74962b3c809d8f129db6d
+run_name: exultant-snipe-269
+run_uuid: ecc944be96a74962b3c809d8f129db6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198344586
+status: 3
+tags: []
+user_id: houston

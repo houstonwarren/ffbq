@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f4799f661eac4651b9ac96c67948107d/artifacts
+end_time: 1697440508754
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f4799f661eac4651b9ac96c67948107d
+run_name: capable-bird-494
+run_uuid: f4799f661eac4651b9ac96c67948107d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440508706
+status: 3
+tags: []
+user_id: houston

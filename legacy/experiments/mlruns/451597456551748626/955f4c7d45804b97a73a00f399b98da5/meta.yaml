@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/955f4c7d45804b97a73a00f399b98da5/artifacts
+end_time: 1701660364109
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 955f4c7d45804b97a73a00f399b98da5
+run_name: enchanting-deer-257
+run_uuid: 955f4c7d45804b97a73a00f399b98da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660364044
+status: 3
+tags: []
+user_id: houston

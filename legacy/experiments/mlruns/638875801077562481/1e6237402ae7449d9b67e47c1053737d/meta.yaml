@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1e6237402ae7449d9b67e47c1053737d/artifacts
+end_time: 1701667775483
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1e6237402ae7449d9b67e47c1053737d
+run_name: victorious-dog-493
+run_uuid: 1e6237402ae7449d9b67e47c1053737d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667775312
+status: 3
+tags: []
+user_id: houston

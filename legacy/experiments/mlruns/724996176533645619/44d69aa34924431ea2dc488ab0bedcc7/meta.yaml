@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/44d69aa34924431ea2dc488ab0bedcc7/artifacts
+end_time: 1697194276625
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 44d69aa34924431ea2dc488ab0bedcc7
+run_name: bright-bat-629
+run_uuid: 44d69aa34924431ea2dc488ab0bedcc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276605
+status: 3
+tags: []
+user_id: houston

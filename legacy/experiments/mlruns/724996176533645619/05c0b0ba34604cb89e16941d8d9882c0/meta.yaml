@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/05c0b0ba34604cb89e16941d8d9882c0/artifacts
+end_time: 1697194026821
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 05c0b0ba34604cb89e16941d8d9882c0
+run_name: serious-seal-286
+run_uuid: 05c0b0ba34604cb89e16941d8d9882c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194026805
+status: 3
+tags: []
+user_id: houston

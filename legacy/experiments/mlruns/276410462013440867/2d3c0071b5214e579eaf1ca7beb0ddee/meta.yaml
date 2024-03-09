@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2d3c0071b5214e579eaf1ca7beb0ddee/artifacts
+end_time: 1697195786386
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2d3c0071b5214e579eaf1ca7beb0ddee
+run_name: likeable-trout-310
+run_uuid: 2d3c0071b5214e579eaf1ca7beb0ddee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786320
+status: 3
+tags: []
+user_id: houston

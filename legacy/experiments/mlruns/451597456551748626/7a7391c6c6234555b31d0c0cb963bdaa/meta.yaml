@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/7a7391c6c6234555b31d0c0cb963bdaa/artifacts
+end_time: 1701660280736
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 7a7391c6c6234555b31d0c0cb963bdaa
+run_name: bedecked-grouse-405
+run_uuid: 7a7391c6c6234555b31d0c0cb963bdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660280621
+status: 3
+tags: []
+user_id: houston

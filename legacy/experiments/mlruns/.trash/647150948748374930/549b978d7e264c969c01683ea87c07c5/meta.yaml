@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/549b978d7e264c969c01683ea87c07c5/artifacts
+deleted_time: 1701667207383
+end_time: 1701665297429
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: 549b978d7e264c969c01683ea87c07c5
+run_name: orderly-smelt-135
+run_uuid: 549b978d7e264c969c01683ea87c07c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665297400
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/0d8e9721ff44403aa8f4d92d38ee0037/artifacts
+deleted_time: 1701665274136
+end_time: 1701664835042
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 0d8e9721ff44403aa8f4d92d38ee0037
+run_name: righteous-cat-122
+run_uuid: 0d8e9721ff44403aa8f4d92d38ee0037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664834992
+status: 3
+tags: []
+user_id: houston

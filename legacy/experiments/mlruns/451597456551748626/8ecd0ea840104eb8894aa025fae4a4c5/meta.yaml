@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8ecd0ea840104eb8894aa025fae4a4c5/artifacts
+end_time: 1701660318940
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8ecd0ea840104eb8894aa025fae4a4c5
+run_name: redolent-calf-940
+run_uuid: 8ecd0ea840104eb8894aa025fae4a4c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660318877
+status: 3
+tags: []
+user_id: houston

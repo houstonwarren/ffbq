@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/34e62850b1e24790b9acd5ba1be52243/artifacts
+end_time: 1697195941113
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 34e62850b1e24790b9acd5ba1be52243
+run_name: skillful-chimp-279
+run_uuid: 34e62850b1e24790b9acd5ba1be52243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941098
+status: 3
+tags: []
+user_id: houston

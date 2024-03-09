@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a7f9321f6b204681a5e5fbaa51e078ee/artifacts
+end_time: 1698113800306
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a7f9321f6b204681a5e5fbaa51e078ee
+run_name: intelligent-fox-105
+run_uuid: a7f9321f6b204681a5e5fbaa51e078ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113800249
+status: 3
+tags: []
+user_id: houston

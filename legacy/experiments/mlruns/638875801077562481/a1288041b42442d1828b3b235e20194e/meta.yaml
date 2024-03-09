@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a1288041b42442d1828b3b235e20194e/artifacts
+end_time: 1701667937823
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a1288041b42442d1828b3b235e20194e
+run_name: receptive-swan-989
+run_uuid: a1288041b42442d1828b3b235e20194e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667937624
+status: 3
+tags: []
+user_id: houston

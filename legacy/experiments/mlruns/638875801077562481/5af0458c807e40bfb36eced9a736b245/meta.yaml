@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5af0458c807e40bfb36eced9a736b245/artifacts
+end_time: 1701667766399
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5af0458c807e40bfb36eced9a736b245
+run_name: polite-shrew-890
+run_uuid: 5af0458c807e40bfb36eced9a736b245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667766260
+status: 3
+tags: []
+user_id: houston

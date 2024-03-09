@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/cc4d1ebd561047cfb2cc90a2033793f4/artifacts
+end_time: 1701660461139
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: cc4d1ebd561047cfb2cc90a2033793f4
+run_name: carefree-penguin-181
+run_uuid: cc4d1ebd561047cfb2cc90a2033793f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660460997
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/27776a0a334f42658f926ed3261bed67/artifacts
+end_time: 1701667359081
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 27776a0a334f42658f926ed3261bed67
+run_name: chill-cod-542
+run_uuid: 27776a0a334f42658f926ed3261bed67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667358987
+status: 3
+tags: []
+user_id: houston

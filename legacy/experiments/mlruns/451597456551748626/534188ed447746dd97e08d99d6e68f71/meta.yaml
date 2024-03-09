@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/534188ed447746dd97e08d99d6e68f71/artifacts
+end_time: 1701660365681
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 534188ed447746dd97e08d99d6e68f71
+run_name: whimsical-shrimp-717
+run_uuid: 534188ed447746dd97e08d99d6e68f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660365623
+status: 3
+tags: []
+user_id: houston

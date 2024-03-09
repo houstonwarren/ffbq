@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9f4523bb0c514fb08b1563bf494e2d48/artifacts
+end_time: 1697196547261
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9f4523bb0c514fb08b1563bf494e2d48
+run_name: zealous-boar-688
+run_uuid: 9f4523bb0c514fb08b1563bf494e2d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547244
+status: 3
+tags: []
+user_id: houston

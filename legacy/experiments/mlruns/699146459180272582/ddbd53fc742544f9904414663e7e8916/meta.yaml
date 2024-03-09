@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ddbd53fc742544f9904414663e7e8916/artifacts
+end_time: 1698114720240
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ddbd53fc742544f9904414663e7e8916
+run_name: intrigued-hog-312
+run_uuid: ddbd53fc742544f9904414663e7e8916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114720179
+status: 3
+tags: []
+user_id: houston

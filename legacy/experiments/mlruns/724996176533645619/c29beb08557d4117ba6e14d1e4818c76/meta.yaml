@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/c29beb08557d4117ba6e14d1e4818c76/artifacts
+end_time: 1697194311399
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: c29beb08557d4117ba6e14d1e4818c76
+run_name: abrasive-goat-967
+run_uuid: c29beb08557d4117ba6e14d1e4818c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311379
+status: 3
+tags: []
+user_id: houston

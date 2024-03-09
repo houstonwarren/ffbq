@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ee22162e03f044168ac5145dab7bcd75/artifacts
+end_time: 1701667604023
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ee22162e03f044168ac5145dab7bcd75
+run_name: bedecked-owl-969
+run_uuid: ee22162e03f044168ac5145dab7bcd75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667603899
+status: 3
+tags: []
+user_id: houston

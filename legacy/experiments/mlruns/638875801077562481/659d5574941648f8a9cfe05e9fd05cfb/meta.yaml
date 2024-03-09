@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/659d5574941648f8a9cfe05e9fd05cfb/artifacts
+end_time: 1701667791914
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 659d5574941648f8a9cfe05e9fd05cfb
+run_name: painted-boar-690
+run_uuid: 659d5574941648f8a9cfe05e9fd05cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667791754
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3c6235c4b35c4ca4b18ef32f78024248/artifacts
+end_time: 1697198344665
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3c6235c4b35c4ca4b18ef32f78024248
+run_name: selective-mare-54
+run_uuid: 3c6235c4b35c4ca4b18ef32f78024248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198344642
+status: 3
+tags: []
+user_id: houston

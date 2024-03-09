@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/165c9cf3db9d4c16989368cd55c3e02f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664669137
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 165c9cf3db9d4c16989368cd55c3e02f
+run_name: dapper-cub-415
+run_uuid: 165c9cf3db9d4c16989368cd55c3e02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664669113
+status: 3
+tags: []
+user_id: houston

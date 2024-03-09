@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a92a19adab6d475b82bc36183e3f7cfc/artifacts
+end_time: 1701667552245
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a92a19adab6d475b82bc36183e3f7cfc
+run_name: adaptable-shrimp-289
+run_uuid: a92a19adab6d475b82bc36183e3f7cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667552126
+status: 3
+tags: []
+user_id: houston

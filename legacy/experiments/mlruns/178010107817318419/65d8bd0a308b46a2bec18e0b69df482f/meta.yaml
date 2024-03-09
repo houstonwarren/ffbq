@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/65d8bd0a308b46a2bec18e0b69df482f/artifacts
+end_time: 1697359116321
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 65d8bd0a308b46a2bec18e0b69df482f
+run_name: orderly-snake-18
+run_uuid: 65d8bd0a308b46a2bec18e0b69df482f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359116272
+status: 3
+tags: []
+user_id: houston

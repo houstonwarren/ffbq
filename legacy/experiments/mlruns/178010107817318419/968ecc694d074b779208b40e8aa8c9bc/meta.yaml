@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/968ecc694d074b779208b40e8aa8c9bc/artifacts
+end_time: 1697359036781
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 968ecc694d074b779208b40e8aa8c9bc
+run_name: bedecked-bat-510
+run_uuid: 968ecc694d074b779208b40e8aa8c9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359036736
+status: 3
+tags: []
+user_id: houston

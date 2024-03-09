@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/ab7e915cce4c45c898b660726de9807c/artifacts
+end_time: 1697359097845
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: ab7e915cce4c45c898b660726de9807c
+run_name: nosy-penguin-309
+run_uuid: ab7e915cce4c45c898b660726de9807c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359097797
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ea4c736b28794efabad8d5e09f4ba855/artifacts
+deleted_time: 1701665274136
+end_time: 1701664837152
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ea4c736b28794efabad8d5e09f4ba855
+run_name: worried-midge-319
+run_uuid: ea4c736b28794efabad8d5e09f4ba855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664837113
+status: 3
+tags: []
+user_id: houston

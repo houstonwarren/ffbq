@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/78d2e30d63dc47fabba67c37b4e9d692/artifacts
+end_time: 1697194797407
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 78d2e30d63dc47fabba67c37b4e9d692
+run_name: auspicious-conch-314
+run_uuid: 78d2e30d63dc47fabba67c37b4e9d692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797386
+status: 3
+tags: []
+user_id: houston

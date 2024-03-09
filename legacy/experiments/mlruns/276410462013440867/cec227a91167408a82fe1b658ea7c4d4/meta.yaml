@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cec227a91167408a82fe1b658ea7c4d4/artifacts
+end_time: 1697198681184
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cec227a91167408a82fe1b658ea7c4d4
+run_name: kindly-jay-446
+run_uuid: cec227a91167408a82fe1b658ea7c4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198681162
+status: 3
+tags: []
+user_id: houston

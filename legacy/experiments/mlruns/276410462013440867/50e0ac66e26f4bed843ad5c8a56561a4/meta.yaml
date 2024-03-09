@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/50e0ac66e26f4bed843ad5c8a56561a4/artifacts
+end_time: 1697195786463
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 50e0ac66e26f4bed843ad5c8a56561a4
+run_name: nervous-auk-594
+run_uuid: 50e0ac66e26f4bed843ad5c8a56561a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786391
+status: 3
+tags: []
+user_id: houston

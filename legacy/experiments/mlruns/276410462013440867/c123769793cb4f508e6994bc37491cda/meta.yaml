@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c123769793cb4f508e6994bc37491cda/artifacts
+end_time: 1697197061141
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c123769793cb4f508e6994bc37491cda
+run_name: bald-wolf-148
+run_uuid: c123769793cb4f508e6994bc37491cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197061125
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ac3ea610c521423e84e8319baa25d519/artifacts
+end_time: 1701667497534
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ac3ea610c521423e84e8319baa25d519
+run_name: grandiose-ape-860
+run_uuid: ac3ea610c521423e84e8319baa25d519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667497450
+status: 3
+tags: []
+user_id: houston

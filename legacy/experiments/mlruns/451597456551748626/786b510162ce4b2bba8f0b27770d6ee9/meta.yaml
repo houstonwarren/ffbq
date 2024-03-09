@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/786b510162ce4b2bba8f0b27770d6ee9/artifacts
+end_time: 1701660320480
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 786b510162ce4b2bba8f0b27770d6ee9
+run_name: nebulous-cat-150
+run_uuid: 786b510162ce4b2bba8f0b27770d6ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660320407
+status: 3
+tags: []
+user_id: houston

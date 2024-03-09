@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2e93ac3bf9524a7e9b7715a22fe25813/artifacts
+end_time: 1697195020650
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2e93ac3bf9524a7e9b7715a22fe25813
+run_name: classy-rook-999
+run_uuid: 2e93ac3bf9524a7e9b7715a22fe25813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195020627
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/034fa8818b4e4b19aa1f1951c5c8c3c1/artifacts
+end_time: 1697195489249
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 034fa8818b4e4b19aa1f1951c5c8c3c1
+run_name: victorious-goat-645
+run_uuid: 034fa8818b4e4b19aa1f1951c5c8c3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489236
+status: 3
+tags: []
+user_id: houston

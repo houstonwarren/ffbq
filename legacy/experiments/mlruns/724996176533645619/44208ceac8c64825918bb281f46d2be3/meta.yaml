@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/44208ceac8c64825918bb281f46d2be3/artifacts
+end_time: 1697193776967
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 44208ceac8c64825918bb281f46d2be3
+run_name: powerful-calf-376
+run_uuid: 44208ceac8c64825918bb281f46d2be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193776954
+status: 3
+tags: []
+user_id: houston

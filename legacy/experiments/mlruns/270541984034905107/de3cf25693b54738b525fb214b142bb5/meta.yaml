@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/de3cf25693b54738b525fb214b142bb5/artifacts
+end_time: 1697441466604
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: de3cf25693b54738b525fb214b142bb5
+run_name: unruly-whale-949
+run_uuid: de3cf25693b54738b525fb214b142bb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441466547
+status: 3
+tags: []
+user_id: houston

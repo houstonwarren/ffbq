@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/c8e881509b3d47da8af2bdf9c867f592/artifacts
+end_time: 1701660132242
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: c8e881509b3d47da8af2bdf9c867f592
+run_name: adaptable-toad-691
+run_uuid: c8e881509b3d47da8af2bdf9c867f592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660132109
+status: 3
+tags: []
+user_id: houston

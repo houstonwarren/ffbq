@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/54f6b0e6ff4c4a53911a7dbd53a10304/artifacts
+deleted_time: 1701665274136
+end_time: 1701664765142
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 54f6b0e6ff4c4a53911a7dbd53a10304
+run_name: sassy-quail-662
+run_uuid: 54f6b0e6ff4c4a53911a7dbd53a10304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664765114
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7804f67d8f294ce898d376fca3244c74/artifacts
+end_time: 1697441758529
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7804f67d8f294ce898d376fca3244c74
+run_name: rare-snipe-593
+run_uuid: 7804f67d8f294ce898d376fca3244c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441758474
+status: 3
+tags: []
+user_id: houston

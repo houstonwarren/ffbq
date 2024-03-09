@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/ca3d7c399b9a40eea4218d0b5c698cda/artifacts
+end_time: 1697360385752
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: ca3d7c399b9a40eea4218d0b5c698cda
+run_name: grandiose-worm-544
+run_uuid: ca3d7c399b9a40eea4218d0b5c698cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360385694
+status: 3
+tags: []
+user_id: houston

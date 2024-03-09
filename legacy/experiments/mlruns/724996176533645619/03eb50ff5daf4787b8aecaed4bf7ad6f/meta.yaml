@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/03eb50ff5daf4787b8aecaed4bf7ad6f/artifacts
+end_time: 1697194276675
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 03eb50ff5daf4787b8aecaed4bf7ad6f
+run_name: awesome-doe-498
+run_uuid: 03eb50ff5daf4787b8aecaed4bf7ad6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276657
+status: 3
+tags: []
+user_id: houston

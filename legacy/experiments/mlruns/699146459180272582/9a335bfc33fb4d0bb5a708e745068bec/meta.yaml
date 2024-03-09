@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9a335bfc33fb4d0bb5a708e745068bec/artifacts
+end_time: 1698113782825
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9a335bfc33fb4d0bb5a708e745068bec
+run_name: rebellious-cow-450
+run_uuid: 9a335bfc33fb4d0bb5a708e745068bec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782759
+status: 3
+tags: []
+user_id: houston

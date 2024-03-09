@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/6c58ca4448ed4134b02af17a62f6e8ad/artifacts
+end_time: 1697360302905
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 6c58ca4448ed4134b02af17a62f6e8ad
+run_name: mysterious-robin-398
+run_uuid: 6c58ca4448ed4134b02af17a62f6e8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360302855
+status: 3
+tags: []
+user_id: houston

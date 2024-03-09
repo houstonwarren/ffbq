@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c0a9aa592e1b4fc5aa23e06bc583bd6e/artifacts
+end_time: 1701660289408
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c0a9aa592e1b4fc5aa23e06bc583bd6e
+run_name: smiling-eel-506
+run_uuid: c0a9aa592e1b4fc5aa23e06bc583bd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660289347
+status: 3
+tags: []
+user_id: houston

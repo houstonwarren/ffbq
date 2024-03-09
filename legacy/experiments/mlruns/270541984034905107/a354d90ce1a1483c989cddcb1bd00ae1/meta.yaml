@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a354d90ce1a1483c989cddcb1bd00ae1/artifacts
+end_time: 1697440557928
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a354d90ce1a1483c989cddcb1bd00ae1
+run_name: gaudy-kite-52
+run_uuid: a354d90ce1a1483c989cddcb1bd00ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440557879
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6abeb5adba7542d2aeeb1cf4db17513a/artifacts
+end_time: 1697359041955
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6abeb5adba7542d2aeeb1cf4db17513a
+run_name: burly-perch-928
+run_uuid: 6abeb5adba7542d2aeeb1cf4db17513a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359041904
+status: 3
+tags: []
+user_id: houston

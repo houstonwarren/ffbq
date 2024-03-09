@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/14375ad1a7eb42c487b9d4e736f30e0c/artifacts
+end_time: 1701659611126
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 14375ad1a7eb42c487b9d4e736f30e0c
+run_name: legendary-dove-731
+run_uuid: 14375ad1a7eb42c487b9d4e736f30e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659610977
+status: 3
+tags: []
+user_id: houston

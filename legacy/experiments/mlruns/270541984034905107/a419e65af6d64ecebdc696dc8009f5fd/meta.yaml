@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a419e65af6d64ecebdc696dc8009f5fd/artifacts
+end_time: 1697440603790
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a419e65af6d64ecebdc696dc8009f5fd
+run_name: smiling-whale-943
+run_uuid: a419e65af6d64ecebdc696dc8009f5fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440603737
+status: 3
+tags: []
+user_id: houston

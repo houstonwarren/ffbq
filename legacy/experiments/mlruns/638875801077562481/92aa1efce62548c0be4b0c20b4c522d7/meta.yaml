@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/92aa1efce62548c0be4b0c20b4c522d7/artifacts
+end_time: 1701668002498
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 92aa1efce62548c0be4b0c20b4c522d7
+run_name: calm-slug-162
+run_uuid: 92aa1efce62548c0be4b0c20b4c522d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701668002338
+status: 3
+tags: []
+user_id: houston

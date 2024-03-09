@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2db80041587941e486a6ae5748f962aa/artifacts
+end_time: 1697195902619
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2db80041587941e486a6ae5748f962aa
+run_name: stylish-elk-72
+run_uuid: 2db80041587941e486a6ae5748f962aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902593
+status: 3
+tags: []
+user_id: houston

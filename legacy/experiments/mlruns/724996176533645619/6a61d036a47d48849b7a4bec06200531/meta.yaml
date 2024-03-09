@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6a61d036a47d48849b7a4bec06200531/artifacts
+end_time: 1697193875280
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6a61d036a47d48849b7a4bec06200531
+run_name: tasteful-rat-820
+run_uuid: 6a61d036a47d48849b7a4bec06200531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193875266
+status: 3
+tags: []
+user_id: houston

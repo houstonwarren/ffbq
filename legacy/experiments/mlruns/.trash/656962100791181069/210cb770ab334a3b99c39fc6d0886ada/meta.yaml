@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/210cb770ab334a3b99c39fc6d0886ada/artifacts
+deleted_time: 1701665274136
+end_time: 1701664884621
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 210cb770ab334a3b99c39fc6d0886ada
+run_name: carefree-shad-588
+run_uuid: 210cb770ab334a3b99c39fc6d0886ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664884582
+status: 3
+tags: []
+user_id: houston

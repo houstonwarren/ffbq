@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/335259a99fa344f9892ef4f92b80d9be/artifacts
+end_time: 1697360279398
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 335259a99fa344f9892ef4f92b80d9be
+run_name: silent-ram-122
+run_uuid: 335259a99fa344f9892ef4f92b80d9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360279348
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2976d46b53174a3b81e5051f2768f847/artifacts
+end_time: 1697359046772
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2976d46b53174a3b81e5051f2768f847
+run_name: blushing-ray-843
+run_uuid: 2976d46b53174a3b81e5051f2768f847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359046718
+status: 3
+tags: []
+user_id: houston

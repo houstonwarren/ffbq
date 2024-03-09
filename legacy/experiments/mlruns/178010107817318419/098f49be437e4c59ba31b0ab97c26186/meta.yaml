@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/098f49be437e4c59ba31b0ab97c26186/artifacts
+end_time: 1697359044328
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 098f49be437e4c59ba31b0ab97c26186
+run_name: capricious-whale-281
+run_uuid: 098f49be437e4c59ba31b0ab97c26186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359044282
+status: 3
+tags: []
+user_id: houston

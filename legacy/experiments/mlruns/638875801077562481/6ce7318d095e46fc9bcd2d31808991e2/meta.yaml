@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6ce7318d095e46fc9bcd2d31808991e2/artifacts
+end_time: 1701667755422
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6ce7318d095e46fc9bcd2d31808991e2
+run_name: selective-trout-361
+run_uuid: 6ce7318d095e46fc9bcd2d31808991e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667755278
+status: 3
+tags: []
+user_id: houston

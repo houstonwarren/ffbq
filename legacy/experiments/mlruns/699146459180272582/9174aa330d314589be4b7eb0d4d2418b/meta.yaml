@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9174aa330d314589be4b7eb0d4d2418b/artifacts
+end_time: 1698114393866
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9174aa330d314589be4b7eb0d4d2418b
+run_name: funny-doe-566
+run_uuid: 9174aa330d314589be4b7eb0d4d2418b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114393808
+status: 3
+tags: []
+user_id: houston

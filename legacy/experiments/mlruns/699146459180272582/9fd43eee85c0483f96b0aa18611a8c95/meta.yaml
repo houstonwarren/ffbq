@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9fd43eee85c0483f96b0aa18611a8c95/artifacts
+end_time: 1698114564728
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9fd43eee85c0483f96b0aa18611a8c95
+run_name: handsome-snail-550
+run_uuid: 9fd43eee85c0483f96b0aa18611a8c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114564652
+status: 3
+tags: []
+user_id: houston

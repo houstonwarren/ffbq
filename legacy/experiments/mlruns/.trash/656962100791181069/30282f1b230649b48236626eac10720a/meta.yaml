@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/30282f1b230649b48236626eac10720a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664799153
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 30282f1b230649b48236626eac10720a
+run_name: gaudy-foal-778
+run_uuid: 30282f1b230649b48236626eac10720a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664799125
+status: 3
+tags: []
+user_id: houston

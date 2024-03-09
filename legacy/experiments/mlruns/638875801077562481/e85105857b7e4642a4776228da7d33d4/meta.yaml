@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e85105857b7e4642a4776228da7d33d4/artifacts
+end_time: 1701667446432
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e85105857b7e4642a4776228da7d33d4
+run_name: silent-hen-767
+run_uuid: e85105857b7e4642a4776228da7d33d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667446294
+status: 3
+tags: []
+user_id: houston

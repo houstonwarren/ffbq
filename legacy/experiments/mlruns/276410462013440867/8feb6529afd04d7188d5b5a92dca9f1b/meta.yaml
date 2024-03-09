@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/8feb6529afd04d7188d5b5a92dca9f1b/artifacts
+end_time: 1697195622474
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 8feb6529afd04d7188d5b5a92dca9f1b
+run_name: righteous-sow-944
+run_uuid: 8feb6529afd04d7188d5b5a92dca9f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622460
+status: 3
+tags: []
+user_id: houston

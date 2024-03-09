@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fcf43488fe7d44478c51715a3b6dd296/artifacts
+end_time: 1697197835475
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fcf43488fe7d44478c51715a3b6dd296
+run_name: luxuriant-panda-721
+run_uuid: fcf43488fe7d44478c51715a3b6dd296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197835457
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ccef3dc2d7114e6f8c39330d533731f0/artifacts
+end_time: 1697440627440
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ccef3dc2d7114e6f8c39330d533731f0
+run_name: nimble-sponge-117
+run_uuid: ccef3dc2d7114e6f8c39330d533731f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440627390
+status: 3
+tags: []
+user_id: houston

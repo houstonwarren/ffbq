@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/4b38347e6622417e925679ac28faf656/artifacts
+end_time: 1696909043927
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 4b38347e6622417e925679ac28faf656
+run_name: nebulous-vole-413
+run_uuid: 4b38347e6622417e925679ac28faf656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909043917
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/548bf75aeebc4fb69ba213ee2d15fa23/artifacts
+end_time: 1697441533861
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 548bf75aeebc4fb69ba213ee2d15fa23
+run_name: salty-bat-35
+run_uuid: 548bf75aeebc4fb69ba213ee2d15fa23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441533805
+status: 3
+tags: []
+user_id: houston

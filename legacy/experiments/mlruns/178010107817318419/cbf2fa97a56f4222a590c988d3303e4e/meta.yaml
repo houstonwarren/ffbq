@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/cbf2fa97a56f4222a590c988d3303e4e/artifacts
+end_time: 1697359096178
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: cbf2fa97a56f4222a590c988d3303e4e
+run_name: skittish-hen-268
+run_uuid: cbf2fa97a56f4222a590c988d3303e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359096123
+status: 3
+tags: []
+user_id: houston

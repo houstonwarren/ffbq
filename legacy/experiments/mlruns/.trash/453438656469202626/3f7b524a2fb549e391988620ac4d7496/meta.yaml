@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/3f7b524a2fb549e391988620ac4d7496/artifacts
+deleted_time: 1701659398061
+end_time: 1701658636117
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 3f7b524a2fb549e391988620ac4d7496
+run_name: gifted-calf-762
+run_uuid: 3f7b524a2fb549e391988620ac4d7496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658635969
+status: 3
+tags: []
+user_id: houston

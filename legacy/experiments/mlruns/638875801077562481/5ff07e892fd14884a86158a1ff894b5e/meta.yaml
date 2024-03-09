@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5ff07e892fd14884a86158a1ff894b5e/artifacts
+end_time: 1701667748452
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5ff07e892fd14884a86158a1ff894b5e
+run_name: receptive-jay-463
+run_uuid: 5ff07e892fd14884a86158a1ff894b5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667748333
+status: 3
+tags: []
+user_id: houston

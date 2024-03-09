@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/c4b1ab907095427d9a7c5048f3250566/artifacts
+end_time: 1697359041897
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: c4b1ab907095427d9a7c5048f3250566
+run_name: gifted-snail-887
+run_uuid: c4b1ab907095427d9a7c5048f3250566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359041840
+status: 3
+tags: []
+user_id: houston

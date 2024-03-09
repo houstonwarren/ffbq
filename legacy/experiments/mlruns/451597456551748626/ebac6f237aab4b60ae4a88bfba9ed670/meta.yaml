@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ebac6f237aab4b60ae4a88bfba9ed670/artifacts
+end_time: 1701660248430
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ebac6f237aab4b60ae4a88bfba9ed670
+run_name: marvelous-lark-603
+run_uuid: ebac6f237aab4b60ae4a88bfba9ed670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660248358
+status: 3
+tags: []
+user_id: houston

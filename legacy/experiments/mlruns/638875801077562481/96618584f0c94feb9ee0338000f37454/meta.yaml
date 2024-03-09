@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/96618584f0c94feb9ee0338000f37454/artifacts
+end_time: 1701667696381
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 96618584f0c94feb9ee0338000f37454
+run_name: bedecked-sponge-491
+run_uuid: 96618584f0c94feb9ee0338000f37454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667696256
+status: 3
+tags: []
+user_id: houston

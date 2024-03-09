@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c687e9c94b044024ac6f7de57102266b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664784304
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c687e9c94b044024ac6f7de57102266b
+run_name: bustling-rat-944
+run_uuid: c687e9c94b044024ac6f7de57102266b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664784265
+status: 3
+tags: []
+user_id: houston

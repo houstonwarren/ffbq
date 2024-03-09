@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ffc7890896744537aff6e1f378dc641c/artifacts
+end_time: 1697193726470
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ffc7890896744537aff6e1f378dc641c
+run_name: monumental-cod-53
+run_uuid: ffc7890896744537aff6e1f378dc641c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726459
+status: 3
+tags: []
+user_id: houston

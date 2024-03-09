@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/b3119e74029942de8340474189c8237b/artifacts
+end_time: 1697360257003
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: b3119e74029942de8340474189c8237b
+run_name: victorious-deer-864
+run_uuid: b3119e74029942de8340474189c8237b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360256953
+status: 3
+tags: []
+user_id: houston

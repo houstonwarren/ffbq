@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/43d90c16a1a543adb599bf5e9e847694/artifacts
+end_time: 1697359194426
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 43d90c16a1a543adb599bf5e9e847694
+run_name: dapper-auk-518
+run_uuid: 43d90c16a1a543adb599bf5e9e847694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359194370
+status: 3
+tags: []
+user_id: houston

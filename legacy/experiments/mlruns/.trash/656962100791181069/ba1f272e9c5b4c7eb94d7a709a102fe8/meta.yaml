@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ba1f272e9c5b4c7eb94d7a709a102fe8/artifacts
+deleted_time: 1701665274136
+end_time: 1701664631149
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ba1f272e9c5b4c7eb94d7a709a102fe8
+run_name: likeable-snipe-277
+run_uuid: ba1f272e9c5b4c7eb94d7a709a102fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664631129
+status: 3
+tags: []
+user_id: houston

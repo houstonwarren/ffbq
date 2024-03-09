@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4bf4d554ed0c45d59da9fb3d3a6c5b6b/artifacts
+end_time: 1701667916242
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4bf4d554ed0c45d59da9fb3d3a6c5b6b
+run_name: abrasive-cub-363
+run_uuid: 4bf4d554ed0c45d59da9fb3d3a6c5b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667916063
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a651ae14edb640b6b938ddb913d54c18/artifacts
+end_time: 1697195671886
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a651ae14edb640b6b938ddb913d54c18
+run_name: selective-carp-438
+run_uuid: a651ae14edb640b6b938ddb913d54c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195671834
+status: 3
+tags: []
+user_id: houston

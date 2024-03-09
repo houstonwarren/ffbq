@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b932a591b67a40b8a19062cc6f5c2c60/artifacts
+end_time: 1701659414999
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b932a591b67a40b8a19062cc6f5c2c60
+run_name: smiling-koi-460
+run_uuid: b932a591b67a40b8a19062cc6f5c2c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659414844
+status: 3
+tags: []
+user_id: houston

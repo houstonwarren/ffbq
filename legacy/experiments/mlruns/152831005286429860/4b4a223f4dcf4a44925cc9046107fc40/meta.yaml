@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/4b4a223f4dcf4a44925cc9046107fc40/artifacts
+end_time: 1697360352452
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 4b4a223f4dcf4a44925cc9046107fc40
+run_name: zealous-rat-909
+run_uuid: 4b4a223f4dcf4a44925cc9046107fc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360352401
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/53b8276b9e264bc3a01ec12f09d0a68d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664626048
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 53b8276b9e264bc3a01ec12f09d0a68d
+run_name: spiffy-hen-150
+run_uuid: 53b8276b9e264bc3a01ec12f09d0a68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664626024
+status: 3
+tags: []
+user_id: houston

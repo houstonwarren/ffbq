@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4320961f5b9f4e0db2e1a8721a8f61ab/artifacts
+end_time: 1697197800205
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4320961f5b9f4e0db2e1a8721a8f61ab
+run_name: luminous-loon-828
+run_uuid: 4320961f5b9f4e0db2e1a8721a8f61ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197800170
+status: 3
+tags: []
+user_id: houston

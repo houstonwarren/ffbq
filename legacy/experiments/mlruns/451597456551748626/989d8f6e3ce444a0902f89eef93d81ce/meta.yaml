@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/989d8f6e3ce444a0902f89eef93d81ce/artifacts
+end_time: 1701660514649
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 989d8f6e3ce444a0902f89eef93d81ce
+run_name: colorful-fawn-73
+run_uuid: 989d8f6e3ce444a0902f89eef93d81ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660514531
+status: 3
+tags: []
+user_id: houston

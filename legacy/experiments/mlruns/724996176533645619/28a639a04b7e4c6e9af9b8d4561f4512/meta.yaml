@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/28a639a04b7e4c6e9af9b8d4561f4512/artifacts
+end_time: 1697194381100
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 28a639a04b7e4c6e9af9b8d4561f4512
+run_name: upbeat-wolf-603
+run_uuid: 28a639a04b7e4c6e9af9b8d4561f4512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194381081
+status: 3
+tags: []
+user_id: houston

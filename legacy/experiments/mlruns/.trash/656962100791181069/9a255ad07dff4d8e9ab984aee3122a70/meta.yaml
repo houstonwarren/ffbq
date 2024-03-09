@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9a255ad07dff4d8e9ab984aee3122a70/artifacts
+deleted_time: 1701665274136
+end_time: 1701664901000
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9a255ad07dff4d8e9ab984aee3122a70
+run_name: rumbling-fowl-20
+run_uuid: 9a255ad07dff4d8e9ab984aee3122a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664900948
+status: 3
+tags: []
+user_id: houston

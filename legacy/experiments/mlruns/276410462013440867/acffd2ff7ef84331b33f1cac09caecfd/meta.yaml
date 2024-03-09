@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/acffd2ff7ef84331b33f1cac09caecfd/artifacts
+end_time: 1697195539162
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: acffd2ff7ef84331b33f1cac09caecfd
+run_name: carefree-vole-557
+run_uuid: acffd2ff7ef84331b33f1cac09caecfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539150
+status: 3
+tags: []
+user_id: houston

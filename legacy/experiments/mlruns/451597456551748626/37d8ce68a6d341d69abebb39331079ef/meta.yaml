@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/37d8ce68a6d341d69abebb39331079ef/artifacts
+end_time: 1701660354462
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 37d8ce68a6d341d69abebb39331079ef
+run_name: sedate-newt-515
+run_uuid: 37d8ce68a6d341d69abebb39331079ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660354390
+status: 3
+tags: []
+user_id: houston

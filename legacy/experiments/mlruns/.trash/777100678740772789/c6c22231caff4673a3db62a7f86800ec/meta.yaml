@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/c6c22231caff4673a3db62a7f86800ec/artifacts
+deleted_time: 1701660238886
+end_time: 1701660168239
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: c6c22231caff4673a3db62a7f86800ec
+run_name: fortunate-bass-934
+run_uuid: c6c22231caff4673a3db62a7f86800ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660168133
+status: 3
+tags: []
+user_id: houston

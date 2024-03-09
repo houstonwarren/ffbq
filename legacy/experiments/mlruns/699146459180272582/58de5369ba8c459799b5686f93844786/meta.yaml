@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/58de5369ba8c459799b5686f93844786/artifacts
+end_time: 1698113747413
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 58de5369ba8c459799b5686f93844786
+run_name: charming-robin-238
+run_uuid: 58de5369ba8c459799b5686f93844786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113747357
+status: 3
+tags: []
+user_id: houston

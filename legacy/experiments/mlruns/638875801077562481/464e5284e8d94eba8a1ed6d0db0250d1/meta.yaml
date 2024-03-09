@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/464e5284e8d94eba8a1ed6d0db0250d1/artifacts
+end_time: 1701667527987
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 464e5284e8d94eba8a1ed6d0db0250d1
+run_name: nebulous-bee-910
+run_uuid: 464e5284e8d94eba8a1ed6d0db0250d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667527876
+status: 3
+tags: []
+user_id: houston

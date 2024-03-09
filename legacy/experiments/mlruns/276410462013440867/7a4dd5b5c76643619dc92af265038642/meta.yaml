@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7a4dd5b5c76643619dc92af265038642/artifacts
+end_time: 1697198626188
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7a4dd5b5c76643619dc92af265038642
+run_name: capricious-moose-730
+run_uuid: 7a4dd5b5c76643619dc92af265038642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198626165
+status: 3
+tags: []
+user_id: houston

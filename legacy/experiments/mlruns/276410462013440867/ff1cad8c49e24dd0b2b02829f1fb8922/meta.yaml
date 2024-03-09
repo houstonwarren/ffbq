@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ff1cad8c49e24dd0b2b02829f1fb8922/artifacts
+end_time: 1697195710292
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ff1cad8c49e24dd0b2b02829f1fb8922
+run_name: orderly-crane-769
+run_uuid: ff1cad8c49e24dd0b2b02829f1fb8922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710279
+status: 3
+tags: []
+user_id: houston

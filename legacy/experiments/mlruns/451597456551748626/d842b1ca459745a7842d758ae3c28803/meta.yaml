@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d842b1ca459745a7842d758ae3c28803/artifacts
+end_time: 1701660328109
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d842b1ca459745a7842d758ae3c28803
+run_name: selective-conch-763
+run_uuid: d842b1ca459745a7842d758ae3c28803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660328029
+status: 3
+tags: []
+user_id: houston

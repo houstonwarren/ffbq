@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/63a03b5edb894787a6e7d4055a20a6a9/artifacts
+end_time: 1697193995838
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 63a03b5edb894787a6e7d4055a20a6a9
+run_name: traveling-lamb-314
+run_uuid: 63a03b5edb894787a6e7d4055a20a6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995823
+status: 3
+tags: []
+user_id: houston

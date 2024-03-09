@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/19b383058a8f49f5bb2b2a00bbbed134/artifacts
+end_time: 1701667595791
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 19b383058a8f49f5bb2b2a00bbbed134
+run_name: defiant-wolf-289
+run_uuid: 19b383058a8f49f5bb2b2a00bbbed134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667595653
+status: 3
+tags: []
+user_id: houston

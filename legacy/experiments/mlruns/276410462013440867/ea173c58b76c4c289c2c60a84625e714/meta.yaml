@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ea173c58b76c4c289c2c60a84625e714/artifacts
+end_time: 1697197581580
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ea173c58b76c4c289c2c60a84625e714
+run_name: welcoming-shrew-513
+run_uuid: ea173c58b76c4c289c2c60a84625e714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197581563
+status: 3
+tags: []
+user_id: houston

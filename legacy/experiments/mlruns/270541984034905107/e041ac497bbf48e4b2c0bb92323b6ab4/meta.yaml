@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e041ac497bbf48e4b2c0bb92323b6ab4/artifacts
+end_time: 1697440710655
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e041ac497bbf48e4b2c0bb92323b6ab4
+run_name: languid-fawn-656
+run_uuid: e041ac497bbf48e4b2c0bb92323b6ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440710605
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/fb1bfd3043e64d0181f48e5523a66b1c/artifacts
+end_time: 1697360258441
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: fb1bfd3043e64d0181f48e5523a66b1c
+run_name: charming-snail-226
+run_uuid: fb1bfd3043e64d0181f48e5523a66b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360258391
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6c3cd2b914e54cf8acd7fba0551284ac/artifacts
+end_time: 1697359117004
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6c3cd2b914e54cf8acd7fba0551284ac
+run_name: loud-penguin-542
+run_uuid: 6c3cd2b914e54cf8acd7fba0551284ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359116954
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c016810e74354d46a8a80c3e76769381/artifacts
+end_time: 1701660268248
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c016810e74354d46a8a80c3e76769381
+run_name: auspicious-kit-778
+run_uuid: c016810e74354d46a8a80c3e76769381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660268149
+status: 3
+tags: []
+user_id: houston

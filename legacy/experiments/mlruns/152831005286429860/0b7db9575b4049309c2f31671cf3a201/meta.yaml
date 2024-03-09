@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/0b7db9575b4049309c2f31671cf3a201/artifacts
+end_time: 1697360356338
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 0b7db9575b4049309c2f31671cf3a201
+run_name: able-ray-0
+run_uuid: 0b7db9575b4049309c2f31671cf3a201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360356287
+status: 3
+tags: []
+user_id: houston

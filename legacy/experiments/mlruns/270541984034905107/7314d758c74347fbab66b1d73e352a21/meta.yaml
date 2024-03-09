@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7314d758c74347fbab66b1d73e352a21/artifacts
+end_time: 1697440675475
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7314d758c74347fbab66b1d73e352a21
+run_name: exultant-cub-629
+run_uuid: 7314d758c74347fbab66b1d73e352a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440675424
+status: 3
+tags: []
+user_id: houston

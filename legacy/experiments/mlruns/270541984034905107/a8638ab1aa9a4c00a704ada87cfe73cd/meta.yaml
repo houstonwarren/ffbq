@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a8638ab1aa9a4c00a704ada87cfe73cd/artifacts
+end_time: 1697440476511
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a8638ab1aa9a4c00a704ada87cfe73cd
+run_name: unique-grouse-169
+run_uuid: a8638ab1aa9a4c00a704ada87cfe73cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440476464
+status: 3
+tags: []
+user_id: houston

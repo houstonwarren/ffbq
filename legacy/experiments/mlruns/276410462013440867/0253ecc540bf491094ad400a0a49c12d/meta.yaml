@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/0253ecc540bf491094ad400a0a49c12d/artifacts
+end_time: 1697198075040
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 0253ecc540bf491094ad400a0a49c12d
+run_name: melodic-carp-345
+run_uuid: 0253ecc540bf491094ad400a0a49c12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198075019
+status: 3
+tags: []
+user_id: houston

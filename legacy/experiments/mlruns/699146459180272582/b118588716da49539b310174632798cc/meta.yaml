@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b118588716da49539b310174632798cc/artifacts
+end_time: 1698113654726
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b118588716da49539b310174632798cc
+run_name: suave-crow-491
+run_uuid: b118588716da49539b310174632798cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113654671
+status: 3
+tags: []
+user_id: houston

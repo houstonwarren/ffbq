@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fda224266ed2462699a992700586cbcb/artifacts
+end_time: 1701667712383
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fda224266ed2462699a992700586cbcb
+run_name: loud-lynx-55
+run_uuid: fda224266ed2462699a992700586cbcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667712251
+status: 3
+tags: []
+user_id: houston

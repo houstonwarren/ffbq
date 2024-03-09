@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/aa353e353cec4502b572480baccb1f58/artifacts
+end_time: 1698113782892
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: aa353e353cec4502b572480baccb1f58
+run_name: skillful-smelt-910
+run_uuid: aa353e353cec4502b572480baccb1f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782835
+status: 3
+tags: []
+user_id: houston

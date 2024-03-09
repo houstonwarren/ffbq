@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a3702043b135493f9e48bbef5b61c87c/artifacts
+end_time: 1701667424520
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a3702043b135493f9e48bbef5b61c87c
+run_name: bouncy-skink-289
+run_uuid: a3702043b135493f9e48bbef5b61c87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667424378
+status: 3
+tags: []
+user_id: houston

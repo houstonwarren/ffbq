@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/4e68967cd3024be282fd1831b1a828a9/artifacts
+end_time: 1697360309253
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 4e68967cd3024be282fd1831b1a828a9
+run_name: polite-perch-961
+run_uuid: 4e68967cd3024be282fd1831b1a828a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360309201
+status: 3
+tags: []
+user_id: houston

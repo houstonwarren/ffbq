@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d2073059c2764e469b710c71d7d78ea8/artifacts
+end_time: 1701660466121
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d2073059c2764e469b710c71d7d78ea8
+run_name: ambitious-sloth-872
+run_uuid: d2073059c2764e469b710c71d7d78ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660465975
+status: 3
+tags: []
+user_id: houston

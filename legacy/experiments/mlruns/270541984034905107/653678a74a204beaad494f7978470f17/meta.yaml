@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/653678a74a204beaad494f7978470f17/artifacts
+end_time: 1697440773106
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 653678a74a204beaad494f7978470f17
+run_name: incongruous-cow-309
+run_uuid: 653678a74a204beaad494f7978470f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440773048
+status: 3
+tags: []
+user_id: houston

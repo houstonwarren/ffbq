@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/243327c3015e4aba82af8f19b75dc780/artifacts
+end_time: 1697440752584
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 243327c3015e4aba82af8f19b75dc780
+run_name: treasured-shrimp-728
+run_uuid: 243327c3015e4aba82af8f19b75dc780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440752532
+status: 3
+tags: []
+user_id: houston

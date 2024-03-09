@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c06a7911db954ed2b17a710a325eb430/artifacts
+end_time: 1698113852223
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c06a7911db954ed2b17a710a325eb430
+run_name: amusing-fawn-907
+run_uuid: c06a7911db954ed2b17a710a325eb430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113852166
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8dd44bd2074646e49377f7395e5b5464/artifacts
+end_time: 1697442261533
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8dd44bd2074646e49377f7395e5b5464
+run_name: industrious-dog-699
+run_uuid: 8dd44bd2074646e49377f7395e5b5464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442261476
+status: 3
+tags: []
+user_id: houston

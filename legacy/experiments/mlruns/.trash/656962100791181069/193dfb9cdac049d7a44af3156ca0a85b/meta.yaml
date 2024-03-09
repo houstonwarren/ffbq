@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/193dfb9cdac049d7a44af3156ca0a85b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664835194
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 193dfb9cdac049d7a44af3156ca0a85b
+run_name: likeable-moth-462
+run_uuid: 193dfb9cdac049d7a44af3156ca0a85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664835157
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/34285bf41a8c4045a9d41496aa3f7e09/artifacts
+end_time: 1697196017577
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 34285bf41a8c4045a9d41496aa3f7e09
+run_name: dazzling-kit-915
+run_uuid: 34285bf41a8c4045a9d41496aa3f7e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017520
+status: 3
+tags: []
+user_id: houston

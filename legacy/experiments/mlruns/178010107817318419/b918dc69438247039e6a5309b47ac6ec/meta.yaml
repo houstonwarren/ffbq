@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b918dc69438247039e6a5309b47ac6ec/artifacts
+end_time: 1697359054556
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b918dc69438247039e6a5309b47ac6ec
+run_name: intelligent-loon-922
+run_uuid: b918dc69438247039e6a5309b47ac6ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359054510
+status: 3
+tags: []
+user_id: houston

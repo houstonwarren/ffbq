@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/93808730f90848ddab63a0e3c0ee5911/artifacts
+end_time: 1697195571922
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 93808730f90848ddab63a0e3c0ee5911
+run_name: indecisive-hawk-710
+run_uuid: 93808730f90848ddab63a0e3c0ee5911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195571852
+status: 3
+tags: []
+user_id: houston

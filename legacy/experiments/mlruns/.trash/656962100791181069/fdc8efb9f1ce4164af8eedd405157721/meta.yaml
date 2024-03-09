@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/fdc8efb9f1ce4164af8eedd405157721/artifacts
+deleted_time: 1701665274136
+end_time: 1701664819767
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: fdc8efb9f1ce4164af8eedd405157721
+run_name: merciful-trout-377
+run_uuid: fdc8efb9f1ce4164af8eedd405157721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664819740
+status: 3
+tags: []
+user_id: houston

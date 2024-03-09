@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/31bf67dad1014457a67a0dbaace89439/artifacts
+end_time: 1697194851925
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 31bf67dad1014457a67a0dbaace89439
+run_name: bright-conch-731
+run_uuid: 31bf67dad1014457a67a0dbaace89439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194851886
+status: 3
+tags: []
+user_id: houston

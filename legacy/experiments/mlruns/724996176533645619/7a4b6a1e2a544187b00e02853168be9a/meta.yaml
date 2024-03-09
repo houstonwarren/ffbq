@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/7a4b6a1e2a544187b00e02853168be9a/artifacts
+end_time: 1697194964385
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 7a4b6a1e2a544187b00e02853168be9a
+run_name: skittish-pug-711
+run_uuid: 7a4b6a1e2a544187b00e02853168be9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194964344
+status: 3
+tags: []
+user_id: houston

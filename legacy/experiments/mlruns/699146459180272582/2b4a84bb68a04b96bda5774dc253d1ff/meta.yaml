@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/2b4a84bb68a04b96bda5774dc253d1ff/artifacts
+end_time: 1698114036401
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 2b4a84bb68a04b96bda5774dc253d1ff
+run_name: sassy-hound-487
+run_uuid: 2b4a84bb68a04b96bda5774dc253d1ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114036343
+status: 3
+tags: []
+user_id: houston

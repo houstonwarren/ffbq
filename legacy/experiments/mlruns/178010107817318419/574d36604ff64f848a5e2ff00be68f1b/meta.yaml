@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/574d36604ff64f848a5e2ff00be68f1b/artifacts
+end_time: 1697359072625
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 574d36604ff64f848a5e2ff00be68f1b
+run_name: wistful-finch-221
+run_uuid: 574d36604ff64f848a5e2ff00be68f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359072577
+status: 3
+tags: []
+user_id: houston

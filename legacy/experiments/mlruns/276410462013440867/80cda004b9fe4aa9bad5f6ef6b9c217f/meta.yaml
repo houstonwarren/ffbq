@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/80cda004b9fe4aa9bad5f6ef6b9c217f/artifacts
+end_time: 1697198040540
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 80cda004b9fe4aa9bad5f6ef6b9c217f
+run_name: learned-stork-679
+run_uuid: 80cda004b9fe4aa9bad5f6ef6b9c217f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198040520
+status: 3
+tags: []
+user_id: houston

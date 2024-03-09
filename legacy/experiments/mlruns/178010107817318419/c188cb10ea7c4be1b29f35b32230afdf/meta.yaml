@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/c188cb10ea7c4be1b29f35b32230afdf/artifacts
+end_time: 1697359124916
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: c188cb10ea7c4be1b29f35b32230afdf
+run_name: abundant-stork-57
+run_uuid: c188cb10ea7c4be1b29f35b32230afdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359124863
+status: 3
+tags: []
+user_id: houston

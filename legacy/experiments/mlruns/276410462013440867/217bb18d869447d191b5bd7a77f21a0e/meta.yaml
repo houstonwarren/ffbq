@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/217bb18d869447d191b5bd7a77f21a0e/artifacts
+end_time: 1697195572291
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 217bb18d869447d191b5bd7a77f21a0e
+run_name: bittersweet-duck-836
+run_uuid: 217bb18d869447d191b5bd7a77f21a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195572279
+status: 3
+tags: []
+user_id: houston

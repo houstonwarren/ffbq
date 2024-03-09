@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/05cc07788c5440dd852301077bfe321f/artifacts
+end_time: 1697440444731
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 05cc07788c5440dd852301077bfe321f
+run_name: sincere-fawn-435
+run_uuid: 05cc07788c5440dd852301077bfe321f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444685
+status: 3
+tags: []
+user_id: houston

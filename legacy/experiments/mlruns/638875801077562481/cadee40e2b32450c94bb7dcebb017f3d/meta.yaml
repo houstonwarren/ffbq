@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cadee40e2b32450c94bb7dcebb017f3d/artifacts
+end_time: 1701667386271
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cadee40e2b32450c94bb7dcebb017f3d
+run_name: colorful-crow-184
+run_uuid: cadee40e2b32450c94bb7dcebb017f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667386164
+status: 3
+tags: []
+user_id: houston

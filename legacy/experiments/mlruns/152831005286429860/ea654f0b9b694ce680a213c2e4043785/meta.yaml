@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/ea654f0b9b694ce680a213c2e4043785/artifacts
+end_time: 1697360288261
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: ea654f0b9b694ce680a213c2e4043785
+run_name: grandiose-yak-582
+run_uuid: ea654f0b9b694ce680a213c2e4043785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360288211
+status: 3
+tags: []
+user_id: houston

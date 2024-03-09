@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c7ef9eef9bb24aefaf3ee92101702f7b/artifacts
+end_time: 1701667894751
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c7ef9eef9bb24aefaf3ee92101702f7b
+run_name: industrious-snail-73
+run_uuid: c7ef9eef9bb24aefaf3ee92101702f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667894522
+status: 3
+tags: []
+user_id: houston

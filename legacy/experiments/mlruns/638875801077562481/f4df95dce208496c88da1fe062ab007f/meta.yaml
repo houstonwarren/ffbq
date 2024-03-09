@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f4df95dce208496c88da1fe062ab007f/artifacts
+end_time: 1701667677858
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f4df95dce208496c88da1fe062ab007f
+run_name: redolent-carp-690
+run_uuid: f4df95dce208496c88da1fe062ab007f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667677731
+status: 3
+tags: []
+user_id: houston

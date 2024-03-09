@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4000ffa983e542f2b7c70d6dcf494dbd/artifacts
+end_time: 1701660362628
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4000ffa983e542f2b7c70d6dcf494dbd
+run_name: mysterious-dove-508
+run_uuid: 4000ffa983e542f2b7c70d6dcf494dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660362567
+status: 3
+tags: []
+user_id: houston

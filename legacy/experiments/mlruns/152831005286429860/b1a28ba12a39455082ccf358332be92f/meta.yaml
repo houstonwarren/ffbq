@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/b1a28ba12a39455082ccf358332be92f/artifacts
+end_time: 1697360321671
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: b1a28ba12a39455082ccf358332be92f
+run_name: mysterious-flea-188
+run_uuid: b1a28ba12a39455082ccf358332be92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360321619
+status: 3
+tags: []
+user_id: houston

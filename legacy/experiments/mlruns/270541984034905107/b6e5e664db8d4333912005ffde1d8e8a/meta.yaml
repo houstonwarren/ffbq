@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b6e5e664db8d4333912005ffde1d8e8a/artifacts
+end_time: 1697440444677
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b6e5e664db8d4333912005ffde1d8e8a
+run_name: carefree-crow-8
+run_uuid: b6e5e664db8d4333912005ffde1d8e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444631
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/1310593b1a2742c994ab09d78ac9cdfc/artifacts
+end_time: 1697440773417
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 1310593b1a2742c994ab09d78ac9cdfc
+run_name: sneaky-grub-473
+run_uuid: 1310593b1a2742c994ab09d78ac9cdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440773364
+status: 3
+tags: []
+user_id: houston

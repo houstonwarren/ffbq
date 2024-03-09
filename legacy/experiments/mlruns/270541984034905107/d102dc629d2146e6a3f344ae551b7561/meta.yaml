@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d102dc629d2146e6a3f344ae551b7561/artifacts
+end_time: 1697440604248
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d102dc629d2146e6a3f344ae551b7561
+run_name: glamorous-loon-234
+run_uuid: d102dc629d2146e6a3f344ae551b7561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440604199
+status: 3
+tags: []
+user_id: houston

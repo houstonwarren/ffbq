@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/ce696cb80b564df49f6d299bc1af6d21/artifacts
+end_time: 1697360278843
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: ce696cb80b564df49f6d299bc1af6d21
+run_name: melodic-mink-564
+run_uuid: ce696cb80b564df49f6d299bc1af6d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360278793
+status: 3
+tags: []
+user_id: houston

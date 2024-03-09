@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/af2f8ea76f1140ef8fa6577de0749b2c/artifacts
+end_time: 1697359195294
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: af2f8ea76f1140ef8fa6577de0749b2c
+run_name: merciful-fox-616
+run_uuid: af2f8ea76f1140ef8fa6577de0749b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359195238
+status: 3
+tags: []
+user_id: houston

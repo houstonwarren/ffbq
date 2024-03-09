@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d61352b7213d43f6a9b2e4335009932c/artifacts
+end_time: 1701659564254
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d61352b7213d43f6a9b2e4335009932c
+run_name: bustling-fowl-933
+run_uuid: d61352b7213d43f6a9b2e4335009932c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659564112
+status: 3
+tags: []
+user_id: houston

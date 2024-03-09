@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/0ac5c896813841668988eee63670f6ca/artifacts
+end_time: 1697195671663
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 0ac5c896813841668988eee63670f6ca
+run_name: respected-ape-205
+run_uuid: 0ac5c896813841668988eee63670f6ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195671641
+status: 3
+tags: []
+user_id: houston

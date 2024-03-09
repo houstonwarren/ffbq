@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/eab5f130987a4ba6b3db8b2d2a3a52a4/artifacts
+end_time: 1697198287399
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: eab5f130987a4ba6b3db8b2d2a3a52a4
+run_name: rebellious-mouse-679
+run_uuid: eab5f130987a4ba6b3db8b2d2a3a52a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198287378
+status: 3
+tags: []
+user_id: houston

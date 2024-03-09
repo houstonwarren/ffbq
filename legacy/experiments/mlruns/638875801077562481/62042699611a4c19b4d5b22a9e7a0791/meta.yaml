@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/62042699611a4c19b4d5b22a9e7a0791/artifacts
+end_time: 1701667471942
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 62042699611a4c19b4d5b22a9e7a0791
+run_name: big-robin-654
+run_uuid: 62042699611a4c19b4d5b22a9e7a0791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667471857
+status: 3
+tags: []
+user_id: houston

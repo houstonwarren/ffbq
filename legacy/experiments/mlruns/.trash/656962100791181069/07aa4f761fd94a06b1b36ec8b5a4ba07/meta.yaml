@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/07aa4f761fd94a06b1b36ec8b5a4ba07/artifacts
+deleted_time: 1701665274136
+end_time: 1701664904868
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 07aa4f761fd94a06b1b36ec8b5a4ba07
+run_name: wise-skink-907
+run_uuid: 07aa4f761fd94a06b1b36ec8b5a4ba07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664904819
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/182c72a3b27f4811adb6d83bed19dc60/artifacts
+end_time: 1698113729953
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 182c72a3b27f4811adb6d83bed19dc60
+run_name: traveling-midge-912
+run_uuid: 182c72a3b27f4811adb6d83bed19dc60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113729896
+status: 3
+tags: []
+user_id: houston

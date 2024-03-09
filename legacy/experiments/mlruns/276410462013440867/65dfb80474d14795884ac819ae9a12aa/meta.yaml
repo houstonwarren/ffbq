@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/65dfb80474d14795884ac819ae9a12aa/artifacts
+end_time: 1697195825647
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 65dfb80474d14795884ac819ae9a12aa
+run_name: funny-horse-705
+run_uuid: 65dfb80474d14795884ac819ae9a12aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825633
+status: 3
+tags: []
+user_id: houston

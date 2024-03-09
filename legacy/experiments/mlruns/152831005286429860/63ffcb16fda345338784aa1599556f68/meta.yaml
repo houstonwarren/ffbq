@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/63ffcb16fda345338784aa1599556f68/artifacts
+end_time: 1697360391261
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 63ffcb16fda345338784aa1599556f68
+run_name: welcoming-newt-265
+run_uuid: 63ffcb16fda345338784aa1599556f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360391204
+status: 3
+tags: []
+user_id: houston

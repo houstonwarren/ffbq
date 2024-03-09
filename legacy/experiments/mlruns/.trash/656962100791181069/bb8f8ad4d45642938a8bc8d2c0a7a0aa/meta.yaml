@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bb8f8ad4d45642938a8bc8d2c0a7a0aa/artifacts
+deleted_time: 1701665274136
+end_time: 1701664821788
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bb8f8ad4d45642938a8bc8d2c0a7a0aa
+run_name: omniscient-hare-480
+run_uuid: bb8f8ad4d45642938a8bc8d2c0a7a0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664821749
+status: 3
+tags: []
+user_id: houston

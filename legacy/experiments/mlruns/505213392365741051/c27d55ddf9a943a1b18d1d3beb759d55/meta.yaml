@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/c27d55ddf9a943a1b18d1d3beb759d55/artifacts
+end_time: 1701659532736
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: c27d55ddf9a943a1b18d1d3beb759d55
+run_name: shivering-hen-962
+run_uuid: c27d55ddf9a943a1b18d1d3beb759d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659532600
+status: 3
+tags: []
+user_id: houston

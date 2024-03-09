@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a2f5800328884431bd45cb626976eb37/artifacts
+end_time: 1697196887646
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a2f5800328884431bd45cb626976eb37
+run_name: masked-foal-518
+run_uuid: a2f5800328884431bd45cb626976eb37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887630
+status: 3
+tags: []
+user_id: houston

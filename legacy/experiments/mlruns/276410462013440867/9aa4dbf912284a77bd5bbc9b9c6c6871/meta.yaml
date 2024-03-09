@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9aa4dbf912284a77bd5bbc9b9c6c6871/artifacts
+end_time: 1697196373276
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9aa4dbf912284a77bd5bbc9b9c6c6871
+run_name: capricious-rook-470
+run_uuid: 9aa4dbf912284a77bd5bbc9b9c6c6871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196373260
+status: 3
+tags: []
+user_id: houston

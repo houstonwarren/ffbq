@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ca4b51bc024945298a421ae575da6111/artifacts
+end_time: 1698113600071
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ca4b51bc024945298a421ae575da6111
+run_name: smiling-steed-351
+run_uuid: ca4b51bc024945298a421ae575da6111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113600017
+status: 3
+tags: []
+user_id: houston

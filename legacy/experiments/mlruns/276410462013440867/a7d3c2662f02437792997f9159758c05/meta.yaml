@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a7d3c2662f02437792997f9159758c05/artifacts
+end_time: 1697198006628
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a7d3c2662f02437792997f9159758c05
+run_name: aged-sponge-343
+run_uuid: a7d3c2662f02437792997f9159758c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006608
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/316a1c7cc4de4967804eb5806dd43218/artifacts
+end_time: 1701660320135
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 316a1c7cc4de4967804eb5806dd43218
+run_name: incongruous-owl-243
+run_uuid: 316a1c7cc4de4967804eb5806dd43218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660320070
+status: 3
+tags: []
+user_id: houston

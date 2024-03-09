@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/4173fe653cbe405395dc496b95d68ddc/artifacts
+end_time: 1697359053729
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 4173fe653cbe405395dc496b95d68ddc
+run_name: abrasive-foal-105
+run_uuid: 4173fe653cbe405395dc496b95d68ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359053681
+status: 3
+tags: []
+user_id: houston

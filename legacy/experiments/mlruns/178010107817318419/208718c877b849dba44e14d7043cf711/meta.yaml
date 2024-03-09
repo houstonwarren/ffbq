@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/208718c877b849dba44e14d7043cf711/artifacts
+end_time: 1697359064835
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 208718c877b849dba44e14d7043cf711
+run_name: big-gull-327
+run_uuid: 208718c877b849dba44e14d7043cf711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359064789
+status: 3
+tags: []
+user_id: houston

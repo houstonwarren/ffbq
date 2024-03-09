@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d99235a78fe34340a7c9f9e5280bd971/artifacts
+end_time: 1701667494781
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d99235a78fe34340a7c9f9e5280bd971
+run_name: thoughtful-stag-665
+run_uuid: d99235a78fe34340a7c9f9e5280bd971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667494669
+status: 3
+tags: []
+user_id: houston

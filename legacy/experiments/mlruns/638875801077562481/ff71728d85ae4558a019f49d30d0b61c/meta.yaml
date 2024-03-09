@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ff71728d85ae4558a019f49d30d0b61c/artifacts
+end_time: 1701667867765
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ff71728d85ae4558a019f49d30d0b61c
+run_name: resilient-wolf-588
+run_uuid: ff71728d85ae4558a019f49d30d0b61c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667867613
+status: 3
+tags: []
+user_id: houston

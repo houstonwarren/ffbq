@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b007b5ee3a1b4f438db3aa2e25b27ec5/artifacts
+end_time: 1697359114640
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b007b5ee3a1b4f438db3aa2e25b27ec5
+run_name: traveling-owl-709
+run_uuid: b007b5ee3a1b4f438db3aa2e25b27ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359114590
+status: 3
+tags: []
+user_id: houston

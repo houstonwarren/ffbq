@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/5058fe437daf4ff9bab3da1d8be04356/artifacts
+deleted_time: 1701665274136
+end_time: 1701664827230
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 5058fe437daf4ff9bab3da1d8be04356
+run_name: respected-fawn-857
+run_uuid: 5058fe437daf4ff9bab3da1d8be04356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664827181
+status: 3
+tags: []
+user_id: houston

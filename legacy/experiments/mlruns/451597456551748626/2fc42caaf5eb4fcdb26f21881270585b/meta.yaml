@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2fc42caaf5eb4fcdb26f21881270585b/artifacts
+end_time: 1701660309885
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2fc42caaf5eb4fcdb26f21881270585b
+run_name: whimsical-boar-581
+run_uuid: 2fc42caaf5eb4fcdb26f21881270585b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660309795
+status: 3
+tags: []
+user_id: houston

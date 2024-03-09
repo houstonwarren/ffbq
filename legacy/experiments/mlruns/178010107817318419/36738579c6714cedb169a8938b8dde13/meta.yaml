@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/36738579c6714cedb169a8938b8dde13/artifacts
+end_time: 1697359036615
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 36738579c6714cedb169a8938b8dde13
+run_name: rare-worm-510
+run_uuid: 36738579c6714cedb169a8938b8dde13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359036559
+status: 3
+tags: []
+user_id: houston

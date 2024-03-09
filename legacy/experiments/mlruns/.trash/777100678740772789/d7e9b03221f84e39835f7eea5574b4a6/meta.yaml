@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/d7e9b03221f84e39835f7eea5574b4a6/artifacts
+deleted_time: 1701660238886
+end_time: 1701660178650
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: d7e9b03221f84e39835f7eea5574b4a6
+run_name: nervous-mole-243
+run_uuid: d7e9b03221f84e39835f7eea5574b4a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660178484
+status: 3
+tags: []
+user_id: houston

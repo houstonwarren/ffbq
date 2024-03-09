@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b8f8b293210744629733bf0865c58d39/artifacts
+end_time: 1697359095310
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b8f8b293210744629733bf0865c58d39
+run_name: intrigued-grub-687
+run_uuid: b8f8b293210744629733bf0865c58d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359095258
+status: 3
+tags: []
+user_id: houston

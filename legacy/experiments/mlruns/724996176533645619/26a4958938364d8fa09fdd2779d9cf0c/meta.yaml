@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/26a4958938364d8fa09fdd2779d9cf0c/artifacts
+end_time: 1697194964538
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 26a4958938364d8fa09fdd2779d9cf0c
+run_name: peaceful-auk-732
+run_uuid: 26a4958938364d8fa09fdd2779d9cf0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194964517
+status: 3
+tags: []
+user_id: houston

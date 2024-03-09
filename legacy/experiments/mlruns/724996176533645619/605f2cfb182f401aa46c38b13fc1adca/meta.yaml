@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/605f2cfb182f401aa46c38b13fc1adca/artifacts
+end_time: 1697194073551
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 605f2cfb182f401aa46c38b13fc1adca
+run_name: upbeat-moth-878
+run_uuid: 605f2cfb182f401aa46c38b13fc1adca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194073533
+status: 3
+tags: []
+user_id: houston

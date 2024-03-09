@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f2f166d573a941bd88a994541b74b77f/artifacts
+end_time: 1697196200353
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f2f166d573a941bd88a994541b74b77f
+run_name: dashing-penguin-239
+run_uuid: f2f166d573a941bd88a994541b74b77f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200338
+status: 3
+tags: []
+user_id: houston

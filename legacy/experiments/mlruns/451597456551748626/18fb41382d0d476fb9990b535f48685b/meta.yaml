@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/18fb41382d0d476fb9990b535f48685b/artifacts
+end_time: 1701660439422
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 18fb41382d0d476fb9990b535f48685b
+run_name: unruly-rat-139
+run_uuid: 18fb41382d0d476fb9990b535f48685b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660439312
+status: 3
+tags: []
+user_id: houston

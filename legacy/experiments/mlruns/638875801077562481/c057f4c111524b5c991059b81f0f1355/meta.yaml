@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c057f4c111524b5c991059b81f0f1355/artifacts
+end_time: 1701667362705
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c057f4c111524b5c991059b81f0f1355
+run_name: bittersweet-dog-535
+run_uuid: c057f4c111524b5c991059b81f0f1355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667362619
+status: 3
+tags: []
+user_id: houston

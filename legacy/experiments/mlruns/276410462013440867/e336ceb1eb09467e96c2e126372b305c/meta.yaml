@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e336ceb1eb09467e96c2e126372b305c/artifacts
+end_time: 1697197972761
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e336ceb1eb09467e96c2e126372b305c
+run_name: gentle-snake-159
+run_uuid: e336ceb1eb09467e96c2e126372b305c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197972742
+status: 3
+tags: []
+user_id: houston

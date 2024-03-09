@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/da2e23c5629843ee8c70d9e4b910cbfc/artifacts
+end_time: 1701667891475
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: da2e23c5629843ee8c70d9e4b910cbfc
+run_name: likeable-shark-529
+run_uuid: da2e23c5629843ee8c70d9e4b910cbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667891302
+status: 3
+tags: []
+user_id: houston

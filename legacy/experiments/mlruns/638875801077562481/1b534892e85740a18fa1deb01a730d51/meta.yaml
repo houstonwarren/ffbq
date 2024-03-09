@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1b534892e85740a18fa1deb01a730d51/artifacts
+end_time: 1701667567465
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1b534892e85740a18fa1deb01a730d51
+run_name: bright-rook-377
+run_uuid: 1b534892e85740a18fa1deb01a730d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667567351
+status: 3
+tags: []
+user_id: houston

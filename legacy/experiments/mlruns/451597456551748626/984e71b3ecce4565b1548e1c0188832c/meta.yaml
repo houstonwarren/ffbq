@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/984e71b3ecce4565b1548e1c0188832c/artifacts
+end_time: 1701660305086
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 984e71b3ecce4565b1548e1c0188832c
+run_name: skittish-shrew-948
+run_uuid: 984e71b3ecce4565b1548e1c0188832c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660305017
+status: 3
+tags: []
+user_id: houston

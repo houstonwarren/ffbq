@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/75468f8aecd8460abb58f8f6089bfbe7/artifacts
+deleted_time: 1701665274136
+end_time: 1701664770684
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 75468f8aecd8460abb58f8f6089bfbe7
+run_name: silent-calf-739
+run_uuid: 75468f8aecd8460abb58f8f6089bfbe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664770664
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/7ad08e6f014a462caf1c694908b1e737/artifacts
+end_time: 1701660439583
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 7ad08e6f014a462caf1c694908b1e737
+run_name: abrasive-steed-819
+run_uuid: 7ad08e6f014a462caf1c694908b1e737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660439467
+status: 3
+tags: []
+user_id: houston

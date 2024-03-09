@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/8a99b856af544aebb3815ff77770b766/artifacts
+end_time: 1697360382178
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 8a99b856af544aebb3815ff77770b766
+run_name: tasteful-mink-32
+run_uuid: 8a99b856af544aebb3815ff77770b766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360382123
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f30c0894278e4c6a84972adedf0bf09f/artifacts
+end_time: 1697193726317
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f30c0894278e4c6a84972adedf0bf09f
+run_name: delicate-frog-269
+run_uuid: f30c0894278e4c6a84972adedf0bf09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726303
+status: 3
+tags: []
+user_id: houston

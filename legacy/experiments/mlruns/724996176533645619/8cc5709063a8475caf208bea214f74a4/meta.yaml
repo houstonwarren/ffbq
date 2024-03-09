@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8cc5709063a8475caf208bea214f74a4/artifacts
+end_time: 1697193886576
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8cc5709063a8475caf208bea214f74a4
+run_name: debonair-snipe-757
+run_uuid: 8cc5709063a8475caf208bea214f74a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193886554
+status: 3
+tags: []
+user_id: houston

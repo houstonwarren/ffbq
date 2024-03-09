@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/5f56321a407c43659535463be8a8bc35/artifacts
+deleted_time: 1701667207383
+end_time: 1701665294486
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: 5f56321a407c43659535463be8a8bc35
+run_name: tasteful-toad-170
+run_uuid: 5f56321a407c43659535463be8a8bc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665294467
+status: 3
+tags: []
+user_id: houston

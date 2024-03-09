@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/3ada356f779c460787cb2f658d0981f7/artifacts
+end_time: 1698114719953
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 3ada356f779c460787cb2f658d0981f7
+run_name: able-cod-31
+run_uuid: 3ada356f779c460787cb2f658d0981f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114719892
+status: 3
+tags: []
+user_id: houston

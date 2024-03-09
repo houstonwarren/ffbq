@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7c3383e65b0c475fa6c61cc310f7ecc0/artifacts
+end_time: 1697198230872
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7c3383e65b0c475fa6c61cc310f7ecc0
+run_name: casual-moth-25
+run_uuid: 7c3383e65b0c475fa6c61cc310f7ecc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198230850
+status: 3
+tags: []
+user_id: houston

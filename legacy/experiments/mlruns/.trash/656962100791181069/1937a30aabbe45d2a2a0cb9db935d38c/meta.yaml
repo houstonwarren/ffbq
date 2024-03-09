@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1937a30aabbe45d2a2a0cb9db935d38c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664659444
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1937a30aabbe45d2a2a0cb9db935d38c
+run_name: clumsy-mule-786
+run_uuid: 1937a30aabbe45d2a2a0cb9db935d38c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664659413
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b7cd487362e642d1973d709907ee7ad8/artifacts
+end_time: 1698113586097
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b7cd487362e642d1973d709907ee7ad8
+run_name: suave-crab-623
+run_uuid: b7cd487362e642d1973d709907ee7ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113586043
+status: 3
+tags: []
+user_id: houston

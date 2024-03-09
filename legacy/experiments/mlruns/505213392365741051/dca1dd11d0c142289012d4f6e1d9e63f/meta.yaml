@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/dca1dd11d0c142289012d4f6e1d9e63f/artifacts
+end_time: 1701659595355
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: dca1dd11d0c142289012d4f6e1d9e63f
+run_name: judicious-duck-67
+run_uuid: dca1dd11d0c142289012d4f6e1d9e63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659595216
+status: 3
+tags: []
+user_id: houston

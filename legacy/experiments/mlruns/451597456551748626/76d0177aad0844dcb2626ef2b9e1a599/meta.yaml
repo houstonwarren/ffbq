@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/76d0177aad0844dcb2626ef2b9e1a599/artifacts
+end_time: 1701660494574
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 76d0177aad0844dcb2626ef2b9e1a599
+run_name: stylish-smelt-76
+run_uuid: 76d0177aad0844dcb2626ef2b9e1a599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660494461
+status: 3
+tags: []
+user_id: houston

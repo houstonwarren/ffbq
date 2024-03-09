@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7f5a79b46d314a0cbeac35196f24ed5b/artifacts
+end_time: 1697195588924
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7f5a79b46d314a0cbeac35196f24ed5b
+run_name: bouncy-mink-332
+run_uuid: 7f5a79b46d314a0cbeac35196f24ed5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195588911
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f5e7a0ce3d8b425db3f82a17f837312b/artifacts
+end_time: 1697194241552
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f5e7a0ce3d8b425db3f82a17f837312b
+run_name: thoughtful-moose-291
+run_uuid: f5e7a0ce3d8b425db3f82a17f837312b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241533
+status: 3
+tags: []
+user_id: houston

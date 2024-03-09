@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f2dddddc15cb422187fdfce7e40ccdc4/artifacts
+deleted_time: 1701665274136
+end_time: 1701664686030
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f2dddddc15cb422187fdfce7e40ccdc4
+run_name: youthful-smelt-234
+run_uuid: f2dddddc15cb422187fdfce7e40ccdc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664686002
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/82cb7302e0204fbfb0ffa1c4854923da/artifacts
+end_time: 1697440814157
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 82cb7302e0204fbfb0ffa1c4854923da
+run_name: shivering-hare-940
+run_uuid: 82cb7302e0204fbfb0ffa1c4854923da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440814104
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c563525a770a4a2bbf44ad8d3cce70f7/artifacts
+end_time: 1701667544818
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c563525a770a4a2bbf44ad8d3cce70f7
+run_name: hilarious-bug-96
+run_uuid: c563525a770a4a2bbf44ad8d3cce70f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667544693
+status: 3
+tags: []
+user_id: houston

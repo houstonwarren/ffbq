@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/0474530d2f60422b945b0f697d090e2e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664747109
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 0474530d2f60422b945b0f697d090e2e
+run_name: receptive-mink-979
+run_uuid: 0474530d2f60422b945b0f697d090e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664747081
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/4b1345c4bfb040ac937bca9ef8bc7196/artifacts
+end_time: 1696909205548
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 4b1345c4bfb040ac937bca9ef8bc7196
+run_name: upset-fawn-807
+run_uuid: 4b1345c4bfb040ac937bca9ef8bc7196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909205539
+status: 3
+tags: []
+user_id: houston

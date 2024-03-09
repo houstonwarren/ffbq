@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/272b061e442f475ba37f7e4b58532770/artifacts
+end_time: 1701659429659
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 272b061e442f475ba37f7e4b58532770
+run_name: polite-hawk-923
+run_uuid: 272b061e442f475ba37f7e4b58532770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659429524
+status: 3
+tags: []
+user_id: houston

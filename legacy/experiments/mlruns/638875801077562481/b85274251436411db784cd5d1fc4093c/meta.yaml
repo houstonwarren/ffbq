@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b85274251436411db784cd5d1fc4093c/artifacts
+end_time: 1701667645787
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b85274251436411db784cd5d1fc4093c
+run_name: powerful-mole-265
+run_uuid: b85274251436411db784cd5d1fc4093c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667645650
+status: 3
+tags: []
+user_id: houston

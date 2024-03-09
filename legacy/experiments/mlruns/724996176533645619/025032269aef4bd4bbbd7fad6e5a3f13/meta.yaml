@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/025032269aef4bd4bbbd7fad6e5a3f13/artifacts
+end_time: 1697193676624
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 025032269aef4bd4bbbd7fad6e5a3f13
+run_name: unleashed-mouse-980
+run_uuid: 025032269aef4bd4bbbd7fad6e5a3f13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193676613
+status: 3
+tags: []
+user_id: houston

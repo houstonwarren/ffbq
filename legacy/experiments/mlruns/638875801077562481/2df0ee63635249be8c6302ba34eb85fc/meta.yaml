@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2df0ee63635249be8c6302ba34eb85fc/artifacts
+end_time: 1701667696203
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2df0ee63635249be8c6302ba34eb85fc
+run_name: abundant-sheep-940
+run_uuid: 2df0ee63635249be8c6302ba34eb85fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667696066
+status: 3
+tags: []
+user_id: houston

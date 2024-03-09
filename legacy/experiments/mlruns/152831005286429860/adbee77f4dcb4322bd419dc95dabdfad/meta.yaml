@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/adbee77f4dcb4322bd419dc95dabdfad/artifacts
+end_time: 1697360302556
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: adbee77f4dcb4322bd419dc95dabdfad
+run_name: overjoyed-sheep-36
+run_uuid: adbee77f4dcb4322bd419dc95dabdfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360302506
+status: 3
+tags: []
+user_id: houston

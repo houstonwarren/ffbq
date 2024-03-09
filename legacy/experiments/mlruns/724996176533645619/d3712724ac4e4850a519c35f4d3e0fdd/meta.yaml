@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d3712724ac4e4850a519c35f4d3e0fdd/artifacts
+end_time: 1697193742960
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d3712724ac4e4850a519c35f4d3e0fdd
+run_name: luxuriant-bird-581
+run_uuid: d3712724ac4e4850a519c35f4d3e0fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193742948
+status: 3
+tags: []
+user_id: houston

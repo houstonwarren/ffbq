@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bab5598159904f9381925653b98185a3/artifacts
+end_time: 1698113627110
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bab5598159904f9381925653b98185a3
+run_name: clean-crab-57
+run_uuid: bab5598159904f9381925653b98185a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113627052
+status: 3
+tags: []
+user_id: houston

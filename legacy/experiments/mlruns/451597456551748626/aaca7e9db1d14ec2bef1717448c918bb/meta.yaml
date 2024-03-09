@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/aaca7e9db1d14ec2bef1717448c918bb/artifacts
+end_time: 1701660501931
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: aaca7e9db1d14ec2bef1717448c918bb
+run_name: casual-fowl-181
+run_uuid: aaca7e9db1d14ec2bef1717448c918bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660501817
+status: 3
+tags: []
+user_id: houston

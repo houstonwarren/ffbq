@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b4679184324a481abc38ed2c53eb3f52/artifacts
+end_time: 1697195672345
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b4679184324a481abc38ed2c53eb3f52
+run_name: rebellious-auk-738
+run_uuid: b4679184324a481abc38ed2c53eb3f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195672333
+status: 3
+tags: []
+user_id: houston

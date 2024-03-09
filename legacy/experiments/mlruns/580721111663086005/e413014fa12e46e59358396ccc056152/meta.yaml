@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/e413014fa12e46e59358396ccc056152/artifacts
+end_time: 1701660056238
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: e413014fa12e46e59358396ccc056152
+run_name: amusing-perch-845
+run_uuid: e413014fa12e46e59358396ccc056152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660056120
+status: 3
+tags: []
+user_id: houston

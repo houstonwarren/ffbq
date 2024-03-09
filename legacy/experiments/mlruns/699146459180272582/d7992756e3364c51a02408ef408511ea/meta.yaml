@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d7992756e3364c51a02408ef408511ea/artifacts
+end_time: 1698113446220
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d7992756e3364c51a02408ef408511ea
+run_name: grandiose-rat-269
+run_uuid: d7992756e3364c51a02408ef408511ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113446169
+status: 3
+tags: []
+user_id: houston

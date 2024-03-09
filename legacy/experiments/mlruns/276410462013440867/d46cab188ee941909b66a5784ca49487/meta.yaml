@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d46cab188ee941909b66a5784ca49487/artifacts
+end_time: 1697198040566
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d46cab188ee941909b66a5784ca49487
+run_name: smiling-cat-210
+run_uuid: d46cab188ee941909b66a5784ca49487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198040545
+status: 3
+tags: []
+user_id: houston

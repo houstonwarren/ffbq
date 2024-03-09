@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8e4cc57bb7d64deebd4d13989b5ea10b/artifacts
+end_time: 1697441177239
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8e4cc57bb7d64deebd4d13989b5ea10b
+run_name: redolent-finch-57
+run_uuid: 8e4cc57bb7d64deebd4d13989b5ea10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441177118
+status: 3
+tags: []
+user_id: houston

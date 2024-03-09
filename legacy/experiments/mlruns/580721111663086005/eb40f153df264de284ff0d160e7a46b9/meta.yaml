@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/eb40f153df264de284ff0d160e7a46b9/artifacts
+end_time: 1701660027562
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: eb40f153df264de284ff0d160e7a46b9
+run_name: powerful-loon-828
+run_uuid: eb40f153df264de284ff0d160e7a46b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660027389
+status: 3
+tags: []
+user_id: houston

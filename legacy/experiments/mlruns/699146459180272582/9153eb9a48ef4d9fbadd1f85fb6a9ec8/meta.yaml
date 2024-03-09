@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9153eb9a48ef4d9fbadd1f85fb6a9ec8/artifacts
+end_time: 1698113495131
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9153eb9a48ef4d9fbadd1f85fb6a9ec8
+run_name: skillful-mole-188
+run_uuid: 9153eb9a48ef4d9fbadd1f85fb6a9ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113495078
+status: 3
+tags: []
+user_id: houston

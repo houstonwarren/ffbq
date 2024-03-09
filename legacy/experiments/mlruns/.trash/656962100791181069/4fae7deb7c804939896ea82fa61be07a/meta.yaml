@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4fae7deb7c804939896ea82fa61be07a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664847917
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4fae7deb7c804939896ea82fa61be07a
+run_name: crawling-conch-344
+run_uuid: 4fae7deb7c804939896ea82fa61be07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664847867
+status: 3
+tags: []
+user_id: houston

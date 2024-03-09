@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c34c700ad04d4494b1c88e485c47fa6e/artifacts
+end_time: 1701667916480
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c34c700ad04d4494b1c88e485c47fa6e
+run_name: able-mole-361
+run_uuid: c34c700ad04d4494b1c88e485c47fa6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667916339
+status: 3
+tags: []
+user_id: houston

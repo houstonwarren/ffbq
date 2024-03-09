@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d0d321a28f064ca196b3be918f62dfb8/artifacts
+end_time: 1697440663324
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d0d321a28f064ca196b3be918f62dfb8
+run_name: serious-mare-502
+run_uuid: d0d321a28f064ca196b3be918f62dfb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663274
+status: 3
+tags: []
+user_id: houston

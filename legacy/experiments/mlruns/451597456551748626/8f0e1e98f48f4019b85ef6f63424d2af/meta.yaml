@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8f0e1e98f48f4019b85ef6f63424d2af/artifacts
+end_time: 1701660286211
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8f0e1e98f48f4019b85ef6f63424d2af
+run_name: rogue-crab-123
+run_uuid: 8f0e1e98f48f4019b85ef6f63424d2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660286154
+status: 3
+tags: []
+user_id: houston

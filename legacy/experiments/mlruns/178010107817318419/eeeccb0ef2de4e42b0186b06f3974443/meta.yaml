@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/eeeccb0ef2de4e42b0186b06f3974443/artifacts
+end_time: 1697359035031
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: eeeccb0ef2de4e42b0186b06f3974443
+run_name: respected-roo-974
+run_uuid: eeeccb0ef2de4e42b0186b06f3974443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359034978
+status: 3
+tags: []
+user_id: houston

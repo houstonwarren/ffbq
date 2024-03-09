@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5104f4ae3b3c4d47b3d01cfe396ef2e8/artifacts
+end_time: 1701660325662
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5104f4ae3b3c4d47b3d01cfe396ef2e8
+run_name: sedate-fawn-193
+run_uuid: 5104f4ae3b3c4d47b3d01cfe396ef2e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660325552
+status: 3
+tags: []
+user_id: houston

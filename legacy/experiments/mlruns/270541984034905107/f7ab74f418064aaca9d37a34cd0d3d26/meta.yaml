@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f7ab74f418064aaca9d37a34cd0d3d26/artifacts
+end_time: 1697440627847
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f7ab74f418064aaca9d37a34cd0d3d26
+run_name: big-rat-115
+run_uuid: f7ab74f418064aaca9d37a34cd0d3d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440627796
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/6f115258e0c04266acb4ddd90d61e440/artifacts
+deleted_time: 1701659398061
+end_time: 1701658638926
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 6f115258e0c04266acb4ddd90d61e440
+run_name: resilient-owl-842
+run_uuid: 6f115258e0c04266acb4ddd90d61e440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658638795
+status: 3
+tags: []
+user_id: houston

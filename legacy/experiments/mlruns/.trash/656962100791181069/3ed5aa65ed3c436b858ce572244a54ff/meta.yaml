@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/3ed5aa65ed3c436b858ce572244a54ff/artifacts
+deleted_time: 1701665274136
+end_time: 1701664690544
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 3ed5aa65ed3c436b858ce572244a54ff
+run_name: salty-yak-502
+run_uuid: 3ed5aa65ed3c436b858ce572244a54ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664690515
+status: 3
+tags: []
+user_id: houston

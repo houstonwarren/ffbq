@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/01422b11fe5b4651ae0b7d790430630f/artifacts
+end_time: 1697198287321
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 01422b11fe5b4651ae0b7d790430630f
+run_name: ambitious-grub-366
+run_uuid: 01422b11fe5b4651ae0b7d790430630f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198287300
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/af4c961663644ca7835ed474fab5be18/artifacts
+end_time: 1698113532032
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: af4c961663644ca7835ed474fab5be18
+run_name: abrasive-crab-697
+run_uuid: af4c961663644ca7835ed474fab5be18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113531979
+status: 3
+tags: []
+user_id: houston

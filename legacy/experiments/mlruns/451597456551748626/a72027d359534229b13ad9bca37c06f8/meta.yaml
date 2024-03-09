@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a72027d359534229b13ad9bca37c06f8/artifacts
+end_time: 1701660300063
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a72027d359534229b13ad9bca37c06f8
+run_name: sneaky-yak-945
+run_uuid: a72027d359534229b13ad9bca37c06f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660299856
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/6119c6fefacc4de2afd7887ffdbb0127/artifacts
+end_time: 1697441251519
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 6119c6fefacc4de2afd7887ffdbb0127
+run_name: trusting-fish-44
+run_uuid: 6119c6fefacc4de2afd7887ffdbb0127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441251463
+status: 3
+tags: []
+user_id: houston

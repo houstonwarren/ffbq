@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ad4ed300b8b0464ca3b24b60dddf563e/artifacts
+end_time: 1697440854276
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ad4ed300b8b0464ca3b24b60dddf563e
+run_name: respected-crab-404
+run_uuid: ad4ed300b8b0464ca3b24b60dddf563e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440854225
+status: 3
+tags: []
+user_id: houston

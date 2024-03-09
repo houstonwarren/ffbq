@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/bde4b4f2e4d24c25809fa3cc54d58f95/artifacts
+end_time: 1701659518325
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: bde4b4f2e4d24c25809fa3cc54d58f95
+run_name: sedate-smelt-834
+run_uuid: bde4b4f2e4d24c25809fa3cc54d58f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659518133
+status: 3
+tags: []
+user_id: houston

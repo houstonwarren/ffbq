@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f76b5387a16041a3a8b8a5c0288b539c/artifacts
+end_time: 1701667617047
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f76b5387a16041a3a8b8a5c0288b539c
+run_name: whimsical-smelt-293
+run_uuid: f76b5387a16041a3a8b8a5c0288b539c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667616915
+status: 3
+tags: []
+user_id: houston

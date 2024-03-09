@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/eb89a888245b4c4780e34ed4c3b7119d/artifacts
+end_time: 1701667824134
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: eb89a888245b4c4780e34ed4c3b7119d
+run_name: debonair-zebra-574
+run_uuid: eb89a888245b4c4780e34ed4c3b7119d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667823992
+status: 3
+tags: []
+user_id: houston

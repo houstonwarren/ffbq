@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f5f57a323d444c14a997bf4c8f46e269/artifacts
+end_time: 1697194311685
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f5f57a323d444c14a997bf4c8f46e269
+run_name: judicious-hound-876
+run_uuid: f5f57a323d444c14a997bf4c8f46e269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311666
+status: 3
+tags: []
+user_id: houston

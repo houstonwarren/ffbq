@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e227aeae332b4cd7948c4f94b4058efb/artifacts
+end_time: 1701660345974
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e227aeae332b4cd7948c4f94b4058efb
+run_name: funny-foal-549
+run_uuid: e227aeae332b4cd7948c4f94b4058efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660345861
+status: 3
+tags: []
+user_id: houston

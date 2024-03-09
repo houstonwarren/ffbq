@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4b359fbad5e64dff933dccbb480692ee/artifacts
+deleted_time: 1701665274136
+end_time: 1701664821638
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4b359fbad5e64dff933dccbb480692ee
+run_name: useful-sow-508
+run_uuid: 4b359fbad5e64dff933dccbb480692ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664821597
+status: 3
+tags: []
+user_id: houston

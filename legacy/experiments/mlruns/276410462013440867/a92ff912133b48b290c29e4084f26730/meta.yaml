@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a92ff912133b48b290c29e4084f26730/artifacts
+end_time: 1697195940761
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a92ff912133b48b290c29e4084f26730
+run_name: beautiful-whale-207
+run_uuid: a92ff912133b48b290c29e4084f26730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195940695
+status: 3
+tags: []
+user_id: houston

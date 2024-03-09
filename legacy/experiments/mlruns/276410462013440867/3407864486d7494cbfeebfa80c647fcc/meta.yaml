@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3407864486d7494cbfeebfa80c647fcc/artifacts
+end_time: 1697195522735
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3407864486d7494cbfeebfa80c647fcc
+run_name: shivering-smelt-684
+run_uuid: 3407864486d7494cbfeebfa80c647fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195522723
+status: 3
+tags: []
+user_id: houston

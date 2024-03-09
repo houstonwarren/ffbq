@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/524dca7edacd490692fab263d0708c94/artifacts
+end_time: 1697195020591
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 524dca7edacd490692fab263d0708c94
+run_name: gentle-robin-767
+run_uuid: 524dca7edacd490692fab263d0708c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195020569
+status: 3
+tags: []
+user_id: houston

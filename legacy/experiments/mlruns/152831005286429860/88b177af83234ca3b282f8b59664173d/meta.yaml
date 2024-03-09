@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/88b177af83234ca3b282f8b59664173d/artifacts
+end_time: 1697360399043
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 88b177af83234ca3b282f8b59664173d
+run_name: debonair-hen-534
+run_uuid: 88b177af83234ca3b282f8b59664173d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360398989
+status: 3
+tags: []
+user_id: houston

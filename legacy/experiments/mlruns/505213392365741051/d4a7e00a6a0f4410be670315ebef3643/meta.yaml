@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d4a7e00a6a0f4410be670315ebef3643/artifacts
+end_time: 1701659473523
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d4a7e00a6a0f4410be670315ebef3643
+run_name: lyrical-bee-429
+run_uuid: d4a7e00a6a0f4410be670315ebef3643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659473370
+status: 3
+tags: []
+user_id: houston

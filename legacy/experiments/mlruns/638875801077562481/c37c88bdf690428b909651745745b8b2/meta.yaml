@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c37c88bdf690428b909651745745b8b2/artifacts
+end_time: 1701667973361
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c37c88bdf690428b909651745745b8b2
+run_name: sedate-crab-652
+run_uuid: c37c88bdf690428b909651745745b8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667973223
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f2121cbab5ca4fd785ba953b88aa1c85/artifacts
+end_time: 1701659483471
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f2121cbab5ca4fd785ba953b88aa1c85
+run_name: puzzled-koi-333
+run_uuid: f2121cbab5ca4fd785ba953b88aa1c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659483320
+status: 3
+tags: []
+user_id: houston

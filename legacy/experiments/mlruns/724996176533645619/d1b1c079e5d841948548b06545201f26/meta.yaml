@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d1b1c079e5d841948548b06545201f26/artifacts
+end_time: 1697193980140
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d1b1c079e5d841948548b06545201f26
+run_name: selective-zebra-521
+run_uuid: d1b1c079e5d841948548b06545201f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193980125
+status: 3
+tags: []
+user_id: houston

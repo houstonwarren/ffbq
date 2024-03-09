@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/797abbe8cb6e4f178b6c6f74831012fd/artifacts
+end_time: 1697360279954
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 797abbe8cb6e4f178b6c6f74831012fd
+run_name: learned-hog-112
+run_uuid: 797abbe8cb6e4f178b6c6f74831012fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360279905
+status: 3
+tags: []
+user_id: houston

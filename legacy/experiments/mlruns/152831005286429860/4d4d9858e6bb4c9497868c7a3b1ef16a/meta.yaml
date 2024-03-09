@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/4d4d9858e6bb4c9497868c7a3b1ef16a/artifacts
+end_time: 1697360292475
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 4d4d9858e6bb4c9497868c7a3b1ef16a
+run_name: gregarious-bird-596
+run_uuid: 4d4d9858e6bb4c9497868c7a3b1ef16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360292425
+status: 3
+tags: []
+user_id: houston

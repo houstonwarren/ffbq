@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2aab7cd1a14646b8b42ab208757ff651/artifacts
+end_time: 1697359146928
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2aab7cd1a14646b8b42ab208757ff651
+run_name: bouncy-lark-691
+run_uuid: 2aab7cd1a14646b8b42ab208757ff651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359146874
+status: 3
+tags: []
+user_id: houston

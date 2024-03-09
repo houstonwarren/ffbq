@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bde9f6f6bfa84bd48799db81383c76d7/artifacts
+end_time: 1698114394426
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bde9f6f6bfa84bd48799db81383c76d7
+run_name: lyrical-skunk-635
+run_uuid: bde9f6f6bfa84bd48799db81383c76d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114394366
+status: 3
+tags: []
+user_id: houston

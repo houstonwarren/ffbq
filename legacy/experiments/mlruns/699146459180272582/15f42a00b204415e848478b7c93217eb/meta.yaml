@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/15f42a00b204415e848478b7c93217eb/artifacts
+end_time: 1698114291688
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 15f42a00b204415e848478b7c93217eb
+run_name: honorable-owl-903
+run_uuid: 15f42a00b204415e848478b7c93217eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291628
+status: 3
+tags: []
+user_id: houston

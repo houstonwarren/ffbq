@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/75d823b367de41f2a80898caa789b4da/artifacts
+end_time: 1697359084387
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 75d823b367de41f2a80898caa789b4da
+run_name: amusing-asp-36
+run_uuid: 75d823b367de41f2a80898caa789b4da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359084339
+status: 3
+tags: []
+user_id: houston

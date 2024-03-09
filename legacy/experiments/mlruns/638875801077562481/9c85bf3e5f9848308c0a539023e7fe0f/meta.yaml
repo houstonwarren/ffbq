@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9c85bf3e5f9848308c0a539023e7fe0f/artifacts
+end_time: 1701667638247
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9c85bf3e5f9848308c0a539023e7fe0f
+run_name: bedecked-dove-467
+run_uuid: 9c85bf3e5f9848308c0a539023e7fe0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667638114
+status: 3
+tags: []
+user_id: houston

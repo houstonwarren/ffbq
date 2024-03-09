@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7cdc42fb6cc74b8b87970a7f7a3e4eb3/artifacts
+end_time: 1697197904449
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7cdc42fb6cc74b8b87970a7f7a3e4eb3
+run_name: funny-loon-39
+run_uuid: 7cdc42fb6cc74b8b87970a7f7a3e4eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197904430
+status: 3
+tags: []
+user_id: houston

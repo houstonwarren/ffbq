@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4c849289a364430cadf261bd974dad0e/artifacts
+end_time: 1697197061035
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4c849289a364430cadf261bd974dad0e
+run_name: capricious-robin-888
+run_uuid: 4c849289a364430cadf261bd974dad0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197061018
+status: 3
+tags: []
+user_id: houston

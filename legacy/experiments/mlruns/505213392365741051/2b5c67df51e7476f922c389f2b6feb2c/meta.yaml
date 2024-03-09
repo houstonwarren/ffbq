@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/2b5c67df51e7476f922c389f2b6feb2c/artifacts
+end_time: 1701659564954
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 2b5c67df51e7476f922c389f2b6feb2c
+run_name: traveling-ox-442
+run_uuid: 2b5c67df51e7476f922c389f2b6feb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659564788
+status: 3
+tags: []
+user_id: houston

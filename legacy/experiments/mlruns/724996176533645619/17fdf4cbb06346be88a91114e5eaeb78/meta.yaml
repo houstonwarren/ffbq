@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/17fdf4cbb06346be88a91114e5eaeb78/artifacts
+end_time: 1697194011286
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 17fdf4cbb06346be88a91114e5eaeb78
+run_name: sincere-smelt-909
+run_uuid: 17fdf4cbb06346be88a91114e5eaeb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194011268
+status: 3
+tags: []
+user_id: houston

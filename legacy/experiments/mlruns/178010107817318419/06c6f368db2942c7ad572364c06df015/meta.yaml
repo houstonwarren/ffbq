@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/06c6f368db2942c7ad572364c06df015/artifacts
+end_time: 1697359093055
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 06c6f368db2942c7ad572364c06df015
+run_name: chill-moth-424
+run_uuid: 06c6f368db2942c7ad572364c06df015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359093008
+status: 3
+tags: []
+user_id: houston

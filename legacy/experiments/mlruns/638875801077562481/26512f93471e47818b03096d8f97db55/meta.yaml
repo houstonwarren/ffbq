@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/26512f93471e47818b03096d8f97db55/artifacts
+end_time: 1701667449724
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 26512f93471e47818b03096d8f97db55
+run_name: receptive-fish-334
+run_uuid: 26512f93471e47818b03096d8f97db55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667449603
+status: 3
+tags: []
+user_id: houston

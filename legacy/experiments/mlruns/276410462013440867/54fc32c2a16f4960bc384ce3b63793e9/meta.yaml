@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/54fc32c2a16f4960bc384ce3b63793e9/artifacts
+end_time: 1697195605867
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 54fc32c2a16f4960bc384ce3b63793e9
+run_name: righteous-sponge-863
+run_uuid: 54fc32c2a16f4960bc384ce3b63793e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605854
+status: 3
+tags: []
+user_id: houston

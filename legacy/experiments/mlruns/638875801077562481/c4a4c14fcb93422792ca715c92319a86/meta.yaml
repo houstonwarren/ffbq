@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c4a4c14fcb93422792ca715c92319a86/artifacts
+end_time: 1701668002234
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c4a4c14fcb93422792ca715c92319a86
+run_name: indecisive-shrew-474
+run_uuid: c4a4c14fcb93422792ca715c92319a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701668002063
+status: 3
+tags: []
+user_id: houston

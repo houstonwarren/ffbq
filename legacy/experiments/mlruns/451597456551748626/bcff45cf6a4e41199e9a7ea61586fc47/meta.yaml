@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/bcff45cf6a4e41199e9a7ea61586fc47/artifacts
+end_time: 1701660357918
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: bcff45cf6a4e41199e9a7ea61586fc47
+run_name: polite-shrike-505
+run_uuid: bcff45cf6a4e41199e9a7ea61586fc47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660357841
+status: 3
+tags: []
+user_id: houston

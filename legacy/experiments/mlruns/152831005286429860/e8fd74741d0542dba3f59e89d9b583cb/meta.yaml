@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/e8fd74741d0542dba3f59e89d9b583cb/artifacts
+end_time: 1697360274878
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: e8fd74741d0542dba3f59e89d9b583cb
+run_name: popular-worm-952
+run_uuid: e8fd74741d0542dba3f59e89d9b583cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360274819
+status: 3
+tags: []
+user_id: houston

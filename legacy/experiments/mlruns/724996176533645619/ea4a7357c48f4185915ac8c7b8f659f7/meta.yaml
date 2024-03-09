@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ea4a7357c48f4185915ac8c7b8f659f7/artifacts
+end_time: 1697193829388
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ea4a7357c48f4185915ac8c7b8f659f7
+run_name: wise-lynx-926
+run_uuid: ea4a7357c48f4185915ac8c7b8f659f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829374
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7c1b803048a3447dba853684d99ec81a/artifacts
+end_time: 1701667887339
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7c1b803048a3447dba853684d99ec81a
+run_name: painted-frog-134
+run_uuid: 7c1b803048a3447dba853684d99ec81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667887180
+status: 3
+tags: []
+user_id: houston

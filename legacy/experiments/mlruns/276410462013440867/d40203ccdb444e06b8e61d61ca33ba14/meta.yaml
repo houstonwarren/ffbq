@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d40203ccdb444e06b8e61d61ca33ba14/artifacts
+end_time: 1697195710185
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d40203ccdb444e06b8e61d61ca33ba14
+run_name: clean-dog-777
+run_uuid: d40203ccdb444e06b8e61d61ca33ba14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710171
+status: 3
+tags: []
+user_id: houston

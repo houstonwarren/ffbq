@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e72b936fac8b41e38610357eecba12dc/artifacts
+end_time: 1697359135474
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e72b936fac8b41e38610357eecba12dc
+run_name: exultant-cow-704
+run_uuid: e72b936fac8b41e38610357eecba12dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359135422
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a633fb3c1efd4169852891048dd8f0b3/artifacts
+end_time: 1697359106470
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a633fb3c1efd4169852891048dd8f0b3
+run_name: angry-gull-175
+run_uuid: a633fb3c1efd4169852891048dd8f0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359106415
+status: 3
+tags: []
+user_id: houston

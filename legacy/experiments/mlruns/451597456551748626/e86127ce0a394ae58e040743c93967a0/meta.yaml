@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e86127ce0a394ae58e040743c93967a0/artifacts
+end_time: 1701660367782
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e86127ce0a394ae58e040743c93967a0
+run_name: illustrious-colt-385
+run_uuid: e86127ce0a394ae58e040743c93967a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660367702
+status: 3
+tags: []
+user_id: houston

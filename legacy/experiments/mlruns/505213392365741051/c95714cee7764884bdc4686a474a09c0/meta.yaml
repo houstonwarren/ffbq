@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/c95714cee7764884bdc4686a474a09c0/artifacts
+end_time: 1701659421951
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: c95714cee7764884bdc4686a474a09c0
+run_name: invincible-shrimp-4
+run_uuid: c95714cee7764884bdc4686a474a09c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659421801
+status: 3
+tags: []
+user_id: houston

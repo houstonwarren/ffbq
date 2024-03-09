@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/15b9f14de865488ca4baa33b3f141b44/artifacts
+end_time: 1697360282830
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 15b9f14de865488ca4baa33b3f141b44
+run_name: carefree-wolf-10
+run_uuid: 15b9f14de865488ca4baa33b3f141b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360282746
+status: 3
+tags: []
+user_id: houston

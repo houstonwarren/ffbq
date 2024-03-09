@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/11f5d02f2948439bb9004380e0844eb1/artifacts
+end_time: 1701667734885
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 11f5d02f2948439bb9004380e0844eb1
+run_name: carefree-fowl-236
+run_uuid: 11f5d02f2948439bb9004380e0844eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667734742
+status: 3
+tags: []
+user_id: houston

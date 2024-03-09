@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/885d7f2689c34ee98845b9b7a21c71ab/artifacts
+end_time: 1701667757358
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 885d7f2689c34ee98845b9b7a21c71ab
+run_name: big-bee-215
+run_uuid: 885d7f2689c34ee98845b9b7a21c71ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667757226
+status: 3
+tags: []
+user_id: houston

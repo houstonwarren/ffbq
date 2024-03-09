@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/33408f0e32744abf9d8a2d73f099d55a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664725754
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 33408f0e32744abf9d8a2d73f099d55a
+run_name: trusting-rat-655
+run_uuid: 33408f0e32744abf9d8a2d73f099d55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664725729
+status: 3
+tags: []
+user_id: houston

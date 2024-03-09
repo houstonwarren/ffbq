@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2570be3343c94d77aafc363279d3b7db/artifacts
+end_time: 1697194346345
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2570be3343c94d77aafc363279d3b7db
+run_name: fortunate-bug-183
+run_uuid: 2570be3343c94d77aafc363279d3b7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194346324
+status: 3
+tags: []
+user_id: houston

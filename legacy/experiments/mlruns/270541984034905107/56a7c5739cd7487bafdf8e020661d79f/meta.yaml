@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/56a7c5739cd7487bafdf8e020661d79f/artifacts
+end_time: 1697440686984
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 56a7c5739cd7487bafdf8e020661d79f
+run_name: magnificent-calf-665
+run_uuid: 56a7c5739cd7487bafdf8e020661d79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440686933
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c8a283bfca3b482dbb6b29d0cb673ec8/artifacts
+end_time: 1697195488945
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c8a283bfca3b482dbb6b29d0cb673ec8
+run_name: lyrical-fox-301
+run_uuid: c8a283bfca3b482dbb6b29d0cb673ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195488880
+status: 3
+tags: []
+user_id: houston

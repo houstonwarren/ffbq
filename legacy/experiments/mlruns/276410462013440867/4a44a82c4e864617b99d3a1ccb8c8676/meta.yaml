@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4a44a82c4e864617b99d3a1ccb8c8676/artifacts
+end_time: 1697198569543
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4a44a82c4e864617b99d3a1ccb8c8676
+run_name: rogue-asp-616
+run_uuid: 4a44a82c4e864617b99d3a1ccb8c8676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569521
+status: 3
+tags: []
+user_id: houston

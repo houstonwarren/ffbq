@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/18320d9b79ea4929a8a338efb478d9be/artifacts
+end_time: 1697194686171
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 18320d9b79ea4929a8a338efb478d9be
+run_name: rumbling-colt-253
+run_uuid: 18320d9b79ea4929a8a338efb478d9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686150
+status: 3
+tags: []
+user_id: houston

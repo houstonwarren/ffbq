@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/efa47a48b0dd4943965953b4bdacadfa/artifacts
+end_time: 1697360256801
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: efa47a48b0dd4943965953b4bdacadfa
+run_name: bemused-newt-616
+run_uuid: efa47a48b0dd4943965953b4bdacadfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360256752
+status: 3
+tags: []
+user_id: houston

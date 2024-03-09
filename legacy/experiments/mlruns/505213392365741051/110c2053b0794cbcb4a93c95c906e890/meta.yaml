@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/110c2053b0794cbcb4a93c95c906e890/artifacts
+end_time: 1701659475528
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 110c2053b0794cbcb4a93c95c906e890
+run_name: dapper-hare-139
+run_uuid: 110c2053b0794cbcb4a93c95c906e890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659475390
+status: 3
+tags: []
+user_id: houston

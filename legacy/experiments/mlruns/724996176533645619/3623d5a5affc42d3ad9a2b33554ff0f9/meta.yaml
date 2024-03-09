@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3623d5a5affc42d3ad9a2b33554ff0f9/artifacts
+end_time: 1697194241482
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3623d5a5affc42d3ad9a2b33554ff0f9
+run_name: traveling-boar-200
+run_uuid: 3623d5a5affc42d3ad9a2b33554ff0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241442
+status: 3
+tags: []
+user_id: houston

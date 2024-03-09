@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/620e35cc1b3c4cecaa47f6d8caf891ab/artifacts
+end_time: 1697197752761
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 620e35cc1b3c4cecaa47f6d8caf891ab
+run_name: angry-penguin-883
+run_uuid: 620e35cc1b3c4cecaa47f6d8caf891ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197752743
+status: 3
+tags: []
+user_id: houston

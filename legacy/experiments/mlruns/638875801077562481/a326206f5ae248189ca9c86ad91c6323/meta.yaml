@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a326206f5ae248189ca9c86ad91c6323/artifacts
+end_time: 1701667808694
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a326206f5ae248189ca9c86ad91c6323
+run_name: big-mouse-537
+run_uuid: a326206f5ae248189ca9c86ad91c6323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667808550
+status: 3
+tags: []
+user_id: houston

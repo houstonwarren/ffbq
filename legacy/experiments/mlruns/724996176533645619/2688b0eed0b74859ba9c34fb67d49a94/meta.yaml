@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2688b0eed0b74859ba9c34fb67d49a94/artifacts
+end_time: 1697193816023
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2688b0eed0b74859ba9c34fb67d49a94
+run_name: serious-roo-201
+run_uuid: 2688b0eed0b74859ba9c34fb67d49a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193816008
+status: 3
+tags: []
+user_id: houston

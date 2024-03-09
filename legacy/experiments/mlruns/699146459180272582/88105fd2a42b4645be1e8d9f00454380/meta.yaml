@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/88105fd2a42b4645be1e8d9f00454380/artifacts
+end_time: 1698113933779
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 88105fd2a42b4645be1e8d9f00454380
+run_name: puzzled-goose-934
+run_uuid: 88105fd2a42b4645be1e8d9f00454380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113933718
+status: 3
+tags: []
+user_id: houston

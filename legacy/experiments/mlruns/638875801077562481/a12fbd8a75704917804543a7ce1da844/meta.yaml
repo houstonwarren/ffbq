@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a12fbd8a75704917804543a7ce1da844/artifacts
+end_time: 1701667523240
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a12fbd8a75704917804543a7ce1da844
+run_name: upbeat-owl-167
+run_uuid: a12fbd8a75704917804543a7ce1da844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667523132
+status: 3
+tags: []
+user_id: houston

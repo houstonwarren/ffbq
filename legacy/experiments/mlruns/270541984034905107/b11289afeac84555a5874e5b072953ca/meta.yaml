@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b11289afeac84555a5874e5b072953ca/artifacts
+end_time: 1697440895089
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b11289afeac84555a5874e5b072953ca
+run_name: rogue-lamb-198
+run_uuid: b11289afeac84555a5874e5b072953ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440895036
+status: 3
+tags: []
+user_id: houston

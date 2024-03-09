@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/eed8e2e21d63478fbb6b56db1bf14117/artifacts
+end_time: 1697194026951
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: eed8e2e21d63478fbb6b56db1bf14117
+run_name: overjoyed-snipe-66
+run_uuid: eed8e2e21d63478fbb6b56db1bf14117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194026935
+status: 3
+tags: []
+user_id: houston

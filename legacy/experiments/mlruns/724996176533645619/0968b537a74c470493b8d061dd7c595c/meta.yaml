@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0968b537a74c470493b8d061dd7c595c/artifacts
+end_time: 1697193659820
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0968b537a74c470493b8d061dd7c595c
+run_name: nebulous-newt-916
+run_uuid: 0968b537a74c470493b8d061dd7c595c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659809
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ad1c2a6e8957433d899b4f40ad3a2952/artifacts
+end_time: 1697440698606
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ad1c2a6e8957433d899b4f40ad3a2952
+run_name: salty-deer-945
+run_uuid: ad1c2a6e8957433d899b4f40ad3a2952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440698554
+status: 3
+tags: []
+user_id: houston

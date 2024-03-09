@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/2e1aa78419b14dcbb0905c3c5fca835b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664768902
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 2e1aa78419b14dcbb0905c3c5fca835b
+run_name: stately-gnat-198
+run_uuid: 2e1aa78419b14dcbb0905c3c5fca835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664768872
+status: 3
+tags: []
+user_id: houston

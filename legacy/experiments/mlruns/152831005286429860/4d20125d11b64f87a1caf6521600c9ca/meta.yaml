@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/4d20125d11b64f87a1caf6521600c9ca/artifacts
+end_time: 1697360351345
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 4d20125d11b64f87a1caf6521600c9ca
+run_name: rogue-robin-794
+run_uuid: 4d20125d11b64f87a1caf6521600c9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360351293
+status: 3
+tags: []
+user_id: houston

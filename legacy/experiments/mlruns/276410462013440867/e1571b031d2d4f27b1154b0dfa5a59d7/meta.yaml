@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e1571b031d2d4f27b1154b0dfa5a59d7/artifacts
+end_time: 1697195786708
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e1571b031d2d4f27b1154b0dfa5a59d7
+run_name: judicious-bass-643
+run_uuid: e1571b031d2d4f27b1154b0dfa5a59d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786694
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8e44ba4d764b4e488d9b2e89d8bc677e/artifacts
+end_time: 1701660404454
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8e44ba4d764b4e488d9b2e89d8bc677e
+run_name: debonair-wolf-235
+run_uuid: 8e44ba4d764b4e488d9b2e89d8bc677e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660404363
+status: 3
+tags: []
+user_id: houston

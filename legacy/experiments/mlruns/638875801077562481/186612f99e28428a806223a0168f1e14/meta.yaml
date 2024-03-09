@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/186612f99e28428a806223a0168f1e14/artifacts
+end_time: 1701667378923
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 186612f99e28428a806223a0168f1e14
+run_name: burly-turtle-343
+run_uuid: 186612f99e28428a806223a0168f1e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667378828
+status: 3
+tags: []
+user_id: houston

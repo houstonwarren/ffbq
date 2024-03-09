@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/baa4537c6bc84de99066b400d92db7e4/artifacts
+end_time: 1697193920981
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: baa4537c6bc84de99066b400d92db7e4
+run_name: monumental-hound-76
+run_uuid: baa4537c6bc84de99066b400d92db7e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193920957
+status: 3
+tags: []
+user_id: houston

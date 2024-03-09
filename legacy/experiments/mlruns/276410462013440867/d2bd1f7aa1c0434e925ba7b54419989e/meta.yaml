@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d2bd1f7aa1c0434e925ba7b54419989e/artifacts
+end_time: 1697195786531
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d2bd1f7aa1c0434e925ba7b54419989e
+run_name: chill-snipe-677
+run_uuid: d2bd1f7aa1c0434e925ba7b54419989e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786468
+status: 3
+tags: []
+user_id: houston

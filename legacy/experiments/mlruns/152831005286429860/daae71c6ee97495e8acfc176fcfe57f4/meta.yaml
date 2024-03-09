@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/daae71c6ee97495e8acfc176fcfe57f4/artifacts
+end_time: 1697360293085
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: daae71c6ee97495e8acfc176fcfe57f4
+run_name: awesome-frog-472
+run_uuid: daae71c6ee97495e8acfc176fcfe57f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360293034
+status: 3
+tags: []
+user_id: houston

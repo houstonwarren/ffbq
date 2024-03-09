@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c7f33c2a1e154c4884d11d7607698b96/artifacts
+end_time: 1701660425589
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c7f33c2a1e154c4884d11d7607698b96
+run_name: zealous-elk-383
+run_uuid: c7f33c2a1e154c4884d11d7607698b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660425470
+status: 3
+tags: []
+user_id: houston

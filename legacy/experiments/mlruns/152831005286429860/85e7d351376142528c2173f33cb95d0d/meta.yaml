@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/85e7d351376142528c2173f33cb95d0d/artifacts
+end_time: 1697360312397
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 85e7d351376142528c2173f33cb95d0d
+run_name: colorful-lamb-81
+run_uuid: 85e7d351376142528c2173f33cb95d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360312345
+status: 3
+tags: []
+user_id: houston

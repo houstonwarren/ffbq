@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c246001f615341d4be1d3e1d3b841c45/artifacts
+end_time: 1701667977850
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c246001f615341d4be1d3e1d3b841c45
+run_name: angry-eel-748
+run_uuid: c246001f615341d4be1d3e1d3b841c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667977686
+status: 3
+tags: []
+user_id: houston

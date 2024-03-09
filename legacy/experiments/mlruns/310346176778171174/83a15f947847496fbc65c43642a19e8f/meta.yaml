@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/83a15f947847496fbc65c43642a19e8f/artifacts
+end_time: 1696909205485
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 83a15f947847496fbc65c43642a19e8f
+run_name: resilient-eel-429
+run_uuid: 83a15f947847496fbc65c43642a19e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909205474
+status: 3
+tags: []
+user_id: houston

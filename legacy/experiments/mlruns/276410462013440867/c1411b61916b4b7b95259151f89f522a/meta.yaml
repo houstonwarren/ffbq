@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c1411b61916b4b7b95259151f89f522a/artifacts
+end_time: 1697196017700
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c1411b61916b4b7b95259151f89f522a
+run_name: agreeable-hawk-349
+run_uuid: c1411b61916b4b7b95259151f89f522a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017685
+status: 3
+tags: []
+user_id: houston

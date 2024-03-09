@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/844dc666df32428fbdceee7c5d235baf/artifacts
+deleted_time: 1701667207383
+end_time: 1701665285132
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: 844dc666df32428fbdceee7c5d235baf
+run_name: able-quail-95
+run_uuid: 844dc666df32428fbdceee7c5d235baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665285109
+status: 3
+tags: []
+user_id: houston

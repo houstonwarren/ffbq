@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5cafa41f44ae4b4c879d91303f444f5b/artifacts
+end_time: 1697193886670
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5cafa41f44ae4b4c879d91303f444f5b
+run_name: learned-dove-687
+run_uuid: 5cafa41f44ae4b4c879d91303f444f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193886656
+status: 3
+tags: []
+user_id: houston

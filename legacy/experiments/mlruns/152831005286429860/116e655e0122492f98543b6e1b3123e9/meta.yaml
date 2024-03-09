@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/116e655e0122492f98543b6e1b3123e9/artifacts
+end_time: 1697360392402
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 116e655e0122492f98543b6e1b3123e9
+run_name: valuable-bee-535
+run_uuid: 116e655e0122492f98543b6e1b3123e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360392347
+status: 3
+tags: []
+user_id: houston

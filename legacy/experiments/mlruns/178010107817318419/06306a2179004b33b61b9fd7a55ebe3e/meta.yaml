@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/06306a2179004b33b61b9fd7a55ebe3e/artifacts
+end_time: 1697359170427
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 06306a2179004b33b61b9fd7a55ebe3e
+run_name: stately-bee-831
+run_uuid: 06306a2179004b33b61b9fd7a55ebe3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359170374
+status: 3
+tags: []
+user_id: houston

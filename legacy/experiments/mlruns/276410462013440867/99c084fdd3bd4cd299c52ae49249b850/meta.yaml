@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/99c084fdd3bd4cd299c52ae49249b850/artifacts
+end_time: 1697198109581
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 99c084fdd3bd4cd299c52ae49249b850
+run_name: ambitious-ox-867
+run_uuid: 99c084fdd3bd4cd299c52ae49249b850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198109559
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5daba77c1391492a99edb5d66d8f9225/artifacts
+end_time: 1697194073528
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5daba77c1391492a99edb5d66d8f9225
+run_name: indecisive-mole-289
+run_uuid: 5daba77c1391492a99edb5d66d8f9225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194073510
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8c8cec5bcadc44cfa7499aa599cacbca/artifacts
+end_time: 1698114959709
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8c8cec5bcadc44cfa7499aa599cacbca
+run_name: angry-rook-899
+run_uuid: 8c8cec5bcadc44cfa7499aa599cacbca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114959631
+status: 3
+tags: []
+user_id: houston

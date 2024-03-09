@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8b1e27dd53a547e28087e642f6383512/artifacts
+end_time: 1697359075791
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8b1e27dd53a547e28087e642f6383512
+run_name: skittish-cod-300
+run_uuid: 8b1e27dd53a547e28087e642f6383512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359075743
+status: 3
+tags: []
+user_id: houston

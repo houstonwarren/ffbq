@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/7887ca5990e642229a5a2c6f139ae9f3/artifacts
+end_time: 1697193886438
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 7887ca5990e642229a5a2c6f139ae9f3
+run_name: colorful-mule-454
+run_uuid: 7887ca5990e642229a5a2c6f139ae9f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193886416
+status: 3
+tags: []
+user_id: houston

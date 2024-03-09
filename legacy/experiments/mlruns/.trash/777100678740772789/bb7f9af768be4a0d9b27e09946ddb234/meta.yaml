@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/bb7f9af768be4a0d9b27e09946ddb234/artifacts
+deleted_time: 1701660238886
+end_time: 1701660176295
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: bb7f9af768be4a0d9b27e09946ddb234
+run_name: serious-turtle-375
+run_uuid: bb7f9af768be4a0d9b27e09946ddb234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660176170
+status: 3
+tags: []
+user_id: houston

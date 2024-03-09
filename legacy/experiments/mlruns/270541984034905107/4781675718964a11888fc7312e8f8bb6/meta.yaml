@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/4781675718964a11888fc7312e8f8bb6/artifacts
+end_time: 1697440711015
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 4781675718964a11888fc7312e8f8bb6
+run_name: thoughtful-squid-179
+run_uuid: 4781675718964a11888fc7312e8f8bb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440710962
+status: 3
+tags: []
+user_id: houston

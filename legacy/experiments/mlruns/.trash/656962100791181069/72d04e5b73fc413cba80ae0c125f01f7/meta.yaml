@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/72d04e5b73fc413cba80ae0c125f01f7/artifacts
+deleted_time: 1701665274136
+end_time: 1701664644326
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 72d04e5b73fc413cba80ae0c125f01f7
+run_name: flawless-panda-454
+run_uuid: 72d04e5b73fc413cba80ae0c125f01f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664644298
+status: 3
+tags: []
+user_id: houston

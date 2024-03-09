@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/caaecd3074f7483b987f8eccfc6897cf/artifacts
+end_time: 1698114087318
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: caaecd3074f7483b987f8eccfc6897cf
+run_name: capable-rook-38
+run_uuid: caaecd3074f7483b987f8eccfc6897cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114087260
+status: 3
+tags: []
+user_id: houston

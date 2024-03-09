@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4e59db5f92bb40e2a525f31ea29c59c8/artifacts
+end_time: 1697193743031
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4e59db5f92bb40e2a525f31ea29c59c8
+run_name: gentle-lynx-262
+run_uuid: 4e59db5f92bb40e2a525f31ea29c59c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193743019
+status: 3
+tags: []
+user_id: houston

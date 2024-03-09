@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/aab2b1227d264c4495f8ba55a7e524fa/artifacts
+end_time: 1697198174238
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: aab2b1227d264c4495f8ba55a7e524fa
+run_name: melodic-ox-472
+run_uuid: aab2b1227d264c4495f8ba55a7e524fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198174216
+status: 3
+tags: []
+user_id: houston

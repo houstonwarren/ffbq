@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/46e44c9c84894b1392f92b319508561c/artifacts
+end_time: 1697359135415
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 46e44c9c84894b1392f92b319508561c
+run_name: omniscient-bird-25
+run_uuid: 46e44c9c84894b1392f92b319508561c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359135363
+status: 3
+tags: []
+user_id: houston

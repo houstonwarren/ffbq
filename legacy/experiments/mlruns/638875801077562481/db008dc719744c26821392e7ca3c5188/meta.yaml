@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/db008dc719744c26821392e7ca3c5188/artifacts
+end_time: 1701667932909
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: db008dc719744c26821392e7ca3c5188
+run_name: bouncy-shad-840
+run_uuid: db008dc719744c26821392e7ca3c5188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667932744
+status: 3
+tags: []
+user_id: houston

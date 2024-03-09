@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/624f54f7a3a14200be504bdf8efe8eac/artifacts
+deleted_time: 1701665274136
+end_time: 1701664830980
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 624f54f7a3a14200be504bdf8efe8eac
+run_name: able-pig-144
+run_uuid: 624f54f7a3a14200be504bdf8efe8eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664830946
+status: 3
+tags: []
+user_id: houston

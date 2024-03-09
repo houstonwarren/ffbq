@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/317008653e344af79f46618ae6dce851/artifacts
+deleted_time: 1701665274136
+end_time: 1701664875046
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 317008653e344af79f46618ae6dce851
+run_name: rumbling-perch-74
+run_uuid: 317008653e344af79f46618ae6dce851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664874947
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3a4a7b6e74654fa295cbc9138a7327ba/artifacts
+end_time: 1697195786786
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3a4a7b6e74654fa295cbc9138a7327ba
+run_name: skittish-snipe-43
+run_uuid: 3a4a7b6e74654fa295cbc9138a7327ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786772
+status: 3
+tags: []
+user_id: houston

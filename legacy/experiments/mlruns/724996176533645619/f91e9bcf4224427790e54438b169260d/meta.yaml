@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f91e9bcf4224427790e54438b169260d/artifacts
+end_time: 1697194073430
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f91e9bcf4224427790e54438b169260d
+run_name: traveling-dove-232
+run_uuid: f91e9bcf4224427790e54438b169260d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194073412
+status: 3
+tags: []
+user_id: houston

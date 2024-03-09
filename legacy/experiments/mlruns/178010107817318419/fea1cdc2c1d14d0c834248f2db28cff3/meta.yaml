@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fea1cdc2c1d14d0c834248f2db28cff3/artifacts
+end_time: 1697359184015
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fea1cdc2c1d14d0c834248f2db28cff3
+run_name: unruly-snake-332
+run_uuid: fea1cdc2c1d14d0c834248f2db28cff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359183961
+status: 3
+tags: []
+user_id: houston

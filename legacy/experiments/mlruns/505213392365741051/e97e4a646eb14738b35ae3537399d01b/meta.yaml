@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e97e4a646eb14738b35ae3537399d01b/artifacts
+end_time: 1701659441702
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e97e4a646eb14738b35ae3537399d01b
+run_name: unequaled-mouse-943
+run_uuid: e97e4a646eb14738b35ae3537399d01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659441583
+status: 3
+tags: []
+user_id: houston

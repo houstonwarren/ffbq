@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/da7b4af2884f4e3c916cacea50318020/artifacts
+end_time: 1697440639670
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: da7b4af2884f4e3c916cacea50318020
+run_name: bedecked-wolf-298
+run_uuid: da7b4af2884f4e3c916cacea50318020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440639618
+status: 3
+tags: []
+user_id: houston

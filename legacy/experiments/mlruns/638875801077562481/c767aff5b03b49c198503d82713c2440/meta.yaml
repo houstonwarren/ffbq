@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c767aff5b03b49c198503d82713c2440/artifacts
+end_time: 1701667668113
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c767aff5b03b49c198503d82713c2440
+run_name: unruly-stag-316
+run_uuid: c767aff5b03b49c198503d82713c2440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667667946
+status: 3
+tags: []
+user_id: houston

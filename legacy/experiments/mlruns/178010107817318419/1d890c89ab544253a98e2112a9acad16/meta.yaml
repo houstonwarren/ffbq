@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/1d890c89ab544253a98e2112a9acad16/artifacts
+end_time: 1697359191027
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 1d890c89ab544253a98e2112a9acad16
+run_name: nimble-turtle-376
+run_uuid: 1d890c89ab544253a98e2112a9acad16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359190974
+status: 3
+tags: []
+user_id: houston

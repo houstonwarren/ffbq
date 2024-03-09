@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/437f5f53276747f497c12e74d7080bb4/artifacts
+end_time: 1698113599754
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 437f5f53276747f497c12e74d7080bb4
+run_name: spiffy-gnu-973
+run_uuid: 437f5f53276747f497c12e74d7080bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599699
+status: 3
+tags: []
+user_id: houston

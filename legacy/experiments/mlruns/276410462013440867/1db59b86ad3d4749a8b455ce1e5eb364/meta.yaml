@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1db59b86ad3d4749a8b455ce1e5eb364/artifacts
+end_time: 1697195555401
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1db59b86ad3d4749a8b455ce1e5eb364
+run_name: auspicious-robin-815
+run_uuid: 1db59b86ad3d4749a8b455ce1e5eb364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555335
+status: 3
+tags: []
+user_id: houston

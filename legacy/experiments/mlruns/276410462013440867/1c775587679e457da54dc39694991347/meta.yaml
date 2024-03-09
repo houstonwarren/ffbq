@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1c775587679e457da54dc39694991347/artifacts
+end_time: 1697195941152
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1c775587679e457da54dc39694991347
+run_name: orderly-mink-870
+run_uuid: 1c775587679e457da54dc39694991347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941137
+status: 3
+tags: []
+user_id: houston

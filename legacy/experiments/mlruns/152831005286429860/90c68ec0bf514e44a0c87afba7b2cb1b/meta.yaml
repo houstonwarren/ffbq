@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/90c68ec0bf514e44a0c87afba7b2cb1b/artifacts
+end_time: 1697360274235
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 90c68ec0bf514e44a0c87afba7b2cb1b
+run_name: sedate-elk-210
+run_uuid: 90c68ec0bf514e44a0c87afba7b2cb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360274164
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a05f9a7a7f27407594315a73bf502ed1/artifacts
+end_time: 1697198513714
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a05f9a7a7f27407594315a73bf502ed1
+run_name: bold-smelt-113
+run_uuid: a05f9a7a7f27407594315a73bf502ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513676
+status: 3
+tags: []
+user_id: houston

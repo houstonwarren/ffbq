@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b6d65cdb19b4471990db2d3c68c9ed0f/artifacts
+end_time: 1701659442614
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b6d65cdb19b4471990db2d3c68c9ed0f
+run_name: invincible-shrew-321
+run_uuid: b6d65cdb19b4471990db2d3c68c9ed0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659442494
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/25c78976e84147dcb9b9d11af1f357d2/artifacts
+end_time: 1697195489179
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 25c78976e84147dcb9b9d11af1f357d2
+run_name: fun-squid-107
+run_uuid: 25c78976e84147dcb9b9d11af1f357d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489167
+status: 3
+tags: []
+user_id: houston

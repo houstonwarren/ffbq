@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/8f50c76625af48e7a10f656d8d200469/artifacts
+end_time: 1697197800768
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 8f50c76625af48e7a10f656d8d200469
+run_name: abundant-hog-862
+run_uuid: 8f50c76625af48e7a10f656d8d200469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197800749
+status: 3
+tags: []
+user_id: houston

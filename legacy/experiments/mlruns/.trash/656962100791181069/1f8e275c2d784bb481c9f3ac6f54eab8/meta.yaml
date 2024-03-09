@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1f8e275c2d784bb481c9f3ac6f54eab8/artifacts
+deleted_time: 1701665274136
+end_time: 1701664715551
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1f8e275c2d784bb481c9f3ac6f54eab8
+run_name: bright-shrew-69
+run_uuid: 1f8e275c2d784bb481c9f3ac6f54eab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664715520
+status: 3
+tags: []
+user_id: houston

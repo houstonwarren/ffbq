@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/2566ec2504624ab38672626236bfbe32/artifacts
+end_time: 1698114342752
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 2566ec2504624ab38672626236bfbe32
+run_name: invincible-bass-197
+run_uuid: 2566ec2504624ab38672626236bfbe32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114342694
+status: 3
+tags: []
+user_id: houston

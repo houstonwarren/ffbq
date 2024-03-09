@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/3c215f49ebb74c5a90eee094a3c023ff/artifacts
+end_time: 1701660028170
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 3c215f49ebb74c5a90eee094a3c023ff
+run_name: treasured-owl-934
+run_uuid: 3c215f49ebb74c5a90eee094a3c023ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660028019
+status: 3
+tags: []
+user_id: houston

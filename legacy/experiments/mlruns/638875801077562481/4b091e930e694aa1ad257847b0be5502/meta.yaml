@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4b091e930e694aa1ad257847b0be5502/artifacts
+end_time: 1701667966004
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4b091e930e694aa1ad257847b0be5502
+run_name: redolent-squid-828
+run_uuid: 4b091e930e694aa1ad257847b0be5502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667965835
+status: 3
+tags: []
+user_id: houston

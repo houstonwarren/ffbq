@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/63cdb608125242d48f2bc6d32b1b06dd/artifacts
+end_time: 1697194206797
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 63cdb608125242d48f2bc6d32b1b06dd
+run_name: invincible-wasp-730
+run_uuid: 63cdb608125242d48f2bc6d32b1b06dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194206778
+status: 3
+tags: []
+user_id: houston

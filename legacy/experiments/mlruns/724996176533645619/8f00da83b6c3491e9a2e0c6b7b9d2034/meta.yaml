@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8f00da83b6c3491e9a2e0c6b7b9d2034/artifacts
+end_time: 1697194450865
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8f00da83b6c3491e9a2e0c6b7b9d2034
+run_name: unleashed-panda-368
+run_uuid: 8f00da83b6c3491e9a2e0c6b7b9d2034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194450842
+status: 3
+tags: []
+user_id: houston

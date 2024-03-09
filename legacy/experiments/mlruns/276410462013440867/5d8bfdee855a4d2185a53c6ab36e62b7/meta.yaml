@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5d8bfdee855a4d2185a53c6ab36e62b7/artifacts
+end_time: 1697195941210
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5d8bfdee855a4d2185a53c6ab36e62b7
+run_name: resilient-panda-394
+run_uuid: 5d8bfdee855a4d2185a53c6ab36e62b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941196
+status: 3
+tags: []
+user_id: houston

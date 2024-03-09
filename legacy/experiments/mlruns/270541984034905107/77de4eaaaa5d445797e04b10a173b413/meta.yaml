@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/77de4eaaaa5d445797e04b10a173b413/artifacts
+end_time: 1697440793276
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 77de4eaaaa5d445797e04b10a173b413
+run_name: youthful-auk-537
+run_uuid: 77de4eaaaa5d445797e04b10a173b413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440793226
+status: 3
+tags: []
+user_id: houston

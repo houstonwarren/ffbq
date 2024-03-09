@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1f380e3195574937869f13efc7384637/artifacts
+end_time: 1697198006678
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1f380e3195574937869f13efc7384637
+run_name: grandiose-dog-389
+run_uuid: 1f380e3195574937869f13efc7384637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006658
+status: 3
+tags: []
+user_id: houston

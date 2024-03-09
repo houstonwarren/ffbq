@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/acba06a59a7340759dcf3c1a6abd4892/artifacts
+deleted_time: 1701665274136
+end_time: 1701664631396
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: acba06a59a7340759dcf3c1a6abd4892
+run_name: defiant-fowl-704
+run_uuid: acba06a59a7340759dcf3c1a6abd4892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664631360
+status: 3
+tags: []
+user_id: houston

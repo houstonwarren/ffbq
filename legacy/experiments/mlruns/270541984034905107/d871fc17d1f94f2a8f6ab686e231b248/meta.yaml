@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d871fc17d1f94f2a8f6ab686e231b248/artifacts
+end_time: 1697440711074
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d871fc17d1f94f2a8f6ab686e231b248
+run_name: upbeat-flea-365
+run_uuid: d871fc17d1f94f2a8f6ab686e231b248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440711023
+status: 3
+tags: []
+user_id: houston

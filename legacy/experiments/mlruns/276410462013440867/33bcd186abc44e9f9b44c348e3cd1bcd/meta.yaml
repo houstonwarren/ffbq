@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/33bcd186abc44e9f9b44c348e3cd1bcd/artifacts
+end_time: 1697198040591
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 33bcd186abc44e9f9b44c348e3cd1bcd
+run_name: honorable-gnat-385
+run_uuid: 33bcd186abc44e9f9b44c348e3cd1bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198040571
+status: 3
+tags: []
+user_id: houston

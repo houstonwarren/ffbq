@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a9de0741bbc144b2bb58858eb452ca37/artifacts
+end_time: 1701660249359
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a9de0741bbc144b2bb58858eb452ca37
+run_name: selective-roo-162
+run_uuid: a9de0741bbc144b2bb58858eb452ca37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660249298
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/9a1598ae2c674b2985af9a8b2a24f621/artifacts
+end_time: 1697440793579
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 9a1598ae2c674b2985af9a8b2a24f621
+run_name: beautiful-eel-761
+run_uuid: 9a1598ae2c674b2985af9a8b2a24f621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440793527
+status: 3
+tags: []
+user_id: houston

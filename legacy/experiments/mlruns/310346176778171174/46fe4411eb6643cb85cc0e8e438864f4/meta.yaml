@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/46fe4411eb6643cb85cc0e8e438864f4/artifacts
+end_time: 1696909010167
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 46fe4411eb6643cb85cc0e8e438864f4
+run_name: sincere-moth-436
+run_uuid: 46fe4411eb6643cb85cc0e8e438864f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010157
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/49cecec1faa94045a67bdbb3712835d0/artifacts
+end_time: 1697360316575
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 49cecec1faa94045a67bdbb3712835d0
+run_name: blushing-deer-942
+run_uuid: 49cecec1faa94045a67bdbb3712835d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360316523
+status: 3
+tags: []
+user_id: houston

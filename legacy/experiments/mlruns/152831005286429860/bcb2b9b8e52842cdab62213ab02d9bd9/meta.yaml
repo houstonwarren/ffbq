@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/bcb2b9b8e52842cdab62213ab02d9bd9/artifacts
+end_time: 1697360269858
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: bcb2b9b8e52842cdab62213ab02d9bd9
+run_name: nosy-rook-799
+run_uuid: bcb2b9b8e52842cdab62213ab02d9bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360269800
+status: 3
+tags: []
+user_id: houston

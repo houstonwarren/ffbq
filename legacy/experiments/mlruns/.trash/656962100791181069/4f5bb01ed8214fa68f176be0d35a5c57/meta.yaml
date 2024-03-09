@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4f5bb01ed8214fa68f176be0d35a5c57/artifacts
+deleted_time: 1701665274136
+end_time: 1701664920312
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4f5bb01ed8214fa68f176be0d35a5c57
+run_name: rebellious-flea-845
+run_uuid: 4f5bb01ed8214fa68f176be0d35a5c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664920250
+status: 3
+tags: []
+user_id: houston

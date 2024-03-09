@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/3f1fcccc2be04aedb0b8f4445a6e3984/artifacts
+deleted_time: 1701665274136
+end_time: 1701664888741
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 3f1fcccc2be04aedb0b8f4445a6e3984
+run_name: bittersweet-dove-986
+run_uuid: 3f1fcccc2be04aedb0b8f4445a6e3984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664888662
+status: 3
+tags: []
+user_id: houston

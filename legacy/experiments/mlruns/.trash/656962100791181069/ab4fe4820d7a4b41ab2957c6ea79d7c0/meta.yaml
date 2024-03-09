@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ab4fe4820d7a4b41ab2957c6ea79d7c0/artifacts
+deleted_time: 1701665274136
+end_time: 1701664752761
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ab4fe4820d7a4b41ab2957c6ea79d7c0
+run_name: grandiose-bug-181
+run_uuid: ab4fe4820d7a4b41ab2957c6ea79d7c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664752726
+status: 3
+tags: []
+user_id: houston

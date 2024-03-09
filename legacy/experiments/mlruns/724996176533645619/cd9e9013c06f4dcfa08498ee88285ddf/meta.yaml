@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/cd9e9013c06f4dcfa08498ee88285ddf/artifacts
+end_time: 1697193817886
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: cd9e9013c06f4dcfa08498ee88285ddf
+run_name: gifted-hare-137
+run_uuid: cd9e9013c06f4dcfa08498ee88285ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817872
+status: 3
+tags: []
+user_id: houston

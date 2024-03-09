@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8dcca0dadab3458599510784e7154c64/artifacts
+end_time: 1697193964762
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8dcca0dadab3458599510784e7154c64
+run_name: intrigued-finch-133
+run_uuid: 8dcca0dadab3458599510784e7154c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193964747
+status: 3
+tags: []
+user_id: houston

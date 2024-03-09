@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/72efb9932dca4f358b340104ee48210a/artifacts
+end_time: 1696909010249
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 72efb9932dca4f358b340104ee48210a
+run_name: grandiose-bear-922
+run_uuid: 72efb9932dca4f358b340104ee48210a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010240
+status: 3
+tags: []
+user_id: houston

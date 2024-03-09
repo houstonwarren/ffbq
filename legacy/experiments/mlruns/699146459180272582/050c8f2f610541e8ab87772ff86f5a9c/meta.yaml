@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/050c8f2f610541e8ab87772ff86f5a9c/artifacts
+end_time: 1698115194780
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 050c8f2f610541e8ab87772ff86f5a9c
+run_name: capricious-mink-229
+run_uuid: 050c8f2f610541e8ab87772ff86f5a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115194719
+status: 3
+tags: []
+user_id: houston

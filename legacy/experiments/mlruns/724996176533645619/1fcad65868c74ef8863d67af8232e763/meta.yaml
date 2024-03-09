@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1fcad65868c74ef8863d67af8232e763/artifacts
+end_time: 1697193659616
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1fcad65868c74ef8863d67af8232e763
+run_name: upbeat-shark-754
+run_uuid: 1fcad65868c74ef8863d67af8232e763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659548
+status: 3
+tags: []
+user_id: houston

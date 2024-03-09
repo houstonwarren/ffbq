@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4d72a5e8319a40ceb21f84788153adbb/artifacts
+end_time: 1697194172189
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4d72a5e8319a40ceb21f84788153adbb
+run_name: shivering-toad-656
+run_uuid: 4d72a5e8319a40ceb21f84788153adbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194172172
+status: 3
+tags: []
+user_id: houston

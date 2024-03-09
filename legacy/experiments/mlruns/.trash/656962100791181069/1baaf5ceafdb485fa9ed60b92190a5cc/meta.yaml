@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1baaf5ceafdb485fa9ed60b92190a5cc/artifacts
+deleted_time: 1701665274136
+end_time: 1701664739415
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1baaf5ceafdb485fa9ed60b92190a5cc
+run_name: valuable-sponge-357
+run_uuid: 1baaf5ceafdb485fa9ed60b92190a5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664739393
+status: 3
+tags: []
+user_id: houston

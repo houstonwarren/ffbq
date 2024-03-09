@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/6fbedc840ca54773bd685452e8376333/artifacts
+end_time: 1697195622491
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 6fbedc840ca54773bd685452e8376333
+run_name: wistful-moth-295
+run_uuid: 6fbedc840ca54773bd685452e8376333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622478
+status: 3
+tags: []
+user_id: houston

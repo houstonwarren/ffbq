@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/79c09ffcd8e245b99d7c3781b215e45c/artifacts
+end_time: 1701660387017
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 79c09ffcd8e245b99d7c3781b215e45c
+run_name: skillful-zebra-239
+run_uuid: 79c09ffcd8e245b99d7c3781b215e45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660386886
+status: 3
+tags: []
+user_id: houston

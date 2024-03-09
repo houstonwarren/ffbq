@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/44b0448e671d4875a813153010650f14/artifacts
+end_time: 1697196717935
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 44b0448e671d4875a813153010650f14
+run_name: glamorous-crab-725
+run_uuid: 44b0448e671d4875a813153010650f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196717852
+status: 3
+tags: []
+user_id: houston

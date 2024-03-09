@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f496f86b03cd4352be893ae026302e59/artifacts
+end_time: 1701667673116
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f496f86b03cd4352be893ae026302e59
+run_name: dashing-ox-223
+run_uuid: f496f86b03cd4352be893ae026302e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667672990
+status: 3
+tags: []
+user_id: houston

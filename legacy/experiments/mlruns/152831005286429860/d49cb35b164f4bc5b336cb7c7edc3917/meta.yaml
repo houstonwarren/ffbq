@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/d49cb35b164f4bc5b336cb7c7edc3917/artifacts
+end_time: 1697360372091
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: d49cb35b164f4bc5b336cb7c7edc3917
+run_name: adventurous-mink-143
+run_uuid: d49cb35b164f4bc5b336cb7c7edc3917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360372037
+status: 3
+tags: []
+user_id: houston

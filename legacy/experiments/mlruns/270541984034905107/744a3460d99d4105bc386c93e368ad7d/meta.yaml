@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/744a3460d99d4105bc386c93e368ad7d/artifacts
+end_time: 1697440687341
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 744a3460d99d4105bc386c93e368ad7d
+run_name: kindly-calf-312
+run_uuid: 744a3460d99d4105bc386c93e368ad7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440687291
+status: 3
+tags: []
+user_id: houston

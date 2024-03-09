@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4cbce86bb24e4d97b1a2e2d42ccef7a8/artifacts
+end_time: 1697194346174
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4cbce86bb24e4d97b1a2e2d42ccef7a8
+run_name: nimble-dove-833
+run_uuid: 4cbce86bb24e4d97b1a2e2d42ccef7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194346155
+status: 3
+tags: []
+user_id: houston

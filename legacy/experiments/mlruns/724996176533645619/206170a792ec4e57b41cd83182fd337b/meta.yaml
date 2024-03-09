@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/206170a792ec4e57b41cd83182fd337b/artifacts
+end_time: 1697193759897
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 206170a792ec4e57b41cd83182fd337b
+run_name: enchanting-fish-143
+run_uuid: 206170a792ec4e57b41cd83182fd337b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193759882
+status: 3
+tags: []
+user_id: houston

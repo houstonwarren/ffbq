@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/964403f0cf2845cfa6d93e05d7279a3f/artifacts
+end_time: 1697440460787
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 964403f0cf2845cfa6d93e05d7279a3f
+run_name: fortunate-jay-451
+run_uuid: 964403f0cf2845cfa6d93e05d7279a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440460740
+status: 3
+tags: []
+user_id: houston

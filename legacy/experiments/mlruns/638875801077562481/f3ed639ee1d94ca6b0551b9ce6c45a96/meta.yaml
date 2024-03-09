@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f3ed639ee1d94ca6b0551b9ce6c45a96/artifacts
+end_time: 1701667658359
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f3ed639ee1d94ca6b0551b9ce6c45a96
+run_name: efficient-cub-674
+run_uuid: f3ed639ee1d94ca6b0551b9ce6c45a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667658237
+status: 3
+tags: []
+user_id: houston

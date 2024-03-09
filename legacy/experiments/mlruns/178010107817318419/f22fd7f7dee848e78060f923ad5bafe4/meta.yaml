@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f22fd7f7dee848e78060f923ad5bafe4/artifacts
+end_time: 1697359180599
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f22fd7f7dee848e78060f923ad5bafe4
+run_name: sincere-crab-759
+run_uuid: f22fd7f7dee848e78060f923ad5bafe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359180546
+status: 3
+tags: []
+user_id: houston

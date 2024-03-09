@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/387869ce1510489d81b62224539513cb/artifacts
+end_time: 1698115039836
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 387869ce1510489d81b62224539513cb
+run_name: ambitious-ray-777
+run_uuid: 387869ce1510489d81b62224539513cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115039773
+status: 3
+tags: []
+user_id: houston

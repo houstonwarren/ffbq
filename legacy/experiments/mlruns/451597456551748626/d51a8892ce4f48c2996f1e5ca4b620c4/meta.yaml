@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d51a8892ce4f48c2996f1e5ca4b620c4/artifacts
+end_time: 1701660463428
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d51a8892ce4f48c2996f1e5ca4b620c4
+run_name: salty-zebra-890
+run_uuid: d51a8892ce4f48c2996f1e5ca4b620c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660463318
+status: 3
+tags: []
+user_id: houston

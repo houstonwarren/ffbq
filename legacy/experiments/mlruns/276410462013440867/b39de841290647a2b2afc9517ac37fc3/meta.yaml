@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b39de841290647a2b2afc9517ac37fc3/artifacts
+end_time: 1697195902813
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b39de841290647a2b2afc9517ac37fc3
+run_name: caring-duck-846
+run_uuid: b39de841290647a2b2afc9517ac37fc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902799
+status: 3
+tags: []
+user_id: houston

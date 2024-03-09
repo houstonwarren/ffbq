@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/24448a6b0668453ca7bf70503e17afbc/artifacts
+end_time: 1701667803638
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 24448a6b0668453ca7bf70503e17afbc
+run_name: crawling-moose-962
+run_uuid: 24448a6b0668453ca7bf70503e17afbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667803478
+status: 3
+tags: []
+user_id: houston

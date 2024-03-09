@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/073932099976422c8b9d0a0828c5bc6e/artifacts
+end_time: 1701667650923
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 073932099976422c8b9d0a0828c5bc6e
+run_name: sneaky-zebra-166
+run_uuid: 073932099976422c8b9d0a0828c5bc6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667650789
+status: 3
+tags: []
+user_id: houston

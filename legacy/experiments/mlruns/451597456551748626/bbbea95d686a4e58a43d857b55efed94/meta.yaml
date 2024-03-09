@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/bbbea95d686a4e58a43d857b55efed94/artifacts
+end_time: 1701660355570
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: bbbea95d686a4e58a43d857b55efed94
+run_name: debonair-ape-296
+run_uuid: bbbea95d686a4e58a43d857b55efed94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660355499
+status: 3
+tags: []
+user_id: houston

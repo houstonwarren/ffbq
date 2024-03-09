@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/14c642ad242345d09fd460f67553ce56/artifacts
+end_time: 1697195588829
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 14c642ad242345d09fd460f67553ce56
+run_name: mercurial-frog-245
+run_uuid: 14c642ad242345d09fd460f67553ce56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195588741
+status: 3
+tags: []
+user_id: houston

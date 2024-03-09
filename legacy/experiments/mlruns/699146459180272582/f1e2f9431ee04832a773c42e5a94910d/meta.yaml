@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f1e2f9431ee04832a773c42e5a94910d/artifacts
+end_time: 1698114960002
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f1e2f9431ee04832a773c42e5a94910d
+run_name: placid-mule-422
+run_uuid: f1e2f9431ee04832a773c42e5a94910d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114959940
+status: 3
+tags: []
+user_id: houston

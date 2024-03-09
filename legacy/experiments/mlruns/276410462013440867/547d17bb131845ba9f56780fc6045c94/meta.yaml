@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/547d17bb131845ba9f56780fc6045c94/artifacts
+end_time: 1697198176128
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 547d17bb131845ba9f56780fc6045c94
+run_name: exultant-fawn-569
+run_uuid: 547d17bb131845ba9f56780fc6045c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198176106
+status: 3
+tags: []
+user_id: houston

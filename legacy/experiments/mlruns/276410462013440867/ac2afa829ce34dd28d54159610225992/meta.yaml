@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ac2afa829ce34dd28d54159610225992/artifacts
+end_time: 1697196887710
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ac2afa829ce34dd28d54159610225992
+run_name: unleashed-swan-296
+run_uuid: ac2afa829ce34dd28d54159610225992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887694
+status: 3
+tags: []
+user_id: houston

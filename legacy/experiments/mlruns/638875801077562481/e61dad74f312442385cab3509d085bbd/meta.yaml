@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e61dad74f312442385cab3509d085bbd/artifacts
+end_time: 1701667720587
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e61dad74f312442385cab3509d085bbd
+run_name: fortunate-elk-944
+run_uuid: e61dad74f312442385cab3509d085bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667720423
+status: 3
+tags: []
+user_id: houston

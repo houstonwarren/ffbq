@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/2a39e0417fcf44aa8915e6d6461d339d/artifacts
+end_time: 1697441176174
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 2a39e0417fcf44aa8915e6d6461d339d
+run_name: stately-sheep-21
+run_uuid: 2a39e0417fcf44aa8915e6d6461d339d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441176055
+status: 3
+tags: []
+user_id: houston

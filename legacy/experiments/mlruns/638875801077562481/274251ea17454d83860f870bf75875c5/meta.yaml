@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/274251ea17454d83860f870bf75875c5/artifacts
+end_time: 1701667951739
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 274251ea17454d83860f870bf75875c5
+run_name: entertaining-yak-202
+run_uuid: 274251ea17454d83860f870bf75875c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667951584
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/35859b0286944248969ba4b51aaf0b84/artifacts
+end_time: 1701667780369
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 35859b0286944248969ba4b51aaf0b84
+run_name: handsome-panda-82
+run_uuid: 35859b0286944248969ba4b51aaf0b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667780226
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/43626444318f40cba28eebe8bf94983d/artifacts
+end_time: 1697359173881
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 43626444318f40cba28eebe8bf94983d
+run_name: upset-roo-532
+run_uuid: 43626444318f40cba28eebe8bf94983d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359173827
+status: 3
+tags: []
+user_id: houston

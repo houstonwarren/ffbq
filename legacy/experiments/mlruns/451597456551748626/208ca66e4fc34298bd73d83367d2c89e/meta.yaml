@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/208ca66e4fc34298bd73d83367d2c89e/artifacts
+end_time: 1701660496638
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 208ca66e4fc34298bd73d83367d2c89e
+run_name: trusting-vole-622
+run_uuid: 208ca66e4fc34298bd73d83367d2c89e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660496531
+status: 3
+tags: []
+user_id: houston

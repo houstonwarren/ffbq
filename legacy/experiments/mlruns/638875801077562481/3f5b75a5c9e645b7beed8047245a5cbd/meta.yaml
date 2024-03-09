@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3f5b75a5c9e645b7beed8047245a5cbd/artifacts
+end_time: 1701667564090
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3f5b75a5c9e645b7beed8047245a5cbd
+run_name: whimsical-mouse-700
+run_uuid: 3f5b75a5c9e645b7beed8047245a5cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667563969
+status: 3
+tags: []
+user_id: houston

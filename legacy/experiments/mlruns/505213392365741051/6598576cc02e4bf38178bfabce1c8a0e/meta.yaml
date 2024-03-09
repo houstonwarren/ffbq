@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6598576cc02e4bf38178bfabce1c8a0e/artifacts
+end_time: 1701659582426
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6598576cc02e4bf38178bfabce1c8a0e
+run_name: luxuriant-cat-939
+run_uuid: 6598576cc02e4bf38178bfabce1c8a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659582306
+status: 3
+tags: []
+user_id: houston

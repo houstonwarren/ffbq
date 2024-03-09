@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1621ac5478914407ab5ad99da3fb307a/artifacts
+end_time: 1701667404049
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1621ac5478914407ab5ad99da3fb307a
+run_name: omniscient-crab-954
+run_uuid: 1621ac5478914407ab5ad99da3fb307a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667403976
+status: 3
+tags: []
+user_id: houston

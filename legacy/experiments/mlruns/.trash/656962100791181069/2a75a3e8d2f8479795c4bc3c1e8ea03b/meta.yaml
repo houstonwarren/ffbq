@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/2a75a3e8d2f8479795c4bc3c1e8ea03b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664754641
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 2a75a3e8d2f8479795c4bc3c1e8ea03b
+run_name: sedate-crab-929
+run_uuid: 2a75a3e8d2f8479795c4bc3c1e8ea03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664754609
+status: 3
+tags: []
+user_id: houston

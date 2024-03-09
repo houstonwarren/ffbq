@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/9e3213d29df9458699653d7b21706de3/artifacts
+end_time: 1701660437022
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 9e3213d29df9458699653d7b21706de3
+run_name: enthused-auk-547
+run_uuid: 9e3213d29df9458699653d7b21706de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660436920
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8daccb2e7e574d8f9ae3cf107ccd115c/artifacts
+end_time: 1697194042130
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8daccb2e7e574d8f9ae3cf107ccd115c
+run_name: calm-panda-635
+run_uuid: 8daccb2e7e574d8f9ae3cf107ccd115c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042065
+status: 3
+tags: []
+user_id: houston

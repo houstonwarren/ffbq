@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/963cd319c4364287a9420d6f116a9b4a/artifacts
+end_time: 1697440979613
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 963cd319c4364287a9420d6f116a9b4a
+run_name: victorious-boar-752
+run_uuid: 963cd319c4364287a9420d6f116a9b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440979557
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c0531296973b48f1aadd083b1bc843be/artifacts
+end_time: 1697196717760
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c0531296973b48f1aadd083b1bc843be
+run_name: indecisive-sloth-272
+run_uuid: c0531296973b48f1aadd083b1bc843be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196717693
+status: 3
+tags: []
+user_id: houston

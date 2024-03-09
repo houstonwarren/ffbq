@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/324049367557882781/bfa4835c332741d69a278b708c089f00/artifacts
+end_time: 1698054460668
+entry_point_name: ''
+experiment_id: '324049367557882781'
+lifecycle_stage: active
+run_id: bfa4835c332741d69a278b708c089f00
+run_name: unequaled-snipe-422
+run_uuid: bfa4835c332741d69a278b708c089f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698054460618
+status: 3
+tags: []
+user_id: houston

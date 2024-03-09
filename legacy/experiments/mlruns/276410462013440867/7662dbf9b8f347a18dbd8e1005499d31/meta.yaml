@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7662dbf9b8f347a18dbd8e1005499d31/artifacts
+end_time: 1697197800284
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7662dbf9b8f347a18dbd8e1005499d31
+run_name: skittish-mouse-691
+run_uuid: 7662dbf9b8f347a18dbd8e1005499d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197800250
+status: 3
+tags: []
+user_id: houston

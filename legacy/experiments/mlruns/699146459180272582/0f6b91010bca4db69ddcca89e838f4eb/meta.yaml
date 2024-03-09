@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0f6b91010bca4db69ddcca89e838f4eb/artifacts
+end_time: 1698113626905
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0f6b91010bca4db69ddcca89e838f4eb
+run_name: painted-shrimp-935
+run_uuid: 0f6b91010bca4db69ddcca89e838f4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113626851
+status: 3
+tags: []
+user_id: houston

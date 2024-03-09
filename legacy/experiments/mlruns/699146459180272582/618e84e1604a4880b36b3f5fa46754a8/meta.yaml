@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/618e84e1604a4880b36b3f5fa46754a8/artifacts
+end_time: 1698114138144
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 618e84e1604a4880b36b3f5fa46754a8
+run_name: welcoming-pig-276
+run_uuid: 618e84e1604a4880b36b3f5fa46754a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114138080
+status: 3
+tags: []
+user_id: houston

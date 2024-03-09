@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/5d4c131837c54426ae837186f1a39d0e/artifacts
+deleted_time: 1701667207383
+end_time: 1701665284608
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: 5d4c131837c54426ae837186f1a39d0e
+run_name: colorful-sow-297
+run_uuid: 5d4c131837c54426ae837186f1a39d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665284587
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/8a1b91d82de44896a18c87c047dd6d71/artifacts
+end_time: 1701659516109
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 8a1b91d82de44896a18c87c047dd6d71
+run_name: gregarious-crab-129
+run_uuid: 8a1b91d82de44896a18c87c047dd6d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659515995
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e2ea1e43e7d34f03b38ee7be4c45fcbd/artifacts
+end_time: 1701660264931
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e2ea1e43e7d34f03b38ee7be4c45fcbd
+run_name: puzzled-squirrel-421
+run_uuid: e2ea1e43e7d34f03b38ee7be4c45fcbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660264868
+status: 3
+tags: []
+user_id: houston

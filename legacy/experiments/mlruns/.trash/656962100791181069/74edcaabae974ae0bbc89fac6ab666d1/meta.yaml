@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/74edcaabae974ae0bbc89fac6ab666d1/artifacts
+deleted_time: 1701665274136
+end_time: 1701664646484
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 74edcaabae974ae0bbc89fac6ab666d1
+run_name: powerful-panda-212
+run_uuid: 74edcaabae974ae0bbc89fac6ab666d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664646466
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f756c34b5e474f76a9d4d15efe2dd7eb/artifacts
+end_time: 1697440604191
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f756c34b5e474f76a9d4d15efe2dd7eb
+run_name: incongruous-mink-849
+run_uuid: f756c34b5e474f76a9d4d15efe2dd7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440604142
+status: 3
+tags: []
+user_id: houston

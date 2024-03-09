@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/747c64e4945d4c35bbe72e59417029bd/artifacts
+end_time: 1701667896299
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 747c64e4945d4c35bbe72e59417029bd
+run_name: placid-slug-27
+run_uuid: 747c64e4945d4c35bbe72e59417029bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667896135
+status: 3
+tags: []
+user_id: houston

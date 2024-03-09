@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/1e423832fb4547768fff66489d4e355d/artifacts
+end_time: 1698113459010
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 1e423832fb4547768fff66489d4e355d
+run_name: skillful-shrike-981
+run_uuid: 1e423832fb4547768fff66489d4e355d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458958
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/792320b5e16142e4be89bff2e2bd815b/artifacts
+end_time: 1697440525024
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 792320b5e16142e4be89bff2e2bd815b
+run_name: whimsical-fly-54
+run_uuid: 792320b5e16142e4be89bff2e2bd815b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440524971
+status: 3
+tags: []
+user_id: houston

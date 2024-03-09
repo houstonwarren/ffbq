@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/689355e34ed640099813c19301be34d5/artifacts
+end_time: 1701667590976
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 689355e34ed640099813c19301be34d5
+run_name: puzzled-trout-40
+run_uuid: 689355e34ed640099813c19301be34d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667590861
+status: 3
+tags: []
+user_id: houston

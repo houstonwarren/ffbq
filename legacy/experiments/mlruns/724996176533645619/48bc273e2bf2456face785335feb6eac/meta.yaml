@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/48bc273e2bf2456face785335feb6eac/artifacts
+end_time: 1697193949277
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 48bc273e2bf2456face785335feb6eac
+run_name: enchanting-croc-857
+run_uuid: 48bc273e2bf2456face785335feb6eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193949262
+status: 3
+tags: []
+user_id: houston

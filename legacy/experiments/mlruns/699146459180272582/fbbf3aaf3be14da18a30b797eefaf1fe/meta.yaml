@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/fbbf3aaf3be14da18a30b797eefaf1fe/artifacts
+end_time: 1698113470781
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: fbbf3aaf3be14da18a30b797eefaf1fe
+run_name: righteous-jay-492
+run_uuid: fbbf3aaf3be14da18a30b797eefaf1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113470729
+status: 3
+tags: []
+user_id: houston

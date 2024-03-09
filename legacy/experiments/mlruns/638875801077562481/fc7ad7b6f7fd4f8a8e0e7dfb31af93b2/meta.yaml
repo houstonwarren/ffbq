@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fc7ad7b6f7fd4f8a8e0e7dfb31af93b2/artifacts
+end_time: 1701667821955
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fc7ad7b6f7fd4f8a8e0e7dfb31af93b2
+run_name: righteous-toad-877
+run_uuid: fc7ad7b6f7fd4f8a8e0e7dfb31af93b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667821818
+status: 3
+tags: []
+user_id: houston

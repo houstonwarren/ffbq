@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/91091c725ae54e10873b4c5e54c97ddb/artifacts
+end_time: 1697194797434
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 91091c725ae54e10873b4c5e54c97ddb
+run_name: bright-flea-143
+run_uuid: 91091c725ae54e10873b4c5e54c97ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797413
+status: 3
+tags: []
+user_id: houston

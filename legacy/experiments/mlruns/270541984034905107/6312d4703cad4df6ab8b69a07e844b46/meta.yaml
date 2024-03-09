@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/6312d4703cad4df6ab8b69a07e844b46/artifacts
+end_time: 1697441395635
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 6312d4703cad4df6ab8b69a07e844b46
+run_name: painted-shark-806
+run_uuid: 6312d4703cad4df6ab8b69a07e844b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441395580
+status: 3
+tags: []
+user_id: houston

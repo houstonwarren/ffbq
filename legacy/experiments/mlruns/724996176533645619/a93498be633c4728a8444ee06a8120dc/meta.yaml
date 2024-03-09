@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a93498be633c4728a8444ee06a8120dc/artifacts
+end_time: 1697193743082
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a93498be633c4728a8444ee06a8120dc
+run_name: abundant-snipe-864
+run_uuid: a93498be633c4728a8444ee06a8120dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193743070
+status: 3
+tags: []
+user_id: houston

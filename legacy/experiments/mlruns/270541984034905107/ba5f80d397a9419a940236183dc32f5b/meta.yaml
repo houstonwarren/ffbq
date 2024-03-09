@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ba5f80d397a9419a940236183dc32f5b/artifacts
+end_time: 1697440509143
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ba5f80d397a9419a940236183dc32f5b
+run_name: worried-fawn-417
+run_uuid: ba5f80d397a9419a940236183dc32f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440509095
+status: 3
+tags: []
+user_id: houston

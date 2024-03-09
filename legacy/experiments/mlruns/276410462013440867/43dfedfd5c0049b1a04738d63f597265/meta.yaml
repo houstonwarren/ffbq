@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/43dfedfd5c0049b1a04738d63f597265/artifacts
+end_time: 1697195622326
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 43dfedfd5c0049b1a04738d63f597265
+run_name: gifted-conch-216
+run_uuid: 43dfedfd5c0049b1a04738d63f597265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622313
+status: 3
+tags: []
+user_id: houston

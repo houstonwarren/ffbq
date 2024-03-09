@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b54df0ad750e43ac84d5e6ded67739ab/artifacts
+end_time: 1697194517452
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b54df0ad750e43ac84d5e6ded67739ab
+run_name: capricious-sheep-976
+run_uuid: b54df0ad750e43ac84d5e6ded67739ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194517433
+status: 3
+tags: []
+user_id: houston

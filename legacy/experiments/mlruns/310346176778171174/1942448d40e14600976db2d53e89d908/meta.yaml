@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/1942448d40e14600976db2d53e89d908/artifacts
+end_time: 1696909205505
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 1942448d40e14600976db2d53e89d908
+run_name: secretive-sheep-489
+run_uuid: 1942448d40e14600976db2d53e89d908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909205495
+status: 3
+tags: []
+user_id: houston

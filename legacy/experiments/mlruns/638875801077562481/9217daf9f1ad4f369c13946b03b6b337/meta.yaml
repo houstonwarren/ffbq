@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9217daf9f1ad4f369c13946b03b6b337/artifacts
+end_time: 1701667805847
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9217daf9f1ad4f369c13946b03b6b337
+run_name: defiant-mare-619
+run_uuid: 9217daf9f1ad4f369c13946b03b6b337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667805693
+status: 3
+tags: []
+user_id: houston

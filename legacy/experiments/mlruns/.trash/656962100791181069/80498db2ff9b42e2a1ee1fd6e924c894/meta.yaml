@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/80498db2ff9b42e2a1ee1fd6e924c894/artifacts
+deleted_time: 1701665274136
+end_time: 1701664683669
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 80498db2ff9b42e2a1ee1fd6e924c894
+run_name: masked-bear-337
+run_uuid: 80498db2ff9b42e2a1ee1fd6e924c894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664683630
+status: 3
+tags: []
+user_id: houston

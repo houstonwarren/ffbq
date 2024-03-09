@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7660293dd33549bd90367033ab1a627f/artifacts
+end_time: 1701659534202
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7660293dd33549bd90367033ab1a627f
+run_name: defiant-grouse-64
+run_uuid: 7660293dd33549bd90367033ab1a627f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659534010
+status: 3
+tags: []
+user_id: houston

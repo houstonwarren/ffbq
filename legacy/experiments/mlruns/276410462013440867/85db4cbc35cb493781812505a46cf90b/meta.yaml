@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/85db4cbc35cb493781812505a46cf90b/artifacts
+end_time: 1697197904499
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 85db4cbc35cb493781812505a46cf90b
+run_name: enthused-mule-408
+run_uuid: 85db4cbc35cb493781812505a46cf90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197904479
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d2ae4b189d634128acfc6d566688417b/artifacts
+end_time: 1697440675112
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d2ae4b189d634128acfc6d566688417b
+run_name: respected-moth-389
+run_uuid: d2ae4b189d634128acfc6d566688417b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440675059
+status: 3
+tags: []
+user_id: houston

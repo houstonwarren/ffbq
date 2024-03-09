@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/7808e7d0dd694aca8ec28fd3f792540f/artifacts
+end_time: 1697194073406
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 7808e7d0dd694aca8ec28fd3f792540f
+run_name: illustrious-goat-217
+run_uuid: 7808e7d0dd694aca8ec28fd3f792540f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194073388
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b891b6d17e644e38b971182b272075bc/artifacts
+end_time: 1701667918827
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b891b6d17e644e38b971182b272075bc
+run_name: fearless-newt-823
+run_uuid: b891b6d17e644e38b971182b272075bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667918667
+status: 3
+tags: []
+user_id: houston

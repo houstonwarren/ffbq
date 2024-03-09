@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dd4bc8a2ea744d3a9b1a74aab2f302dd/artifacts
+end_time: 1701667492131
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dd4bc8a2ea744d3a9b1a74aab2f302dd
+run_name: overjoyed-pig-947
+run_uuid: dd4bc8a2ea744d3a9b1a74aab2f302dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667491994
+status: 3
+tags: []
+user_id: houston

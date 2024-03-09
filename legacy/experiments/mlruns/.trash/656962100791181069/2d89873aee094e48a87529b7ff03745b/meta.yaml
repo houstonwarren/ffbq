@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/2d89873aee094e48a87529b7ff03745b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664649109
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 2d89873aee094e48a87529b7ff03745b
+run_name: sedate-snipe-205
+run_uuid: 2d89873aee094e48a87529b7ff03745b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664649076
+status: 3
+tags: []
+user_id: houston

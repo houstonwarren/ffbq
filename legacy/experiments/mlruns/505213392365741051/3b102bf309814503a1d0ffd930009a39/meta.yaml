@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/3b102bf309814503a1d0ffd930009a39/artifacts
+end_time: 1701659430378
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 3b102bf309814503a1d0ffd930009a39
+run_name: bright-sponge-204
+run_uuid: 3b102bf309814503a1d0ffd930009a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659430231
+status: 3
+tags: []
+user_id: houston

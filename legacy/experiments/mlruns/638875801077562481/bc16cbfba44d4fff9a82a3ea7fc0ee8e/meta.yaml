@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bc16cbfba44d4fff9a82a3ea7fc0ee8e/artifacts
+end_time: 1701667906411
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bc16cbfba44d4fff9a82a3ea7fc0ee8e
+run_name: industrious-bat-530
+run_uuid: bc16cbfba44d4fff9a82a3ea7fc0ee8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667906246
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7c8b20625351438e9968979f29a56397/artifacts
+end_time: 1701659461137
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7c8b20625351438e9968979f29a56397
+run_name: selective-zebra-896
+run_uuid: 7c8b20625351438e9968979f29a56397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659460996
+status: 3
+tags: []
+user_id: houston

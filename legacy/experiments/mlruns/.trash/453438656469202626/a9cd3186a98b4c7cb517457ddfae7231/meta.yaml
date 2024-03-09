@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/a9cd3186a98b4c7cb517457ddfae7231/artifacts
+deleted_time: 1701659398061
+end_time: 1701658637296
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: a9cd3186a98b4c7cb517457ddfae7231
+run_name: classy-worm-461
+run_uuid: a9cd3186a98b4c7cb517457ddfae7231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658637173
+status: 3
+tags: []
+user_id: houston

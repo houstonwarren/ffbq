@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bf4faa30171e4477b9468c834b22f7a3/artifacts
+end_time: 1697196547323
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bf4faa30171e4477b9468c834b22f7a3
+run_name: smiling-horse-146
+run_uuid: bf4faa30171e4477b9468c834b22f7a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547308
+status: 3
+tags: []
+user_id: houston

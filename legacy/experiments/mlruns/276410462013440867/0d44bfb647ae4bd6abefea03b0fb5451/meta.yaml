@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/0d44bfb647ae4bd6abefea03b0fb5451/artifacts
+end_time: 1697198569737
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 0d44bfb647ae4bd6abefea03b0fb5451
+run_name: sedate-kit-168
+run_uuid: 0d44bfb647ae4bd6abefea03b0fb5451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569715
+status: 3
+tags: []
+user_id: houston

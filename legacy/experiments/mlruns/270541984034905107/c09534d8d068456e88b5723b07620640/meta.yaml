@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c09534d8d068456e88b5723b07620640/artifacts
+end_time: 1697440813853
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c09534d8d068456e88b5723b07620640
+run_name: placid-pig-289
+run_uuid: c09534d8d068456e88b5723b07620640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440813801
+status: 3
+tags: []
+user_id: houston

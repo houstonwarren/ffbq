@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/c0060d1d804e4c628f6ce08ef4104087/artifacts
+end_time: 1697194135146
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: c0060d1d804e4c628f6ce08ef4104087
+run_name: mercurial-sloth-696
+run_uuid: c0060d1d804e4c628f6ce08ef4104087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194135129
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/579d2fc9b76042cbb3852852b8b0b325/artifacts
+end_time: 1697359140372
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 579d2fc9b76042cbb3852852b8b0b325
+run_name: unruly-crow-131
+run_uuid: 579d2fc9b76042cbb3852852b8b0b325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359140318
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b232bbdd32b1480bb3959257ecbb4099/artifacts
+end_time: 1697440477062
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b232bbdd32b1480bb3959257ecbb4099
+run_name: thoughtful-cub-351
+run_uuid: b232bbdd32b1480bb3959257ecbb4099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440477015
+status: 3
+tags: []
+user_id: houston

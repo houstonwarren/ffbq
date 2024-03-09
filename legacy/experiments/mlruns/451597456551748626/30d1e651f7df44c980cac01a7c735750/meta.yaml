@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/30d1e651f7df44c980cac01a7c735750/artifacts
+end_time: 1701660512505
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 30d1e651f7df44c980cac01a7c735750
+run_name: nervous-fish-904
+run_uuid: 30d1e651f7df44c980cac01a7c735750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660512398
+status: 3
+tags: []
+user_id: houston

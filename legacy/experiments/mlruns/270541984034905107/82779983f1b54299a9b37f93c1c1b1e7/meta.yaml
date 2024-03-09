@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/82779983f1b54299a9b37f93c1c1b1e7/artifacts
+end_time: 1697442342127
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 82779983f1b54299a9b37f93c1c1b1e7
+run_name: suave-panda-499
+run_uuid: 82779983f1b54299a9b37f93c1c1b1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442342069
+status: 3
+tags: []
+user_id: houston

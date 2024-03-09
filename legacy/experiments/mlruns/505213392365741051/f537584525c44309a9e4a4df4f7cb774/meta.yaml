@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f537584525c44309a9e4a4df4f7cb774/artifacts
+end_time: 1701659487951
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f537584525c44309a9e4a4df4f7cb774
+run_name: brawny-mink-700
+run_uuid: f537584525c44309a9e4a4df4f7cb774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659487828
+status: 3
+tags: []
+user_id: houston

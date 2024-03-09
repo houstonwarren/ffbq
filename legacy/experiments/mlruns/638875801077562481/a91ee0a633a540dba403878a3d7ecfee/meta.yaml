@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a91ee0a633a540dba403878a3d7ecfee/artifacts
+end_time: 1701667656234
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a91ee0a633a540dba403878a3d7ecfee
+run_name: fun-sow-132
+run_uuid: a91ee0a633a540dba403878a3d7ecfee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667656116
+status: 3
+tags: []
+user_id: houston

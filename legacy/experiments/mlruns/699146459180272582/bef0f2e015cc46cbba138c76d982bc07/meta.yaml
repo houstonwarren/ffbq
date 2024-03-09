@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bef0f2e015cc46cbba138c76d982bc07/artifacts
+end_time: 1698113599562
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bef0f2e015cc46cbba138c76d982bc07
+run_name: melodic-asp-906
+run_uuid: bef0f2e015cc46cbba138c76d982bc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599507
+status: 3
+tags: []
+user_id: houston

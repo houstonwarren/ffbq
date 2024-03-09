@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/36e389ebea894d158d2b4dd2b447148d/artifacts
+end_time: 1697360359249
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 36e389ebea894d158d2b4dd2b447148d
+run_name: bemused-shrew-990
+run_uuid: 36e389ebea894d158d2b4dd2b447148d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360359196
+status: 3
+tags: []
+user_id: houston

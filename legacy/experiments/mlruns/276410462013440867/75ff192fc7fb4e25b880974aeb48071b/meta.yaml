@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/75ff192fc7fb4e25b880974aeb48071b/artifacts
+end_time: 1697196372894
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 75ff192fc7fb4e25b880974aeb48071b
+run_name: sophisticated-ox-698
+run_uuid: 75ff192fc7fb4e25b880974aeb48071b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196372826
+status: 3
+tags: []
+user_id: houston

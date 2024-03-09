@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c13cc7789af74dbcb2c812d84bba1863/artifacts
+deleted_time: 1701665274136
+end_time: 1701664694806
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c13cc7789af74dbcb2c812d84bba1863
+run_name: incongruous-rat-999
+run_uuid: c13cc7789af74dbcb2c812d84bba1863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664694777
+status: 3
+tags: []
+user_id: houston

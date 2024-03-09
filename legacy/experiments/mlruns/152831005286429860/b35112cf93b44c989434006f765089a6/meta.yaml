@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/b35112cf93b44c989434006f765089a6/artifacts
+end_time: 1697360367495
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: b35112cf93b44c989434006f765089a6
+run_name: gregarious-asp-204
+run_uuid: b35112cf93b44c989434006f765089a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360367437
+status: 3
+tags: []
+user_id: houston

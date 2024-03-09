@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e181a15402524938be314cf283cbadc7/artifacts
+end_time: 1697442492043
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e181a15402524938be314cf283cbadc7
+run_name: bemused-stoat-420
+run_uuid: e181a15402524938be314cf283cbadc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442491985
+status: 3
+tags: []
+user_id: houston

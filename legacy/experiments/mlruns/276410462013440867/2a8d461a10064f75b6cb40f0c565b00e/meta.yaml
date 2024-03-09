@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2a8d461a10064f75b6cb40f0c565b00e/artifacts
+end_time: 1697195748443
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2a8d461a10064f75b6cb40f0c565b00e
+run_name: righteous-sheep-645
+run_uuid: 2a8d461a10064f75b6cb40f0c565b00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748429
+status: 3
+tags: []
+user_id: houston

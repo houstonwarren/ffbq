@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/94d71cc8a6cb44749f3e24102f745390/artifacts
+end_time: 1701660274351
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 94d71cc8a6cb44749f3e24102f745390
+run_name: luxuriant-shoat-727
+run_uuid: 94d71cc8a6cb44749f3e24102f745390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660274250
+status: 3
+tags: []
+user_id: houston

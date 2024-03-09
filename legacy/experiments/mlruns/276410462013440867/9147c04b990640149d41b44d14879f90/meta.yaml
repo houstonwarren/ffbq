@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9147c04b990640149d41b44d14879f90/artifacts
+end_time: 1697197233819
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9147c04b990640149d41b44d14879f90
+run_name: clumsy-shrike-215
+run_uuid: 9147c04b990640149d41b44d14879f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197233802
+status: 3
+tags: []
+user_id: houston

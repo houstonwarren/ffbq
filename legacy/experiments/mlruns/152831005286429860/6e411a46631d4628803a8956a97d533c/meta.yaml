@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/6e411a46631d4628803a8956a97d533c/artifacts
+end_time: 1697360269647
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 6e411a46631d4628803a8956a97d533c
+run_name: adaptable-frog-110
+run_uuid: 6e411a46631d4628803a8956a97d533c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360269561
+status: 3
+tags: []
+user_id: houston

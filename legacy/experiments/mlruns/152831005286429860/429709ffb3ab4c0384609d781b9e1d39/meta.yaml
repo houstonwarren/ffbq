@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/429709ffb3ab4c0384609d781b9e1d39/artifacts
+end_time: 1697360331353
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 429709ffb3ab4c0384609d781b9e1d39
+run_name: magnificent-mole-877
+run_uuid: 429709ffb3ab4c0384609d781b9e1d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360331300
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fb740aa5b61143f790499656e4509700/artifacts
+end_time: 1697359161790
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fb740aa5b61143f790499656e4509700
+run_name: sassy-asp-263
+run_uuid: fb740aa5b61143f790499656e4509700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359161737
+status: 3
+tags: []
+user_id: houston

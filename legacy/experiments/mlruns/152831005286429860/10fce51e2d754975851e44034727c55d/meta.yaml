@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/10fce51e2d754975851e44034727c55d/artifacts
+end_time: 1697360352082
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 10fce51e2d754975851e44034727c55d
+run_name: nebulous-kit-599
+run_uuid: 10fce51e2d754975851e44034727c55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360352029
+status: 3
+tags: []
+user_id: houston

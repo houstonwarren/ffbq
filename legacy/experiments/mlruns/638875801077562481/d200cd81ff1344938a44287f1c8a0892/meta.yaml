@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d200cd81ff1344938a44287f1c8a0892/artifacts
+end_time: 1701667492322
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d200cd81ff1344938a44287f1c8a0892
+run_name: silent-newt-757
+run_uuid: d200cd81ff1344938a44287f1c8a0892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667492236
+status: 3
+tags: []
+user_id: houston

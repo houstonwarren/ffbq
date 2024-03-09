@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/5073abce14144fdf95116c24d3c91b80/artifacts
+end_time: 1697359173029
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 5073abce14144fdf95116c24d3c91b80
+run_name: lyrical-swan-924
+run_uuid: 5073abce14144fdf95116c24d3c91b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359172975
+status: 3
+tags: []
+user_id: houston

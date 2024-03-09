@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/81b9b1bc36544db099327715830ba3aa/artifacts
+end_time: 1697440895216
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 81b9b1bc36544db099327715830ba3aa
+run_name: painted-midge-690
+run_uuid: 81b9b1bc36544db099327715830ba3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440895159
+status: 3
+tags: []
+user_id: houston

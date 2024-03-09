@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/951bcd38bb8a417e98140b01f552c881/artifacts
+end_time: 1697198400811
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 951bcd38bb8a417e98140b01f552c881
+run_name: bittersweet-wasp-128
+run_uuid: 951bcd38bb8a417e98140b01f552c881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198400789
+status: 3
+tags: []
+user_id: houston

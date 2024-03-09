@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f3b7c743f9d74ac9a5a58bb7f90b528b/artifacts
+end_time: 1697359056061
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f3b7c743f9d74ac9a5a58bb7f90b528b
+run_name: burly-sow-184
+run_uuid: f3b7c743f9d74ac9a5a58bb7f90b528b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359056002
+status: 3
+tags: []
+user_id: houston

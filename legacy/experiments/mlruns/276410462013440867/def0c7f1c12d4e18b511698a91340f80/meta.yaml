@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/def0c7f1c12d4e18b511698a91340f80/artifacts
+end_time: 1697197752716
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: def0c7f1c12d4e18b511698a91340f80
+run_name: sneaky-shrew-322
+run_uuid: def0c7f1c12d4e18b511698a91340f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197752698
+status: 3
+tags: []
+user_id: houston

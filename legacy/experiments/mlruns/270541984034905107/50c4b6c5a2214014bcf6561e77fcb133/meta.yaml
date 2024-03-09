@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/50c4b6c5a2214014bcf6561e77fcb133/artifacts
+end_time: 1697440732858
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 50c4b6c5a2214014bcf6561e77fcb133
+run_name: youthful-squid-76
+run_uuid: 50c4b6c5a2214014bcf6561e77fcb133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440732806
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/52f408cdf8ac4988ab33d686a055ab2d/artifacts
+end_time: 1698113765088
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 52f408cdf8ac4988ab33d686a055ab2d
+run_name: beautiful-colt-485
+run_uuid: 52f408cdf8ac4988ab33d686a055ab2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113765031
+status: 3
+tags: []
+user_id: houston

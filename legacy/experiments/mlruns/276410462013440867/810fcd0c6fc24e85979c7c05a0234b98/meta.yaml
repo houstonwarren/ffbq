@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/810fcd0c6fc24e85979c7c05a0234b98/artifacts
+end_time: 1697195979081
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 810fcd0c6fc24e85979c7c05a0234b98
+run_name: auspicious-wolf-22
+run_uuid: 810fcd0c6fc24e85979c7c05a0234b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195979009
+status: 3
+tags: []
+user_id: houston

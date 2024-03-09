@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ac71d3a57508400fa421c5786e1d1c9b/artifacts
+end_time: 1697440793519
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ac71d3a57508400fa421c5786e1d1c9b
+run_name: delicate-bass-129
+run_uuid: ac71d3a57508400fa421c5786e1d1c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440793466
+status: 3
+tags: []
+user_id: houston

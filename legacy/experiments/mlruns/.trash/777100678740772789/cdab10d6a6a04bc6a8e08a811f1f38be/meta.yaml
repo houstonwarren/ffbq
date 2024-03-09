@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/cdab10d6a6a04bc6a8e08a811f1f38be/artifacts
+deleted_time: 1701660238886
+end_time: 1701660182152
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: cdab10d6a6a04bc6a8e08a811f1f38be
+run_name: glamorous-frog-160
+run_uuid: cdab10d6a6a04bc6a8e08a811f1f38be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660181971
+status: 3
+tags: []
+user_id: houston

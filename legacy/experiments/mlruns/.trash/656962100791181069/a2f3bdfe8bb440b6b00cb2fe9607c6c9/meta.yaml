@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a2f3bdfe8bb440b6b00cb2fe9607c6c9/artifacts
+deleted_time: 1701665274136
+end_time: 1701664713174
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a2f3bdfe8bb440b6b00cb2fe9607c6c9
+run_name: dazzling-sow-438
+run_uuid: a2f3bdfe8bb440b6b00cb2fe9607c6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664713143
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/96f8d993a37d4a4ab6038cf347b7cc3b/artifacts
+end_time: 1697442043518
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 96f8d993a37d4a4ab6038cf347b7cc3b
+run_name: adorable-toad-356
+run_uuid: 96f8d993a37d4a4ab6038cf347b7cc3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442043461
+status: 3
+tags: []
+user_id: houston

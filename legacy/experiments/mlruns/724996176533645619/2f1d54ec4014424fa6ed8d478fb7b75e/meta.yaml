@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2f1d54ec4014424fa6ed8d478fb7b75e/artifacts
+end_time: 1697193920840
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2f1d54ec4014424fa6ed8d478fb7b75e
+run_name: peaceful-skink-777
+run_uuid: 2f1d54ec4014424fa6ed8d478fb7b75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193920816
+status: 3
+tags: []
+user_id: houston

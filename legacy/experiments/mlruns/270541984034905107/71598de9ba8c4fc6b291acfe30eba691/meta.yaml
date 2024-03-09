@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/71598de9ba8c4fc6b291acfe30eba691/artifacts
+end_time: 1697440732556
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 71598de9ba8c4fc6b291acfe30eba691
+run_name: abrasive-perch-694
+run_uuid: 71598de9ba8c4fc6b291acfe30eba691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440732506
+status: 3
+tags: []
+user_id: houston

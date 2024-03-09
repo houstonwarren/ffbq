@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/96f73dd101b148efbed0b49413061b15/artifacts
+end_time: 1697193817205
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 96f73dd101b148efbed0b49413061b15
+run_name: colorful-quail-693
+run_uuid: 96f73dd101b148efbed0b49413061b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817183
+status: 3
+tags: []
+user_id: houston

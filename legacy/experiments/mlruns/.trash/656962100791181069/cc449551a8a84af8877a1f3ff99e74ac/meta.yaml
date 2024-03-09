@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/cc449551a8a84af8877a1f3ff99e74ac/artifacts
+deleted_time: 1701665274136
+end_time: 1701664602965
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: cc449551a8a84af8877a1f3ff99e74ac
+run_name: welcoming-boar-686
+run_uuid: cc449551a8a84af8877a1f3ff99e74ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664602937
+status: 3
+tags: []
+user_id: houston

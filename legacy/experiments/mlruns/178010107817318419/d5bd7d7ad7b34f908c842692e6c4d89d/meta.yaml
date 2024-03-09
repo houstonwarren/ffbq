@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d5bd7d7ad7b34f908c842692e6c4d89d/artifacts
+end_time: 1697359118557
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d5bd7d7ad7b34f908c842692e6c4d89d
+run_name: polite-fox-987
+run_uuid: d5bd7d7ad7b34f908c842692e6c4d89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359118506
+status: 3
+tags: []
+user_id: houston

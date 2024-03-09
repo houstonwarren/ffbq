@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/dd27ec9c01f44e15b82fa3fd631ad823/artifacts
+end_time: 1697359140492
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: dd27ec9c01f44e15b82fa3fd631ad823
+run_name: mercurial-fly-687
+run_uuid: dd27ec9c01f44e15b82fa3fd631ad823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359140440
+status: 3
+tags: []
+user_id: houston

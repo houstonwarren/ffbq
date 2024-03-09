@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/aff370fec081464fa93c85751a153d0e/artifacts
+end_time: 1697198231010
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: aff370fec081464fa93c85751a153d0e
+run_name: chill-wren-667
+run_uuid: aff370fec081464fa93c85751a153d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198230988
+status: 3
+tags: []
+user_id: houston

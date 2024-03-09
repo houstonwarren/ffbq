@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/a429dff427e64c108dac37cee919d219/artifacts
+deleted_time: 1701660238886
+end_time: 1701660175170
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: a429dff427e64c108dac37cee919d219
+run_name: languid-shrimp-988
+run_uuid: a429dff427e64c108dac37cee919d219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660175024
+status: 3
+tags: []
+user_id: houston

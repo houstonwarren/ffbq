@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9475b532d99044ae974c592962c4147c/artifacts
+end_time: 1697195902852
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9475b532d99044ae974c592962c4147c
+run_name: upset-frog-903
+run_uuid: 9475b532d99044ae974c592962c4147c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902838
+status: 3
+tags: []
+user_id: houston

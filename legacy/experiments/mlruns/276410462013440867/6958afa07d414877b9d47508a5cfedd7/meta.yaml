@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/6958afa07d414877b9d47508a5cfedd7/artifacts
+end_time: 1697197870434
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 6958afa07d414877b9d47508a5cfedd7
+run_name: bald-pig-689
+run_uuid: 6958afa07d414877b9d47508a5cfedd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870416
+status: 3
+tags: []
+user_id: houston

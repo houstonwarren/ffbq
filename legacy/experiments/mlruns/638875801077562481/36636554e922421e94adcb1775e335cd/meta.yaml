@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/36636554e922421e94adcb1775e335cd/artifacts
+end_time: 1701667819582
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 36636554e922421e94adcb1775e335cd
+run_name: charming-fowl-655
+run_uuid: 36636554e922421e94adcb1775e335cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667819399
+status: 3
+tags: []
+user_id: houston

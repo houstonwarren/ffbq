@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c15f58aed09f407590c0839d18621e67/artifacts
+end_time: 1698113747347
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c15f58aed09f407590c0839d18621e67
+run_name: nebulous-penguin-695
+run_uuid: c15f58aed09f407590c0839d18621e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113747290
+status: 3
+tags: []
+user_id: houston

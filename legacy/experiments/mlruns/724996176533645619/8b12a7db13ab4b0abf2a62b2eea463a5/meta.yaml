@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8b12a7db13ab4b0abf2a62b2eea463a5/artifacts
+end_time: 1697194451025
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8b12a7db13ab4b0abf2a62b2eea463a5
+run_name: capable-kit-47
+run_uuid: 8b12a7db13ab4b0abf2a62b2eea463a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194451005
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6ae0e1463e114c77bef31649a4616ffb/artifacts
+end_time: 1698113654126
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6ae0e1463e114c77bef31649a4616ffb
+run_name: nervous-zebra-435
+run_uuid: 6ae0e1463e114c77bef31649a4616ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113654072
+status: 3
+tags: []
+user_id: houston

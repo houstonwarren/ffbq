@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/1533d0f6f92f4c898cc650d06a693761/artifacts
+end_time: 1697442633257
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 1533d0f6f92f4c898cc650d06a693761
+run_name: loud-shoat-654
+run_uuid: 1533d0f6f92f4c898cc650d06a693761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442633198
+status: 3
+tags: []
+user_id: houston

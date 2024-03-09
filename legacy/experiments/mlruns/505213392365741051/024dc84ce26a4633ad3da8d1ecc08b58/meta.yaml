@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/024dc84ce26a4633ad3da8d1ecc08b58/artifacts
+end_time: 1701659619604
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 024dc84ce26a4633ad3da8d1ecc08b58
+run_name: delicate-stork-214
+run_uuid: 024dc84ce26a4633ad3da8d1ecc08b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659619451
+status: 3
+tags: []
+user_id: houston

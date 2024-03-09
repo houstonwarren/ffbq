@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/867f39193734452e9233c97ddf0adad7/artifacts
+end_time: 1697441043120
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 867f39193734452e9233c97ddf0adad7
+run_name: nebulous-calf-747
+run_uuid: 867f39193734452e9233c97ddf0adad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441043064
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1cc02cf01d6948fc9f6e9bb178979c93/artifacts
+end_time: 1697194088936
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1cc02cf01d6948fc9f6e9bb178979c93
+run_name: flawless-fish-178
+run_uuid: 1cc02cf01d6948fc9f6e9bb178979c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194088919
+status: 3
+tags: []
+user_id: houston

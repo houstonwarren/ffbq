@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c0390615f9dd4264837d9f6a9334b0a3/artifacts
+end_time: 1701667585800
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c0390615f9dd4264837d9f6a9334b0a3
+run_name: auspicious-sow-70
+run_uuid: c0390615f9dd4264837d9f6a9334b0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667585681
+status: 3
+tags: []
+user_id: houston

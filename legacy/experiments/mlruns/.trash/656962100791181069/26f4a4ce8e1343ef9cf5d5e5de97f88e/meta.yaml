@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/26f4a4ce8e1343ef9cf5d5e5de97f88e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664813837
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 26f4a4ce8e1343ef9cf5d5e5de97f88e
+run_name: unruly-yak-298
+run_uuid: 26f4a4ce8e1343ef9cf5d5e5de97f88e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664813788
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/10cce46cad664d74b603de1b5fa312f0/artifacts
+end_time: 1697193759933
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 10cce46cad664d74b603de1b5fa312f0
+run_name: welcoming-cub-98
+run_uuid: 10cce46cad664d74b603de1b5fa312f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193759920
+status: 3
+tags: []
+user_id: houston

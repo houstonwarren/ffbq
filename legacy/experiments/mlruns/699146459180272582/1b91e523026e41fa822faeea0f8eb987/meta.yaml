@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/1b91e523026e41fa822faeea0f8eb987/artifacts
+end_time: 1698113852024
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 1b91e523026e41fa822faeea0f8eb987
+run_name: hilarious-steed-181
+run_uuid: 1b91e523026e41fa822faeea0f8eb987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113851968
+status: 3
+tags: []
+user_id: houston

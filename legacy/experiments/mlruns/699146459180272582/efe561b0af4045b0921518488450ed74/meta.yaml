@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/efe561b0af4045b0921518488450ed74/artifacts
+end_time: 1698113985732
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: efe561b0af4045b0921518488450ed74
+run_name: smiling-penguin-176
+run_uuid: efe561b0af4045b0921518488450ed74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113985670
+status: 3
+tags: []
+user_id: houston

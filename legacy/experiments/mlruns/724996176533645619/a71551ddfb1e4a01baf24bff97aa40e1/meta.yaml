@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a71551ddfb1e4a01baf24bff97aa40e1/artifacts
+end_time: 1697193920896
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a71551ddfb1e4a01baf24bff97aa40e1
+run_name: powerful-eel-976
+run_uuid: a71551ddfb1e4a01baf24bff97aa40e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193920873
+status: 3
+tags: []
+user_id: houston

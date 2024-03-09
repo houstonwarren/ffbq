@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/85dc84658e9f4fbd8bb83fe6748c9082/artifacts
+end_time: 1697440874878
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 85dc84658e9f4fbd8bb83fe6748c9082
+run_name: illustrious-toad-749
+run_uuid: 85dc84658e9f4fbd8bb83fe6748c9082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440874823
+status: 3
+tags: []
+user_id: houston

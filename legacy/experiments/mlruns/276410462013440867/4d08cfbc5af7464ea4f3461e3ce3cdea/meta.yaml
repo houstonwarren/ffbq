@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4d08cfbc5af7464ea4f3461e3ce3cdea/artifacts
+end_time: 1697198109281
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4d08cfbc5af7464ea4f3461e3ce3cdea
+run_name: crawling-moth-278
+run_uuid: 4d08cfbc5af7464ea4f3461e3ce3cdea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198109239
+status: 3
+tags: []
+user_id: houston

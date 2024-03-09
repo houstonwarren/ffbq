@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7d6769b265d241f3945d9862b6806d46/artifacts
+end_time: 1697440651058
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7d6769b265d241f3945d9862b6806d46
+run_name: entertaining-ray-496
+run_uuid: 7d6769b265d241f3945d9862b6806d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651008
+status: 3
+tags: []
+user_id: houston

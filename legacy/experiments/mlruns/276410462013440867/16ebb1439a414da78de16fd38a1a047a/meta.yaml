@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/16ebb1439a414da78de16fd38a1a047a/artifacts
+end_time: 1697198569626
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 16ebb1439a414da78de16fd38a1a047a
+run_name: delightful-moose-603
+run_uuid: 16ebb1439a414da78de16fd38a1a047a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569604
+status: 3
+tags: []
+user_id: houston

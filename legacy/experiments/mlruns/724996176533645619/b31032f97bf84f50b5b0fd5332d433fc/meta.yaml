@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b31032f97bf84f50b5b0fd5332d433fc/artifacts
+end_time: 1697193726352
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b31032f97bf84f50b5b0fd5332d433fc
+run_name: puzzled-fish-885
+run_uuid: b31032f97bf84f50b5b0fd5332d433fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726339
+status: 3
+tags: []
+user_id: houston

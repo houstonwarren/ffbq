@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2f74280c54ea4182abf6913ae29435f7/artifacts
+end_time: 1701660281827
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2f74280c54ea4182abf6913ae29435f7
+run_name: wise-gull-102
+run_uuid: 2f74280c54ea4182abf6913ae29435f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660281750
+status: 3
+tags: []
+user_id: houston

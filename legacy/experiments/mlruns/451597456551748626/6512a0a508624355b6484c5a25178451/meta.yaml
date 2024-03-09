@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/6512a0a508624355b6484c5a25178451/artifacts
+end_time: 1701660275387
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 6512a0a508624355b6484c5a25178451
+run_name: adventurous-ape-300
+run_uuid: 6512a0a508624355b6484c5a25178451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660275316
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bf5aa6e4c88144ea8dc044ce4e75ce33/artifacts
+end_time: 1697198513875
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bf5aa6e4c88144ea8dc044ce4e75ce33
+run_name: glamorous-crow-858
+run_uuid: bf5aa6e4c88144ea8dc044ce4e75ce33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513847
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/331beac4519942ffa5ed48f411b2d735/artifacts
+end_time: 1701667714638
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 331beac4519942ffa5ed48f411b2d735
+run_name: stately-gnat-760
+run_uuid: 331beac4519942ffa5ed48f411b2d735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667714515
+status: 3
+tags: []
+user_id: houston

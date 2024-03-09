@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a18109dcbdf84a2c87b75067b17026c6/artifacts
+end_time: 1697195555696
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a18109dcbdf84a2c87b75067b17026c6
+run_name: unruly-gull-528
+run_uuid: a18109dcbdf84a2c87b75067b17026c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555684
+status: 3
+tags: []
+user_id: houston

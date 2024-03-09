@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e9a73799610d4b7387127f2b6716420c/artifacts
+end_time: 1701660485951
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e9a73799610d4b7387127f2b6716420c
+run_name: beautiful-rook-40
+run_uuid: e9a73799610d4b7387127f2b6716420c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660485804
+status: 3
+tags: []
+user_id: houston

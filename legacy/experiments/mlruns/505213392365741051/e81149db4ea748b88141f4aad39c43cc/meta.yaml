@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e81149db4ea748b88141f4aad39c43cc/artifacts
+end_time: 1701659569194
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e81149db4ea748b88141f4aad39c43cc
+run_name: bald-sponge-635
+run_uuid: e81149db4ea748b88141f4aad39c43cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659569050
+status: 3
+tags: []
+user_id: houston

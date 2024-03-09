@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9aaab1ce843446549ff0343483ea42db/artifacts
+deleted_time: 1701665274136
+end_time: 1701664683725
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9aaab1ce843446549ff0343483ea42db
+run_name: delightful-crow-477
+run_uuid: 9aaab1ce843446549ff0343483ea42db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664683700
+status: 3
+tags: []
+user_id: houston

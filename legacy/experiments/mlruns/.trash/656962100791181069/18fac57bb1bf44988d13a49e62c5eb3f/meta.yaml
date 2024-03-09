@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/18fac57bb1bf44988d13a49e62c5eb3f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664877478
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 18fac57bb1bf44988d13a49e62c5eb3f
+run_name: unleashed-panda-455
+run_uuid: 18fac57bb1bf44988d13a49e62c5eb3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664877431
+status: 3
+tags: []
+user_id: houston

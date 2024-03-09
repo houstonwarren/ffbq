@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/12352bf6bbc24a2ab67ecc6a934281c0/artifacts
+end_time: 1701660314658
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 12352bf6bbc24a2ab67ecc6a934281c0
+run_name: adorable-grouse-346
+run_uuid: 12352bf6bbc24a2ab67ecc6a934281c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660314581
+status: 3
+tags: []
+user_id: houston

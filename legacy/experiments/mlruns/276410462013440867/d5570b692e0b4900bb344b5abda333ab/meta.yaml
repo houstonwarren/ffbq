@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d5570b692e0b4900bb344b5abda333ab/artifacts
+end_time: 1697197835575
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d5570b692e0b4900bb344b5abda333ab
+run_name: industrious-cow-277
+run_uuid: d5570b692e0b4900bb344b5abda333ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197835556
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a1d4a8e954fe4c5d9439ed88664107a3/artifacts
+end_time: 1698115115229
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a1d4a8e954fe4c5d9439ed88664107a3
+run_name: shivering-tern-833
+run_uuid: a1d4a8e954fe4c5d9439ed88664107a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115115166
+status: 3
+tags: []
+user_id: houston

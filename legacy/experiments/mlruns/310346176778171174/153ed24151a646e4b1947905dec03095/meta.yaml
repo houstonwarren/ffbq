@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/153ed24151a646e4b1947905dec03095/artifacts
+end_time: 1696909043713
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 153ed24151a646e4b1947905dec03095
+run_name: peaceful-bird-275
+run_uuid: 153ed24151a646e4b1947905dec03095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909043695
+status: 3
+tags: []
+user_id: houston

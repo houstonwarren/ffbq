@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7a4adde82f5748b69519087e47014305/artifacts
+end_time: 1701667743108
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7a4adde82f5748b69519087e47014305
+run_name: wise-rook-876
+run_uuid: 7a4adde82f5748b69519087e47014305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667742969
+status: 3
+tags: []
+user_id: houston

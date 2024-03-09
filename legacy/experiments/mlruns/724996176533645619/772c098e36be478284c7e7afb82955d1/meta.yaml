@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/772c098e36be478284c7e7afb82955d1/artifacts
+end_time: 1697194518795
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 772c098e36be478284c7e7afb82955d1
+run_name: adaptable-vole-595
+run_uuid: 772c098e36be478284c7e7afb82955d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194518759
+status: 3
+tags: []
+user_id: houston

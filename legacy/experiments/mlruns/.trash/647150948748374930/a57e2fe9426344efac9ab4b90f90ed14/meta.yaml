@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/a57e2fe9426344efac9ab4b90f90ed14/artifacts
+deleted_time: 1701667207383
+end_time: 1701665284202
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: a57e2fe9426344efac9ab4b90f90ed14
+run_name: tasteful-snake-419
+run_uuid: a57e2fe9426344efac9ab4b90f90ed14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665284186
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2d1114b3f3b44d9d909a18e216a90676/artifacts
+end_time: 1697359108243
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2d1114b3f3b44d9d909a18e216a90676
+run_name: blushing-loon-943
+run_uuid: 2d1114b3f3b44d9d909a18e216a90676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359108194
+status: 3
+tags: []
+user_id: houston

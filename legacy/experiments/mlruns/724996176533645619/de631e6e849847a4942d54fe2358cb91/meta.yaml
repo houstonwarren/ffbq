@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/de631e6e849847a4942d54fe2358cb91/artifacts
+end_time: 1697194741701
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: de631e6e849847a4942d54fe2358cb91
+run_name: useful-doe-913
+run_uuid: de631e6e849847a4942d54fe2358cb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741680
+status: 3
+tags: []
+user_id: houston

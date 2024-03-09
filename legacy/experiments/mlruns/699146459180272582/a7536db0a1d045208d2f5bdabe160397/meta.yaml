@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a7536db0a1d045208d2f5bdabe160397/artifacts
+end_time: 1698113470596
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a7536db0a1d045208d2f5bdabe160397
+run_name: defiant-loon-987
+run_uuid: a7536db0a1d045208d2f5bdabe160397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113470544
+status: 3
+tags: []
+user_id: houston

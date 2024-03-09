@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/84f28bc6727f4bc1b1e2b294bb75635f/artifacts
+end_time: 1701667725095
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 84f28bc6727f4bc1b1e2b294bb75635f
+run_name: legendary-stork-617
+run_uuid: 84f28bc6727f4bc1b1e2b294bb75635f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667724963
+status: 3
+tags: []
+user_id: houston

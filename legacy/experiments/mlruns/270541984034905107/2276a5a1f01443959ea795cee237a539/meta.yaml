@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/2276a5a1f01443959ea795cee237a539/artifacts
+end_time: 1697440460679
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 2276a5a1f01443959ea795cee237a539
+run_name: resilient-hen-966
+run_uuid: 2276a5a1f01443959ea795cee237a539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440460632
+status: 3
+tags: []
+user_id: houston

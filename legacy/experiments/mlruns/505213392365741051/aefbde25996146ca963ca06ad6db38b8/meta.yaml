@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/aefbde25996146ca963ca06ad6db38b8/artifacts
+end_time: 1701659548560
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: aefbde25996146ca963ca06ad6db38b8
+run_name: amazing-seal-998
+run_uuid: aefbde25996146ca963ca06ad6db38b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659548402
+status: 3
+tags: []
+user_id: houston

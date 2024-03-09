@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dbb2f560d47947a8b2a290f188da9579/artifacts
+end_time: 1701667859860
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dbb2f560d47947a8b2a290f188da9579
+run_name: judicious-squid-252
+run_uuid: dbb2f560d47947a8b2a290f188da9579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667859714
+status: 3
+tags: []
+user_id: houston

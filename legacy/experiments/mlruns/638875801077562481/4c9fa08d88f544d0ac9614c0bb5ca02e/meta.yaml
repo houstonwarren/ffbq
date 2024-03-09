@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4c9fa08d88f544d0ac9614c0bb5ca02e/artifacts
+end_time: 1701667646424
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4c9fa08d88f544d0ac9614c0bb5ca02e
+run_name: righteous-croc-968
+run_uuid: 4c9fa08d88f544d0ac9614c0bb5ca02e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667646296
+status: 3
+tags: []
+user_id: houston

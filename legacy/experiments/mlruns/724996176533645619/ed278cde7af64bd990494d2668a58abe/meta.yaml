@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ed278cde7af64bd990494d2668a58abe/artifacts
+end_time: 1697194011221
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ed278cde7af64bd990494d2668a58abe
+run_name: luminous-crane-207
+run_uuid: ed278cde7af64bd990494d2668a58abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194011204
+status: 3
+tags: []
+user_id: houston

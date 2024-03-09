@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/606b4452864a4145a96fb1adbe2f8451/artifacts
+end_time: 1701659589770
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 606b4452864a4145a96fb1adbe2f8451
+run_name: marvelous-fowl-212
+run_uuid: 606b4452864a4145a96fb1adbe2f8451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659589615
+status: 3
+tags: []
+user_id: houston

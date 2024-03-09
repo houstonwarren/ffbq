@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/de5944fb16af4575a7d1690d9264e2cc/artifacts
+end_time: 1698114291618
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: de5944fb16af4575a7d1690d9264e2cc
+run_name: rumbling-chimp-438
+run_uuid: de5944fb16af4575a7d1690d9264e2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291558
+status: 3
+tags: []
+user_id: houston

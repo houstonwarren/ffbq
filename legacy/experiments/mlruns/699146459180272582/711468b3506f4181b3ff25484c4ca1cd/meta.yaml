@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/711468b3506f4181b3ff25484c4ca1cd/artifacts
+end_time: 1698113506977
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 711468b3506f4181b3ff25484c4ca1cd
+run_name: bustling-panda-189
+run_uuid: 711468b3506f4181b3ff25484c4ca1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113506925
+status: 3
+tags: []
+user_id: houston

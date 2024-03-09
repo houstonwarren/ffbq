@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/58a54175a43541bf9a26919c136d6b52/artifacts
+end_time: 1697194136664
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 58a54175a43541bf9a26919c136d6b52
+run_name: clumsy-vole-25
+run_uuid: 58a54175a43541bf9a26919c136d6b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194136634
+status: 3
+tags: []
+user_id: houston

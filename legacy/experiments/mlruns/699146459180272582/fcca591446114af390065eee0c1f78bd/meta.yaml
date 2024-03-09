@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/fcca591446114af390065eee0c1f78bd/artifacts
+end_time: 1698113421026
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: fcca591446114af390065eee0c1f78bd
+run_name: languid-mule-61
+run_uuid: fcca591446114af390065eee0c1f78bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113420972
+status: 3
+tags: []
+user_id: houston

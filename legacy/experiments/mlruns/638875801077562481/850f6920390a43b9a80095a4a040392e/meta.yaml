@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/850f6920390a43b9a80095a4a040392e/artifacts
+end_time: 1701667727771
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 850f6920390a43b9a80095a4a040392e
+run_name: rebellious-goose-888
+run_uuid: 850f6920390a43b9a80095a4a040392e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667727631
+status: 3
+tags: []
+user_id: houston

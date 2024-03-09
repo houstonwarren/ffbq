@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c6cd202c23764836be8f466dab726e65/artifacts
+deleted_time: 1701665274136
+end_time: 1701664778816
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c6cd202c23764836be8f466dab726e65
+run_name: spiffy-bee-157
+run_uuid: c6cd202c23764836be8f466dab726e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664778793
+status: 3
+tags: []
+user_id: houston

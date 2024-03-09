@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/eeac4ef9bb194bd0a5992af46ce23acd/artifacts
+end_time: 1698115195683
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: eeac4ef9bb194bd0a5992af46ce23acd
+run_name: blushing-bird-255
+run_uuid: eeac4ef9bb194bd0a5992af46ce23acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115195619
+status: 3
+tags: []
+user_id: houston

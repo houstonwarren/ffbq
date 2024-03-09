@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/4518a5edc54b43e7b47dd08356798b37/artifacts
+end_time: 1698114394566
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 4518a5edc54b43e7b47dd08356798b37
+run_name: smiling-kit-673
+run_uuid: 4518a5edc54b43e7b47dd08356798b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114394506
+status: 3
+tags: []
+user_id: houston

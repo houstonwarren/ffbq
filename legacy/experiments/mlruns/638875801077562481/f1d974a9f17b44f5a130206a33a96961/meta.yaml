@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f1d974a9f17b44f5a130206a33a96961/artifacts
+end_time: 1701667592841
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f1d974a9f17b44f5a130206a33a96961
+run_name: mysterious-mare-868
+run_uuid: f1d974a9f17b44f5a130206a33a96961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667592709
+status: 3
+tags: []
+user_id: houston

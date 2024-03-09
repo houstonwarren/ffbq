@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/23a1e0606c4c44f09a333f812c1e1d5f/artifacts
+end_time: 1701659446821
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 23a1e0606c4c44f09a333f812c1e1d5f
+run_name: popular-shad-333
+run_uuid: 23a1e0606c4c44f09a333f812c1e1d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659446661
+status: 3
+tags: []
+user_id: houston

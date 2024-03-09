@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d77b0b9cba514da39e1d81f4d64e8f66/artifacts
+end_time: 1701660379059
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d77b0b9cba514da39e1d81f4d64e8f66
+run_name: industrious-hawk-801
+run_uuid: d77b0b9cba514da39e1d81f4d64e8f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660378964
+status: 3
+tags: []
+user_id: houston

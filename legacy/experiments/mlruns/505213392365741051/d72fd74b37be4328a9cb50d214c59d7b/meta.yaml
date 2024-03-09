@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d72fd74b37be4328a9cb50d214c59d7b/artifacts
+end_time: 1701659472800
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d72fd74b37be4328a9cb50d214c59d7b
+run_name: unequaled-finch-484
+run_uuid: d72fd74b37be4328a9cb50d214c59d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659472672
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f55cc19f8e2b4135b78933d2af064480/artifacts
+end_time: 1698114800996
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f55cc19f8e2b4135b78933d2af064480
+run_name: debonair-kit-978
+run_uuid: f55cc19f8e2b4135b78933d2af064480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114800935
+status: 3
+tags: []
+user_id: houston

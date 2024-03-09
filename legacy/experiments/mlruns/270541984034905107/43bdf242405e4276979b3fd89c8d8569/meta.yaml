@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/43bdf242405e4276979b3fd89c8d8569/artifacts
+end_time: 1697440508408
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 43bdf242405e4276979b3fd89c8d8569
+run_name: valuable-sheep-564
+run_uuid: 43bdf242405e4276979b3fd89c8d8569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440508333
+status: 3
+tags: []
+user_id: houston

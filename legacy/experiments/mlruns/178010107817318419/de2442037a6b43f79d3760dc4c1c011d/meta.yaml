@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/de2442037a6b43f79d3760dc4c1c011d/artifacts
+end_time: 1697359182299
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: de2442037a6b43f79d3760dc4c1c011d
+run_name: delicate-cat-286
+run_uuid: de2442037a6b43f79d3760dc4c1c011d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359182245
+status: 3
+tags: []
+user_id: houston

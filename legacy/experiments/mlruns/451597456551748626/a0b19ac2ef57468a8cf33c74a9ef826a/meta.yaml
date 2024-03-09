@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a0b19ac2ef57468a8cf33c74a9ef826a/artifacts
+end_time: 1701660339811
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a0b19ac2ef57468a8cf33c74a9ef826a
+run_name: clean-mouse-388
+run_uuid: a0b19ac2ef57468a8cf33c74a9ef826a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660339737
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/89d42cef8fa04973a63b6e1dc511ab28/artifacts
+end_time: 1697359123254
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 89d42cef8fa04973a63b6e1dc511ab28
+run_name: bemused-ray-910
+run_uuid: 89d42cef8fa04973a63b6e1dc511ab28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359123188
+status: 3
+tags: []
+user_id: houston

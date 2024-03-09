@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4c8bcad0704d4adfbfc17eb9c2d77637/artifacts
+end_time: 1701660422403
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4c8bcad0704d4adfbfc17eb9c2d77637
+run_name: grandiose-vole-864
+run_uuid: 4c8bcad0704d4adfbfc17eb9c2d77637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660422283
+status: 3
+tags: []
+user_id: houston

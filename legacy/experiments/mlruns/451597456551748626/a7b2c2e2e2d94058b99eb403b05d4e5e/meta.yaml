@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a7b2c2e2e2d94058b99eb403b05d4e5e/artifacts
+end_time: 1701660423730
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a7b2c2e2e2d94058b99eb403b05d4e5e
+run_name: nebulous-gnu-94
+run_uuid: a7b2c2e2e2d94058b99eb403b05d4e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660423601
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/daef8e2652584539816a17a250372dbd/artifacts
+end_time: 1697360354804
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: daef8e2652584539816a17a250372dbd
+run_name: nimble-dog-136
+run_uuid: daef8e2652584539816a17a250372dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360354752
+status: 3
+tags: []
+user_id: houston

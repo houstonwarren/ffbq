@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/eca1d49dbba24fb8be67b2c961b328f9/artifacts
+end_time: 1701659495859
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: eca1d49dbba24fb8be67b2c961b328f9
+run_name: fearless-fly-878
+run_uuid: eca1d49dbba24fb8be67b2c961b328f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659495700
+status: 3
+tags: []
+user_id: houston

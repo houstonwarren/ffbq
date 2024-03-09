@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a4bc850325344df5abdfd2e7d2a96d16/artifacts
+end_time: 1698113730296
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a4bc850325344df5abdfd2e7d2a96d16
+run_name: trusting-skunk-358
+run_uuid: a4bc850325344df5abdfd2e7d2a96d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113730239
+status: 3
+tags: []
+user_id: houston

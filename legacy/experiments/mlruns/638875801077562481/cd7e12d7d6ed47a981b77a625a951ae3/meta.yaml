@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cd7e12d7d6ed47a981b77a625a951ae3/artifacts
+end_time: 1701667965743
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cd7e12d7d6ed47a981b77a625a951ae3
+run_name: fun-sloth-915
+run_uuid: cd7e12d7d6ed47a981b77a625a951ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667965533
+status: 3
+tags: []
+user_id: houston

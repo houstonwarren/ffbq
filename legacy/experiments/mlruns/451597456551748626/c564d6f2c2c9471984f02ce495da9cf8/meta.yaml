@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c564d6f2c2c9471984f02ce495da9cf8/artifacts
+end_time: 1701660262781
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c564d6f2c2c9471984f02ce495da9cf8
+run_name: big-wolf-797
+run_uuid: c564d6f2c2c9471984f02ce495da9cf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660262702
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9aa3829b600347e5826e13409d464850/artifacts
+deleted_time: 1701665274136
+end_time: 1701664802796
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9aa3829b600347e5826e13409d464850
+run_name: flawless-frog-516
+run_uuid: 9aa3829b600347e5826e13409d464850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664802764
+status: 3
+tags: []
+user_id: houston

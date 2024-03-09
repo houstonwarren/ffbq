@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d176db0dac0346ab86cd9f0c464c2dbc/artifacts
+deleted_time: 1701665274136
+end_time: 1701664724108
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d176db0dac0346ab86cd9f0c464c2dbc
+run_name: righteous-stag-670
+run_uuid: d176db0dac0346ab86cd9f0c464c2dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664724066
+status: 3
+tags: []
+user_id: houston

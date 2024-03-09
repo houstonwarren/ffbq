@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/330ed29bef64491ea2db1363440b0321/artifacts
+end_time: 1697360382975
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 330ed29bef64491ea2db1363440b0321
+run_name: dashing-ray-155
+run_uuid: 330ed29bef64491ea2db1363440b0321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360382921
+status: 3
+tags: []
+user_id: houston

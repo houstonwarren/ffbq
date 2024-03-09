@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6f82d7e7a5d14d018a0ffa21033d3cda/artifacts
+end_time: 1701659485967
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6f82d7e7a5d14d018a0ffa21033d3cda
+run_name: puzzled-horse-220
+run_uuid: 6f82d7e7a5d14d018a0ffa21033d3cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659485838
+status: 3
+tags: []
+user_id: houston

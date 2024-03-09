@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/72a3076729134053a6bfbffe40626332/artifacts
+end_time: 1697198109371
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 72a3076729134053a6bfbffe40626332
+run_name: selective-fish-691
+run_uuid: 72a3076729134053a6bfbffe40626332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198109338
+status: 3
+tags: []
+user_id: houston

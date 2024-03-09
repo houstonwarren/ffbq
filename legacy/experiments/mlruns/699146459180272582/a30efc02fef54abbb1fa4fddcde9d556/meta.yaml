@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a30efc02fef54abbb1fa4fddcde9d556/artifacts
+end_time: 1698113834576
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a30efc02fef54abbb1fa4fddcde9d556
+run_name: bold-penguin-942
+run_uuid: a30efc02fef54abbb1fa4fddcde9d556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113834519
+status: 3
+tags: []
+user_id: houston

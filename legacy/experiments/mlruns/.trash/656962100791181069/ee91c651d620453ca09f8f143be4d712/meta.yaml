@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ee91c651d620453ca09f8f143be4d712/artifacts
+deleted_time: 1701665274136
+end_time: 1701664855627
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ee91c651d620453ca09f8f143be4d712
+run_name: fortunate-foal-181
+run_uuid: ee91c651d620453ca09f8f143be4d712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664855575
+status: 3
+tags: []
+user_id: houston

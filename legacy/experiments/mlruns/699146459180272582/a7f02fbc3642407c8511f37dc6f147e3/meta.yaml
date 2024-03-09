@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a7f02fbc3642407c8511f37dc6f147e3/artifacts
+end_time: 1698114483819
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a7f02fbc3642407c8511f37dc6f147e3
+run_name: adorable-shrike-734
+run_uuid: a7f02fbc3642407c8511f37dc6f147e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114483752
+status: 3
+tags: []
+user_id: houston

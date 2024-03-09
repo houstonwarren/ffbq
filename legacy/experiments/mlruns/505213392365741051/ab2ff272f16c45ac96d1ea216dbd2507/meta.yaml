@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ab2ff272f16c45ac96d1ea216dbd2507/artifacts
+end_time: 1701659489645
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ab2ff272f16c45ac96d1ea216dbd2507
+run_name: upset-cub-797
+run_uuid: ab2ff272f16c45ac96d1ea216dbd2507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659489500
+status: 3
+tags: []
+user_id: houston

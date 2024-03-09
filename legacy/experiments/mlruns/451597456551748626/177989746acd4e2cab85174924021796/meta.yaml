@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/177989746acd4e2cab85174924021796/artifacts
+end_time: 1701660283470
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 177989746acd4e2cab85174924021796
+run_name: luxuriant-goat-518
+run_uuid: 177989746acd4e2cab85174924021796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660283390
+status: 3
+tags: []
+user_id: houston

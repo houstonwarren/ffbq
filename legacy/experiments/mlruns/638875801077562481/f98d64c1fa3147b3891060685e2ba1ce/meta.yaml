@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f98d64c1fa3147b3891060685e2ba1ce/artifacts
+end_time: 1701667440167
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f98d64c1fa3147b3891060685e2ba1ce
+run_name: rare-wolf-820
+run_uuid: f98d64c1fa3147b3891060685e2ba1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667440057
+status: 3
+tags: []
+user_id: houston

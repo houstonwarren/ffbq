@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5cc82d716be443b5941e3c77e69e173a/artifacts
+end_time: 1697193659865
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5cc82d716be443b5941e3c77e69e173a
+run_name: upbeat-sloth-444
+run_uuid: 5cc82d716be443b5941e3c77e69e173a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659855
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/62757f72ba734e5e85730fd4561c975f/artifacts
+end_time: 1697442342393
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 62757f72ba734e5e85730fd4561c975f
+run_name: able-seal-830
+run_uuid: 62757f72ba734e5e85730fd4561c975f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442342335
+status: 3
+tags: []
+user_id: houston

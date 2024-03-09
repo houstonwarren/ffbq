@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/92c5a2048cfa4f2aafd6299209f1c4ec/artifacts
+end_time: 1697193875260
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 92c5a2048cfa4f2aafd6299209f1c4ec
+run_name: worried-wren-830
+run_uuid: 92c5a2048cfa4f2aafd6299209f1c4ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193875246
+status: 3
+tags: []
+user_id: houston

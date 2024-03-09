@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/64e32decd14f4c52bfd84ff04d8ca97e/artifacts
+end_time: 1701667484084
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 64e32decd14f4c52bfd84ff04d8ca97e
+run_name: youthful-turtle-146
+run_uuid: 64e32decd14f4c52bfd84ff04d8ca97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667484008
+status: 3
+tags: []
+user_id: houston

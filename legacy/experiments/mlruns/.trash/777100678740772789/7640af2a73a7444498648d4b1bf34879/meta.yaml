@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/7640af2a73a7444498648d4b1bf34879/artifacts
+deleted_time: 1701660238886
+end_time: 1701660180751
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 7640af2a73a7444498648d4b1bf34879
+run_name: dashing-mink-651
+run_uuid: 7640af2a73a7444498648d4b1bf34879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660180586
+status: 3
+tags: []
+user_id: houston

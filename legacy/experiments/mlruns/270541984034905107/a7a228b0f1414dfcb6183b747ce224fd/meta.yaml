@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a7a228b0f1414dfcb6183b747ce224fd/artifacts
+end_time: 1697440732738
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a7a228b0f1414dfcb6183b747ce224fd
+run_name: unruly-ape-959
+run_uuid: a7a228b0f1414dfcb6183b747ce224fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440732686
+status: 3
+tags: []
+user_id: houston

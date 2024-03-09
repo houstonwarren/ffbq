@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/146461bee1684b9181696691142ea7b3/artifacts
+end_time: 1697440711369
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 146461bee1684b9181696691142ea7b3
+run_name: righteous-mule-520
+run_uuid: 146461bee1684b9181696691142ea7b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440711318
+status: 3
+tags: []
+user_id: houston

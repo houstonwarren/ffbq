@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/7417ce10c1d64177904cef8763d59397/artifacts
+end_time: 1697360317288
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 7417ce10c1d64177904cef8763d59397
+run_name: luxuriant-pig-39
+run_uuid: 7417ce10c1d64177904cef8763d59397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360317235
+status: 3
+tags: []
+user_id: houston

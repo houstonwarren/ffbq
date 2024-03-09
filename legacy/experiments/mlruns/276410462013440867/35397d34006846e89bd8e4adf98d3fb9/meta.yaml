@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/35397d34006846e89bd8e4adf98d3fb9/artifacts
+end_time: 1697197972509
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 35397d34006846e89bd8e4adf98d3fb9
+run_name: traveling-bear-676
+run_uuid: 35397d34006846e89bd8e4adf98d3fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197972472
+status: 3
+tags: []
+user_id: houston

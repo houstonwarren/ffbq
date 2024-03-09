@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/8cb544ea8d874723bbb374b565009c3d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664836952
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 8cb544ea8d874723bbb374b565009c3d
+run_name: handsome-owl-692
+run_uuid: 8cb544ea8d874723bbb374b565009c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664836898
+status: 3
+tags: []
+user_id: houston

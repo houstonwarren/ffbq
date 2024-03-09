@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/763c1420da1847fbb1663f14932b0f6e/artifacts
+end_time: 1697360342283
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 763c1420da1847fbb1663f14932b0f6e
+run_name: persistent-cow-409
+run_uuid: 763c1420da1847fbb1663f14932b0f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360342230
+status: 3
+tags: []
+user_id: houston

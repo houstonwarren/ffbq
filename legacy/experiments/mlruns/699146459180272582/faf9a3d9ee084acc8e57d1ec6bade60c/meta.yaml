@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/faf9a3d9ee084acc8e57d1ec6bade60c/artifacts
+end_time: 1698113482614
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: faf9a3d9ee084acc8e57d1ec6bade60c
+run_name: amusing-vole-695
+run_uuid: faf9a3d9ee084acc8e57d1ec6bade60c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113482564
+status: 3
+tags: []
+user_id: houston

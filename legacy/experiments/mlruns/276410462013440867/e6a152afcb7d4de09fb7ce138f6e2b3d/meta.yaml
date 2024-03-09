@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e6a152afcb7d4de09fb7ce138f6e2b3d/artifacts
+end_time: 1697195864361
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e6a152afcb7d4de09fb7ce138f6e2b3d
+run_name: enthused-perch-700
+run_uuid: e6a152afcb7d4de09fb7ce138f6e2b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195864346
+status: 3
+tags: []
+user_id: houston

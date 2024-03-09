@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/40afa06fcf704666904fd2105356bd7f/artifacts
+end_time: 1697193979962
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 40afa06fcf704666904fd2105356bd7f
+run_name: masked-stork-925
+run_uuid: 40afa06fcf704666904fd2105356bd7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193979890
+status: 3
+tags: []
+user_id: houston

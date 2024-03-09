@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/364b0e18ea45448ba75c8e97421508a0/artifacts
+end_time: 1697359119425
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 364b0e18ea45448ba75c8e97421508a0
+run_name: skillful-shad-482
+run_uuid: 364b0e18ea45448ba75c8e97421508a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359119373
+status: 3
+tags: []
+user_id: houston

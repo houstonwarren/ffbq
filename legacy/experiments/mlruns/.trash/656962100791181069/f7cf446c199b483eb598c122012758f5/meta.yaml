@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f7cf446c199b483eb598c122012758f5/artifacts
+deleted_time: 1701665274136
+end_time: 1701664815749
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f7cf446c199b483eb598c122012758f5
+run_name: rumbling-snake-726
+run_uuid: f7cf446c199b483eb598c122012758f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664815718
+status: 3
+tags: []
+user_id: houston

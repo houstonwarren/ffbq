@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/421484860eec4979990a3032ea4bff6e/artifacts
+end_time: 1697359197114
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 421484860eec4979990a3032ea4bff6e
+run_name: luminous-turtle-2
+run_uuid: 421484860eec4979990a3032ea4bff6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359197056
+status: 3
+tags: []
+user_id: houston

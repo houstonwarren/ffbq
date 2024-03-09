@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/deea95ebd8844e3a977fccc9d09b7ce7/artifacts
+deleted_time: 1701665274136
+end_time: 1701664749021
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: deea95ebd8844e3a977fccc9d09b7ce7
+run_name: able-fowl-901
+run_uuid: deea95ebd8844e3a977fccc9d09b7ce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664749001
+status: 3
+tags: []
+user_id: houston

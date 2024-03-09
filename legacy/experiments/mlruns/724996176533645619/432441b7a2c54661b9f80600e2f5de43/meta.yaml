@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/432441b7a2c54661b9f80600e2f5de43/artifacts
+end_time: 1697194741646
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 432441b7a2c54661b9f80600e2f5de43
+run_name: glamorous-horse-90
+run_uuid: 432441b7a2c54661b9f80600e2f5de43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741625
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9516976091ba41a5b4169e6e632cb4d8/artifacts
+end_time: 1697193840772
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9516976091ba41a5b4169e6e632cb4d8
+run_name: gaudy-shrew-442
+run_uuid: 9516976091ba41a5b4169e6e632cb4d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193840750
+status: 3
+tags: []
+user_id: houston

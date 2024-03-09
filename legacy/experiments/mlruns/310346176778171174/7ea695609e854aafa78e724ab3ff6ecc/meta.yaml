@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/7ea695609e854aafa78e724ab3ff6ecc/artifacts
+end_time: 1696909010145
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 7ea695609e854aafa78e724ab3ff6ecc
+run_name: righteous-snail-745
+run_uuid: 7ea695609e854aafa78e724ab3ff6ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010135
+status: 3
+tags: []
+user_id: houston

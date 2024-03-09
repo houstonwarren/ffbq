@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/98b7227c5136479c94e59250680ecae4/artifacts
+end_time: 1697359188946
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 98b7227c5136479c94e59250680ecae4
+run_name: valuable-flea-335
+run_uuid: 98b7227c5136479c94e59250680ecae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359188861
+status: 3
+tags: []
+user_id: houston

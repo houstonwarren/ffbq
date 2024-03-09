@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e8b0c56d50c54d1c8c18a06b4c66c1f2/artifacts
+end_time: 1697193948767
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e8b0c56d50c54d1c8c18a06b4c66c1f2
+run_name: agreeable-whale-854
+run_uuid: e8b0c56d50c54d1c8c18a06b4c66c1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193948751
+status: 3
+tags: []
+user_id: houston

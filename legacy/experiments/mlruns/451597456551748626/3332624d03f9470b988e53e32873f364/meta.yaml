@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3332624d03f9470b988e53e32873f364/artifacts
+end_time: 1701660255953
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3332624d03f9470b988e53e32873f364
+run_name: resilient-wren-195
+run_uuid: 3332624d03f9470b988e53e32873f364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660255901
+status: 3
+tags: []
+user_id: houston

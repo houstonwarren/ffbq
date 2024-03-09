@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/9990c3dd5e30468690a4d51a3fdbc852/artifacts
+end_time: 1696909010035
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 9990c3dd5e30468690a4d51a3fdbc852
+run_name: crawling-bear-658
+run_uuid: 9990c3dd5e30468690a4d51a3fdbc852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010018
+status: 3
+tags: []
+user_id: houston

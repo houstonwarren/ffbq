@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/f3fb90e65e0040fa907c820460b0b145/artifacts
+end_time: 1697360396376
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: f3fb90e65e0040fa907c820460b0b145
+run_name: unleashed-stoat-386
+run_uuid: f3fb90e65e0040fa907c820460b0b145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360396323
+status: 3
+tags: []
+user_id: houston

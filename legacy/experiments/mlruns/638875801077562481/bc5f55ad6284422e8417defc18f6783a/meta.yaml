@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bc5f55ad6284422e8417defc18f6783a/artifacts
+end_time: 1701667961218
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bc5f55ad6284422e8417defc18f6783a
+run_name: bedecked-boar-903
+run_uuid: bc5f55ad6284422e8417defc18f6783a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667961062
+status: 3
+tags: []
+user_id: houston

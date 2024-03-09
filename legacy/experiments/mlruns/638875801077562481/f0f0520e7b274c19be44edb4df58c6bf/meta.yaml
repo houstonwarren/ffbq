@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f0f0520e7b274c19be44edb4df58c6bf/artifacts
+end_time: 1701667928662
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f0f0520e7b274c19be44edb4df58c6bf
+run_name: zealous-croc-52
+run_uuid: f0f0520e7b274c19be44edb4df58c6bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667928514
+status: 3
+tags: []
+user_id: houston

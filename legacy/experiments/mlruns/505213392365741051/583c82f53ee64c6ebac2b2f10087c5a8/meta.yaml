@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/583c82f53ee64c6ebac2b2f10087c5a8/artifacts
+end_time: 1701659613748
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 583c82f53ee64c6ebac2b2f10087c5a8
+run_name: debonair-ox-871
+run_uuid: 583c82f53ee64c6ebac2b2f10087c5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659613623
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e30a92957b954ac8824e71f9e16fc7cb/artifacts
+end_time: 1701659530684
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e30a92957b954ac8824e71f9e16fc7cb
+run_name: youthful-koi-67
+run_uuid: e30a92957b954ac8824e71f9e16fc7cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659530544
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7b28d610fc4c44fd8a28b4173db7fcd7/artifacts
+end_time: 1701659413311
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7b28d610fc4c44fd8a28b4173db7fcd7
+run_name: awesome-kit-875
+run_uuid: 7b28d610fc4c44fd8a28b4173db7fcd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659413176
+status: 3
+tags: []
+user_id: houston

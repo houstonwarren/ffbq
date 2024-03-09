@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2960d05386244e1cbc5c43f755791a04/artifacts
+end_time: 1701667437571
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2960d05386244e1cbc5c43f755791a04
+run_name: monumental-quail-835
+run_uuid: 2960d05386244e1cbc5c43f755791a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667437486
+status: 3
+tags: []
+user_id: houston

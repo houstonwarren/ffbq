@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/b4faae50e679460294b283acad439c99/artifacts
+deleted_time: 1701665274136
+end_time: 1701664739780
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: b4faae50e679460294b283acad439c99
+run_name: skittish-boar-114
+run_uuid: b4faae50e679460294b283acad439c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664739755
+status: 3
+tags: []
+user_id: houston

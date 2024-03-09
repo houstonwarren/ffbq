@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a291b61e620b4507ba8786133e2f3484/artifacts
+end_time: 1701660461435
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a291b61e620b4507ba8786133e2f3484
+run_name: gaudy-crow-94
+run_uuid: a291b61e620b4507ba8786133e2f3484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660461284
+status: 3
+tags: []
+user_id: houston

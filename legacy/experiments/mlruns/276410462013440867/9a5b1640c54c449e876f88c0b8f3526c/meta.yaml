@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9a5b1640c54c449e876f88c0b8f3526c/artifacts
+end_time: 1697196200224
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9a5b1640c54c449e876f88c0b8f3526c
+run_name: colorful-gnat-919
+run_uuid: 9a5b1640c54c449e876f88c0b8f3526c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200142
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/98b72bdee3114d01be61d933cdc9d1f1/artifacts
+end_time: 1697359155416
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 98b72bdee3114d01be61d933cdc9d1f1
+run_name: ambitious-mouse-661
+run_uuid: 98b72bdee3114d01be61d933cdc9d1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359155361
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e391ede7c0e149748fbf96ab503d8180/artifacts
+end_time: 1701659567803
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e391ede7c0e149748fbf96ab503d8180
+run_name: righteous-snipe-997
+run_uuid: e391ede7c0e149748fbf96ab503d8180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659567656
+status: 3
+tags: []
+user_id: houston

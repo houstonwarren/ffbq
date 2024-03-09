@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a1bee0786bb34c1ebf2e6a8d9eff5b4c/artifacts
+end_time: 1701660527468
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a1bee0786bb34c1ebf2e6a8d9eff5b4c
+run_name: funny-kite-707
+run_uuid: a1bee0786bb34c1ebf2e6a8d9eff5b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660527343
+status: 3
+tags: []
+user_id: houston

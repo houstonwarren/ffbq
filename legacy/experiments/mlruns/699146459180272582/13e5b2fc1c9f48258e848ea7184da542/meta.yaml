@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/13e5b2fc1c9f48258e848ea7184da542/artifacts
+end_time: 1698115115766
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 13e5b2fc1c9f48258e848ea7184da542
+run_name: treasured-bee-237
+run_uuid: 13e5b2fc1c9f48258e848ea7184da542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115115702
+status: 3
+tags: []
+user_id: houston

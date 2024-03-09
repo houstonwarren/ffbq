@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f867710da9c845d6b8b90b614f3c84a9/artifacts
+deleted_time: 1701665274136
+end_time: 1701664789599
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f867710da9c845d6b8b90b614f3c84a9
+run_name: stylish-snail-60
+run_uuid: f867710da9c845d6b8b90b614f3c84a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664789563
+status: 3
+tags: []
+user_id: houston

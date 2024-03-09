@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d507644ec96243d38f2a944d7a95cc0a/artifacts
+end_time: 1697440558323
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d507644ec96243d38f2a944d7a95cc0a
+run_name: youthful-calf-240
+run_uuid: d507644ec96243d38f2a944d7a95cc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440558274
+status: 3
+tags: []
+user_id: houston

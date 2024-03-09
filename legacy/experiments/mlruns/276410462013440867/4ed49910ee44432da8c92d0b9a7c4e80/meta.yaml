@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4ed49910ee44432da8c92d0b9a7c4e80/artifacts
+end_time: 1697195572274
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4ed49910ee44432da8c92d0b9a7c4e80
+run_name: salty-fox-945
+run_uuid: 4ed49910ee44432da8c92d0b9a7c4e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195572263
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/6b1a522cfb124452845b1187316887af/artifacts
+deleted_time: 1701665274136
+end_time: 1701664733889
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 6b1a522cfb124452845b1187316887af
+run_name: classy-panda-44
+run_uuid: 6b1a522cfb124452845b1187316887af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664733851
+status: 3
+tags: []
+user_id: houston

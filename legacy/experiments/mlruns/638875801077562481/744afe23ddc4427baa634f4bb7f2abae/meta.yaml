@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/744afe23ddc4427baa634f4bb7f2abae/artifacts
+end_time: 1701667545231
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 744afe23ddc4427baa634f4bb7f2abae
+run_name: illustrious-mouse-39
+run_uuid: 744afe23ddc4427baa634f4bb7f2abae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667545117
+status: 3
+tags: []
+user_id: houston

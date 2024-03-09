@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/acfff18579984a26b7654a586421f15f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664797271
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: acfff18579984a26b7654a586421f15f
+run_name: bouncy-foal-716
+run_uuid: acfff18579984a26b7654a586421f15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664797241
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e1bd9cf11dff45c2b1fa0623bcc8999e/artifacts
+end_time: 1697440854649
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e1bd9cf11dff45c2b1fa0623bcc8999e
+run_name: bright-ox-164
+run_uuid: e1bd9cf11dff45c2b1fa0623bcc8999e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440854590
+status: 3
+tags: []
+user_id: houston

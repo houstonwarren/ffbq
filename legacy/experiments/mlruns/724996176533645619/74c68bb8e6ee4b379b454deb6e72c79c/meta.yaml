@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/74c68bb8e6ee4b379b454deb6e72c79c/artifacts
+end_time: 1697194741593
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 74c68bb8e6ee4b379b454deb6e72c79c
+run_name: orderly-wolf-126
+run_uuid: 74c68bb8e6ee4b379b454deb6e72c79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741572
+status: 3
+tags: []
+user_id: houston

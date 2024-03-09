@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a8f365033d3e4defa422388b2ca76577/artifacts
+end_time: 1697441042783
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a8f365033d3e4defa422388b2ca76577
+run_name: caring-smelt-635
+run_uuid: a8f365033d3e4defa422388b2ca76577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441042724
+status: 3
+tags: []
+user_id: houston

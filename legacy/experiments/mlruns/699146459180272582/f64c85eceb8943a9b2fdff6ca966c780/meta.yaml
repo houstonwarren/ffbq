@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f64c85eceb8943a9b2fdff6ca966c780/artifacts
+end_time: 1698113507102
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f64c85eceb8943a9b2fdff6ca966c780
+run_name: dapper-stag-598
+run_uuid: f64c85eceb8943a9b2fdff6ca966c780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113507049
+status: 3
+tags: []
+user_id: houston

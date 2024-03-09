@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c44b957cd0334fd392fe3e074d016ab9/artifacts
+end_time: 1697195671962
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c44b957cd0334fd392fe3e074d016ab9
+run_name: rare-seal-559
+run_uuid: c44b957cd0334fd392fe3e074d016ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195671949
+status: 3
+tags: []
+user_id: houston

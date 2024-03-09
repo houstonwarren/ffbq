@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/dd51d3fb37f7401e85f4021ea5c08a82/artifacts
+end_time: 1701660382105
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: dd51d3fb37f7401e85f4021ea5c08a82
+run_name: dazzling-duck-266
+run_uuid: dd51d3fb37f7401e85f4021ea5c08a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660381999
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/67a15f36d6e149848994481dcae96e26/artifacts
+deleted_time: 1701660238886
+end_time: 1701660179402
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 67a15f36d6e149848994481dcae96e26
+run_name: whimsical-wolf-432
+run_uuid: 67a15f36d6e149848994481dcae96e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660179264
+status: 3
+tags: []
+user_id: houston

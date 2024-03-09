@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5e0f4414536c4f8482faa44ecc932fd4/artifacts
+end_time: 1697193852263
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5e0f4414536c4f8482faa44ecc932fd4
+run_name: painted-roo-168
+run_uuid: 5e0f4414536c4f8482faa44ecc932fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193852249
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/524a66c4744f45c9aa9f52e835cdd64b/artifacts
+end_time: 1697360266476
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 524a66c4744f45c9aa9f52e835cdd64b
+run_name: adaptable-smelt-663
+run_uuid: 524a66c4744f45c9aa9f52e835cdd64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360266424
+status: 3
+tags: []
+user_id: houston

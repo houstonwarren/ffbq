@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/fef16a39496b4166bab27e5bb39a4223/artifacts
+end_time: 1701660364910
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: fef16a39496b4166bab27e5bb39a4223
+run_name: abrasive-loon-799
+run_uuid: fef16a39496b4166bab27e5bb39a4223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660364826
+status: 3
+tags: []
+user_id: houston

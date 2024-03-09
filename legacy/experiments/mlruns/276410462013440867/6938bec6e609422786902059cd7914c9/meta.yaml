@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/6938bec6e609422786902059cd7914c9/artifacts
+end_time: 1697196718099
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 6938bec6e609422786902059cd7914c9
+run_name: gaudy-mule-193
+run_uuid: 6938bec6e609422786902059cd7914c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196718083
+status: 3
+tags: []
+user_id: houston

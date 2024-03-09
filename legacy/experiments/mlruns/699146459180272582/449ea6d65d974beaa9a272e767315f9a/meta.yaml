@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/449ea6d65d974beaa9a272e767315f9a/artifacts
+end_time: 1698113817823
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 449ea6d65d974beaa9a272e767315f9a
+run_name: judicious-hawk-22
+run_uuid: 449ea6d65d974beaa9a272e767315f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113817765
+status: 3
+tags: []
+user_id: houston

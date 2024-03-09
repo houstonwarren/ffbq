@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7e8df56b170744a4958b3a5816dd378d/artifacts
+end_time: 1697441176977
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7e8df56b170744a4958b3a5816dd378d
+run_name: judicious-bug-144
+run_uuid: 7e8df56b170744a4958b3a5816dd378d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441176858
+status: 3
+tags: []
+user_id: houston

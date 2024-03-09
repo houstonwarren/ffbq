@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/dfe63105df3243ed917e667239102fbb/artifacts
+end_time: 1697359122583
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: dfe63105df3243ed917e667239102fbb
+run_name: persistent-stag-965
+run_uuid: dfe63105df3243ed917e667239102fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359122534
+status: 3
+tags: []
+user_id: houston

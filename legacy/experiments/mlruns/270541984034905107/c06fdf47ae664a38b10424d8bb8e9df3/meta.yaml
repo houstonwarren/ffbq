@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c06fdf47ae664a38b10424d8bb8e9df3/artifacts
+end_time: 1697440651183
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c06fdf47ae664a38b10424d8bb8e9df3
+run_name: incongruous-mare-484
+run_uuid: c06fdf47ae664a38b10424d8bb8e9df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651131
+status: 3
+tags: []
+user_id: houston

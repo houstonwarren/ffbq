@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ce93e0761f0a4a1f9f6470a6839093fb/artifacts
+end_time: 1701667534596
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ce93e0761f0a4a1f9f6470a6839093fb
+run_name: nebulous-koi-634
+run_uuid: ce93e0761f0a4a1f9f6470a6839093fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667534494
+status: 3
+tags: []
+user_id: houston

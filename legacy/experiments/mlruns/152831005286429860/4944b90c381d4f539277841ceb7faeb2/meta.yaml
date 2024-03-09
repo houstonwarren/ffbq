@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/4944b90c381d4f539277841ceb7faeb2/artifacts
+end_time: 1697360365499
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 4944b90c381d4f539277841ceb7faeb2
+run_name: useful-kite-271
+run_uuid: 4944b90c381d4f539277841ceb7faeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360365446
+status: 3
+tags: []
+user_id: houston

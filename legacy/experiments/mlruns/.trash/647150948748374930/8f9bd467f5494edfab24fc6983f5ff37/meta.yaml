@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/8f9bd467f5494edfab24fc6983f5ff37/artifacts
+deleted_time: 1701667207383
+end_time: 1701665297269
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: 8f9bd467f5494edfab24fc6983f5ff37
+run_name: trusting-whale-897
+run_uuid: 8f9bd467f5494edfab24fc6983f5ff37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665297249
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ff69788b07864c128a906561b36fc4bb/artifacts
+end_time: 1698113446402
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ff69788b07864c128a906561b36fc4bb
+run_name: welcoming-eel-597
+run_uuid: ff69788b07864c128a906561b36fc4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113446350
+status: 3
+tags: []
+user_id: houston

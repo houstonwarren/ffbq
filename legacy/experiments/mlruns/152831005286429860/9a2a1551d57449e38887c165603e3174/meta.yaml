@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/9a2a1551d57449e38887c165603e3174/artifacts
+end_time: 1697360372475
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 9a2a1551d57449e38887c165603e3174
+run_name: stylish-bear-723
+run_uuid: 9a2a1551d57449e38887c165603e3174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360372422
+status: 3
+tags: []
+user_id: houston

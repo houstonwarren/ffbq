@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/24665bf5da6a48bcb4c1d64242576482/artifacts
+end_time: 1697194042345
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 24665bf5da6a48bcb4c1d64242576482
+run_name: exultant-lark-799
+run_uuid: 24665bf5da6a48bcb4c1d64242576482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042328
+status: 3
+tags: []
+user_id: houston

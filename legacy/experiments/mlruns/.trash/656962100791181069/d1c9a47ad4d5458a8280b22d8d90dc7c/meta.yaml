@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d1c9a47ad4d5458a8280b22d8d90dc7c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664599027
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d1c9a47ad4d5458a8280b22d8d90dc7c
+run_name: burly-dog-102
+run_uuid: d1c9a47ad4d5458a8280b22d8d90dc7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664599007
+status: 3
+tags: []
+user_id: houston

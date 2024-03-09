@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/78b9aea3c5264cde81c4d943c8f65abc/artifacts
+end_time: 1697440476788
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 78b9aea3c5264cde81c4d943c8f65abc
+run_name: illustrious-slug-175
+run_uuid: 78b9aea3c5264cde81c4d943c8f65abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440476741
+status: 3
+tags: []
+user_id: houston

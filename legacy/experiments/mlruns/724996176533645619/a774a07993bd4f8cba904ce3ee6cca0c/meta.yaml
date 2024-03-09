@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a774a07993bd4f8cba904ce3ee6cca0c/artifacts
+end_time: 1697193659469
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a774a07993bd4f8cba904ce3ee6cca0c
+run_name: marvelous-hare-692
+run_uuid: a774a07993bd4f8cba904ce3ee6cca0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659403
+status: 3
+tags: []
+user_id: houston

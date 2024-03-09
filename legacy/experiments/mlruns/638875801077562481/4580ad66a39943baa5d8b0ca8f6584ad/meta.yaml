@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4580ad66a39943baa5d8b0ca8f6584ad/artifacts
+end_time: 1701667542677
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4580ad66a39943baa5d8b0ca8f6584ad
+run_name: industrious-bear-520
+run_uuid: 4580ad66a39943baa5d8b0ca8f6584ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667542559
+status: 3
+tags: []
+user_id: houston

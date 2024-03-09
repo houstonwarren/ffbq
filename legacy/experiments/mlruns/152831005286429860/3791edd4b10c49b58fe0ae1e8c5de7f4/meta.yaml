@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/3791edd4b10c49b58fe0ae1e8c5de7f4/artifacts
+end_time: 1697360322743
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 3791edd4b10c49b58fe0ae1e8c5de7f4
+run_name: magnificent-ox-317
+run_uuid: 3791edd4b10c49b58fe0ae1e8c5de7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360322692
+status: 3
+tags: []
+user_id: houston

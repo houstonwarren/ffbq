@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/091d5661480640f789740dd4885c3473/artifacts
+end_time: 1698114644130
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 091d5661480640f789740dd4885c3473
+run_name: orderly-dove-761
+run_uuid: 091d5661480640f789740dd4885c3473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114644068
+status: 3
+tags: []
+user_id: houston

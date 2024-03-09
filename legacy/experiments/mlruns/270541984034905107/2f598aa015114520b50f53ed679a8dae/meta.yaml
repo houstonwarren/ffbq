@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/2f598aa015114520b50f53ed679a8dae/artifacts
+end_time: 1697441534367
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 2f598aa015114520b50f53ed679a8dae
+run_name: adorable-whale-584
+run_uuid: 2f598aa015114520b50f53ed679a8dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441534311
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/42af5f39995d4daf931c2f45e7a860f4/artifacts
+end_time: 1701667943185
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 42af5f39995d4daf931c2f45e7a860f4
+run_name: bold-stag-974
+run_uuid: 42af5f39995d4daf931c2f45e7a860f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667943034
+status: 3
+tags: []
+user_id: houston

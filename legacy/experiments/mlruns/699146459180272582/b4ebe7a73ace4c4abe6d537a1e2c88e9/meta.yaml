@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b4ebe7a73ace4c4abe6d537a1e2c88e9/artifacts
+end_time: 1698113519424
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b4ebe7a73ace4c4abe6d537a1e2c88e9
+run_name: gifted-hawk-938
+run_uuid: b4ebe7a73ace4c4abe6d537a1e2c88e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113519370
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ddb00a2e2f1d40ee9caf6078751c7b69/artifacts
+end_time: 1701667577724
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ddb00a2e2f1d40ee9caf6078751c7b69
+run_name: upset-yak-677
+run_uuid: ddb00a2e2f1d40ee9caf6078751c7b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667577588
+status: 3
+tags: []
+user_id: houston

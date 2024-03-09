@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4366c379624a49d2a2355bdcf27376e2/artifacts
+end_time: 1697198109410
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4366c379624a49d2a2355bdcf27376e2
+run_name: worried-ox-366
+run_uuid: 4366c379624a49d2a2355bdcf27376e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198109377
+status: 3
+tags: []
+user_id: houston

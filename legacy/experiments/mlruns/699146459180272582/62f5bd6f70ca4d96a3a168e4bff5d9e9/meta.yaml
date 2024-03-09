@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/62f5bd6f70ca4d96a3a168e4bff5d9e9/artifacts
+end_time: 1698114483894
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 62f5bd6f70ca4d96a3a168e4bff5d9e9
+run_name: magnificent-lark-638
+run_uuid: 62f5bd6f70ca4d96a3a168e4bff5d9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114483830
+status: 3
+tags: []
+user_id: houston

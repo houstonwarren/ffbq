@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e617534e11be475891b3d14c2ec2b023/artifacts
+end_time: 1701667500387
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e617534e11be475891b3d14c2ec2b023
+run_name: glamorous-duck-232
+run_uuid: e617534e11be475891b3d14c2ec2b023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667500300
+status: 3
+tags: []
+user_id: houston

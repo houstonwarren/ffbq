@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/fcb31e385afb471184089a6b0d50d257/artifacts
+end_time: 1701659602474
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: fcb31e385afb471184089a6b0d50d257
+run_name: smiling-goat-103
+run_uuid: fcb31e385afb471184089a6b0d50d257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659602348
+status: 3
+tags: []
+user_id: houston

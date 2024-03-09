@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/28ac123f00e14dad976f51cc8cac842d/artifacts
+end_time: 1697359072677
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 28ac123f00e14dad976f51cc8cac842d
+run_name: smiling-carp-594
+run_uuid: 28ac123f00e14dad976f51cc8cac842d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359072631
+status: 3
+tags: []
+user_id: houston

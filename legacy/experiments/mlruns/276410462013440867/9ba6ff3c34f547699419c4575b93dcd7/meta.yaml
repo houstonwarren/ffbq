@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9ba6ff3c34f547699419c4575b93dcd7/artifacts
+end_time: 1697195902587
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9ba6ff3c34f547699419c4575b93dcd7
+run_name: nebulous-grouse-352
+run_uuid: 9ba6ff3c34f547699419c4575b93dcd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902502
+status: 3
+tags: []
+user_id: houston

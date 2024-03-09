@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d24c5fa3747545f089fdd6d70c90b195/artifacts
+end_time: 1697195555628
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d24c5fa3747545f089fdd6d70c90b195
+run_name: ambitious-boar-376
+run_uuid: d24c5fa3747545f089fdd6d70c90b195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555615
+status: 3
+tags: []
+user_id: houston

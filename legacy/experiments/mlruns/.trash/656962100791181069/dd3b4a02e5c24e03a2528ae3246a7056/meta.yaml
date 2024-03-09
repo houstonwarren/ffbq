@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/dd3b4a02e5c24e03a2528ae3246a7056/artifacts
+deleted_time: 1701665274136
+end_time: 1701664793166
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: dd3b4a02e5c24e03a2528ae3246a7056
+run_name: skillful-crab-66
+run_uuid: dd3b4a02e5c24e03a2528ae3246a7056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664793126
+status: 3
+tags: []
+user_id: houston

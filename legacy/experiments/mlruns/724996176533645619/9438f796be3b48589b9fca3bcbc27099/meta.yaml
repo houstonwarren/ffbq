@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9438f796be3b48589b9fca3bcbc27099/artifacts
+end_time: 1697194741620
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9438f796be3b48589b9fca3bcbc27099
+run_name: overjoyed-smelt-91
+run_uuid: 9438f796be3b48589b9fca3bcbc27099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741599
+status: 3
+tags: []
+user_id: houston

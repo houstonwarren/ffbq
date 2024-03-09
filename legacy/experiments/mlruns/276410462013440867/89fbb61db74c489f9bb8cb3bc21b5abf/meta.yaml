@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/89fbb61db74c489f9bb8cb3bc21b5abf/artifacts
+end_time: 1697197835428
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 89fbb61db74c489f9bb8cb3bc21b5abf
+run_name: classy-snail-350
+run_uuid: 89fbb61db74c489f9bb8cb3bc21b5abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197835409
+status: 3
+tags: []
+user_id: houston

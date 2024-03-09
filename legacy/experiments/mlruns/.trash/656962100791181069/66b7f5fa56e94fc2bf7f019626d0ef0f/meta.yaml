@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/66b7f5fa56e94fc2bf7f019626d0ef0f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664907372
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 66b7f5fa56e94fc2bf7f019626d0ef0f
+run_name: handsome-gull-604
+run_uuid: 66b7f5fa56e94fc2bf7f019626d0ef0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664907325
+status: 3
+tags: []
+user_id: houston

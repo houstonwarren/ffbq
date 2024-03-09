@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8af7c5c263374e2eb63813aa9d29073d/artifacts
+end_time: 1701667425095
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8af7c5c263374e2eb63813aa9d29073d
+run_name: shivering-smelt-292
+run_uuid: 8af7c5c263374e2eb63813aa9d29073d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667424997
+status: 3
+tags: []
+user_id: houston

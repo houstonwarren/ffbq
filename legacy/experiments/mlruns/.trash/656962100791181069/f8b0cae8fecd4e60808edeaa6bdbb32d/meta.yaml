@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f8b0cae8fecd4e60808edeaa6bdbb32d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664922149
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f8b0cae8fecd4e60808edeaa6bdbb32d
+run_name: unique-perch-678
+run_uuid: f8b0cae8fecd4e60808edeaa6bdbb32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664922109
+status: 3
+tags: []
+user_id: houston

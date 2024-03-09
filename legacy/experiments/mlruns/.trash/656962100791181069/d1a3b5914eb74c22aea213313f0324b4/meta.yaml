@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d1a3b5914eb74c22aea213313f0324b4/artifacts
+deleted_time: 1701665274136
+end_time: 1701664646626
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d1a3b5914eb74c22aea213313f0324b4
+run_name: upset-cod-552
+run_uuid: d1a3b5914eb74c22aea213313f0324b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664646592
+status: 3
+tags: []
+user_id: houston

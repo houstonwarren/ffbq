@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4a853bd13d3e4676911f45943e80c2ec/artifacts
+end_time: 1701667677421
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4a853bd13d3e4676911f45943e80c2ec
+run_name: gentle-seal-977
+run_uuid: 4a853bd13d3e4676911f45943e80c2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667677304
+status: 3
+tags: []
+user_id: houston

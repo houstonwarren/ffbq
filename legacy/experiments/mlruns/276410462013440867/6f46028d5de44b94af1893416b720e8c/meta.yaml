@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/6f46028d5de44b94af1893416b720e8c/artifacts
+end_time: 1697195941191
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 6f46028d5de44b94af1893416b720e8c
+run_name: clean-fish-950
+run_uuid: 6f46028d5de44b94af1893416b720e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941176
+status: 3
+tags: []
+user_id: houston

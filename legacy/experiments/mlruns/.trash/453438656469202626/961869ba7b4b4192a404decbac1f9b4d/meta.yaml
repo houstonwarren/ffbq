@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/961869ba7b4b4192a404decbac1f9b4d/artifacts
+deleted_time: 1701659398061
+end_time: 1701658644456
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 961869ba7b4b4192a404decbac1f9b4d
+run_name: gifted-wolf-286
+run_uuid: 961869ba7b4b4192a404decbac1f9b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658644319
+status: 3
+tags: []
+user_id: houston

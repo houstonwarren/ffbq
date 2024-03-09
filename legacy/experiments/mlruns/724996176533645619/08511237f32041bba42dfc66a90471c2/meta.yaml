@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/08511237f32041bba42dfc66a90471c2/artifacts
+end_time: 1697193642272
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 08511237f32041bba42dfc66a90471c2
+run_name: bemused-sloth-895
+run_uuid: 08511237f32041bba42dfc66a90471c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193642196
+status: 3
+tags: []
+user_id: houston

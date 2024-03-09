@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9034cf4b54ea47f4aa1449133804a32e/artifacts
+end_time: 1701667799895
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9034cf4b54ea47f4aa1449133804a32e
+run_name: unruly-cod-234
+run_uuid: 9034cf4b54ea47f4aa1449133804a32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667799750
+status: 3
+tags: []
+user_id: houston

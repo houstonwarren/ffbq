@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/49c5f995ec934362ae9ea34b23e7783a/artifacts
+end_time: 1697359056246
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 49c5f995ec934362ae9ea34b23e7783a
+run_name: traveling-gnu-351
+run_uuid: 49c5f995ec934362ae9ea34b23e7783a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359056200
+status: 3
+tags: []
+user_id: houston

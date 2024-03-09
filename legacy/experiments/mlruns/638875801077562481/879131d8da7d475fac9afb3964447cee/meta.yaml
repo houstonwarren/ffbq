@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/879131d8da7d475fac9afb3964447cee/artifacts
+end_time: 1701667366835
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 879131d8da7d475fac9afb3964447cee
+run_name: nebulous-whale-294
+run_uuid: 879131d8da7d475fac9afb3964447cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667366748
+status: 3
+tags: []
+user_id: houston

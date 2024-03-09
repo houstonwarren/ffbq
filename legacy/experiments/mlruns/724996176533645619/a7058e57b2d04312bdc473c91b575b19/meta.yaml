@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a7058e57b2d04312bdc473c91b575b19/artifacts
+end_time: 1697194908235
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a7058e57b2d04312bdc473c91b575b19
+run_name: zealous-hound-816
+run_uuid: a7058e57b2d04312bdc473c91b575b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194908213
+status: 3
+tags: []
+user_id: houston

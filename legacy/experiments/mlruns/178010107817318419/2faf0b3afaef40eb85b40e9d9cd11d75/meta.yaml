@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2faf0b3afaef40eb85b40e9d9cd11d75/artifacts
+end_time: 1697359053008
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2faf0b3afaef40eb85b40e9d9cd11d75
+run_name: unique-lark-198
+run_uuid: 2faf0b3afaef40eb85b40e9d9cd11d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359052959
+status: 3
+tags: []
+user_id: houston

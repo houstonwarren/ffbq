@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d0269edc6d9d440290968c282d4ee01e/artifacts
+end_time: 1698113730098
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d0269edc6d9d440290968c282d4ee01e
+run_name: awesome-gnu-503
+run_uuid: d0269edc6d9d440290968c282d4ee01e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113730041
+status: 3
+tags: []
+user_id: houston

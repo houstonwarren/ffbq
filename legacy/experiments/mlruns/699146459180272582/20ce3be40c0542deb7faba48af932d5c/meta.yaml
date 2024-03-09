@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/20ce3be40c0542deb7faba48af932d5c/artifacts
+end_time: 1698113626704
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 20ce3be40c0542deb7faba48af932d5c
+run_name: gregarious-colt-337
+run_uuid: 20ce3be40c0542deb7faba48af932d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113626647
+status: 3
+tags: []
+user_id: houston

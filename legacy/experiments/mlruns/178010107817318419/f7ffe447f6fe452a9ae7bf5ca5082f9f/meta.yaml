@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f7ffe447f6fe452a9ae7bf5ca5082f9f/artifacts
+end_time: 1697359173091
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f7ffe447f6fe452a9ae7bf5ca5082f9f
+run_name: learned-finch-150
+run_uuid: f7ffe447f6fe452a9ae7bf5ca5082f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359173037
+status: 3
+tags: []
+user_id: houston

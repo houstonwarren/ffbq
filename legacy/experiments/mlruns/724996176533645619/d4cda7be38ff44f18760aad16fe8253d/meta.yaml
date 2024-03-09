@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d4cda7be38ff44f18760aad16fe8253d/artifacts
+end_time: 1697193897910
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d4cda7be38ff44f18760aad16fe8253d
+run_name: stylish-hog-275
+run_uuid: d4cda7be38ff44f18760aad16fe8253d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193897882
+status: 3
+tags: []
+user_id: houston

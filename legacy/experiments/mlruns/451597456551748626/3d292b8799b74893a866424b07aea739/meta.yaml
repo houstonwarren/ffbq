@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3d292b8799b74893a866424b07aea739/artifacts
+end_time: 1701660347257
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3d292b8799b74893a866424b07aea739
+run_name: upbeat-chimp-151
+run_uuid: 3d292b8799b74893a866424b07aea739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660347100
+status: 3
+tags: []
+user_id: houston

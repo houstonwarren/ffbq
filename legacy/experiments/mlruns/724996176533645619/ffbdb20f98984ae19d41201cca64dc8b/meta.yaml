@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ffbdb20f98984ae19d41201cca64dc8b/artifacts
+end_time: 1697193863541
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ffbdb20f98984ae19d41201cca64dc8b
+run_name: thundering-bug-356
+run_uuid: ffbdb20f98984ae19d41201cca64dc8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193863512
+status: 3
+tags: []
+user_id: houston

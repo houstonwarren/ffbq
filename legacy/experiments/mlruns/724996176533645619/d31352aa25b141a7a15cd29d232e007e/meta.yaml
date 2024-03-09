@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d31352aa25b141a7a15cd29d232e007e/artifacts
+end_time: 1697194057855
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d31352aa25b141a7a15cd29d232e007e
+run_name: debonair-gnat-573
+run_uuid: d31352aa25b141a7a15cd29d232e007e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194057838
+status: 3
+tags: []
+user_id: houston

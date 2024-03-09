@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a0d090e34a0342ee8d050b5b6e3508d3/artifacts
+deleted_time: 1701665274136
+end_time: 1701664730164
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a0d090e34a0342ee8d050b5b6e3508d3
+run_name: respected-bee-872
+run_uuid: a0d090e34a0342ee8d050b5b6e3508d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664730142
+status: 3
+tags: []
+user_id: houston

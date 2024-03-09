@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/35467268a62f449f971867dd760ab5d7/artifacts
+deleted_time: 1701665274136
+end_time: 1701664614897
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 35467268a62f449f971867dd760ab5d7
+run_name: dapper-lark-121
+run_uuid: 35467268a62f449f971867dd760ab5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664614852
+status: 3
+tags: []
+user_id: houston

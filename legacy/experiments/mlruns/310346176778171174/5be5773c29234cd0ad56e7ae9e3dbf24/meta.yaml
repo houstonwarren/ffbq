@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/5be5773c29234cd0ad56e7ae9e3dbf24/artifacts
+end_time: 1696909010319
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 5be5773c29234cd0ad56e7ae9e3dbf24
+run_name: smiling-wolf-766
+run_uuid: 5be5773c29234cd0ad56e7ae9e3dbf24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010310
+status: 3
+tags: []
+user_id: houston

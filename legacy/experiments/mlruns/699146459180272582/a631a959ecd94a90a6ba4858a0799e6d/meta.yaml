@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a631a959ecd94a90a6ba4858a0799e6d/artifacts
+end_time: 1698113471088
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a631a959ecd94a90a6ba4858a0799e6d
+run_name: adventurous-rat-476
+run_uuid: a631a959ecd94a90a6ba4858a0799e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113471036
+status: 3
+tags: []
+user_id: houston

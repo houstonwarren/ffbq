@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e853bb8359c24b00999974d39316ff76/artifacts
+end_time: 1701659603649
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e853bb8359c24b00999974d39316ff76
+run_name: inquisitive-bug-877
+run_uuid: e853bb8359c24b00999974d39316ff76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659603501
+status: 3
+tags: []
+user_id: houston

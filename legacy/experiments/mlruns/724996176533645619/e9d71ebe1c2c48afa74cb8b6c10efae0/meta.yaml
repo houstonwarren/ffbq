@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e9d71ebe1c2c48afa74cb8b6c10efae0/artifacts
+end_time: 1697194311582
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e9d71ebe1c2c48afa74cb8b6c10efae0
+run_name: dapper-fowl-964
+run_uuid: e9d71ebe1c2c48afa74cb8b6c10efae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311562
+status: 3
+tags: []
+user_id: houston

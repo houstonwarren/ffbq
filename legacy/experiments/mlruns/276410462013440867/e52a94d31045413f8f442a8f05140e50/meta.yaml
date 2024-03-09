@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e52a94d31045413f8f442a8f05140e50/artifacts
+end_time: 1697198626159
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e52a94d31045413f8f442a8f05140e50
+run_name: calm-quail-577
+run_uuid: e52a94d31045413f8f442a8f05140e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198626137
+status: 3
+tags: []
+user_id: houston

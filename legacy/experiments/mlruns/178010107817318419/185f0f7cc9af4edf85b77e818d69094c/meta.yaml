@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/185f0f7cc9af4edf85b77e818d69094c/artifacts
+end_time: 1697359128244
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 185f0f7cc9af4edf85b77e818d69094c
+run_name: entertaining-hog-346
+run_uuid: 185f0f7cc9af4edf85b77e818d69094c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359128181
+status: 3
+tags: []
+user_id: houston

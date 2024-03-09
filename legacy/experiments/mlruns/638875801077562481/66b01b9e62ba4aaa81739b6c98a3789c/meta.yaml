@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/66b01b9e62ba4aaa81739b6c98a3789c/artifacts
+end_time: 1701667424956
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 66b01b9e62ba4aaa81739b6c98a3789c
+run_name: illustrious-bass-101
+run_uuid: 66b01b9e62ba4aaa81739b6c98a3789c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667424868
+status: 3
+tags: []
+user_id: houston

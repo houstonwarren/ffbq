@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/02c142f245624a27906a11b780bd5264/artifacts
+end_time: 1701660247033
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 02c142f245624a27906a11b780bd5264
+run_name: funny-gnat-720
+run_uuid: 02c142f245624a27906a11b780bd5264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660246969
+status: 3
+tags: []
+user_id: houston

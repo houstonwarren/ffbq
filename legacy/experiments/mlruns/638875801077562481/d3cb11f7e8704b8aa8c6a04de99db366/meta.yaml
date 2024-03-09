@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d3cb11f7e8704b8aa8c6a04de99db366/artifacts
+end_time: 1701667926562
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d3cb11f7e8704b8aa8c6a04de99db366
+run_name: able-hawk-587
+run_uuid: d3cb11f7e8704b8aa8c6a04de99db366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667926396
+status: 3
+tags: []
+user_id: houston

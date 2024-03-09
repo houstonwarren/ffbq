@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/1857950720a14f0098fffaa706f998a8/artifacts
+end_time: 1698113599946
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 1857950720a14f0098fffaa706f998a8
+run_name: nosy-squirrel-569
+run_uuid: 1857950720a14f0098fffaa706f998a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599892
+status: 3
+tags: []
+user_id: houston

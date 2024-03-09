@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/51dca36fefa04f8c9000711b71cb1c98/artifacts
+end_time: 1697195748313
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 51dca36fefa04f8c9000711b71cb1c98
+run_name: angry-swan-304
+run_uuid: 51dca36fefa04f8c9000711b71cb1c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748299
+status: 3
+tags: []
+user_id: houston

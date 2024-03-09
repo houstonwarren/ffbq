@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/44c8903b6429411c8dc18f162487b896/artifacts
+end_time: 1701667520628
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 44c8903b6429411c8dc18f162487b896
+run_name: powerful-shrike-428
+run_uuid: 44c8903b6429411c8dc18f162487b896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667520545
+status: 3
+tags: []
+user_id: houston

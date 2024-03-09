@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/3bf1de028ee347c0966902e2dc3639a5/artifacts
+end_time: 1701659609426
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 3bf1de028ee347c0966902e2dc3639a5
+run_name: capable-lamb-108
+run_uuid: 3bf1de028ee347c0966902e2dc3639a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659609303
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2387e87bc41c436c821a3c775ce58003/artifacts
+end_time: 1697193909422
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2387e87bc41c436c821a3c775ce58003
+run_name: orderly-doe-714
+run_uuid: 2387e87bc41c436c821a3c775ce58003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909400
+status: 3
+tags: []
+user_id: houston

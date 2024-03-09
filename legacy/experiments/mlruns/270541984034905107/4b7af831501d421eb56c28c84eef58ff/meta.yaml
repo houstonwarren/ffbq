@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/4b7af831501d421eb56c28c84eef58ff/artifacts
+end_time: 1697441466268
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 4b7af831501d421eb56c28c84eef58ff
+run_name: gregarious-fowl-345
+run_uuid: 4b7af831501d421eb56c28c84eef58ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441466213
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f4e73f2e2e2c44818a7fe7a0d73cab78/artifacts
+end_time: 1697440979419
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f4e73f2e2e2c44818a7fe7a0d73cab78
+run_name: rogue-rat-732
+run_uuid: f4e73f2e2e2c44818a7fe7a0d73cab78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440979363
+status: 3
+tags: []
+user_id: houston

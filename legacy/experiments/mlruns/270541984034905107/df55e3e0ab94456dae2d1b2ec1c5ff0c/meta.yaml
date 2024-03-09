@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/df55e3e0ab94456dae2d1b2ec1c5ff0c/artifacts
+end_time: 1697442342524
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: df55e3e0ab94456dae2d1b2ec1c5ff0c
+run_name: adventurous-rook-500
+run_uuid: df55e3e0ab94456dae2d1b2ec1c5ff0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442342466
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/02f34235cbbe4ff5a8b61d5a7126888b/artifacts
+end_time: 1701660485758
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 02f34235cbbe4ff5a8b61d5a7126888b
+run_name: dashing-snipe-554
+run_uuid: 02f34235cbbe4ff5a8b61d5a7126888b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660485646
+status: 3
+tags: []
+user_id: houston

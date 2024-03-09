@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/de27fc3e39a940f985f4047ab5b74ddb/artifacts
+end_time: 1701659414028
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: de27fc3e39a940f985f4047ab5b74ddb
+run_name: salty-whale-982
+run_uuid: de27fc3e39a940f985f4047ab5b74ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659413912
+status: 3
+tags: []
+user_id: houston

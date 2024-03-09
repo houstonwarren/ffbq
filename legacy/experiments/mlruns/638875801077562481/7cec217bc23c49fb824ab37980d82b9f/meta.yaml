@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7cec217bc23c49fb824ab37980d82b9f/artifacts
+end_time: 1701667707349
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7cec217bc23c49fb824ab37980d82b9f
+run_name: skillful-rook-30
+run_uuid: 7cec217bc23c49fb824ab37980d82b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667707211
+status: 3
+tags: []
+user_id: houston

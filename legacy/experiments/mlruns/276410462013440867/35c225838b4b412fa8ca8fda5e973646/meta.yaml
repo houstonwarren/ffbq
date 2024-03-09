@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/35c225838b4b412fa8ca8fda5e973646/artifacts
+end_time: 1697196718013
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 35c225838b4b412fa8ca8fda5e973646
+run_name: rumbling-grouse-58
+run_uuid: 35c225838b4b412fa8ca8fda5e973646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196717996
+status: 3
+tags: []
+user_id: houston

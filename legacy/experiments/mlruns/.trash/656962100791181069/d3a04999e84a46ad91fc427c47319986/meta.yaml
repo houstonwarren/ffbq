@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d3a04999e84a46ad91fc427c47319986/artifacts
+deleted_time: 1701665274136
+end_time: 1701664737540
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d3a04999e84a46ad91fc427c47319986
+run_name: aged-midge-396
+run_uuid: d3a04999e84a46ad91fc427c47319986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664737509
+status: 3
+tags: []
+user_id: houston

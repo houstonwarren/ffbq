@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5175c46d874c4cc68b3d303428e372f8/artifacts
+end_time: 1698113667770
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5175c46d874c4cc68b3d303428e372f8
+run_name: monumental-moose-451
+run_uuid: 5175c46d874c4cc68b3d303428e372f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113667716
+status: 3
+tags: []
+user_id: houston

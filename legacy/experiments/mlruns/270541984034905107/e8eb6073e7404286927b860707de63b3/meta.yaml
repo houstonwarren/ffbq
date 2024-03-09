@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e8eb6073e7404286927b860707de63b3/artifacts
+end_time: 1697440639846
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e8eb6073e7404286927b860707de63b3
+run_name: smiling-swan-347
+run_uuid: e8eb6073e7404286927b860707de63b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440639794
+status: 3
+tags: []
+user_id: houston

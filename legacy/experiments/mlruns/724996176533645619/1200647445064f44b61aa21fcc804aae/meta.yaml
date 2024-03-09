@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1200647445064f44b61aa21fcc804aae/artifacts
+end_time: 1697193875078
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1200647445064f44b61aa21fcc804aae
+run_name: placid-chimp-264
+run_uuid: 1200647445064f44b61aa21fcc804aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193875055
+status: 3
+tags: []
+user_id: houston

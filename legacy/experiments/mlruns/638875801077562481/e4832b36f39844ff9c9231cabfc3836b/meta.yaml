@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e4832b36f39844ff9c9231cabfc3836b/artifacts
+end_time: 1701667534442
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e4832b36f39844ff9c9231cabfc3836b
+run_name: casual-yak-791
+run_uuid: e4832b36f39844ff9c9231cabfc3836b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667534346
+status: 3
+tags: []
+user_id: houston

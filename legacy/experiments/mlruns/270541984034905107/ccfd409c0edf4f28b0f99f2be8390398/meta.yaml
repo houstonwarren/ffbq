@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ccfd409c0edf4f28b0f99f2be8390398/artifacts
+end_time: 1697440444407
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ccfd409c0edf4f28b0f99f2be8390398
+run_name: orderly-koi-475
+run_uuid: ccfd409c0edf4f28b0f99f2be8390398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444327
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/6657171e620a4b60aa4f2ded296c664a/artifacts
+end_time: 1697440460389
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 6657171e620a4b60aa4f2ded296c664a
+run_name: overjoyed-horse-304
+run_uuid: 6657171e620a4b60aa4f2ded296c664a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440460307
+status: 3
+tags: []
+user_id: houston

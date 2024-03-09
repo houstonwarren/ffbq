@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/068aebc9ff55448b860818baffe3c52f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664780688
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 068aebc9ff55448b860818baffe3c52f
+run_name: learned-crane-17
+run_uuid: 068aebc9ff55448b860818baffe3c52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664780648
+status: 3
+tags: []
+user_id: houston

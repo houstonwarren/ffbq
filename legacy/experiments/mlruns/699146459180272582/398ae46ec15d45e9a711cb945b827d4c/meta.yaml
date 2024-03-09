@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/398ae46ec15d45e9a711cb945b827d4c/artifacts
+end_time: 1698113668296
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 398ae46ec15d45e9a711cb945b827d4c
+run_name: luminous-wasp-414
+run_uuid: 398ae46ec15d45e9a711cb945b827d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113668241
+status: 3
+tags: []
+user_id: houston

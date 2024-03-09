@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/35abc318f596488f88fecf2e4e3cbafd/artifacts
+end_time: 1697360369323
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 35abc318f596488f88fecf2e4e3cbafd
+run_name: casual-squirrel-242
+run_uuid: 35abc318f596488f88fecf2e4e3cbafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360369269
+status: 3
+tags: []
+user_id: houston

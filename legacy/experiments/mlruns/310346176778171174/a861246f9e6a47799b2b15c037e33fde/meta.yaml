@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/a861246f9e6a47799b2b15c037e33fde/artifacts
+end_time: 1696909043865
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: a861246f9e6a47799b2b15c037e33fde
+run_name: loud-gnu-66
+run_uuid: a861246f9e6a47799b2b15c037e33fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909043855
+status: 3
+tags: []
+user_id: houston

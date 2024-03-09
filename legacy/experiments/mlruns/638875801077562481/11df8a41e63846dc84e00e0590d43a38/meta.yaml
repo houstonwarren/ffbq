@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/11df8a41e63846dc84e00e0590d43a38/artifacts
+end_time: 1701667997301
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 11df8a41e63846dc84e00e0590d43a38
+run_name: puzzled-lynx-65
+run_uuid: 11df8a41e63846dc84e00e0590d43a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667997136
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a626733234df4352959173cf7da163ef/artifacts
+end_time: 1701660397301
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a626733234df4352959173cf7da163ef
+run_name: nebulous-shrike-518
+run_uuid: a626733234df4352959173cf7da163ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660397185
+status: 3
+tags: []
+user_id: houston

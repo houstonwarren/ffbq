@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/420a2ddefb9f4e3496aaa5c6f37089de/artifacts
+end_time: 1697194011306
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 420a2ddefb9f4e3496aaa5c6f37089de
+run_name: lyrical-ox-278
+run_uuid: 420a2ddefb9f4e3496aaa5c6f37089de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194011291
+status: 3
+tags: []
+user_id: houston

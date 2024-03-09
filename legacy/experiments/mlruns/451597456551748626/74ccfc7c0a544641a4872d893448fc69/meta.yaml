@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/74ccfc7c0a544641a4872d893448fc69/artifacts
+end_time: 1701660343540
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 74ccfc7c0a544641a4872d893448fc69
+run_name: nosy-ant-575
+run_uuid: 74ccfc7c0a544641a4872d893448fc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660343461
+status: 3
+tags: []
+user_id: houston

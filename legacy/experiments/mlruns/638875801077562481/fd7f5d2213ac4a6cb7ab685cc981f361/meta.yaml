@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fd7f5d2213ac4a6cb7ab685cc981f361/artifacts
+end_time: 1701667879257
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fd7f5d2213ac4a6cb7ab685cc981f361
+run_name: chill-penguin-303
+run_uuid: fd7f5d2213ac4a6cb7ab685cc981f361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667879083
+status: 3
+tags: []
+user_id: houston

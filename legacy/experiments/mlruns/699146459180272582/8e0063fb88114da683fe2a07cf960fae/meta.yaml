@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8e0063fb88114da683fe2a07cf960fae/artifacts
+end_time: 1698113712774
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8e0063fb88114da683fe2a07cf960fae
+run_name: blushing-stork-304
+run_uuid: 8e0063fb88114da683fe2a07cf960fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113712718
+status: 3
+tags: []
+user_id: houston

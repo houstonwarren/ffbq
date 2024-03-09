@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/06383186607c4e4dab6ee4c1c99da328/artifacts
+end_time: 1697197904425
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 06383186607c4e4dab6ee4c1c99da328
+run_name: melodic-shrew-311
+run_uuid: 06383186607c4e4dab6ee4c1c99da328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197904406
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b3619a3620824803992a605b3ca1ea2b/artifacts
+end_time: 1697440477007
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b3619a3620824803992a605b3ca1ea2b
+run_name: rumbling-stag-144
+run_uuid: b3619a3620824803992a605b3ca1ea2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440476960
+status: 3
+tags: []
+user_id: houston

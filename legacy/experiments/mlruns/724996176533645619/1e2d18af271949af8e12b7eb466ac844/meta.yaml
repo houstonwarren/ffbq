@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1e2d18af271949af8e12b7eb466ac844/artifacts
+end_time: 1697194136594
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1e2d18af271949af8e12b7eb466ac844
+run_name: skittish-moose-509
+run_uuid: 1e2d18af271949af8e12b7eb466ac844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194136564
+status: 3
+tags: []
+user_id: houston

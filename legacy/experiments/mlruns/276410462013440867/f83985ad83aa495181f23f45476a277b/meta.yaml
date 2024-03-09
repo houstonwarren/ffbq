@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f83985ad83aa495181f23f45476a277b/artifacts
+end_time: 1697198456598
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f83985ad83aa495181f23f45476a277b
+run_name: bright-ray-134
+run_uuid: f83985ad83aa495181f23f45476a277b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198456559
+status: 3
+tags: []
+user_id: houston

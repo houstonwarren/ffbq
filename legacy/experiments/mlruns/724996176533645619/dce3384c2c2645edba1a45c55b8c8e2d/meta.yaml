@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/dce3384c2c2645edba1a45c55b8c8e2d/artifacts
+end_time: 1697193793692
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: dce3384c2c2645edba1a45c55b8c8e2d
+run_name: clean-cub-407
+run_uuid: dce3384c2c2645edba1a45c55b8c8e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793679
+status: 3
+tags: []
+user_id: houston

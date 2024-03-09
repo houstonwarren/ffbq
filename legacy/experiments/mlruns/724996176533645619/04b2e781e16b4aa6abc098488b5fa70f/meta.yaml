@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/04b2e781e16b4aa6abc098488b5fa70f/artifacts
+end_time: 1697194011242
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 04b2e781e16b4aa6abc098488b5fa70f
+run_name: blushing-mare-258
+run_uuid: 04b2e781e16b4aa6abc098488b5fa70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194011226
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d03eb7d9894f4cae9533385e727d3d2d/artifacts
+end_time: 1697442563781
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d03eb7d9894f4cae9533385e727d3d2d
+run_name: bedecked-sheep-684
+run_uuid: d03eb7d9894f4cae9533385e727d3d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442563723
+status: 3
+tags: []
+user_id: houston

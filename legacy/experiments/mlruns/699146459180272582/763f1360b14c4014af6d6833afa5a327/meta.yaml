@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/763f1360b14c4014af6d6833afa5a327/artifacts
+end_time: 1698113783095
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 763f1360b14c4014af6d6833afa5a327
+run_name: casual-cow-388
+run_uuid: 763f1360b14c4014af6d6833afa5a327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113783037
+status: 3
+tags: []
+user_id: houston

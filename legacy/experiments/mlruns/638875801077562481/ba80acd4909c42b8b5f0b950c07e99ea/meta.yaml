@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ba80acd4909c42b8b5f0b950c07e99ea/artifacts
+end_time: 1701667966514
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ba80acd4909c42b8b5f0b950c07e99ea
+run_name: capricious-ray-206
+run_uuid: ba80acd4909c42b8b5f0b950c07e99ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667966356
+status: 3
+tags: []
+user_id: houston

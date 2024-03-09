@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c95941a04c574d61902d266c938880a1/artifacts
+end_time: 1698115195289
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c95941a04c574d61902d266c938880a1
+run_name: trusting-shad-737
+run_uuid: c95941a04c574d61902d266c938880a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115195226
+status: 3
+tags: []
+user_id: houston

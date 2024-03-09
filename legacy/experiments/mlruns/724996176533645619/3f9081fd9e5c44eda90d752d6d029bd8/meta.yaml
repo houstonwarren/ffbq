@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3f9081fd9e5c44eda90d752d6d029bd8/artifacts
+end_time: 1697193921070
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3f9081fd9e5c44eda90d752d6d029bd8
+run_name: bustling-lark-323
+run_uuid: 3f9081fd9e5c44eda90d752d6d029bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193921055
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/30d9599adcfe4b3ea03ad0c6c9430216/artifacts
+end_time: 1697440814036
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 30d9599adcfe4b3ea03ad0c6c9430216
+run_name: grandiose-ram-234
+run_uuid: 30d9599adcfe4b3ea03ad0c6c9430216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440813983
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fa28b7fefd3d4afdbebf1b32acc7f297/artifacts
+end_time: 1701667880072
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fa28b7fefd3d4afdbebf1b32acc7f297
+run_name: unleashed-crab-895
+run_uuid: fa28b7fefd3d4afdbebf1b32acc7f297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667879922
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c1415a8aff3145cf8858feac9c9af724/artifacts
+end_time: 1698114240241
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c1415a8aff3145cf8858feac9c9af724
+run_name: efficient-sponge-444
+run_uuid: c1415a8aff3145cf8858feac9c9af724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114240180
+status: 3
+tags: []
+user_id: houston

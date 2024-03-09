@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f0fee96bdd524b38b35a35e711efad79/artifacts
+end_time: 1697194797381
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f0fee96bdd524b38b35a35e711efad79
+run_name: receptive-ape-113
+run_uuid: f0fee96bdd524b38b35a35e711efad79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797360
+status: 3
+tags: []
+user_id: houston

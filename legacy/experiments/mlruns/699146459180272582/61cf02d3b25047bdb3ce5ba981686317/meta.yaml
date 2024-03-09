@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/61cf02d3b25047bdb3ce5ba981686317/artifacts
+end_time: 1698115039222
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 61cf02d3b25047bdb3ce5ba981686317
+run_name: loud-goose-44
+run_uuid: 61cf02d3b25047bdb3ce5ba981686317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115039160
+status: 3
+tags: []
+user_id: houston

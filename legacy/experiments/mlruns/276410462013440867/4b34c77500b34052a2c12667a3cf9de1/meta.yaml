@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4b34c77500b34052a2c12667a3cf9de1/artifacts
+end_time: 1697195472161
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4b34c77500b34052a2c12667a3cf9de1
+run_name: serious-fowl-634
+run_uuid: 4b34c77500b34052a2c12667a3cf9de1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195472149
+status: 3
+tags: []
+user_id: houston

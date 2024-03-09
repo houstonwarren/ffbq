@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/be09e42322724a5d82dbbb1dc93b131c/artifacts
+end_time: 1701660267094
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: be09e42322724a5d82dbbb1dc93b131c
+run_name: clean-crow-508
+run_uuid: be09e42322724a5d82dbbb1dc93b131c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660267035
+status: 3
+tags: []
+user_id: houston

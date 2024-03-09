@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bfc41d607d3e4a7cbf7bf1cdbf8d051f/artifacts
+end_time: 1697195489279
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bfc41d607d3e4a7cbf7bf1cdbf8d051f
+run_name: caring-owl-681
+run_uuid: bfc41d607d3e4a7cbf7bf1cdbf8d051f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489269
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/10b6b4cc4058416082295c85c0b31034/artifacts
+end_time: 1697193641581
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 10b6b4cc4058416082295c85c0b31034
+run_name: worried-hare-552
+run_uuid: 10b6b4cc4058416082295c85c0b31034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193641560
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9033b185d40647e2be6f3ab488bd9137/artifacts
+end_time: 1698114240394
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9033b185d40647e2be6f3ab488bd9137
+run_name: bald-stork-87
+run_uuid: 9033b185d40647e2be6f3ab488bd9137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114240328
+status: 3
+tags: []
+user_id: houston

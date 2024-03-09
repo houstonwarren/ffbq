@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/158f654686b84ec48a26315844323b9d/artifacts
+end_time: 1701667838118
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 158f654686b84ec48a26315844323b9d
+run_name: classy-turtle-344
+run_uuid: 158f654686b84ec48a26315844323b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667837977
+status: 3
+tags: []
+user_id: houston

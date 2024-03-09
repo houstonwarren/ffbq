@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/5679a5abf3e647cd9e18ffe05dab73f6/artifacts
+deleted_time: 1701665274136
+end_time: 1701664692827
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 5679a5abf3e647cd9e18ffe05dab73f6
+run_name: nebulous-sloth-821
+run_uuid: 5679a5abf3e647cd9e18ffe05dab73f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664692796
+status: 3
+tags: []
+user_id: houston

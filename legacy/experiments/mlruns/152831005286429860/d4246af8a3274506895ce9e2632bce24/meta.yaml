@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/d4246af8a3274506895ce9e2632bce24/artifacts
+end_time: 1697360341515
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: d4246af8a3274506895ce9e2632bce24
+run_name: beautiful-chimp-450
+run_uuid: d4246af8a3274506895ce9e2632bce24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360341462
+status: 3
+tags: []
+user_id: houston

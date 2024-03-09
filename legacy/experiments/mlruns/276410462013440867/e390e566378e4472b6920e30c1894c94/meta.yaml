@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e390e566378e4472b6920e30c1894c94/artifacts
+end_time: 1697198681098
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e390e566378e4472b6920e30c1894c94
+run_name: fun-calf-710
+run_uuid: e390e566378e4472b6920e30c1894c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198681075
+status: 3
+tags: []
+user_id: houston

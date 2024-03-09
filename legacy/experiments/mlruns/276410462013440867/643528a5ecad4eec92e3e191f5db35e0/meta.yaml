@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/643528a5ecad4eec92e3e191f5db35e0/artifacts
+end_time: 1697198344474
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 643528a5ecad4eec92e3e191f5db35e0
+run_name: melodic-worm-850
+run_uuid: 643528a5ecad4eec92e3e191f5db35e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198344453
+status: 3
+tags: []
+user_id: houston

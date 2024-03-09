@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/22cc8e418f044056b7cb43cce4e539d9/artifacts
+end_time: 1697197408751
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 22cc8e418f044056b7cb43cce4e539d9
+run_name: capricious-donkey-3
+run_uuid: 22cc8e418f044056b7cb43cce4e539d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408734
+status: 3
+tags: []
+user_id: houston

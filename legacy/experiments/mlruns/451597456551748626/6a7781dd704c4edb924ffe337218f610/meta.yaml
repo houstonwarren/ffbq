@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/6a7781dd704c4edb924ffe337218f610/artifacts
+end_time: 1701660266871
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 6a7781dd704c4edb924ffe337218f610
+run_name: gifted-dolphin-561
+run_uuid: 6a7781dd704c4edb924ffe337218f610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660266796
+status: 3
+tags: []
+user_id: houston

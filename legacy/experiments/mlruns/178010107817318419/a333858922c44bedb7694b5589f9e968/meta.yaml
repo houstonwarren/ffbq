@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a333858922c44bedb7694b5589f9e968/artifacts
+end_time: 1697359159999
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a333858922c44bedb7694b5589f9e968
+run_name: delightful-bass-156
+run_uuid: a333858922c44bedb7694b5589f9e968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359159940
+status: 3
+tags: []
+user_id: houston

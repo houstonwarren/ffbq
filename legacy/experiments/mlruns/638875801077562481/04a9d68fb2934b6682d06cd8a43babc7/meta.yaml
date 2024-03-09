@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/04a9d68fb2934b6682d06cd8a43babc7/artifacts
+end_time: 1701667595520
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 04a9d68fb2934b6682d06cd8a43babc7
+run_name: abrasive-ray-773
+run_uuid: 04a9d68fb2934b6682d06cd8a43babc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667595379
+status: 3
+tags: []
+user_id: houston

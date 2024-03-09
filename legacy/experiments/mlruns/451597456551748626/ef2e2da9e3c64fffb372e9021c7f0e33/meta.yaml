@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ef2e2da9e3c64fffb372e9021c7f0e33/artifacts
+end_time: 1701660257457
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ef2e2da9e3c64fffb372e9021c7f0e33
+run_name: useful-toad-594
+run_uuid: ef2e2da9e3c64fffb372e9021c7f0e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660257341
+status: 3
+tags: []
+user_id: houston

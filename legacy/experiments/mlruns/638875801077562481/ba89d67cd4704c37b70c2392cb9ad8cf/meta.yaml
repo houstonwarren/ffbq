@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ba89d67cd4704c37b70c2392cb9ad8cf/artifacts
+end_time: 1701667520831
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ba89d67cd4704c37b70c2392cb9ad8cf
+run_name: colorful-cow-930
+run_uuid: ba89d67cd4704c37b70c2392cb9ad8cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667520755
+status: 3
+tags: []
+user_id: houston

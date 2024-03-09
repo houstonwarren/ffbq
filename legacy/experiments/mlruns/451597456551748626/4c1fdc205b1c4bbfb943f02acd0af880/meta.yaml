@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4c1fdc205b1c4bbfb943f02acd0af880/artifacts
+end_time: 1701660510134
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4c1fdc205b1c4bbfb943f02acd0af880
+run_name: adaptable-robin-87
+run_uuid: 4c1fdc205b1c4bbfb943f02acd0af880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660510036
+status: 3
+tags: []
+user_id: houston

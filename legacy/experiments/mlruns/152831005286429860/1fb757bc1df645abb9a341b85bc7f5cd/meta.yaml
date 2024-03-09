@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/1fb757bc1df645abb9a341b85bc7f5cd/artifacts
+end_time: 1697360326860
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 1fb757bc1df645abb9a341b85bc7f5cd
+run_name: sincere-skunk-740
+run_uuid: 1fb757bc1df645abb9a341b85bc7f5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360326809
+status: 3
+tags: []
+user_id: houston

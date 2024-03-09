@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e790854921bf4f2b9a670f4038e6ef7e/artifacts
+end_time: 1701667575017
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e790854921bf4f2b9a670f4038e6ef7e
+run_name: righteous-dove-961
+run_uuid: e790854921bf4f2b9a670f4038e6ef7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667574905
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/5c9e012bd31944a68c141ee3d073ad90/artifacts
+end_time: 1701659590018
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 5c9e012bd31944a68c141ee3d073ad90
+run_name: sincere-yak-223
+run_uuid: 5c9e012bd31944a68c141ee3d073ad90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659589883
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/e5fbe70e62b64190b8cf0db4d93f650e/artifacts
+end_time: 1697360388826
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: e5fbe70e62b64190b8cf0db4d93f650e
+run_name: secretive-koi-280
+run_uuid: e5fbe70e62b64190b8cf0db4d93f650e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360388769
+status: 3
+tags: []
+user_id: houston

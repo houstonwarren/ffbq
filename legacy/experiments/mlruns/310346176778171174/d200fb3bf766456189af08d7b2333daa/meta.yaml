@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/d200fb3bf766456189af08d7b2333daa/artifacts
+end_time: 1696909205356
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: d200fb3bf766456189af08d7b2333daa
+run_name: defiant-asp-153
+run_uuid: d200fb3bf766456189af08d7b2333daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909205337
+status: 3
+tags: []
+user_id: houston

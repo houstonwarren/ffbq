@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d139846fc17d4c39b150ceb509ed1a39/artifacts
+end_time: 1701659602715
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d139846fc17d4c39b150ceb509ed1a39
+run_name: merciful-bat-201
+run_uuid: d139846fc17d4c39b150ceb509ed1a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659602572
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/0f8f9593d2c34509b985aee18218ccae/artifacts
+end_time: 1697441043056
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 0f8f9593d2c34509b985aee18218ccae
+run_name: stately-lynx-95
+run_uuid: 0f8f9593d2c34509b985aee18218ccae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441042997
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b04ebf170ca2491e97e64328c2a5f833/artifacts
+end_time: 1701659466061
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b04ebf170ca2491e97e64328c2a5f833
+run_name: adventurous-owl-623
+run_uuid: b04ebf170ca2491e97e64328c2a5f833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659465942
+status: 3
+tags: []
+user_id: houston

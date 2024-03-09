@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/978bf480fd33469fb93dab8c85d7965f/artifacts
+end_time: 1697359146134
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 978bf480fd33469fb93dab8c85d7965f
+run_name: rare-hog-86
+run_uuid: 978bf480fd33469fb93dab8c85d7965f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359146080
+status: 3
+tags: []
+user_id: houston

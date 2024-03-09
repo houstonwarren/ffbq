@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f0cc5b67ff3c482780df41b1e7a9538b/artifacts
+end_time: 1697440461010
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f0cc5b67ff3c482780df41b1e7a9538b
+run_name: luxuriant-hen-111
+run_uuid: f0cc5b67ff3c482780df41b1e7a9538b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440460962
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a5db628d82b2409c9d1096d6e328f03d/artifacts
+end_time: 1697193692990
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a5db628d82b2409c9d1096d6e328f03d
+run_name: monumental-foal-168
+run_uuid: a5db628d82b2409c9d1096d6e328f03d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193692977
+status: 3
+tags: []
+user_id: houston

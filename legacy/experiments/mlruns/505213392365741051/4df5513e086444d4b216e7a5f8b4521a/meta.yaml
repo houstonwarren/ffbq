@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4df5513e086444d4b216e7a5f8b4521a/artifacts
+end_time: 1701659416953
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4df5513e086444d4b216e7a5f8b4521a
+run_name: redolent-mole-315
+run_uuid: 4df5513e086444d4b216e7a5f8b4521a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659416799
+status: 3
+tags: []
+user_id: houston

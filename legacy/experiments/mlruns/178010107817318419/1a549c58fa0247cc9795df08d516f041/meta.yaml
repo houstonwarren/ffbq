@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/1a549c58fa0247cc9795df08d516f041/artifacts
+end_time: 1697359117122
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 1a549c58fa0247cc9795df08d516f041
+run_name: auspicious-bee-399
+run_uuid: 1a549c58fa0247cc9795df08d516f041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359117071
+status: 3
+tags: []
+user_id: houston

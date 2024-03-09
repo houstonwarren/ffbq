@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/976c76aa9867405da02278a11ef8c19e/artifacts
+end_time: 1698114189946
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 976c76aa9867405da02278a11ef8c19e
+run_name: marvelous-zebra-502
+run_uuid: 976c76aa9867405da02278a11ef8c19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114189885
+status: 3
+tags: []
+user_id: houston

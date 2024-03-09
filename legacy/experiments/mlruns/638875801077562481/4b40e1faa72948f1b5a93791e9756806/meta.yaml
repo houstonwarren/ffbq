@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4b40e1faa72948f1b5a93791e9756806/artifacts
+end_time: 1701667370876
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4b40e1faa72948f1b5a93791e9756806
+run_name: grandiose-skink-456
+run_uuid: 4b40e1faa72948f1b5a93791e9756806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667370787
+status: 3
+tags: []
+user_id: houston

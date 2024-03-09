@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6d21570ebded4a989f641a4f29a954a3/artifacts
+end_time: 1701659531300
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6d21570ebded4a989f641a4f29a954a3
+run_name: thoughtful-dove-665
+run_uuid: 6d21570ebded4a989f641a4f29a954a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659531142
+status: 3
+tags: []
+user_id: houston

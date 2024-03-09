@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/6b2aca28d6994453a65dc40083228540/artifacts
+end_time: 1697360380198
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 6b2aca28d6994453a65dc40083228540
+run_name: auspicious-mouse-261
+run_uuid: 6b2aca28d6994453a65dc40083228540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360380144
+status: 3
+tags: []
+user_id: houston

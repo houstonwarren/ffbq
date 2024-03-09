@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/e3a013e08adf446eb4cb7f6f34296b6b/artifacts
+end_time: 1697360392817
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: e3a013e08adf446eb4cb7f6f34296b6b
+run_name: redolent-hare-787
+run_uuid: e3a013e08adf446eb4cb7f6f34296b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360392755
+status: 3
+tags: []
+user_id: houston

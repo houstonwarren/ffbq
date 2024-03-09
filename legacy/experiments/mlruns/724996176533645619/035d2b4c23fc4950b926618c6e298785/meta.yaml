@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/035d2b4c23fc4950b926618c6e298785/artifacts
+end_time: 1697194741567
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 035d2b4c23fc4950b926618c6e298785
+run_name: mercurial-donkey-758
+run_uuid: 035d2b4c23fc4950b926618c6e298785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741547
+status: 3
+tags: []
+user_id: houston

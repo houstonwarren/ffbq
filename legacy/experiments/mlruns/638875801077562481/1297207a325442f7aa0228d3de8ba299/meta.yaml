@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1297207a325442f7aa0228d3de8ba299/artifacts
+end_time: 1701667944705
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1297207a325442f7aa0228d3de8ba299
+run_name: thundering-turtle-39
+run_uuid: 1297207a325442f7aa0228d3de8ba299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667944543
+status: 3
+tags: []
+user_id: houston

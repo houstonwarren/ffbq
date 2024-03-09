@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/793eed5eabe24e9f816f082b07b3ebb6/artifacts
+deleted_time: 1701665274136
+end_time: 1701664666812
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 793eed5eabe24e9f816f082b07b3ebb6
+run_name: abrasive-snake-526
+run_uuid: 793eed5eabe24e9f816f082b07b3ebb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664666779
+status: 3
+tags: []
+user_id: houston

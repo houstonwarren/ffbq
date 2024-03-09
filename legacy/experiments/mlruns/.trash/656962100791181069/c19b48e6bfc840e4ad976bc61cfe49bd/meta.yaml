@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c19b48e6bfc840e4ad976bc61cfe49bd/artifacts
+deleted_time: 1701665274136
+end_time: 1701664648724
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c19b48e6bfc840e4ad976bc61cfe49bd
+run_name: amazing-pug-826
+run_uuid: c19b48e6bfc840e4ad976bc61cfe49bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664648696
+status: 3
+tags: []
+user_id: houston

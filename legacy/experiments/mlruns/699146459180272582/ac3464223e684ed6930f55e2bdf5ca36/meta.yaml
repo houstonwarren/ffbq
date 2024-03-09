@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ac3464223e684ed6930f55e2bdf5ca36/artifacts
+end_time: 1698113446160
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ac3464223e684ed6930f55e2bdf5ca36
+run_name: fortunate-finch-575
+run_uuid: ac3464223e684ed6930f55e2bdf5ca36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113446109
+status: 3
+tags: []
+user_id: houston

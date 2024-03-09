@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cad2cb2fe6a2413f82e4fd88afb5bd4e/artifacts
+end_time: 1701667655721
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cad2cb2fe6a2413f82e4fd88afb5bd4e
+run_name: traveling-zebra-424
+run_uuid: cad2cb2fe6a2413f82e4fd88afb5bd4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667655581
+status: 3
+tags: []
+user_id: houston

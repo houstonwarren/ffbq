@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4b2da0acf4524c09b2caf443f6635ce1/artifacts
+end_time: 1701667722235
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4b2da0acf4524c09b2caf443f6635ce1
+run_name: carefree-squid-64
+run_uuid: 4b2da0acf4524c09b2caf443f6635ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667722097
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/a8ef1c47f4b54f61a32ddf3e0f000428/artifacts
+end_time: 1696909043823
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: a8ef1c47f4b54f61a32ddf3e0f000428
+run_name: redolent-grub-179
+run_uuid: a8ef1c47f4b54f61a32ddf3e0f000428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909043814
+status: 3
+tags: []
+user_id: houston

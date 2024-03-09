@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a1edf94971ca419fb344377efeb4cd83/artifacts
+end_time: 1697195748255
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a1edf94971ca419fb344377efeb4cd83
+run_name: whimsical-mole-952
+run_uuid: a1edf94971ca419fb344377efeb4cd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748179
+status: 3
+tags: []
+user_id: houston

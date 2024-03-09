@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a1042f6cf73944a48b9e949ded1fa7c3/artifacts
+end_time: 1698113558004
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a1042f6cf73944a48b9e949ded1fa7c3
+run_name: amazing-ape-453
+run_uuid: a1042f6cf73944a48b9e949ded1fa7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113557949
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ce196581abbf4b9fa1721bfa47831da2/artifacts
+end_time: 1697197870386
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ce196581abbf4b9fa1721bfa47831da2
+run_name: melodic-fly-892
+run_uuid: ce196581abbf4b9fa1721bfa47831da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870367
+status: 3
+tags: []
+user_id: houston

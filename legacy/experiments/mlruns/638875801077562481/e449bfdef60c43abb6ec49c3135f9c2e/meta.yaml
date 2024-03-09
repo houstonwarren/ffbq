@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e449bfdef60c43abb6ec49c3135f9c2e/artifacts
+end_time: 1701667615145
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e449bfdef60c43abb6ec49c3135f9c2e
+run_name: luminous-mole-232
+run_uuid: e449bfdef60c43abb6ec49c3135f9c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667615021
+status: 3
+tags: []
+user_id: houston

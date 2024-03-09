@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/938136835892034522/3f75e36960654fb49cd6fa9a08129ecc/artifacts
+end_time: 1701657909881
+entry_point_name: ''
+experiment_id: '938136835892034522'
+lifecycle_stage: active
+run_id: 3f75e36960654fb49cd6fa9a08129ecc
+run_name: sassy-bear-808
+run_uuid: 3f75e36960654fb49cd6fa9a08129ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701657909869
+status: 4
+tags: []
+user_id: houston

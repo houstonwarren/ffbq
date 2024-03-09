@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/40fceb7e449a45b68c72f39d3e959b86/artifacts
+end_time: 1697195979397
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 40fceb7e449a45b68c72f39d3e959b86
+run_name: abundant-elk-323
+run_uuid: 40fceb7e449a45b68c72f39d3e959b86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195979381
+status: 3
+tags: []
+user_id: houston

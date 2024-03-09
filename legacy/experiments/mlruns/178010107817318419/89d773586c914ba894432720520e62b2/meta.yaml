@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/89d773586c914ba894432720520e62b2/artifacts
+end_time: 1697359184196
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 89d773586c914ba894432720520e62b2
+run_name: tasteful-pug-107
+run_uuid: 89d773586c914ba894432720520e62b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359184144
+status: 3
+tags: []
+user_id: houston

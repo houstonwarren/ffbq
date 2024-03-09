@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bf6e7356052b49c6bb9635eaecbf563d/artifacts
+end_time: 1698115039150
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bf6e7356052b49c6bb9635eaecbf563d
+run_name: glamorous-mule-135
+run_uuid: bf6e7356052b49c6bb9635eaecbf563d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115039089
+status: 3
+tags: []
+user_id: houston

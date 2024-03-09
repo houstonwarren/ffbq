@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d1a9f9bf4ca44109b8ec9b50df3d0f16/artifacts
+end_time: 1697359160059
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d1a9f9bf4ca44109b8ec9b50df3d0f16
+run_name: intrigued-perch-298
+run_uuid: d1a9f9bf4ca44109b8ec9b50df3d0f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359160006
+status: 3
+tags: []
+user_id: houston

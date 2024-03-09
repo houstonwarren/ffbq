@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ddfdfb42206a4d68938d9c8d11c58b4b/artifacts
+end_time: 1701660260236
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ddfdfb42206a4d68938d9c8d11c58b4b
+run_name: merciful-swan-237
+run_uuid: ddfdfb42206a4d68938d9c8d11c58b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660260155
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e938fa026d2f4f1c9415cb0dc40fa919/artifacts
+end_time: 1701659444596
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e938fa026d2f4f1c9415cb0dc40fa919
+run_name: abrasive-dolphin-529
+run_uuid: e938fa026d2f4f1c9415cb0dc40fa919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659444466
+status: 3
+tags: []
+user_id: houston

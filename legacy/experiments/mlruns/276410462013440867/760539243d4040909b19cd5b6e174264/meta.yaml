@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/760539243d4040909b19cd5b6e174264/artifacts
+end_time: 1697197870361
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 760539243d4040909b19cd5b6e174264
+run_name: polite-shrew-223
+run_uuid: 760539243d4040909b19cd5b6e174264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870343
+status: 3
+tags: []
+user_id: houston

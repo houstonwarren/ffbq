@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/47fae04d602741fc96ac7aacf02a9d50/artifacts
+end_time: 1698113599690
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 47fae04d602741fc96ac7aacf02a9d50
+run_name: mercurial-ox-613
+run_uuid: 47fae04d602741fc96ac7aacf02a9d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599636
+status: 3
+tags: []
+user_id: houston

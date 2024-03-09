@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/9b7eb155a31e45ccaa72e180c3482079/artifacts
+end_time: 1697360257417
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 9b7eb155a31e45ccaa72e180c3482079
+run_name: receptive-conch-196
+run_uuid: 9b7eb155a31e45ccaa72e180c3482079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360257369
+status: 3
+tags: []
+user_id: houston

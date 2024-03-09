@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f4358cd375694ac39400eba03e5bb80f/artifacts
+end_time: 1697359082765
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f4358cd375694ac39400eba03e5bb80f
+run_name: marvelous-sponge-915
+run_uuid: f4358cd375694ac39400eba03e5bb80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359082714
+status: 3
+tags: []
+user_id: houston

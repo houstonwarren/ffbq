@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3ab127c1c08e4e8e8aba94ddaeab9144/artifacts
+end_time: 1697193760108
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3ab127c1c08e4e8e8aba94ddaeab9144
+run_name: abrasive-dove-111
+run_uuid: 3ab127c1c08e4e8e8aba94ddaeab9144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193760095
+status: 3
+tags: []
+user_id: houston

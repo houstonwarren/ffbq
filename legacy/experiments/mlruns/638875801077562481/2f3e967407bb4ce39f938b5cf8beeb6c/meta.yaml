@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2f3e967407bb4ce39f938b5cf8beeb6c/artifacts
+end_time: 1701667789118
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2f3e967407bb4ce39f938b5cf8beeb6c
+run_name: indecisive-lark-712
+run_uuid: 2f3e967407bb4ce39f938b5cf8beeb6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667788966
+status: 3
+tags: []
+user_id: houston

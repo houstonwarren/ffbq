@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bfb79cb9592d4bd693f3e2bc179c7650/artifacts
+deleted_time: 1701665274136
+end_time: 1701664745419
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bfb79cb9592d4bd693f3e2bc179c7650
+run_name: casual-mule-470
+run_uuid: bfb79cb9592d4bd693f3e2bc179c7650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664745396
+status: 3
+tags: []
+user_id: houston

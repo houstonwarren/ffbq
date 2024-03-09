@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d3d6286ca5874f489c0e0454e0950cc7/artifacts
+end_time: 1701660290043
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d3d6286ca5874f489c0e0454e0950cc7
+run_name: calm-donkey-569
+run_uuid: d3d6286ca5874f489c0e0454e0950cc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660289948
+status: 3
+tags: []
+user_id: houston

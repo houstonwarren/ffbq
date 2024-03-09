@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/8ccf30251ec843c6a1e6060dd1da0ab3/artifacts
+end_time: 1697360300564
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 8ccf30251ec843c6a1e6060dd1da0ab3
+run_name: persistent-bug-607
+run_uuid: 8ccf30251ec843c6a1e6060dd1da0ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360300513
+status: 3
+tags: []
+user_id: houston

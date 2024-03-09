@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b0e3344d9f10426bae532c17ced940dd/artifacts
+end_time: 1697194206976
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b0e3344d9f10426bae532c17ced940dd
+run_name: capable-ape-651
+run_uuid: b0e3344d9f10426bae532c17ced940dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194206957
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f1f6623638fd40d08a9470cf56aaa8d0/artifacts
+end_time: 1697359129893
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f1f6623638fd40d08a9470cf56aaa8d0
+run_name: marvelous-koi-719
+run_uuid: f1f6623638fd40d08a9470cf56aaa8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359129838
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8f24b2ac79ab472a95cd737345b4eb79/artifacts
+end_time: 1701660354969
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8f24b2ac79ab472a95cd737345b4eb79
+run_name: chill-fly-208
+run_uuid: 8f24b2ac79ab472a95cd737345b4eb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660354869
+status: 3
+tags: []
+user_id: houston

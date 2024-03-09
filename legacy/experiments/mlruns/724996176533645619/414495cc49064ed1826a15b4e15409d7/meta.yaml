@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/414495cc49064ed1826a15b4e15409d7/artifacts
+end_time: 1697193909661
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 414495cc49064ed1826a15b4e15409d7
+run_name: loud-owl-5
+run_uuid: 414495cc49064ed1826a15b4e15409d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909646
+status: 3
+tags: []
+user_id: houston

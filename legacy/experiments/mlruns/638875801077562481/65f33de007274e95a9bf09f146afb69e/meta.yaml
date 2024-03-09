@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/65f33de007274e95a9bf09f146afb69e/artifacts
+end_time: 1701667670220
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 65f33de007274e95a9bf09f146afb69e
+run_name: receptive-shoat-55
+run_uuid: 65f33de007274e95a9bf09f146afb69e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667670114
+status: 3
+tags: []
+user_id: houston

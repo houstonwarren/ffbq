@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/dd1c0137e2874355a1503fca1949a58c/artifacts
+end_time: 1701660454482
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: dd1c0137e2874355a1503fca1949a58c
+run_name: luminous-owl-966
+run_uuid: dd1c0137e2874355a1503fca1949a58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660454368
+status: 3
+tags: []
+user_id: houston

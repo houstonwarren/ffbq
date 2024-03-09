@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/e18de8e472724d3eaed0e56933b83fb1/artifacts
+deleted_time: 1701660238886
+end_time: 1701660173166
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: e18de8e472724d3eaed0e56933b83fb1
+run_name: calm-doe-489
+run_uuid: e18de8e472724d3eaed0e56933b83fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660173031
+status: 3
+tags: []
+user_id: houston

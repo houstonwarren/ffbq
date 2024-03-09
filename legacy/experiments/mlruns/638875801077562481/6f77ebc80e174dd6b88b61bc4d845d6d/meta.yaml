@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6f77ebc80e174dd6b88b61bc4d845d6d/artifacts
+end_time: 1701667666149
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6f77ebc80e174dd6b88b61bc4d845d6d
+run_name: peaceful-sheep-680
+run_uuid: 6f77ebc80e174dd6b88b61bc4d845d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667666012
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3a1fb649b155416894d2032da4dc7a2b/artifacts
+end_time: 1701667720130
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3a1fb649b155416894d2032da4dc7a2b
+run_name: caring-lamb-799
+run_uuid: 3a1fb649b155416894d2032da4dc7a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667719926
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/faa9019dbc7744e0857f4f8612bb7bcf/artifacts
+end_time: 1701660246666
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: faa9019dbc7744e0857f4f8612bb7bcf
+run_name: selective-mare-913
+run_uuid: faa9019dbc7744e0857f4f8612bb7bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660246614
+status: 3
+tags: []
+user_id: houston

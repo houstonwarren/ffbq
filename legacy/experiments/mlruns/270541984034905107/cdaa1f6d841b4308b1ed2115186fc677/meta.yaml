@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/cdaa1f6d841b4308b1ed2115186fc677/artifacts
+end_time: 1697440752524
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: cdaa1f6d841b4308b1ed2115186fc677
+run_name: caring-fawn-668
+run_uuid: cdaa1f6d841b4308b1ed2115186fc677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440752474
+status: 3
+tags: []
+user_id: houston

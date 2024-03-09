@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/685bf2368b6a489f886b936ad7dcf9cf/artifacts
+end_time: 1697360372855
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 685bf2368b6a489f886b936ad7dcf9cf
+run_name: incongruous-calf-280
+run_uuid: 685bf2368b6a489f886b936ad7dcf9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360372802
+status: 3
+tags: []
+user_id: houston

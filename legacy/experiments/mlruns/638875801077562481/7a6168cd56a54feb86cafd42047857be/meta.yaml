@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7a6168cd56a54feb86cafd42047857be/artifacts
+end_time: 1701667440730
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7a6168cd56a54feb86cafd42047857be
+run_name: luxuriant-sow-82
+run_uuid: 7a6168cd56a54feb86cafd42047857be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667440649
+status: 3
+tags: []
+user_id: houston

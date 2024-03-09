@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/1a6dc0ff18784dd38832ec17f6e29854/artifacts
+end_time: 1697360320601
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 1a6dc0ff18784dd38832ec17f6e29854
+run_name: enthused-wren-511
+run_uuid: 1a6dc0ff18784dd38832ec17f6e29854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360320549
+status: 3
+tags: []
+user_id: houston

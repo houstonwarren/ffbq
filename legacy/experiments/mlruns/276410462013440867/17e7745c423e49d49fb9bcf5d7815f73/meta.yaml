@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/17e7745c423e49d49fb9bcf5d7815f73/artifacts
+end_time: 1697197061078
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 17e7745c423e49d49fb9bcf5d7815f73
+run_name: gentle-grub-66
+run_uuid: 17e7745c423e49d49fb9bcf5d7815f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197061061
+status: 3
+tags: []
+user_id: houston

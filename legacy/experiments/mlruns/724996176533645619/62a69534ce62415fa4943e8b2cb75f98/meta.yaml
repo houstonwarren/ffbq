@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/62a69534ce62415fa4943e8b2cb75f98/artifacts
+end_time: 1697193709473
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 62a69534ce62415fa4943e8b2cb75f98
+run_name: shivering-goat-294
+run_uuid: 62a69534ce62415fa4943e8b2cb75f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709397
+status: 3
+tags: []
+user_id: houston

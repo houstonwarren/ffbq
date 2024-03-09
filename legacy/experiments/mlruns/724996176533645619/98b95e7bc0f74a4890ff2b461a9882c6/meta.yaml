@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/98b95e7bc0f74a4890ff2b461a9882c6/artifacts
+end_time: 1697193840718
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 98b95e7bc0f74a4890ff2b461a9882c6
+run_name: orderly-bass-454
+run_uuid: 98b95e7bc0f74a4890ff2b461a9882c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193840696
+status: 3
+tags: []
+user_id: houston

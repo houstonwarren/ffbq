@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/843508be8c16472d9e87b8d1335a9e6e/artifacts
+end_time: 1697193793569
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 843508be8c16472d9e87b8d1335a9e6e
+run_name: invincible-shark-316
+run_uuid: 843508be8c16472d9e87b8d1335a9e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793496
+status: 3
+tags: []
+user_id: houston

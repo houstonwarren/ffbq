@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9c485dffca044334afc3c285317a8a6b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664844137
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9c485dffca044334afc3c285317a8a6b
+run_name: adorable-elk-943
+run_uuid: 9c485dffca044334afc3c285317a8a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664844095
+status: 3
+tags: []
+user_id: houston

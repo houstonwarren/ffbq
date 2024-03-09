@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5fd20375d9964892b7ab7a09605c28be/artifacts
+end_time: 1701660446593
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5fd20375d9964892b7ab7a09605c28be
+run_name: nosy-tern-40
+run_uuid: 5fd20375d9964892b7ab7a09605c28be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660446483
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a26f1c1052764b2299b12b45dafc03d0/artifacts
+end_time: 1698114138000
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a26f1c1052764b2299b12b45dafc03d0
+run_name: skittish-shark-97
+run_uuid: a26f1c1052764b2299b12b45dafc03d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114137940
+status: 3
+tags: []
+user_id: houston

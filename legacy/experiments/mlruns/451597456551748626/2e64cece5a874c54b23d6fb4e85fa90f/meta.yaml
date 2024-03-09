@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2e64cece5a874c54b23d6fb4e85fa90f/artifacts
+end_time: 1701660335963
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2e64cece5a874c54b23d6fb4e85fa90f
+run_name: zealous-asp-52
+run_uuid: 2e64cece5a874c54b23d6fb4e85fa90f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660335853
+status: 3
+tags: []
+user_id: houston

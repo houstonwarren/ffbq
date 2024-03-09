@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dc623108675745149a3525e8e38c2350/artifacts
+end_time: 1701667932629
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dc623108675745149a3525e8e38c2350
+run_name: charming-grub-796
+run_uuid: dc623108675745149a3525e8e38c2350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667932479
+status: 3
+tags: []
+user_id: houston

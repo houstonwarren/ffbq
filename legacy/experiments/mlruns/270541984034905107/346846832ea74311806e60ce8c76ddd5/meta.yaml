@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/346846832ea74311806e60ce8c76ddd5/artifacts
+end_time: 1697440834067
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 346846832ea74311806e60ce8c76ddd5
+run_name: adorable-yak-162
+run_uuid: 346846832ea74311806e60ce8c76ddd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440834011
+status: 3
+tags: []
+user_id: houston

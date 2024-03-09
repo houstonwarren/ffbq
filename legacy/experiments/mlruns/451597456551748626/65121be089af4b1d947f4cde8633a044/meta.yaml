@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/65121be089af4b1d947f4cde8633a044/artifacts
+end_time: 1701660319484
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 65121be089af4b1d947f4cde8633a044
+run_name: judicious-snipe-487
+run_uuid: 65121be089af4b1d947f4cde8633a044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660319390
+status: 3
+tags: []
+user_id: houston

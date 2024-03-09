@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e992c968482645e880eca9482dd49d55/artifacts
+end_time: 1697440699037
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e992c968482645e880eca9482dd49d55
+run_name: crawling-squid-736
+run_uuid: e992c968482645e880eca9482dd49d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440698987
+status: 3
+tags: []
+user_id: houston

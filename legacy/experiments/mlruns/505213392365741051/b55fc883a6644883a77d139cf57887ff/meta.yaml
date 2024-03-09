@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b55fc883a6644883a77d139cf57887ff/artifacts
+end_time: 1701659519107
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b55fc883a6644883a77d139cf57887ff
+run_name: stylish-crow-865
+run_uuid: b55fc883a6644883a77d139cf57887ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659518994
+status: 3
+tags: []
+user_id: houston

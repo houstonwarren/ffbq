@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/1c0f2a0a9081419592ead85af2578c87/artifacts
+end_time: 1701660285498
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 1c0f2a0a9081419592ead85af2578c87
+run_name: fortunate-ram-676
+run_uuid: 1c0f2a0a9081419592ead85af2578c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660285431
+status: 3
+tags: []
+user_id: houston

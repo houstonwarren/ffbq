@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9a2c8424891d4bcf86b08710a590e737/artifacts
+end_time: 1701667387016
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9a2c8424891d4bcf86b08710a590e737
+run_name: brawny-snail-704
+run_uuid: 9a2c8424891d4bcf86b08710a590e737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667386909
+status: 3
+tags: []
+user_id: houston

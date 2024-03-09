@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/89a6fa2347c74c9da315176c278bc00f/artifacts
+end_time: 1697359085083
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 89a6fa2347c74c9da315176c278bc00f
+run_name: funny-ant-320
+run_uuid: 89a6fa2347c74c9da315176c278bc00f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359085027
+status: 3
+tags: []
+user_id: houston

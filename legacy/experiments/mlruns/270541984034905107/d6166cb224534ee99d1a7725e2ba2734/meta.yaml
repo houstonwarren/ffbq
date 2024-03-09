@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d6166cb224534ee99d1a7725e2ba2734/artifacts
+end_time: 1697440444895
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d6166cb224534ee99d1a7725e2ba2734
+run_name: capable-panda-388
+run_uuid: d6166cb224534ee99d1a7725e2ba2734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444848
+status: 3
+tags: []
+user_id: houston

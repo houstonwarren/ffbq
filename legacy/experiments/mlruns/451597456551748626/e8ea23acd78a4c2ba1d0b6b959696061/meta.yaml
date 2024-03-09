@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e8ea23acd78a4c2ba1d0b6b959696061/artifacts
+end_time: 1701660415083
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e8ea23acd78a4c2ba1d0b6b959696061
+run_name: traveling-slug-125
+run_uuid: e8ea23acd78a4c2ba1d0b6b959696061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660414989
+status: 3
+tags: []
+user_id: houston

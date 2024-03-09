@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/3fbfca767c3949fe9679e59fe5241e16/artifacts
+end_time: 1701659556545
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 3fbfca767c3949fe9679e59fe5241e16
+run_name: unique-carp-283
+run_uuid: 3fbfca767c3949fe9679e59fe5241e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659556401
+status: 3
+tags: []
+user_id: houston

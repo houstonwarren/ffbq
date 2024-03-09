@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a367680bae4244439219b6fa9e722b40/artifacts
+end_time: 1697198569709
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a367680bae4244439219b6fa9e722b40
+run_name: receptive-rat-791
+run_uuid: a367680bae4244439219b6fa9e722b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569687
+status: 3
+tags: []
+user_id: houston

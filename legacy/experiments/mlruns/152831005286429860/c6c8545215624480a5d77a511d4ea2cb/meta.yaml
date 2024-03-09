@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/c6c8545215624480a5d77a511d4ea2cb/artifacts
+end_time: 1697360260698
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: c6c8545215624480a5d77a511d4ea2cb
+run_name: bustling-ape-851
+run_uuid: c6c8545215624480a5d77a511d4ea2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360260649
+status: 3
+tags: []
+user_id: houston

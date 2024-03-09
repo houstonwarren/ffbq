@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/558540c30f364b9486d078fae78869d5/artifacts
+end_time: 1701667370996
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 558540c30f364b9486d078fae78869d5
+run_name: righteous-rook-976
+run_uuid: 558540c30f364b9486d078fae78869d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667370916
+status: 3
+tags: []
+user_id: houston

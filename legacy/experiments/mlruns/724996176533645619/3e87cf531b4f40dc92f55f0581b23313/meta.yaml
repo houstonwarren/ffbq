@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3e87cf531b4f40dc92f55f0581b23313/artifacts
+end_time: 1697194686087
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3e87cf531b4f40dc92f55f0581b23313
+run_name: blushing-robin-575
+run_uuid: 3e87cf531b4f40dc92f55f0581b23313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686066
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/50a7dd17966445ceb0a264dfc8b5ba26/artifacts
+end_time: 1697440492671
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 50a7dd17966445ceb0a264dfc8b5ba26
+run_name: marvelous-cow-932
+run_uuid: 50a7dd17966445ceb0a264dfc8b5ba26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440492623
+status: 3
+tags: []
+user_id: houston

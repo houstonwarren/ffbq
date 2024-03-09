@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/737a85ec8b9d406ca5aa5353fa3d035d/artifacts
+end_time: 1697194686003
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 737a85ec8b9d406ca5aa5353fa3d035d
+run_name: sincere-lynx-738
+run_uuid: 737a85ec8b9d406ca5aa5353fa3d035d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194685982
+status: 3
+tags: []
+user_id: houston

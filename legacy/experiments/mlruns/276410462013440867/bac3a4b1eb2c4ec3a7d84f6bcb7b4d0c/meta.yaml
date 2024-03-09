@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bac3a4b1eb2c4ec3a7d84f6bcb7b4d0c/artifacts
+end_time: 1697195489112
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bac3a4b1eb2c4ec3a7d84f6bcb7b4d0c
+run_name: redolent-whale-443
+run_uuid: bac3a4b1eb2c4ec3a7d84f6bcb7b4d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489037
+status: 3
+tags: []
+user_id: houston

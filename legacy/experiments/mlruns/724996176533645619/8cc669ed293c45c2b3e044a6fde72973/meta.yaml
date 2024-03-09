@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8cc669ed293c45c2b3e044a6fde72973/artifacts
+end_time: 1697194241734
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8cc669ed293c45c2b3e044a6fde72973
+run_name: marvelous-panda-658
+run_uuid: 8cc669ed293c45c2b3e044a6fde72973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241715
+status: 3
+tags: []
+user_id: houston

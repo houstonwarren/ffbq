@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e8404592936542048dd7362ca8ac14fe/artifacts
+end_time: 1701667814990
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e8404592936542048dd7362ca8ac14fe
+run_name: bittersweet-midge-34
+run_uuid: e8404592936542048dd7362ca8ac14fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667814785
+status: 3
+tags: []
+user_id: houston

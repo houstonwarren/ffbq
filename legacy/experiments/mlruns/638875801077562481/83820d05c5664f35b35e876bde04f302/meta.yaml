@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/83820d05c5664f35b35e876bde04f302/artifacts
+end_time: 1701667684637
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 83820d05c5664f35b35e876bde04f302
+run_name: brawny-boar-962
+run_uuid: 83820d05c5664f35b35e876bde04f302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667684481
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3083632ac85a4b22b3aaa1dcbc88c18d/artifacts
+end_time: 1701660438758
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3083632ac85a4b22b3aaa1dcbc88c18d
+run_name: treasured-pug-342
+run_uuid: 3083632ac85a4b22b3aaa1dcbc88c18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660438625
+status: 3
+tags: []
+user_id: houston

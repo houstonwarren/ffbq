@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/bc7c0df605f24f5b965bb738493cc083/artifacts
+end_time: 1697440651481
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: bc7c0df605f24f5b965bb738493cc083
+run_name: stylish-grub-595
+run_uuid: bc7c0df605f24f5b965bb738493cc083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651430
+status: 3
+tags: []
+user_id: houston

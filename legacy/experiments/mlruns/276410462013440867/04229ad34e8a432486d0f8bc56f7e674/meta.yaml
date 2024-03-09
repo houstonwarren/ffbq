@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/04229ad34e8a432486d0f8bc56f7e674/artifacts
+end_time: 1697195941074
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 04229ad34e8a432486d0f8bc56f7e674
+run_name: worried-midge-584
+run_uuid: 04229ad34e8a432486d0f8bc56f7e674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941059
+status: 3
+tags: []
+user_id: houston

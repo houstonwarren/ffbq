@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/978db77a06a94b679211448870c3d897/artifacts
+end_time: 1701667719396
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 978db77a06a94b679211448870c3d897
+run_name: handsome-donkey-605
+run_uuid: 978db77a06a94b679211448870c3d897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667719258
+status: 3
+tags: []
+user_id: houston

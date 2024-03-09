@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6eca8dba68dd4d0cb9767b852de8c621/artifacts
+end_time: 1701667958581
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6eca8dba68dd4d0cb9767b852de8c621
+run_name: spiffy-snake-109
+run_uuid: 6eca8dba68dd4d0cb9767b852de8c621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667958436
+status: 3
+tags: []
+user_id: houston

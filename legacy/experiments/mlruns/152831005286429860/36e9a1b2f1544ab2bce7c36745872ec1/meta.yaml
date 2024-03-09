@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/36e9a1b2f1544ab2bce7c36745872ec1/artifacts
+end_time: 1697360318737
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 36e9a1b2f1544ab2bce7c36745872ec1
+run_name: awesome-ram-653
+run_uuid: 36e9a1b2f1544ab2bce7c36745872ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360318685
+status: 3
+tags: []
+user_id: houston

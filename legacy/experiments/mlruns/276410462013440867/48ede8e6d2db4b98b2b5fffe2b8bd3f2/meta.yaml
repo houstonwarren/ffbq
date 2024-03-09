@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/48ede8e6d2db4b98b2b5fffe2b8bd3f2/artifacts
+end_time: 1697195748091
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 48ede8e6d2db4b98b2b5fffe2b8bd3f2
+run_name: orderly-colt-349
+run_uuid: 48ede8e6d2db4b98b2b5fffe2b8bd3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748024
+status: 3
+tags: []
+user_id: houston

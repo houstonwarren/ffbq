@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/91144562a86e4d8aa0ea446d0705faca/artifacts
+end_time: 1701667579881
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 91144562a86e4d8aa0ea446d0705faca
+run_name: sneaky-shrike-334
+run_uuid: 91144562a86e4d8aa0ea446d0705faca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667579771
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/eb439f27e4bd4db4a063683fa1f373d9/artifacts
+end_time: 1701659462026
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: eb439f27e4bd4db4a063683fa1f373d9
+run_name: rebellious-panda-172
+run_uuid: eb439f27e4bd4db4a063683fa1f373d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659461887
+status: 3
+tags: []
+user_id: houston

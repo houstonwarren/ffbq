@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/40c047ed0f61407a9229defd2cc48dd8/artifacts
+end_time: 1697195748388
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 40c047ed0f61407a9229defd2cc48dd8
+run_name: sneaky-sheep-153
+run_uuid: 40c047ed0f61407a9229defd2cc48dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748375
+status: 3
+tags: []
+user_id: houston

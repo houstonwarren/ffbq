@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9d753fe7b18a4667a0b2b75f08edbb55/artifacts
+end_time: 1701667858266
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9d753fe7b18a4667a0b2b75f08edbb55
+run_name: legendary-duck-94
+run_uuid: 9d753fe7b18a4667a0b2b75f08edbb55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667858133
+status: 3
+tags: []
+user_id: houston

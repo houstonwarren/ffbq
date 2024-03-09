@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/18952329f1c148aa99996e9cd922d7b9/artifacts
+end_time: 1698113712368
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 18952329f1c148aa99996e9cd922d7b9
+run_name: dashing-mouse-431
+run_uuid: 18952329f1c148aa99996e9cd922d7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113712312
+status: 3
+tags: []
+user_id: houston

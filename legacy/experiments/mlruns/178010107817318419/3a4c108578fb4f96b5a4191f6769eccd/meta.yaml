@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3a4c108578fb4f96b5a4191f6769eccd/artifacts
+end_time: 1697359178719
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3a4c108578fb4f96b5a4191f6769eccd
+run_name: lyrical-seal-699
+run_uuid: 3a4c108578fb4f96b5a4191f6769eccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359178661
+status: 3
+tags: []
+user_id: houston

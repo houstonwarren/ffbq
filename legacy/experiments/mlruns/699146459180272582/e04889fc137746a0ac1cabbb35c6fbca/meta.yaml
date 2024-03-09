@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e04889fc137746a0ac1cabbb35c6fbca/artifacts
+end_time: 1698113870019
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e04889fc137746a0ac1cabbb35c6fbca
+run_name: gaudy-pig-615
+run_uuid: e04889fc137746a0ac1cabbb35c6fbca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113869958
+status: 3
+tags: []
+user_id: houston

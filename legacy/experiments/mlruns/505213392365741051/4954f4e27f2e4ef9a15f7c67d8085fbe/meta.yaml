@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4954f4e27f2e4ef9a15f7c67d8085fbe/artifacts
+end_time: 1701659448479
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4954f4e27f2e4ef9a15f7c67d8085fbe
+run_name: colorful-squid-303
+run_uuid: 4954f4e27f2e4ef9a15f7c67d8085fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659448354
+status: 3
+tags: []
+user_id: houston

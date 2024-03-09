@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/8c81edc2badc45568c033032d4504d00/artifacts
+end_time: 1697195748350
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 8c81edc2badc45568c033032d4504d00
+run_name: bustling-fawn-151
+run_uuid: 8c81edc2badc45568c033032d4504d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748337
+status: 3
+tags: []
+user_id: houston

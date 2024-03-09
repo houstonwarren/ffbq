@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/90b516052e1842479654f8fad22186fb/artifacts
+end_time: 1701667755620
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 90b516052e1842479654f8fad22186fb
+run_name: bemused-fawn-824
+run_uuid: 90b516052e1842479654f8fad22186fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667755472
+status: 3
+tags: []
+user_id: houston

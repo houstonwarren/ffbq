@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/aa6a394045d441e58fdf14bd5f68f1b9/artifacts
+end_time: 1701667378727
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: aa6a394045d441e58fdf14bd5f68f1b9
+run_name: colorful-fox-939
+run_uuid: aa6a394045d441e58fdf14bd5f68f1b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667378648
+status: 3
+tags: []
+user_id: houston

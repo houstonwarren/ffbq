@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/d6c7bf21715348a2839f9cc8a88aa9ef/artifacts
+end_time: 1697360355180
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: d6c7bf21715348a2839f9cc8a88aa9ef
+run_name: flawless-snake-267
+run_uuid: d6c7bf21715348a2839f9cc8a88aa9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360355128
+status: 3
+tags: []
+user_id: houston

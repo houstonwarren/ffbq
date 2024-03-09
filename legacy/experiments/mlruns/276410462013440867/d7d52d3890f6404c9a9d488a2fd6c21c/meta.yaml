@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d7d52d3890f6404c9a9d488a2fd6c21c/artifacts
+end_time: 1697195671829
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d7d52d3890f6404c9a9d488a2fd6c21c
+run_name: auspicious-fowl-534
+run_uuid: d7d52d3890f6404c9a9d488a2fd6c21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195671752
+status: 3
+tags: []
+user_id: houston

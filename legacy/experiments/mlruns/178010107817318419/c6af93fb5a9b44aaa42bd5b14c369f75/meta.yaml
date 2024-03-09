@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/c6af93fb5a9b44aaa42bd5b14c369f75/artifacts
+end_time: 1697359190102
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: c6af93fb5a9b44aaa42bd5b14c369f75
+run_name: tasteful-goat-730
+run_uuid: c6af93fb5a9b44aaa42bd5b14c369f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359190048
+status: 3
+tags: []
+user_id: houston

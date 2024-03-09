@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7e7ac4c4a6354baca04d27f0e59ab3e3/artifacts
+end_time: 1701667515287
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7e7ac4c4a6354baca04d27f0e59ab3e3
+run_name: resilient-donkey-655
+run_uuid: 7e7ac4c4a6354baca04d27f0e59ab3e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667515164
+status: 3
+tags: []
+user_id: houston

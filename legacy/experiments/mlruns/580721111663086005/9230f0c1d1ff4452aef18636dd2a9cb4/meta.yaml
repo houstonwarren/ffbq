@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/9230f0c1d1ff4452aef18636dd2a9cb4/artifacts
+end_time: 1701660132805
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 9230f0c1d1ff4452aef18636dd2a9cb4
+run_name: gaudy-dove-756
+run_uuid: 9230f0c1d1ff4452aef18636dd2a9cb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660132649
+status: 3
+tags: []
+user_id: houston

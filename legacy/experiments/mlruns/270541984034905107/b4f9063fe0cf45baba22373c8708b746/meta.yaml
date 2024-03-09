@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b4f9063fe0cf45baba22373c8708b746/artifacts
+end_time: 1697440651420
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b4f9063fe0cf45baba22373c8708b746
+run_name: whimsical-gnat-498
+run_uuid: b4f9063fe0cf45baba22373c8708b746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651370
+status: 3
+tags: []
+user_id: houston

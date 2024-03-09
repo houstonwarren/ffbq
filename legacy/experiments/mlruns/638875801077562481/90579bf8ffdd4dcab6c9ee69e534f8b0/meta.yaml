@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/90579bf8ffdd4dcab6c9ee69e534f8b0/artifacts
+end_time: 1701667772629
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 90579bf8ffdd4dcab6c9ee69e534f8b0
+run_name: fun-shrike-771
+run_uuid: 90579bf8ffdd4dcab6c9ee69e534f8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667772413
+status: 3
+tags: []
+user_id: houston

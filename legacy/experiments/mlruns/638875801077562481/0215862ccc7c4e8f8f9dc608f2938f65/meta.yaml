@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0215862ccc7c4e8f8f9dc608f2938f65/artifacts
+end_time: 1701667822401
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0215862ccc7c4e8f8f9dc608f2938f65
+run_name: judicious-shark-746
+run_uuid: 0215862ccc7c4e8f8f9dc608f2938f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667822247
+status: 3
+tags: []
+user_id: houston

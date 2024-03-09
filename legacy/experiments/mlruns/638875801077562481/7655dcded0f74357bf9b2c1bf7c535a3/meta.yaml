@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7655dcded0f74357bf9b2c1bf7c535a3/artifacts
+end_time: 1701667866996
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7655dcded0f74357bf9b2c1bf7c535a3
+run_name: receptive-vole-297
+run_uuid: 7655dcded0f74357bf9b2c1bf7c535a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667866816
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/67e72b5ad6294edbbcaf4d49b505daeb/artifacts
+end_time: 1698113681746
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 67e72b5ad6294edbbcaf4d49b505daeb
+run_name: delightful-kite-770
+run_uuid: 67e72b5ad6294edbbcaf4d49b505daeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113681690
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/af9598e330d94126bed379d6e846aa38/artifacts
+end_time: 1697198569790
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: af9598e330d94126bed379d6e846aa38
+run_name: thoughtful-skunk-534
+run_uuid: af9598e330d94126bed379d6e846aa38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569768
+status: 3
+tags: []
+user_id: houston

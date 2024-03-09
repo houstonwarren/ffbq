@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a2c2f94b8ec24abcad706b471ff9abbc/artifacts
+end_time: 1697442421353
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a2c2f94b8ec24abcad706b471ff9abbc
+run_name: aged-ray-365
+run_uuid: a2c2f94b8ec24abcad706b471ff9abbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442421296
+status: 3
+tags: []
+user_id: houston

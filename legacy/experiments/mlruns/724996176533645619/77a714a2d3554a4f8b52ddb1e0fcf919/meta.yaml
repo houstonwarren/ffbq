@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/77a714a2d3554a4f8b52ddb1e0fcf919/artifacts
+end_time: 1697193692920
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 77a714a2d3554a4f8b52ddb1e0fcf919
+run_name: mercurial-mare-757
+run_uuid: 77a714a2d3554a4f8b52ddb1e0fcf919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193692907
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a538a332e4a64c509744f7c97156c321/artifacts
+end_time: 1701667570200
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a538a332e4a64c509744f7c97156c321
+run_name: burly-lynx-178
+run_uuid: a538a332e4a64c509744f7c97156c321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667570082
+status: 3
+tags: []
+user_id: houston

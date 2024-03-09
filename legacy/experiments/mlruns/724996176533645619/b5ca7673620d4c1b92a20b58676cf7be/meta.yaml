@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b5ca7673620d4c1b92a20b58676cf7be/artifacts
+end_time: 1697194042278
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b5ca7673620d4c1b92a20b58676cf7be
+run_name: clumsy-crow-216
+run_uuid: b5ca7673620d4c1b92a20b58676cf7be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042260
+status: 3
+tags: []
+user_id: houston

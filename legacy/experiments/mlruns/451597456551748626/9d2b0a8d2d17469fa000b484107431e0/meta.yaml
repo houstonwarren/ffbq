@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/9d2b0a8d2d17469fa000b484107431e0/artifacts
+end_time: 1701660445988
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 9d2b0a8d2d17469fa000b484107431e0
+run_name: unleashed-eel-538
+run_uuid: 9d2b0a8d2d17469fa000b484107431e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660445844
+status: 3
+tags: []
+user_id: houston

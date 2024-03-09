@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/43f0a2b560d3419da5fb11a642ec7074/artifacts
+end_time: 1697195864223
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 43f0a2b560d3419da5fb11a642ec7074
+run_name: adaptable-kit-78
+run_uuid: 43f0a2b560d3419da5fb11a642ec7074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195864172
+status: 3
+tags: []
+user_id: houston

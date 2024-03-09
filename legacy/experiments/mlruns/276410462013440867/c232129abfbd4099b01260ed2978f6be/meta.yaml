@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c232129abfbd4099b01260ed2978f6be/artifacts
+end_time: 1697198680981
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c232129abfbd4099b01260ed2978f6be
+run_name: mysterious-carp-798
+run_uuid: c232129abfbd4099b01260ed2978f6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198680957
+status: 3
+tags: []
+user_id: houston

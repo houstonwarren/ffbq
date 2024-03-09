@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/cbf004ee30fb4c9195701b70353261a6/artifacts
+deleted_time: 1701665274136
+end_time: 1701664704018
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: cbf004ee30fb4c9195701b70353261a6
+run_name: rebellious-boar-876
+run_uuid: cbf004ee30fb4c9195701b70353261a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664704000
+status: 3
+tags: []
+user_id: houston

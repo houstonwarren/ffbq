@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7ab7a34a2b30447c9323f75d37dcdd4a/artifacts
+end_time: 1701667801870
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7ab7a34a2b30447c9323f75d37dcdd4a
+run_name: gregarious-ray-578
+run_uuid: 7ab7a34a2b30447c9323f75d37dcdd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667801706
+status: 3
+tags: []
+user_id: houston

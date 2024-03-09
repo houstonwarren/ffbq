@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/eacddd067a674cf4975c5ab6da23f564/artifacts
+end_time: 1697194381343
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: eacddd067a674cf4975c5ab6da23f564
+run_name: sassy-turtle-54
+run_uuid: eacddd067a674cf4975c5ab6da23f564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194381324
+status: 3
+tags: []
+user_id: houston

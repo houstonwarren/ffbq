@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2e4428bfb74e4fc3a856dbc7391e7683/artifacts
+end_time: 1701667914462
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2e4428bfb74e4fc3a856dbc7391e7683
+run_name: tasteful-bug-667
+run_uuid: 2e4428bfb74e4fc3a856dbc7391e7683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667914286
+status: 3
+tags: []
+user_id: houston

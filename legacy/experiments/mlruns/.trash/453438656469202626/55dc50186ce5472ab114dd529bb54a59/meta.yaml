@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/55dc50186ce5472ab114dd529bb54a59/artifacts
+deleted_time: 1701659398061
+end_time: 1701658644697
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 55dc50186ce5472ab114dd529bb54a59
+run_name: powerful-skink-182
+run_uuid: 55dc50186ce5472ab114dd529bb54a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658644575
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/199be0afd0844ef59f94387c65c7e0b6/artifacts
+end_time: 1697359189167
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 199be0afd0844ef59f94387c65c7e0b6
+run_name: tasteful-wasp-226
+run_uuid: 199be0afd0844ef59f94387c65c7e0b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359189113
+status: 3
+tags: []
+user_id: houston

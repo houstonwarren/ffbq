@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a0a7005a5d484f3b9986c00a4ab78fd5/artifacts
+end_time: 1697193742996
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a0a7005a5d484f3b9986c00a4ab78fd5
+run_name: suave-bird-922
+run_uuid: a0a7005a5d484f3b9986c00a4ab78fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193742983
+status: 3
+tags: []
+user_id: houston

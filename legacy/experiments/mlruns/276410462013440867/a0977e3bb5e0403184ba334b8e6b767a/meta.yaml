@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a0977e3bb5e0403184ba334b8e6b767a/artifacts
+end_time: 1697195489145
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a0977e3bb5e0403184ba334b8e6b767a
+run_name: debonair-pug-228
+run_uuid: a0977e3bb5e0403184ba334b8e6b767a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489117
+status: 3
+tags: []
+user_id: houston

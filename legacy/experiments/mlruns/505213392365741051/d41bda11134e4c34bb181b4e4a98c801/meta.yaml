@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d41bda11134e4c34bb181b4e4a98c801/artifacts
+end_time: 1701659605566
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d41bda11134e4c34bb181b4e4a98c801
+run_name: worried-newt-266
+run_uuid: d41bda11134e4c34bb181b4e4a98c801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659605438
+status: 3
+tags: []
+user_id: houston

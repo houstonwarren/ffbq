@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4543c02b5f8841dbac472835acfb0c59/artifacts
+deleted_time: 1701665274136
+end_time: 1701664620077
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4543c02b5f8841dbac472835acfb0c59
+run_name: welcoming-bee-291
+run_uuid: 4543c02b5f8841dbac472835acfb0c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664620052
+status: 3
+tags: []
+user_id: houston

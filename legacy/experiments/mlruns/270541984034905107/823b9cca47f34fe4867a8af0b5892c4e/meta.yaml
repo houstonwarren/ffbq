@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/823b9cca47f34fe4867a8af0b5892c4e/artifacts
+end_time: 1697442633124
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 823b9cca47f34fe4867a8af0b5892c4e
+run_name: dazzling-bee-302
+run_uuid: 823b9cca47f34fe4867a8af0b5892c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442633066
+status: 3
+tags: []
+user_id: houston

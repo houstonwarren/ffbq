@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/dd89d74b9fcd40c68c9e75d7548fe3eb/artifacts
+end_time: 1697193776912
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: dd89d74b9fcd40c68c9e75d7548fe3eb
+run_name: burly-panda-559
+run_uuid: dd89d74b9fcd40c68c9e75d7548fe3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193776899
+status: 3
+tags: []
+user_id: houston

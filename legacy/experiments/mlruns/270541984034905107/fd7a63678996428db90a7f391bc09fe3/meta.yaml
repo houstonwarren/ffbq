@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fd7a63678996428db90a7f391bc09fe3/artifacts
+end_time: 1697442421881
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fd7a63678996428db90a7f391bc09fe3
+run_name: kindly-quail-466
+run_uuid: fd7a63678996428db90a7f391bc09fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442421824
+status: 3
+tags: []
+user_id: houston

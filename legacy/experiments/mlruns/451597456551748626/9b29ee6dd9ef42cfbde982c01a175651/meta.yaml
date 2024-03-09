@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/9b29ee6dd9ef42cfbde982c01a175651/artifacts
+end_time: 1701660334927
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 9b29ee6dd9ef42cfbde982c01a175651
+run_name: tasteful-fish-479
+run_uuid: 9b29ee6dd9ef42cfbde982c01a175651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660334844
+status: 3
+tags: []
+user_id: houston

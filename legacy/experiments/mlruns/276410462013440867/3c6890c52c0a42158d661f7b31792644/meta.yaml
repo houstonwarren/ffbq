@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3c6890c52c0a42158d661f7b31792644/artifacts
+end_time: 1697195489162
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3c6890c52c0a42158d661f7b31792644
+run_name: salty-tern-180
+run_uuid: 3c6890c52c0a42158d661f7b31792644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489151
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b74ffc33831b4a3495d690215ec5684b/artifacts
+end_time: 1698114240170
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b74ffc33831b4a3495d690215ec5684b
+run_name: loud-worm-721
+run_uuid: b74ffc33831b4a3495d690215ec5684b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114240112
+status: 3
+tags: []
+user_id: houston

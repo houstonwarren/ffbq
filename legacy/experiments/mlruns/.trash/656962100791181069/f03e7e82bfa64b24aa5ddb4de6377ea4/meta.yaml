@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f03e7e82bfa64b24aa5ddb4de6377ea4/artifacts
+deleted_time: 1701665274136
+end_time: 1701664754412
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f03e7e82bfa64b24aa5ddb4de6377ea4
+run_name: gregarious-donkey-7
+run_uuid: f03e7e82bfa64b24aa5ddb4de6377ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664754364
+status: 3
+tags: []
+user_id: houston

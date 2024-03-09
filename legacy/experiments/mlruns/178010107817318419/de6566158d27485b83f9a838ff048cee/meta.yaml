@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/de6566158d27485b83f9a838ff048cee/artifacts
+end_time: 1697359183219
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: de6566158d27485b83f9a838ff048cee
+run_name: unruly-foal-298
+run_uuid: de6566158d27485b83f9a838ff048cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359183164
+status: 3
+tags: []
+user_id: houston

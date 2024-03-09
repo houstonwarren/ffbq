@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/88ce7f3aa6f441f7ab05cab7e8c7e3cc/artifacts
+end_time: 1698114138643
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 88ce7f3aa6f441f7ab05cab7e8c7e3cc
+run_name: auspicious-shad-6
+run_uuid: 88ce7f3aa6f441f7ab05cab7e8c7e3cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114138583
+status: 3
+tags: []
+user_id: houston

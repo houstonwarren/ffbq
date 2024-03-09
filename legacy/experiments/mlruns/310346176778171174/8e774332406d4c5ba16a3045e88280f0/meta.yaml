@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/8e774332406d4c5ba16a3045e88280f0/artifacts
+end_time: 1696909043885
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 8e774332406d4c5ba16a3045e88280f0
+run_name: luminous-grub-690
+run_uuid: 8e774332406d4c5ba16a3045e88280f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909043876
+status: 3
+tags: []
+user_id: houston

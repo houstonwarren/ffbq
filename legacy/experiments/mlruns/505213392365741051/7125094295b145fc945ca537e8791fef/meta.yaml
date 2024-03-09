@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7125094295b145fc945ca537e8791fef/artifacts
+end_time: 1701659427057
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7125094295b145fc945ca537e8791fef
+run_name: likeable-steed-201
+run_uuid: 7125094295b145fc945ca537e8791fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659426913
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5b45bb0546f4499bbb7b0d03d255999f/artifacts
+end_time: 1698113641020
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5b45bb0546f4499bbb7b0d03d255999f
+run_name: mercurial-lamb-894
+run_uuid: 5b45bb0546f4499bbb7b0d03d255999f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113640964
+status: 3
+tags: []
+user_id: houston

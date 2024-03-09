@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cde1bba26e52426d964bf13249eea1aa/artifacts
+end_time: 1701667648342
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cde1bba26e52426d964bf13249eea1aa
+run_name: languid-hare-927
+run_uuid: cde1bba26e52426d964bf13249eea1aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667648217
+status: 3
+tags: []
+user_id: houston

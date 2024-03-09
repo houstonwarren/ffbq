@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/296a555a35ee4cf3b5fb03e317e36b58/artifacts
+end_time: 1697360288457
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 296a555a35ee4cf3b5fb03e317e36b58
+run_name: rare-wren-545
+run_uuid: 296a555a35ee4cf3b5fb03e317e36b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360288406
+status: 3
+tags: []
+user_id: houston

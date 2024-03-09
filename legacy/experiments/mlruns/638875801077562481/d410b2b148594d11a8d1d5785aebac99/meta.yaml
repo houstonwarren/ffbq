@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d410b2b148594d11a8d1d5785aebac99/artifacts
+end_time: 1701667627828
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d410b2b148594d11a8d1d5785aebac99
+run_name: rebellious-yak-193
+run_uuid: d410b2b148594d11a8d1d5785aebac99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667627709
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/32a4c624dcd042b1ae096cab88001464/artifacts
+end_time: 1696909010209
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 32a4c624dcd042b1ae096cab88001464
+run_name: nebulous-shrew-851
+run_uuid: 32a4c624dcd042b1ae096cab88001464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010200
+status: 3
+tags: []
+user_id: houston

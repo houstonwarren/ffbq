@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/96a0f9eb4b314254a902bb9fe9862d8d/artifacts
+end_time: 1697440444319
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 96a0f9eb4b314254a902bb9fe9862d8d
+run_name: welcoming-fawn-206
+run_uuid: 96a0f9eb4b314254a902bb9fe9862d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440444243
+status: 3
+tags: []
+user_id: houston

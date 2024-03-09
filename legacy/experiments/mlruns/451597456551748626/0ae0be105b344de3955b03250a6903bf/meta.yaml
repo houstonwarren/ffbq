@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/0ae0be105b344de3955b03250a6903bf/artifacts
+end_time: 1701660489984
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 0ae0be105b344de3955b03250a6903bf
+run_name: auspicious-moth-970
+run_uuid: 0ae0be105b344de3955b03250a6903bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660489876
+status: 3
+tags: []
+user_id: houston

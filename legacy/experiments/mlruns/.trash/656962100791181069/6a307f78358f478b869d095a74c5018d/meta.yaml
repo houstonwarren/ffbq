@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/6a307f78358f478b869d095a74c5018d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664727831
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 6a307f78358f478b869d095a74c5018d
+run_name: upset-vole-56
+run_uuid: 6a307f78358f478b869d095a74c5018d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664727798
+status: 3
+tags: []
+user_id: houston

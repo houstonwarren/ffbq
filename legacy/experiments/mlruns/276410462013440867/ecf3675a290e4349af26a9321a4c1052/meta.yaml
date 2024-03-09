@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ecf3675a290e4349af26a9321a4c1052/artifacts
+end_time: 1697195902659
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ecf3675a290e4349af26a9321a4c1052
+run_name: popular-sponge-223
+run_uuid: ecf3675a290e4349af26a9321a4c1052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902644
+status: 3
+tags: []
+user_id: houston

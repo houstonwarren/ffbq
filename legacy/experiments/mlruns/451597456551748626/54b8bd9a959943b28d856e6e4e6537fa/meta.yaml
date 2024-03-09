@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/54b8bd9a959943b28d856e6e4e6537fa/artifacts
+end_time: 1701660318170
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 54b8bd9a959943b28d856e6e4e6537fa
+run_name: gregarious-elk-895
+run_uuid: 54b8bd9a959943b28d856e6e4e6537fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660318089
+status: 3
+tags: []
+user_id: houston

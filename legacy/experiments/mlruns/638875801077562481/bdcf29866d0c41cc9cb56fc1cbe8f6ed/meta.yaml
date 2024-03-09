@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bdcf29866d0c41cc9cb56fc1cbe8f6ed/artifacts
+end_time: 1701667580126
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bdcf29866d0c41cc9cb56fc1cbe8f6ed
+run_name: peaceful-bass-956
+run_uuid: bdcf29866d0c41cc9cb56fc1cbe8f6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667580015
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ae60d24cdbe744f5866f584478dd12ad/artifacts
+end_time: 1701667661131
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ae60d24cdbe744f5866f584478dd12ad
+run_name: calm-fly-755
+run_uuid: ae60d24cdbe744f5866f584478dd12ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667661013
+status: 3
+tags: []
+user_id: houston

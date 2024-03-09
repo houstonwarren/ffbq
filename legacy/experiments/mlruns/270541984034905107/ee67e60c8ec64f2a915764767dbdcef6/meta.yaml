@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ee67e60c8ec64f2a915764767dbdcef6/artifacts
+end_time: 1697440493059
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ee67e60c8ec64f2a915764767dbdcef6
+run_name: unruly-trout-531
+run_uuid: ee67e60c8ec64f2a915764767dbdcef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440493011
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d56cc57d0a434443bbdfafaa54198a1b/artifacts
+end_time: 1697359067865
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d56cc57d0a434443bbdfafaa54198a1b
+run_name: overjoyed-dove-621
+run_uuid: d56cc57d0a434443bbdfafaa54198a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359067809
+status: 3
+tags: []
+user_id: houston

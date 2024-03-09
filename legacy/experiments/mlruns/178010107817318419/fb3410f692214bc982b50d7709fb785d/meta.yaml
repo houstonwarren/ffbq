@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fb3410f692214bc982b50d7709fb785d/artifacts
+end_time: 1697359042060
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fb3410f692214bc982b50d7709fb785d
+run_name: beautiful-tern-323
+run_uuid: fb3410f692214bc982b50d7709fb785d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359042016
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/e70fb8532d304f89b3561d48cd2d5a22/artifacts
+deleted_time: 1701660238886
+end_time: 1701660173438
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: e70fb8532d304f89b3561d48cd2d5a22
+run_name: trusting-ray-965
+run_uuid: e70fb8532d304f89b3561d48cd2d5a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660173284
+status: 3
+tags: []
+user_id: houston

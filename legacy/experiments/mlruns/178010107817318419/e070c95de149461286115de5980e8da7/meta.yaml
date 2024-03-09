@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e070c95de149461286115de5980e8da7/artifacts
+end_time: 1697359184924
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e070c95de149461286115de5980e8da7
+run_name: stately-shad-807
+run_uuid: e070c95de149461286115de5980e8da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359184870
+status: 3
+tags: []
+user_id: houston

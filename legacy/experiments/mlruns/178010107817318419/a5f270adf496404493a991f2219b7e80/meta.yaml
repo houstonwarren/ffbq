@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a5f270adf496404493a991f2219b7e80/artifacts
+end_time: 1697359057749
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a5f270adf496404493a991f2219b7e80
+run_name: tasteful-mare-800
+run_uuid: a5f270adf496404493a991f2219b7e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359057702
+status: 3
+tags: []
+user_id: houston

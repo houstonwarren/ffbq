@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/09fa430f45b542609e6dae66ed80e725/artifacts
+end_time: 1697197408707
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 09fa430f45b542609e6dae66ed80e725
+run_name: invincible-gnu-908
+run_uuid: 09fa430f45b542609e6dae66ed80e725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408690
+status: 3
+tags: []
+user_id: houston

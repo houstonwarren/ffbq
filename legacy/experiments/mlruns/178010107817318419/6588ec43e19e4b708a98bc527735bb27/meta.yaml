@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6588ec43e19e4b708a98bc527735bb27/artifacts
+end_time: 1697359108936
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6588ec43e19e4b708a98bc527735bb27
+run_name: angry-vole-812
+run_uuid: 6588ec43e19e4b708a98bc527735bb27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359108885
+status: 3
+tags: []
+user_id: houston

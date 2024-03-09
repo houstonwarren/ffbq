@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1670981debe14e93b92564667d7d36e5/artifacts
+end_time: 1697197060991
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1670981debe14e93b92564667d7d36e5
+run_name: victorious-horse-628
+run_uuid: 1670981debe14e93b92564667d7d36e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197060975
+status: 3
+tags: []
+user_id: houston

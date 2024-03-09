@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/eaca3be0743f4c88bbe84a05bd22833b/artifacts
+end_time: 1698114343042
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: eaca3be0743f4c88bbe84a05bd22833b
+run_name: rogue-mink-867
+run_uuid: eaca3be0743f4c88bbe84a05bd22833b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114342978
+status: 3
+tags: []
+user_id: houston

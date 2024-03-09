@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/bbdbb5d3507a42f8b6ffe509b3d9bec0/artifacts
+end_time: 1697194206672
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: bbdbb5d3507a42f8b6ffe509b3d9bec0
+run_name: carefree-horse-429
+run_uuid: bbdbb5d3507a42f8b6ffe509b3d9bec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194206653
+status: 3
+tags: []
+user_id: houston

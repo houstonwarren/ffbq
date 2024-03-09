@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/2cbf3ad9f5d44392b428feaa314cfd12/artifacts
+end_time: 1701659509787
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 2cbf3ad9f5d44392b428feaa314cfd12
+run_name: whimsical-newt-704
+run_uuid: 2cbf3ad9f5d44392b428feaa314cfd12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659509653
+status: 3
+tags: []
+user_id: houston

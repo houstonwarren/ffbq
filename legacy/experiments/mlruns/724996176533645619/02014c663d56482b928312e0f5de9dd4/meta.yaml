@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/02014c663d56482b928312e0f5de9dd4/artifacts
+end_time: 1697193840905
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 02014c663d56482b928312e0f5de9dd4
+run_name: casual-pig-43
+run_uuid: 02014c663d56482b928312e0f5de9dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193840891
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ea454d8b00224f5c836cad3b3ea02e62/artifacts
+end_time: 1697194276599
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ea454d8b00224f5c836cad3b3ea02e62
+run_name: skittish-foal-825
+run_uuid: ea454d8b00224f5c836cad3b3ea02e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276579
+status: 3
+tags: []
+user_id: houston

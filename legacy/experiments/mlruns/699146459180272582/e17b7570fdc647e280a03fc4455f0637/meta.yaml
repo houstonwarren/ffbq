@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e17b7570fdc647e280a03fc4455f0637/artifacts
+end_time: 1698113932520
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e17b7570fdc647e280a03fc4455f0637
+run_name: ambitious-duck-234
+run_uuid: e17b7570fdc647e280a03fc4455f0637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113932460
+status: 3
+tags: []
+user_id: houston

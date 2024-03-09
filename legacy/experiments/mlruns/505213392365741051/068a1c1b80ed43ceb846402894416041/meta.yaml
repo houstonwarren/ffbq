@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/068a1c1b80ed43ceb846402894416041/artifacts
+end_time: 1701659527345
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 068a1c1b80ed43ceb846402894416041
+run_name: righteous-deer-128
+run_uuid: 068a1c1b80ed43ceb846402894416041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659527221
+status: 3
+tags: []
+user_id: houston

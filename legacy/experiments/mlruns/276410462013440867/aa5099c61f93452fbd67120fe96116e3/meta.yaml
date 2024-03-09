@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/aa5099c61f93452fbd67120fe96116e3/artifacts
+end_time: 1697195572140
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: aa5099c61f93452fbd67120fe96116e3
+run_name: rare-bear-717
+run_uuid: aa5099c61f93452fbd67120fe96116e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195572127
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c119f9bff8da485f8fc960f7b28a2839/artifacts
+end_time: 1697195539270
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c119f9bff8da485f8fc960f7b28a2839
+run_name: languid-moth-424
+run_uuid: c119f9bff8da485f8fc960f7b28a2839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539258
+status: 3
+tags: []
+user_id: houston

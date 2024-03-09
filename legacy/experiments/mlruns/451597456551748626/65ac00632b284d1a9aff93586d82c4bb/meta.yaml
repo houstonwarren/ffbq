@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/65ac00632b284d1a9aff93586d82c4bb/artifacts
+end_time: 1701660320311
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 65ac00632b284d1a9aff93586d82c4bb
+run_name: zealous-frog-11
+run_uuid: 65ac00632b284d1a9aff93586d82c4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660320234
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2745a9c2698a44429aeffcefb005b795/artifacts
+end_time: 1697194741752
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2745a9c2698a44429aeffcefb005b795
+run_name: likeable-roo-285
+run_uuid: 2745a9c2698a44429aeffcefb005b795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194741732
+status: 3
+tags: []
+user_id: houston

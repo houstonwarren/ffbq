@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/dc2b61f3393e49a29e2db0f1f4fe822c/artifacts
+end_time: 1697359138052
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: dc2b61f3393e49a29e2db0f1f4fe822c
+run_name: blushing-carp-260
+run_uuid: dc2b61f3393e49a29e2db0f1f4fe822c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359138000
+status: 3
+tags: []
+user_id: houston

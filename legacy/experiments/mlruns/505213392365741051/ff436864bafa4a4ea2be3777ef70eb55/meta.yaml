@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ff436864bafa4a4ea2be3777ef70eb55/artifacts
+end_time: 1701659536791
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ff436864bafa4a4ea2be3777ef70eb55
+run_name: invincible-flea-302
+run_uuid: ff436864bafa4a4ea2be3777ef70eb55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659536663
+status: 3
+tags: []
+user_id: houston

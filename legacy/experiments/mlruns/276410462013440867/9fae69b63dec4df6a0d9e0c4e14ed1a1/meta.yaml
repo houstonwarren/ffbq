@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9fae69b63dec4df6a0d9e0c4e14ed1a1/artifacts
+end_time: 1697195489032
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9fae69b63dec4df6a0d9e0c4e14ed1a1
+run_name: grandiose-moth-314
+run_uuid: 9fae69b63dec4df6a0d9e0c4e14ed1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195488951
+status: 3
+tags: []
+user_id: houston

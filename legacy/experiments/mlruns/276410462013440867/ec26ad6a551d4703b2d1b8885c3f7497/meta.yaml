@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ec26ad6a551d4703b2d1b8885c3f7497/artifacts
+end_time: 1697196017801
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ec26ad6a551d4703b2d1b8885c3f7497
+run_name: enthused-smelt-512
+run_uuid: ec26ad6a551d4703b2d1b8885c3f7497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017786
+status: 3
+tags: []
+user_id: houston

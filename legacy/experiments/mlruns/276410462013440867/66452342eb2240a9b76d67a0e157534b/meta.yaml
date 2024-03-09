@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/66452342eb2240a9b76d67a0e157534b/artifacts
+end_time: 1697195622279
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 66452342eb2240a9b76d67a0e157534b
+run_name: unique-ram-876
+run_uuid: 66452342eb2240a9b76d67a0e157534b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622202
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/26eb2758158b45b6ba6e04a3d11ab46e/artifacts
+end_time: 1697360259473
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 26eb2758158b45b6ba6e04a3d11ab46e
+run_name: sneaky-perch-404
+run_uuid: 26eb2758158b45b6ba6e04a3d11ab46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360259424
+status: 3
+tags: []
+user_id: houston

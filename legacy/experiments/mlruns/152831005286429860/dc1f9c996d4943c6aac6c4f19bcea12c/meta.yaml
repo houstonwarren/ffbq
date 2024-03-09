@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/dc1f9c996d4943c6aac6c4f19bcea12c/artifacts
+end_time: 1697360318378
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: dc1f9c996d4943c6aac6c4f19bcea12c
+run_name: traveling-auk-798
+run_uuid: dc1f9c996d4943c6aac6c4f19bcea12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360318325
+status: 3
+tags: []
+user_id: houston

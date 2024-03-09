@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/da2e825b62ae4678b3fdc9c0284b3489/artifacts
+end_time: 1701667840584
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: da2e825b62ae4678b3fdc9c0284b3489
+run_name: powerful-ape-848
+run_uuid: da2e825b62ae4678b3fdc9c0284b3489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667840436
+status: 3
+tags: []
+user_id: houston

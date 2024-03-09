@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/fda1e08c97d54622af5734563b860471/artifacts
+end_time: 1701660518313
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: fda1e08c97d54622af5734563b860471
+run_name: learned-flea-463
+run_uuid: fda1e08c97d54622af5734563b860471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660518199
+status: 3
+tags: []
+user_id: houston

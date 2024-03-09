@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f7980b8d588f40f186372799b3eb07cf/artifacts
+end_time: 1697440793336
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f7980b8d588f40f186372799b3eb07cf
+run_name: bold-swan-489
+run_uuid: f7980b8d588f40f186372799b3eb07cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440793284
+status: 3
+tags: []
+user_id: houston

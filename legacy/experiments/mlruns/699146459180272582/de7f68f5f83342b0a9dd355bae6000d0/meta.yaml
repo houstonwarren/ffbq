@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/de7f68f5f83342b0a9dd355bae6000d0/artifacts
+end_time: 1698113519031
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: de7f68f5f83342b0a9dd355bae6000d0
+run_name: aged-newt-189
+run_uuid: de7f68f5f83342b0a9dd355bae6000d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113518977
+status: 3
+tags: []
+user_id: houston

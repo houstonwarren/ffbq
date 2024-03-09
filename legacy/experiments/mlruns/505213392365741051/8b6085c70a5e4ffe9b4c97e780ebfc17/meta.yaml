@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/8b6085c70a5e4ffe9b4c97e780ebfc17/artifacts
+end_time: 1701659496626
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 8b6085c70a5e4ffe9b4c97e780ebfc17
+run_name: delightful-squid-39
+run_uuid: 8b6085c70a5e4ffe9b4c97e780ebfc17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659496458
+status: 3
+tags: []
+user_id: houston

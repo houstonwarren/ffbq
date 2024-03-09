@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e550b115bcc14dbea87927a75552d26b/artifacts
+end_time: 1701667815745
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e550b115bcc14dbea87927a75552d26b
+run_name: selective-lamb-460
+run_uuid: e550b115bcc14dbea87927a75552d26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667815577
+status: 3
+tags: []
+user_id: houston

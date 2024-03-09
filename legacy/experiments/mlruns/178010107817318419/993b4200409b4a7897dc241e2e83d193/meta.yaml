@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/993b4200409b4a7897dc241e2e83d193/artifacts
+end_time: 1697359065593
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 993b4200409b4a7897dc241e2e83d193
+run_name: bouncy-gnu-673
+run_uuid: 993b4200409b4a7897dc241e2e83d193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359065539
+status: 3
+tags: []
+user_id: houston

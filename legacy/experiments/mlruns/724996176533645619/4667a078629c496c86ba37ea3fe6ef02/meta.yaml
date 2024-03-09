@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4667a078629c496c86ba37ea3fe6ef02/artifacts
+end_time: 1697194042232
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4667a078629c496c86ba37ea3fe6ef02
+run_name: melodic-rook-367
+run_uuid: 4667a078629c496c86ba37ea3fe6ef02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042216
+status: 3
+tags: []
+user_id: houston

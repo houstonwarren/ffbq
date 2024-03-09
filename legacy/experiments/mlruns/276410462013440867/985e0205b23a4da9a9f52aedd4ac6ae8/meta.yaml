@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/985e0205b23a4da9a9f52aedd4ac6ae8/artifacts
+end_time: 1697198006603
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 985e0205b23a4da9a9f52aedd4ac6ae8
+run_name: abrasive-conch-283
+run_uuid: 985e0205b23a4da9a9f52aedd4ac6ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006583
+status: 3
+tags: []
+user_id: houston

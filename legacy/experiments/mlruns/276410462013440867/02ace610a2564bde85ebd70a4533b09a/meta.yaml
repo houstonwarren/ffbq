@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/02ace610a2564bde85ebd70a4533b09a/artifacts
+end_time: 1697197835403
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 02ace610a2564bde85ebd70a4533b09a
+run_name: bald-toad-505
+run_uuid: 02ace610a2564bde85ebd70a4533b09a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197835384
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3237f4f7c028403da3679b4d1dba6830/artifacts
+end_time: 1701667777186
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3237f4f7c028403da3679b4d1dba6830
+run_name: aged-squirrel-420
+run_uuid: 3237f4f7c028403da3679b4d1dba6830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667777051
+status: 3
+tags: []
+user_id: houston

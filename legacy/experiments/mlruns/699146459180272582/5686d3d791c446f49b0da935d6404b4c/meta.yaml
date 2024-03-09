@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5686d3d791c446f49b0da935d6404b4c/artifacts
+end_time: 1698113507040
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5686d3d791c446f49b0da935d6404b4c
+run_name: redolent-lark-16
+run_uuid: 5686d3d791c446f49b0da935d6404b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113506987
+status: 3
+tags: []
+user_id: houston

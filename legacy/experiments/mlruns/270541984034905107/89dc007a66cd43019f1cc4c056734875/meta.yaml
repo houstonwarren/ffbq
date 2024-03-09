@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/89dc007a66cd43019f1cc4c056734875/artifacts
+end_time: 1697440541560
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 89dc007a66cd43019f1cc4c056734875
+run_name: polite-calf-26
+run_uuid: 89dc007a66cd43019f1cc4c056734875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440541512
+status: 3
+tags: []
+user_id: houston

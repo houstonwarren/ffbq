@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a3caefb50bb947f2b26e95dde2ffaf42/artifacts
+end_time: 1698113934348
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a3caefb50bb947f2b26e95dde2ffaf42
+run_name: trusting-crane-2
+run_uuid: a3caefb50bb947f2b26e95dde2ffaf42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113934289
+status: 3
+tags: []
+user_id: houston

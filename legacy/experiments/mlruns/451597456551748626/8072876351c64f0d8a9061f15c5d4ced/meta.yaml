@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8072876351c64f0d8a9061f15c5d4ced/artifacts
+end_time: 1701660280571
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8072876351c64f0d8a9061f15c5d4ced
+run_name: gentle-quail-772
+run_uuid: 8072876351c64f0d8a9061f15c5d4ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660280505
+status: 3
+tags: []
+user_id: houston

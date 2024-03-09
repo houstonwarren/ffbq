@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fef32a6954a94371a7da0e021a4a4edf/artifacts
+end_time: 1697440573851
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fef32a6954a94371a7da0e021a4a4edf
+run_name: gaudy-stag-697
+run_uuid: fef32a6954a94371a7da0e021a4a4edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440573801
+status: 3
+tags: []
+user_id: houston

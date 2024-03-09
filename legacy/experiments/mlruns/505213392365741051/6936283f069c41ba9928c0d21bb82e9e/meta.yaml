@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6936283f069c41ba9928c0d21bb82e9e/artifacts
+end_time: 1701659430840
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6936283f069c41ba9928c0d21bb82e9e
+run_name: worried-finch-205
+run_uuid: 6936283f069c41ba9928c0d21bb82e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659430704
+status: 3
+tags: []
+user_id: houston

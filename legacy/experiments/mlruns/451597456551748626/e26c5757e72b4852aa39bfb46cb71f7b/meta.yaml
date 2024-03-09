@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e26c5757e72b4852aa39bfb46cb71f7b/artifacts
+end_time: 1701660407374
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e26c5757e72b4852aa39bfb46cb71f7b
+run_name: luminous-horse-437
+run_uuid: e26c5757e72b4852aa39bfb46cb71f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660407267
+status: 3
+tags: []
+user_id: houston

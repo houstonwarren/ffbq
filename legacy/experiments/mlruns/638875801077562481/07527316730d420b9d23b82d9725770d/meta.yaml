@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/07527316730d420b9d23b82d9725770d/artifacts
+end_time: 1701667994406
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 07527316730d420b9d23b82d9725770d
+run_name: melodic-shad-905
+run_uuid: 07527316730d420b9d23b82d9725770d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667994252
+status: 3
+tags: []
+user_id: houston

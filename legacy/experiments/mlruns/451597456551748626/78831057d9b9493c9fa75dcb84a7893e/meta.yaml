@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/78831057d9b9493c9fa75dcb84a7893e/artifacts
+end_time: 1701660408832
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 78831057d9b9493c9fa75dcb84a7893e
+run_name: adaptable-steed-35
+run_uuid: 78831057d9b9493c9fa75dcb84a7893e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660408729
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/dc4e0e28069b409c8dfea4817e5ae817/artifacts
+end_time: 1697198074876
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: dc4e0e28069b409c8dfea4817e5ae817
+run_name: whimsical-owl-835
+run_uuid: dc4e0e28069b409c8dfea4817e5ae817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198074856
+status: 3
+tags: []
+user_id: houston

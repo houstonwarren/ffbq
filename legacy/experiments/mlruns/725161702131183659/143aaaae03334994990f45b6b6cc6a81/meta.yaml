@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/725161702131183659/143aaaae03334994990f45b6b6cc6a81/artifacts
+end_time: 1701664145921
+entry_point_name: ''
+experiment_id: '725161702131183659'
+lifecycle_stage: active
+run_id: 143aaaae03334994990f45b6b6cc6a81
+run_name: beautiful-shrike-509
+run_uuid: 143aaaae03334994990f45b6b6cc6a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664145895
+status: 3
+tags: []
+user_id: houston

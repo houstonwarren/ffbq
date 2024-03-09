@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/52fd1d59193242cb9547bb1e1ed64f2d/artifacts
+end_time: 1697360366296
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 52fd1d59193242cb9547bb1e1ed64f2d
+run_name: exultant-midge-980
+run_uuid: 52fd1d59193242cb9547bb1e1ed64f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360366240
+status: 3
+tags: []
+user_id: houston

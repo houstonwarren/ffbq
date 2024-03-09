@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0714beb72b3e4f02a9c33a337dc6eefe/artifacts
+end_time: 1701667987747
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0714beb72b3e4f02a9c33a337dc6eefe
+run_name: luminous-frog-713
+run_uuid: 0714beb72b3e4f02a9c33a337dc6eefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667987548
+status: 3
+tags: []
+user_id: houston

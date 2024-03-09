@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/48a609f3cf8f44c1b001291700d8f698/artifacts
+end_time: 1697359070907
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 48a609f3cf8f44c1b001291700d8f698
+run_name: trusting-wren-308
+run_uuid: 48a609f3cf8f44c1b001291700d8f698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359070837
+status: 3
+tags: []
+user_id: houston

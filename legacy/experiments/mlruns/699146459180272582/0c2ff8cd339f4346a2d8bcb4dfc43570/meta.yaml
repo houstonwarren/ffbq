@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0c2ff8cd339f4346a2d8bcb4dfc43570/artifacts
+end_time: 1698113586479
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0c2ff8cd339f4346a2d8bcb4dfc43570
+run_name: grandiose-owl-835
+run_uuid: 0c2ff8cd339f4346a2d8bcb4dfc43570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113586426
+status: 3
+tags: []
+user_id: houston

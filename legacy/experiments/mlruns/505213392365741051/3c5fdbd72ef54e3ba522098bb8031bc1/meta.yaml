@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/3c5fdbd72ef54e3ba522098bb8031bc1/artifacts
+end_time: 1701659541998
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 3c5fdbd72ef54e3ba522098bb8031bc1
+run_name: sincere-sloth-765
+run_uuid: 3c5fdbd72ef54e3ba522098bb8031bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659541816
+status: 3
+tags: []
+user_id: houston

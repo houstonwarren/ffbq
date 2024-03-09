@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/507459b6d4b34a189e1039206a03be7c/artifacts
+end_time: 1701667734435
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 507459b6d4b34a189e1039206a03be7c
+run_name: languid-sloth-714
+run_uuid: 507459b6d4b34a189e1039206a03be7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667734303
+status: 3
+tags: []
+user_id: houston

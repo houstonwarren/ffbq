@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/10792fc34c8f4f22b48586c25f428e1f/artifacts
+end_time: 1698113934210
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 10792fc34c8f4f22b48586c25f428e1f
+run_name: redolent-kite-865
+run_uuid: 10792fc34c8f4f22b48586c25f428e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113934151
+status: 3
+tags: []
+user_id: houston

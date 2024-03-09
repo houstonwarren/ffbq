@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/0e93a246234940b7afca787bcdc7ae16/artifacts
+deleted_time: 1701665274136
+end_time: 1701664651824
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 0e93a246234940b7afca787bcdc7ae16
+run_name: bustling-hare-577
+run_uuid: 0e93a246234940b7afca787bcdc7ae16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664651794
+status: 3
+tags: []
+user_id: houston

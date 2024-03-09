@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f85fbee957914b0cb95c8b73b848ef80/artifacts
+end_time: 1701667366605
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f85fbee957914b0cb95c8b73b848ef80
+run_name: colorful-gnu-339
+run_uuid: f85fbee957914b0cb95c8b73b848ef80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667366529
+status: 3
+tags: []
+user_id: houston

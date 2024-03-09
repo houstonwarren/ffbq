@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f5ee9fb7944448489681b5f65487b200/artifacts
+end_time: 1697359119366
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f5ee9fb7944448489681b5f65487b200
+run_name: shivering-fowl-340
+run_uuid: f5ee9fb7944448489681b5f65487b200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359119306
+status: 3
+tags: []
+user_id: houston

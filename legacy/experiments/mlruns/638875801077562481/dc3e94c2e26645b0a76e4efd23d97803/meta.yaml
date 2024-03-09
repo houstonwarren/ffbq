@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dc3e94c2e26645b0a76e4efd23d97803/artifacts
+end_time: 1701667906679
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dc3e94c2e26645b0a76e4efd23d97803
+run_name: zealous-mole-326
+run_uuid: dc3e94c2e26645b0a76e4efd23d97803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667906507
+status: 3
+tags: []
+user_id: houston

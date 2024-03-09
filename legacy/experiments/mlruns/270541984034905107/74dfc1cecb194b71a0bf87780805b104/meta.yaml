@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/74dfc1cecb194b71a0bf87780805b104/artifacts
+end_time: 1697441043184
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 74dfc1cecb194b71a0bf87780805b104
+run_name: thundering-sloth-882
+run_uuid: 74dfc1cecb194b71a0bf87780805b104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441043128
+status: 3
+tags: []
+user_id: houston

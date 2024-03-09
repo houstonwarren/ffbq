@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/33229974a6bd46d3b75c02ef0e401f69/artifacts
+end_time: 1698114801140
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 33229974a6bd46d3b75c02ef0e401f69
+run_name: angry-zebra-631
+run_uuid: 33229974a6bd46d3b75c02ef0e401f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114801077
+status: 3
+tags: []
+user_id: houston

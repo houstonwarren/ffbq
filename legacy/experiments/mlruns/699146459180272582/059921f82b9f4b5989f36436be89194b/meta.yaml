@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/059921f82b9f4b5989f36436be89194b/artifacts
+end_time: 1698113572492
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 059921f82b9f4b5989f36436be89194b
+run_name: mercurial-yak-882
+run_uuid: 059921f82b9f4b5989f36436be89194b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113572437
+status: 3
+tags: []
+user_id: houston

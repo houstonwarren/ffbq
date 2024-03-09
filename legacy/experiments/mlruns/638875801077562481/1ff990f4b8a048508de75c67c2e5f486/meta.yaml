@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1ff990f4b8a048508de75c67c2e5f486/artifacts
+end_time: 1701667730043
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1ff990f4b8a048508de75c67c2e5f486
+run_name: brawny-zebra-385
+run_uuid: 1ff990f4b8a048508de75c67c2e5f486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667729886
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c4f4abb026c548b9825e9871a630465b/artifacts
+end_time: 1697441903482
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c4f4abb026c548b9825e9871a630465b
+run_name: colorful-ox-914
+run_uuid: c4f4abb026c548b9825e9871a630465b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441903426
+status: 3
+tags: []
+user_id: houston

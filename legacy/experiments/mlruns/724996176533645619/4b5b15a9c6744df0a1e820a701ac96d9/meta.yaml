@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4b5b15a9c6744df0a1e820a701ac96d9/artifacts
+end_time: 1697194276427
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4b5b15a9c6744df0a1e820a701ac96d9
+run_name: beautiful-gull-338
+run_uuid: 4b5b15a9c6744df0a1e820a701ac96d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276394
+status: 3
+tags: []
+user_id: houston

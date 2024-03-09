@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/1d79f7619df74e71aeb80f3a2cd8027a/artifacts
+end_time: 1697440589969
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 1d79f7619df74e71aeb80f3a2cd8027a
+run_name: honorable-conch-793
+run_uuid: 1d79f7619df74e71aeb80f3a2cd8027a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440589920
+status: 3
+tags: []
+user_id: houston

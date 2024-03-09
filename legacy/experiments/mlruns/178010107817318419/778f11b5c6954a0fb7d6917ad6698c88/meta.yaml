@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/778f11b5c6954a0fb7d6917ad6698c88/artifacts
+end_time: 1697359032751
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 778f11b5c6954a0fb7d6917ad6698c88
+run_name: trusting-asp-535
+run_uuid: 778f11b5c6954a0fb7d6917ad6698c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359032706
+status: 3
+tags: []
+user_id: houston

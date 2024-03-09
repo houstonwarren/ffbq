@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/031a928b682d442b8b211d90b3ca99a0/artifacts
+end_time: 1697193817460
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 031a928b682d442b8b211d90b3ca99a0
+run_name: adventurous-pig-774
+run_uuid: 031a928b682d442b8b211d90b3ca99a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817385
+status: 3
+tags: []
+user_id: houston

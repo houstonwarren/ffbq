@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/544c489ecabd4968b5430c213d0ff9d1/artifacts
+end_time: 1701659588314
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 544c489ecabd4968b5430c213d0ff9d1
+run_name: polite-koi-110
+run_uuid: 544c489ecabd4968b5430c213d0ff9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659588167
+status: 3
+tags: []
+user_id: houston

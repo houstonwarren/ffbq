@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/79452cd946fe4d749c24cdbe803927c9/artifacts
+deleted_time: 1701665274136
+end_time: 1701664656936
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 79452cd946fe4d749c24cdbe803927c9
+run_name: bouncy-wolf-907
+run_uuid: 79452cd946fe4d749c24cdbe803927c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664656918
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/12432c6110844b48b5a3bd844a998101/artifacts
+end_time: 1697440639543
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 12432c6110844b48b5a3bd844a998101
+run_name: awesome-conch-315
+run_uuid: 12432c6110844b48b5a3bd844a998101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440639493
+status: 3
+tags: []
+user_id: houston

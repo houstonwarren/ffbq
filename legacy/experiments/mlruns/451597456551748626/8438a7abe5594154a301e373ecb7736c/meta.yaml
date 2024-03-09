@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8438a7abe5594154a301e373ecb7736c/artifacts
+end_time: 1701660526825
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8438a7abe5594154a301e373ecb7736c
+run_name: sneaky-duck-6
+run_uuid: 8438a7abe5594154a301e373ecb7736c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660526706
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/48df99ba70474ceeb51b9225193d3d65/artifacts
+end_time: 1698114719721
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 48df99ba70474ceeb51b9225193d3d65
+run_name: rebellious-goat-288
+run_uuid: 48df99ba70474ceeb51b9225193d3d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114719660
+status: 3
+tags: []
+user_id: houston

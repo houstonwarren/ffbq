@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c1aacc24cc2f448aae8fcdeb1e9c58e2/artifacts
+end_time: 1701667933583
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c1aacc24cc2f448aae8fcdeb1e9c58e2
+run_name: magnificent-shad-11
+run_uuid: c1aacc24cc2f448aae8fcdeb1e9c58e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667933439
+status: 3
+tags: []
+user_id: houston

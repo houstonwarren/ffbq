@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/55bc57931d1b4fa69bbb07faa10a49f7/artifacts
+end_time: 1697198400840
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 55bc57931d1b4fa69bbb07faa10a49f7
+run_name: lyrical-sponge-507
+run_uuid: 55bc57931d1b4fa69bbb07faa10a49f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198400817
+status: 3
+tags: []
+user_id: houston

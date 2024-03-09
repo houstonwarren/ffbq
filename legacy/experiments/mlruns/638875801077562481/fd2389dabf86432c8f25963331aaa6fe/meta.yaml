@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fd2389dabf86432c8f25963331aaa6fe/artifacts
+end_time: 1701667921329
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fd2389dabf86432c8f25963331aaa6fe
+run_name: casual-horse-411
+run_uuid: fd2389dabf86432c8f25963331aaa6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667921169
+status: 3
+tags: []
+user_id: houston

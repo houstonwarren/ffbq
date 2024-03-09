@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d5421fad433a4cb98d6963bb5b5f4a7b/artifacts
+end_time: 1701667585215
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d5421fad433a4cb98d6963bb5b5f4a7b
+run_name: treasured-grouse-242
+run_uuid: d5421fad433a4cb98d6963bb5b5f4a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667585108
+status: 3
+tags: []
+user_id: houston

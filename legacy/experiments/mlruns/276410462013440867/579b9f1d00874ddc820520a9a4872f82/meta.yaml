@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/579b9f1d00874ddc820520a9a4872f82/artifacts
+end_time: 1697195538979
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 579b9f1d00874ddc820520a9a4872f82
+run_name: debonair-mink-356
+run_uuid: 579b9f1d00874ddc820520a9a4872f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195538913
+status: 3
+tags: []
+user_id: houston

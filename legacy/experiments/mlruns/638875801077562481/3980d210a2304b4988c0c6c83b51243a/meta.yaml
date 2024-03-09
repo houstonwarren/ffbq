@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3980d210a2304b4988c0c6c83b51243a/artifacts
+end_time: 1701667358874
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3980d210a2304b4988c0c6c83b51243a
+run_name: blushing-ant-142
+run_uuid: 3980d210a2304b4988c0c6c83b51243a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667358774
+status: 3
+tags: []
+user_id: houston

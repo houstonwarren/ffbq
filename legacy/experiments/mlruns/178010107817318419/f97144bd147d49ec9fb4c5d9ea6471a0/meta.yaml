@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f97144bd147d49ec9fb4c5d9ea6471a0/artifacts
+end_time: 1697359184077
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f97144bd147d49ec9fb4c5d9ea6471a0
+run_name: luxuriant-dog-357
+run_uuid: f97144bd147d49ec9fb4c5d9ea6471a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359184022
+status: 3
+tags: []
+user_id: houston

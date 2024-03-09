@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6d317af62e93467a8ff9a27806354d26/artifacts
+end_time: 1697359123452
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6d317af62e93467a8ff9a27806354d26
+run_name: luminous-chimp-126
+run_uuid: 6d317af62e93467a8ff9a27806354d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359123401
+status: 3
+tags: []
+user_id: houston

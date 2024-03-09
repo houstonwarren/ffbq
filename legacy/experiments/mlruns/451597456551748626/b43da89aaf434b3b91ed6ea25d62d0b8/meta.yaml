@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/b43da89aaf434b3b91ed6ea25d62d0b8/artifacts
+end_time: 1701660416479
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: b43da89aaf434b3b91ed6ea25d62d0b8
+run_name: invincible-bee-403
+run_uuid: b43da89aaf434b3b91ed6ea25d62d0b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660416386
+status: 3
+tags: []
+user_id: houston

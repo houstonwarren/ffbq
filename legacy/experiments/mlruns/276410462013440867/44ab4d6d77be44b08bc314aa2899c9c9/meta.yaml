@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/44ab4d6d77be44b08bc314aa2899c9c9/artifacts
+end_time: 1697195505802
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 44ab4d6d77be44b08bc314aa2899c9c9
+run_name: suave-vole-450
+run_uuid: 44ab4d6d77be44b08bc314aa2899c9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195505791
+status: 3
+tags: []
+user_id: houston

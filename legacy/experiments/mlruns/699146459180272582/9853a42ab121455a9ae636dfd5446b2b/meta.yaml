@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9853a42ab121455a9ae636dfd5446b2b/artifacts
+end_time: 1698113765164
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9853a42ab121455a9ae636dfd5446b2b
+run_name: tasteful-penguin-132
+run_uuid: 9853a42ab121455a9ae636dfd5446b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113765102
+status: 3
+tags: []
+user_id: houston

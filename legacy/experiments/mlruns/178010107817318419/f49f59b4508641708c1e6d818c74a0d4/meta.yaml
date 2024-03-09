@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f49f59b4508641708c1e6d818c74a0d4/artifacts
+end_time: 1697359182176
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f49f59b4508641708c1e6d818c74a0d4
+run_name: crawling-trout-77
+run_uuid: f49f59b4508641708c1e6d818c74a0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359182121
+status: 3
+tags: []
+user_id: houston

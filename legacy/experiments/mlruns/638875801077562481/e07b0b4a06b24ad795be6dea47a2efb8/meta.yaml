@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e07b0b4a06b24ad795be6dea47a2efb8/artifacts
+end_time: 1701667531029
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e07b0b4a06b24ad795be6dea47a2efb8
+run_name: carefree-cat-929
+run_uuid: e07b0b4a06b24ad795be6dea47a2efb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667530930
+status: 3
+tags: []
+user_id: houston

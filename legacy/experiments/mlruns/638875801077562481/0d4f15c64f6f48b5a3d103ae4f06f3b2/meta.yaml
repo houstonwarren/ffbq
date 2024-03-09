@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0d4f15c64f6f48b5a3d103ae4f06f3b2/artifacts
+end_time: 1701667759607
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0d4f15c64f6f48b5a3d103ae4f06f3b2
+run_name: incongruous-goat-475
+run_uuid: 0d4f15c64f6f48b5a3d103ae4f06f3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667759474
+status: 3
+tags: []
+user_id: houston

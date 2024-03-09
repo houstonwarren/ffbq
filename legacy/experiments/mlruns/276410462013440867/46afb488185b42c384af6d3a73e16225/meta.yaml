@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/46afb488185b42c384af6d3a73e16225/artifacts
+end_time: 1697198006496
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 46afb488185b42c384af6d3a73e16225
+run_name: luminous-crow-970
+run_uuid: 46afb488185b42c384af6d3a73e16225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006455
+status: 3
+tags: []
+user_id: houston

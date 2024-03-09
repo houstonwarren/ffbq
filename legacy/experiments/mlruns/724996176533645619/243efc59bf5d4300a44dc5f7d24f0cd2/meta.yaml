@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/243efc59bf5d4300a44dc5f7d24f0cd2/artifacts
+end_time: 1697193980057
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 243efc59bf5d4300a44dc5f7d24f0cd2
+run_name: flawless-jay-687
+run_uuid: 243efc59bf5d4300a44dc5f7d24f0cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193980041
+status: 3
+tags: []
+user_id: houston

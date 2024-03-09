@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/16cca0a219a84e01bb8ba1364785b75f/artifacts
+end_time: 1701660288582
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 16cca0a219a84e01bb8ba1364785b75f
+run_name: legendary-finch-903
+run_uuid: 16cca0a219a84e01bb8ba1364785b75f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660288500
+status: 3
+tags: []
+user_id: houston

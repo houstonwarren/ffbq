@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9245019ad26d4fb8b1e8bafac3a5e24f/artifacts
+end_time: 1697196887387
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9245019ad26d4fb8b1e8bafac3a5e24f
+run_name: resilient-perch-466
+run_uuid: 9245019ad26d4fb8b1e8bafac3a5e24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887319
+status: 3
+tags: []
+user_id: houston

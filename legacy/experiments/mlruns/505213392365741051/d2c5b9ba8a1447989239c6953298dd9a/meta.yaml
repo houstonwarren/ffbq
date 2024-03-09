@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d2c5b9ba8a1447989239c6953298dd9a/artifacts
+end_time: 1701659452319
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d2c5b9ba8a1447989239c6953298dd9a
+run_name: kindly-colt-623
+run_uuid: d2c5b9ba8a1447989239c6953298dd9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659452187
+status: 3
+tags: []
+user_id: houston

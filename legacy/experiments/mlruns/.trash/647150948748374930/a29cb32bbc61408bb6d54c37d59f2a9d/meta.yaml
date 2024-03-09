@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/647150948748374930/a29cb32bbc61408bb6d54c37d59f2a9d/artifacts
+deleted_time: 1701667207383
+end_time: 1701665297592
+entry_point_name: ''
+experiment_id: '647150948748374930'
+lifecycle_stage: deleted
+run_id: a29cb32bbc61408bb6d54c37d59f2a9d
+run_name: fun-bass-834
+run_uuid: a29cb32bbc61408bb6d54c37d59f2a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701665297568
+status: 3
+tags: []
+user_id: houston

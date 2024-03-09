@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/301dc25e67484995b115aaa1a53e0e5a/artifacts
+end_time: 1697193947706
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 301dc25e67484995b115aaa1a53e0e5a
+run_name: vaunted-wolf-958
+run_uuid: 301dc25e67484995b115aaa1a53e0e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193947691
+status: 3
+tags: []
+user_id: houston

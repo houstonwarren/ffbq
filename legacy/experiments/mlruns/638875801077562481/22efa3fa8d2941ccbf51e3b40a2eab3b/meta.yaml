@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/22efa3fa8d2941ccbf51e3b40a2eab3b/artifacts
+end_time: 1701667761996
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 22efa3fa8d2941ccbf51e3b40a2eab3b
+run_name: overjoyed-whale-710
+run_uuid: 22efa3fa8d2941ccbf51e3b40a2eab3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667761853
+status: 3
+tags: []
+user_id: houston

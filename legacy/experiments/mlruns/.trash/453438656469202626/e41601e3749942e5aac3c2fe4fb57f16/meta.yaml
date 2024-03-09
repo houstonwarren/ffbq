@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/e41601e3749942e5aac3c2fe4fb57f16/artifacts
+deleted_time: 1701659398061
+end_time: 1701658636861
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: e41601e3749942e5aac3c2fe4fb57f16
+run_name: lyrical-auk-204
+run_uuid: e41601e3749942e5aac3c2fe4fb57f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658636734
+status: 3
+tags: []
+user_id: houston

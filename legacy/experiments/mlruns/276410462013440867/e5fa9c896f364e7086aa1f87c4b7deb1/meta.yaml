@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e5fa9c896f364e7086aa1f87c4b7deb1/artifacts
+end_time: 1697196887476
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e5fa9c896f364e7086aa1f87c4b7deb1
+run_name: secretive-calf-110
+run_uuid: e5fa9c896f364e7086aa1f87c4b7deb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887393
+status: 3
+tags: []
+user_id: houston

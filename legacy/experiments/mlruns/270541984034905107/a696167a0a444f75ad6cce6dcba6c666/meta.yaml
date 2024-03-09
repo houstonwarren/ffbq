@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a696167a0a444f75ad6cce6dcba6c666/artifacts
+end_time: 1697442564250
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a696167a0a444f75ad6cce6dcba6c666
+run_name: enthused-foal-351
+run_uuid: a696167a0a444f75ad6cce6dcba6c666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442564192
+status: 3
+tags: []
+user_id: houston

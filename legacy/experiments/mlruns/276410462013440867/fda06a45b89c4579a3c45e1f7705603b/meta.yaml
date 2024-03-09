@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fda06a45b89c4579a3c45e1f7705603b/artifacts
+end_time: 1697195825439
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fda06a45b89c4579a3c45e1f7705603b
+run_name: rebellious-yak-879
+run_uuid: fda06a45b89c4579a3c45e1f7705603b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825364
+status: 3
+tags: []
+user_id: houston

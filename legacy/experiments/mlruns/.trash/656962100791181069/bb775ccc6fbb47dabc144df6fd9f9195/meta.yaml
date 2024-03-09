@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bb775ccc6fbb47dabc144df6fd9f9195/artifacts
+deleted_time: 1701665274136
+end_time: 1701664748713
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bb775ccc6fbb47dabc144df6fd9f9195
+run_name: blushing-tern-493
+run_uuid: bb775ccc6fbb47dabc144df6fd9f9195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664748679
+status: 3
+tags: []
+user_id: houston

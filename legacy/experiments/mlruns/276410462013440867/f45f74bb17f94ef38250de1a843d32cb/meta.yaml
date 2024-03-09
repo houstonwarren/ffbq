@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f45f74bb17f94ef38250de1a843d32cb/artifacts
+end_time: 1697195863955
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f45f74bb17f94ef38250de1a843d32cb
+run_name: dashing-conch-502
+run_uuid: f45f74bb17f94ef38250de1a843d32cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195863888
+status: 3
+tags: []
+user_id: houston

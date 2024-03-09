@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/be7aaa8f0f45455299fdd6bf2cb2975a/artifacts
+end_time: 1697442261014
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: be7aaa8f0f45455299fdd6bf2cb2975a
+run_name: dapper-seal-45
+run_uuid: be7aaa8f0f45455299fdd6bf2cb2975a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442260957
+status: 3
+tags: []
+user_id: houston

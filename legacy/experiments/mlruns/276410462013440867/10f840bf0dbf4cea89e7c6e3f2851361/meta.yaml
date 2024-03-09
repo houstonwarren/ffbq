@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/10f840bf0dbf4cea89e7c6e3f2851361/artifacts
+end_time: 1697198626274
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 10f840bf0dbf4cea89e7c6e3f2851361
+run_name: adaptable-gnat-857
+run_uuid: 10f840bf0dbf4cea89e7c6e3f2851361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198626251
+status: 3
+tags: []
+user_id: houston

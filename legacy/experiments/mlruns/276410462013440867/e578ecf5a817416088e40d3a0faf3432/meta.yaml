@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e578ecf5a817416088e40d3a0faf3432/artifacts
+end_time: 1697198626386
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e578ecf5a817416088e40d3a0faf3432
+run_name: burly-mouse-172
+run_uuid: e578ecf5a817416088e40d3a0faf3432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198626365
+status: 3
+tags: []
+user_id: houston

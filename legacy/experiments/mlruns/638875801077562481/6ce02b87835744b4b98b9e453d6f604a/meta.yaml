@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6ce02b87835744b4b98b9e453d6f604a/artifacts
+end_time: 1701667549252
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6ce02b87835744b4b98b9e453d6f604a
+run_name: exultant-shrimp-893
+run_uuid: 6ce02b87835744b4b98b9e453d6f604a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667549158
+status: 3
+tags: []
+user_id: houston

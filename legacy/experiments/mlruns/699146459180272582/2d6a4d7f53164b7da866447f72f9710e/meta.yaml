@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/2d6a4d7f53164b7da866447f72f9710e/artifacts
+end_time: 1698113421757
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 2d6a4d7f53164b7da866447f72f9710e
+run_name: rumbling-whale-452
+run_uuid: 2d6a4d7f53164b7da866447f72f9710e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113421665
+status: 3
+tags: []
+user_id: houston

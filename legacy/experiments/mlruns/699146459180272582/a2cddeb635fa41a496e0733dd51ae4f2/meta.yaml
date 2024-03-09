@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a2cddeb635fa41a496e0733dd51ae4f2/artifacts
+end_time: 1698113507596
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a2cddeb635fa41a496e0733dd51ae4f2
+run_name: magnificent-fox-879
+run_uuid: a2cddeb635fa41a496e0733dd51ae4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113507544
+status: 3
+tags: []
+user_id: houston

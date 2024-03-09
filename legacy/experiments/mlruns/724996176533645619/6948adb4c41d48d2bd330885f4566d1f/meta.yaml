@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6948adb4c41d48d2bd330885f4566d1f/artifacts
+end_time: 1697193995647
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6948adb4c41d48d2bd330885f4566d1f
+run_name: delightful-moth-127
+run_uuid: 6948adb4c41d48d2bd330885f4566d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995631
+status: 3
+tags: []
+user_id: houston

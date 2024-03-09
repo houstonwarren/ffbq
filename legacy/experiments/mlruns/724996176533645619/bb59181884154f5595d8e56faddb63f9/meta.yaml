@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/bb59181884154f5595d8e56faddb63f9/artifacts
+end_time: 1697194450685
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: bb59181884154f5595d8e56faddb63f9
+run_name: unique-tern-920
+run_uuid: bb59181884154f5595d8e56faddb63f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194450662
+status: 3
+tags: []
+user_id: houston

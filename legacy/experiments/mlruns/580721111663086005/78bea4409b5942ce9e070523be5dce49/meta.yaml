@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/78bea4409b5942ce9e070523be5dce49/artifacts
+end_time: 1701660033030
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 78bea4409b5942ce9e070523be5dce49
+run_name: glamorous-slug-287
+run_uuid: 78bea4409b5942ce9e070523be5dce49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660032885
+status: 3
+tags: []
+user_id: houston

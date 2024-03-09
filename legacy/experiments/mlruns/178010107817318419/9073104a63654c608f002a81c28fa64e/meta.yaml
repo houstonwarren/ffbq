@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/9073104a63654c608f002a81c28fa64e/artifacts
+end_time: 1697359088370
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 9073104a63654c608f002a81c28fa64e
+run_name: receptive-cat-925
+run_uuid: 9073104a63654c608f002a81c28fa64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359088322
+status: 3
+tags: []
+user_id: houston

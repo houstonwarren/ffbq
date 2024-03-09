@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/96f5708e9e16435690635c81dc006027/artifacts
+end_time: 1698113712106
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 96f5708e9e16435690635c81dc006027
+run_name: overjoyed-mouse-335
+run_uuid: 96f5708e9e16435690635c81dc006027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113712051
+status: 3
+tags: []
+user_id: houston

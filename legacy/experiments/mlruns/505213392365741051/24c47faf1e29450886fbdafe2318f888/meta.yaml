@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/24c47faf1e29450886fbdafe2318f888/artifacts
+end_time: 1701659560855
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 24c47faf1e29450886fbdafe2318f888
+run_name: resilient-tern-523
+run_uuid: 24c47faf1e29450886fbdafe2318f888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659560704
+status: 3
+tags: []
+user_id: houston

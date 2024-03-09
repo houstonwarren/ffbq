@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/973c62275fa745c1bf1fc0a463b08161/artifacts
+end_time: 1697193817535
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 973c62275fa745c1bf1fc0a463b08161
+run_name: mysterious-bird-203
+run_uuid: 973c62275fa745c1bf1fc0a463b08161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817521
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/1c0960f8a2c84567af6a93e08829c500/artifacts
+end_time: 1701660262040
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 1c0960f8a2c84567af6a93e08829c500
+run_name: shivering-hawk-875
+run_uuid: 1c0960f8a2c84567af6a93e08829c500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660261950
+status: 3
+tags: []
+user_id: houston

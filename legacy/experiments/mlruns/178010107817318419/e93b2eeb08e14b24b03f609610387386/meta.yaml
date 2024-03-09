@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e93b2eeb08e14b24b03f609610387386/artifacts
+end_time: 1697359073354
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e93b2eeb08e14b24b03f609610387386
+run_name: enchanting-cod-809
+run_uuid: e93b2eeb08e14b24b03f609610387386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359073306
+status: 3
+tags: []
+user_id: houston

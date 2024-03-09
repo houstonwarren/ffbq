@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9555f3472e7c41c087329a447a381caf/artifacts
+end_time: 1698113681881
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9555f3472e7c41c087329a447a381caf
+run_name: upset-pig-890
+run_uuid: 9555f3472e7c41c087329a447a381caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113681823
+status: 3
+tags: []
+user_id: houston

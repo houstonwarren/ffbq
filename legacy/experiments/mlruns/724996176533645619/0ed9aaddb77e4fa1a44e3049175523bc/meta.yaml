@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0ed9aaddb77e4fa1a44e3049175523bc/artifacts
+end_time: 1697193793713
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0ed9aaddb77e4fa1a44e3049175523bc
+run_name: clean-kite-257
+run_uuid: 0ed9aaddb77e4fa1a44e3049175523bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793700
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/08538304c80e4f34a2720bf10a68943f/artifacts
+end_time: 1701660251786
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 08538304c80e4f34a2720bf10a68943f
+run_name: delightful-finch-70
+run_uuid: 08538304c80e4f34a2720bf10a68943f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660251714
+status: 3
+tags: []
+user_id: houston

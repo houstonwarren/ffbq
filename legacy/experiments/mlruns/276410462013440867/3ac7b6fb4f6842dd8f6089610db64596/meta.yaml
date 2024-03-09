@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3ac7b6fb4f6842dd8f6089610db64596/artifacts
+end_time: 1697198230983
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3ac7b6fb4f6842dd8f6089610db64596
+run_name: fortunate-lynx-188
+run_uuid: 3ac7b6fb4f6842dd8f6089610db64596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198230961
+status: 3
+tags: []
+user_id: houston

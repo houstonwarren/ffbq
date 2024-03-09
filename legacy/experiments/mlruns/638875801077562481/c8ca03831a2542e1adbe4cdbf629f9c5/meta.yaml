@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c8ca03831a2542e1adbe4cdbf629f9c5/artifacts
+end_time: 1701667480424
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c8ca03831a2542e1adbe4cdbf629f9c5
+run_name: capable-midge-301
+run_uuid: c8ca03831a2542e1adbe4cdbf629f9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667480337
+status: 3
+tags: []
+user_id: houston

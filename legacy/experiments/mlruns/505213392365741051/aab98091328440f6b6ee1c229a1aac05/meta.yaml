@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/aab98091328440f6b6ee1c229a1aac05/artifacts
+end_time: 1701659558026
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: aab98091328440f6b6ee1c229a1aac05
+run_name: nimble-loon-148
+run_uuid: aab98091328440f6b6ee1c229a1aac05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659557888
+status: 3
+tags: []
+user_id: houston

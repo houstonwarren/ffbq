@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4d78c4ecf5724b5190fa11210475db61/artifacts
+end_time: 1701667462153
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4d78c4ecf5724b5190fa11210475db61
+run_name: whimsical-shrike-303
+run_uuid: 4d78c4ecf5724b5190fa11210475db61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667462046
+status: 3
+tags: []
+user_id: houston

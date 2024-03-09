@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d3b531892a9e4a9cbc27d7f3b15ad297/artifacts
+end_time: 1701659581505
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d3b531892a9e4a9cbc27d7f3b15ad297
+run_name: bemused-squid-573
+run_uuid: d3b531892a9e4a9cbc27d7f3b15ad297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659581368
+status: 3
+tags: []
+user_id: houston

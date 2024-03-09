@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/1fcac5f1f2f94c68aab8406c6b518447/artifacts
+end_time: 1698113933707
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 1fcac5f1f2f94c68aab8406c6b518447
+run_name: vaunted-bass-901
+run_uuid: 1fcac5f1f2f94c68aab8406c6b518447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113933639
+status: 3
+tags: []
+user_id: houston

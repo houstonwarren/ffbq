@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/800c3d22d70c4009b744f8c86d703969/artifacts
+end_time: 1697441106969
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 800c3d22d70c4009b744f8c86d703969
+run_name: likeable-zebra-48
+run_uuid: 800c3d22d70c4009b744f8c86d703969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441106914
+status: 3
+tags: []
+user_id: houston

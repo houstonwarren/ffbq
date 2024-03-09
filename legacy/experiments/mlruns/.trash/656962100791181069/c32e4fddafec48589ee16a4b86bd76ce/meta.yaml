@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c32e4fddafec48589ee16a4b86bd76ce/artifacts
+deleted_time: 1701665274136
+end_time: 1701664690616
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c32e4fddafec48589ee16a4b86bd76ce
+run_name: classy-penguin-731
+run_uuid: c32e4fddafec48589ee16a4b86bd76ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664690578
+status: 3
+tags: []
+user_id: houston

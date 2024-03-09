@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7fe5385fb73647189295ff16beca9d4f/artifacts
+end_time: 1697359108073
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7fe5385fb73647189295ff16beca9d4f
+run_name: worried-elk-858
+run_uuid: 7fe5385fb73647189295ff16beca9d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359108019
+status: 3
+tags: []
+user_id: houston

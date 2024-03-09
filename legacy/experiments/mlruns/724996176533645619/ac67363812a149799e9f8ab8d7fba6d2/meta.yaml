@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ac67363812a149799e9f8ab8d7fba6d2/artifacts
+end_time: 1697193817497
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ac67363812a149799e9f8ab8d7fba6d2
+run_name: bright-hare-141
+run_uuid: ac67363812a149799e9f8ab8d7fba6d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817483
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/964761f3a6b44db4a29a0a6219357e3e/artifacts
+end_time: 1697195622456
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 964761f3a6b44db4a29a0a6219357e3e
+run_name: rogue-hen-436
+run_uuid: 964761f3a6b44db4a29a0a6219357e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622443
+status: 3
+tags: []
+user_id: houston

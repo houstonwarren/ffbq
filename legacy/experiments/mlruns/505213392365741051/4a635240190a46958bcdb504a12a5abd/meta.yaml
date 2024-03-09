@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4a635240190a46958bcdb504a12a5abd/artifacts
+end_time: 1701659592279
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4a635240190a46958bcdb504a12a5abd
+run_name: delightful-toad-99
+run_uuid: 4a635240190a46958bcdb504a12a5abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659592167
+status: 3
+tags: []
+user_id: houston

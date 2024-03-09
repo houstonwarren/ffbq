@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c5ae95f9fa734bbe848bd98429d70ed9/artifacts
+end_time: 1698113640953
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c5ae95f9fa734bbe848bd98429d70ed9
+run_name: whimsical-turtle-56
+run_uuid: c5ae95f9fa734bbe848bd98429d70ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113640898
+status: 3
+tags: []
+user_id: houston

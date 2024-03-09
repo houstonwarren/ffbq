@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b5573a22df3d463eb34b4525dec7d1ce/artifacts
+end_time: 1701667712658
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b5573a22df3d463eb34b4525dec7d1ce
+run_name: exultant-mole-256
+run_uuid: b5573a22df3d463eb34b4525dec7d1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667712505
+status: 3
+tags: []
+user_id: houston

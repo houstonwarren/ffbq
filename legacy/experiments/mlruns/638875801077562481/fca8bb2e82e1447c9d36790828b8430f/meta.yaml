@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fca8bb2e82e1447c9d36790828b8430f/artifacts
+end_time: 1701667407549
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fca8bb2e82e1447c9d36790828b8430f
+run_name: vaunted-horse-697
+run_uuid: fca8bb2e82e1447c9d36790828b8430f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667407459
+status: 3
+tags: []
+user_id: houston

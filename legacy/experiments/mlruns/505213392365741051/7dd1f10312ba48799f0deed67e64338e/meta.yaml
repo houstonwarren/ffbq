@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7dd1f10312ba48799f0deed67e64338e/artifacts
+end_time: 1701659609673
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7dd1f10312ba48799f0deed67e64338e
+run_name: orderly-hound-496
+run_uuid: 7dd1f10312ba48799f0deed67e64338e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659609550
+status: 3
+tags: []
+user_id: houston

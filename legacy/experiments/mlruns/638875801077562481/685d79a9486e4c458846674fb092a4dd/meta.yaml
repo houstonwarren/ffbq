@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/685d79a9486e4c458846674fb092a4dd/artifacts
+end_time: 1701667784283
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 685d79a9486e4c458846674fb092a4dd
+run_name: nervous-elk-359
+run_uuid: 685d79a9486e4c458846674fb092a4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667784150
+status: 3
+tags: []
+user_id: houston

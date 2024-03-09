@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ba53e81901924f75a101b52ca656513a/artifacts
+end_time: 1701659488210
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ba53e81901924f75a101b52ca656513a
+run_name: upset-ape-442
+run_uuid: ba53e81901924f75a101b52ca656513a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659488071
+status: 3
+tags: []
+user_id: houston

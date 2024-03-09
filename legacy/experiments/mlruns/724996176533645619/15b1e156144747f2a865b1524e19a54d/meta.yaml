@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/15b1e156144747f2a865b1524e19a54d/artifacts
+end_time: 1697193852029
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 15b1e156144747f2a865b1524e19a54d
+run_name: silent-frog-340
+run_uuid: 15b1e156144747f2a865b1524e19a54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193852003
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1b615348d2de4592b0cb7290650ab107/artifacts
+end_time: 1701667867557
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1b615348d2de4592b0cb7290650ab107
+run_name: illustrious-kite-547
+run_uuid: 1b615348d2de4592b0cb7290650ab107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667867419
+status: 3
+tags: []
+user_id: houston

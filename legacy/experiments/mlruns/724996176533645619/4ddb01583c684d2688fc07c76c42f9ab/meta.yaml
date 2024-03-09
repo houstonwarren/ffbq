@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4ddb01583c684d2688fc07c76c42f9ab/artifacts
+end_time: 1697193793770
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4ddb01583c684d2688fc07c76c42f9ab
+run_name: puzzled-squid-135
+run_uuid: 4ddb01583c684d2688fc07c76c42f9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793757
+status: 3
+tags: []
+user_id: houston

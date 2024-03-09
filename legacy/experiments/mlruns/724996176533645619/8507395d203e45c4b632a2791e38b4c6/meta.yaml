@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8507395d203e45c4b632a2791e38b4c6/artifacts
+end_time: 1697194381295
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8507395d203e45c4b632a2791e38b4c6
+run_name: rebellious-mole-19
+run_uuid: 8507395d203e45c4b632a2791e38b4c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194381276
+status: 3
+tags: []
+user_id: houston

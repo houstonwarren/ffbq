@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/8a779733ac6849fb9cffa275646ce7d8/artifacts
+deleted_time: 1701665274136
+end_time: 1701664866964
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 8a779733ac6849fb9cffa275646ce7d8
+run_name: powerful-trout-212
+run_uuid: 8a779733ac6849fb9cffa275646ce7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664866901
+status: 3
+tags: []
+user_id: houston

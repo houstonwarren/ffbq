@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e5af4264bc2e4fc0a98535b17a760eee/artifacts
+end_time: 1701667892086
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e5af4264bc2e4fc0a98535b17a760eee
+run_name: overjoyed-rook-242
+run_uuid: e5af4264bc2e4fc0a98535b17a760eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667891929
+status: 3
+tags: []
+user_id: houston

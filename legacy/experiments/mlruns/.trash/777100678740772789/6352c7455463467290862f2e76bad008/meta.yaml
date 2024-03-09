@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/6352c7455463467290862f2e76bad008/artifacts
+deleted_time: 1701660238886
+end_time: 1701660174302
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 6352c7455463467290862f2e76bad008
+run_name: bald-asp-585
+run_uuid: 6352c7455463467290862f2e76bad008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660174156
+status: 3
+tags: []
+user_id: houston

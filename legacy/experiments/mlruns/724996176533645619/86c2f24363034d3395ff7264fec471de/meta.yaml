@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/86c2f24363034d3395ff7264fec471de/artifacts
+end_time: 1697194630262
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 86c2f24363034d3395ff7264fec471de
+run_name: skillful-ox-852
+run_uuid: 86c2f24363034d3395ff7264fec471de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194630243
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/33be505c85504615b7f0489e1d8f3447/artifacts
+end_time: 1701667705240
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 33be505c85504615b7f0489e1d8f3447
+run_name: sincere-cod-203
+run_uuid: 33be505c85504615b7f0489e1d8f3447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667705095
+status: 3
+tags: []
+user_id: houston

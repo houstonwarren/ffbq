@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/89587ff5632846c0afb345d1c759b15d/artifacts
+end_time: 1701667894179
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 89587ff5632846c0afb345d1c759b15d
+run_name: bedecked-carp-330
+run_uuid: 89587ff5632846c0afb345d1c759b15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667894039
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/661b3f47c8c74e3da0f29340e5884ab1/artifacts
+end_time: 1701667622766
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 661b3f47c8c74e3da0f29340e5884ab1
+run_name: amusing-bee-349
+run_uuid: 661b3f47c8c74e3da0f29340e5884ab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667622630
+status: 3
+tags: []
+user_id: houston

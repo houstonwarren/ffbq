@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/867572ca1f4a433998cb44652050db43/artifacts
+end_time: 1697195605557
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 867572ca1f4a433998cb44652050db43
+run_name: merciful-hog-557
+run_uuid: 867572ca1f4a433998cb44652050db43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605506
+status: 3
+tags: []
+user_id: houston

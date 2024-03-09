@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/bf6d8e3f2f904de78aae6f404d1f6b0f/artifacts
+end_time: 1697193829243
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: bf6d8e3f2f904de78aae6f404d1f6b0f
+run_name: resilient-worm-882
+run_uuid: bf6d8e3f2f904de78aae6f404d1f6b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829217
+status: 3
+tags: []
+user_id: houston

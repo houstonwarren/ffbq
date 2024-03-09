@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f0b224725d1748bdaffb066db5ec6642/artifacts
+end_time: 1697194276753
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f0b224725d1748bdaffb066db5ec6642
+run_name: shivering-squid-397
+run_uuid: f0b224725d1748bdaffb066db5ec6642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276733
+status: 3
+tags: []
+user_id: houston

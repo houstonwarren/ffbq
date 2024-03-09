@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/420b80c1546e4b5e85cfa2e0479b45f2/artifacts
+end_time: 1697440492615
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 420b80c1546e4b5e85cfa2e0479b45f2
+run_name: selective-bug-233
+run_uuid: 420b80c1546e4b5e85cfa2e0479b45f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440492568
+status: 3
+tags: []
+user_id: houston

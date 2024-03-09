@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/781b656569bb4ca2a7ff494c49421401/artifacts
+end_time: 1701660423450
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 781b656569bb4ca2a7ff494c49421401
+run_name: handsome-ray-103
+run_uuid: 781b656569bb4ca2a7ff494c49421401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660423350
+status: 3
+tags: []
+user_id: houston

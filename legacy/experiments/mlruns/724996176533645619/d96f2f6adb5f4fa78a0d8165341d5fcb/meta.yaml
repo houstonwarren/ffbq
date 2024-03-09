@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d96f2f6adb5f4fa78a0d8165341d5fcb/artifacts
+end_time: 1697194574267
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d96f2f6adb5f4fa78a0d8165341d5fcb
+run_name: rogue-wolf-979
+run_uuid: d96f2f6adb5f4fa78a0d8165341d5fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194574247
+status: 3
+tags: []
+user_id: houston

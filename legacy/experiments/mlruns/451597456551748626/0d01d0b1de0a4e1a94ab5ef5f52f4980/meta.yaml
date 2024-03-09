@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/0d01d0b1de0a4e1a94ab5ef5f52f4980/artifacts
+end_time: 1701660394778
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 0d01d0b1de0a4e1a94ab5ef5f52f4980
+run_name: abundant-pig-895
+run_uuid: 0d01d0b1de0a4e1a94ab5ef5f52f4980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660394700
+status: 3
+tags: []
+user_id: houston

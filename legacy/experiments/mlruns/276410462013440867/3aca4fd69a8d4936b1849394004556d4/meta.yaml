@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3aca4fd69a8d4936b1849394004556d4/artifacts
+end_time: 1697195786747
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3aca4fd69a8d4936b1849394004556d4
+run_name: silent-cow-993
+run_uuid: 3aca4fd69a8d4936b1849394004556d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786732
+status: 3
+tags: []
+user_id: houston

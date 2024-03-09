@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/b6183bd4868d44c494eeeb076f4fccee/artifacts
+deleted_time: 1701660238886
+end_time: 1701660174963
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: b6183bd4868d44c494eeeb076f4fccee
+run_name: melodic-snake-418
+run_uuid: b6183bd4868d44c494eeeb076f4fccee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660174840
+status: 3
+tags: []
+user_id: houston

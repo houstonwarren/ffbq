@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/746facb4a44f4bf7b942960d86c67514/artifacts
+end_time: 1701660448365
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 746facb4a44f4bf7b942960d86c67514
+run_name: useful-grouse-237
+run_uuid: 746facb4a44f4bf7b942960d86c67514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660448238
+status: 3
+tags: []
+user_id: houston

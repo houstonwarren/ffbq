@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/616e217555a84bd6b815aac7fefa3e7b/artifacts
+end_time: 1697359067125
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 616e217555a84bd6b815aac7fefa3e7b
+run_name: glamorous-dove-573
+run_uuid: 616e217555a84bd6b815aac7fefa3e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359067076
+status: 3
+tags: []
+user_id: houston

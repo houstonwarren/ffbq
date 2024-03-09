@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e2741f0c89fb44df93277469d2ebf4f5/artifacts
+end_time: 1701659594839
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e2741f0c89fb44df93277469d2ebf4f5
+run_name: beautiful-dove-346
+run_uuid: e2741f0c89fb44df93277469d2ebf4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659594681
+status: 3
+tags: []
+user_id: houston

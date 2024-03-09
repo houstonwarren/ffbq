@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/ca91ccf6010848d6b4d29871a87cacdf/artifacts
+deleted_time: 1701659398061
+end_time: 1701658641077
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: ca91ccf6010848d6b4d29871a87cacdf
+run_name: bittersweet-worm-583
+run_uuid: ca91ccf6010848d6b4d29871a87cacdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658640934
+status: 3
+tags: []
+user_id: houston

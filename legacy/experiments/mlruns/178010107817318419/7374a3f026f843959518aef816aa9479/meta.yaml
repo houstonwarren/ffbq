@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7374a3f026f843959518aef816aa9479/artifacts
+end_time: 1697359178847
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7374a3f026f843959518aef816aa9479
+run_name: youthful-moth-84
+run_uuid: 7374a3f026f843959518aef816aa9479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359178790
+status: 3
+tags: []
+user_id: houston

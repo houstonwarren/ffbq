@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8353615f3bd44974903819368117668c/artifacts
+end_time: 1701667712898
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8353615f3bd44974903819368117668c
+run_name: awesome-zebra-633
+run_uuid: 8353615f3bd44974903819368117668c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667712747
+status: 3
+tags: []
+user_id: houston

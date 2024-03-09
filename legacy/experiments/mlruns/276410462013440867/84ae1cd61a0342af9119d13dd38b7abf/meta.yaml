@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/84ae1cd61a0342af9119d13dd38b7abf/artifacts
+end_time: 1697197233555
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 84ae1cd61a0342af9119d13dd38b7abf
+run_name: dashing-hen-450
+run_uuid: 84ae1cd61a0342af9119d13dd38b7abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197233508
+status: 3
+tags: []
+user_id: houston

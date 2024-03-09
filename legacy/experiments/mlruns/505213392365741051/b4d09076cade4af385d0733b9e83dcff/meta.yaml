@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/b4d09076cade4af385d0733b9e83dcff/artifacts
+end_time: 1701659619317
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: b4d09076cade4af385d0733b9e83dcff
+run_name: invincible-skink-968
+run_uuid: b4d09076cade4af385d0733b9e83dcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659619172
+status: 3
+tags: []
+user_id: houston

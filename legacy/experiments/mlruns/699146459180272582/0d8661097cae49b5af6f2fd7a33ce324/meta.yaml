@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0d8661097cae49b5af6f2fd7a33ce324/artifacts
+end_time: 1698114138501
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0d8661097cae49b5af6f2fd7a33ce324
+run_name: resilient-hog-333
+run_uuid: 0d8661097cae49b5af6f2fd7a33ce324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114138441
+status: 3
+tags: []
+user_id: houston

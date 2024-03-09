@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/eb7720854d864f2bad8d2ba5b962cb02/artifacts
+end_time: 1697197752783
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: eb7720854d864f2bad8d2ba5b962cb02
+run_name: luminous-shoat-79
+run_uuid: eb7720854d864f2bad8d2ba5b962cb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197752766
+status: 3
+tags: []
+user_id: houston

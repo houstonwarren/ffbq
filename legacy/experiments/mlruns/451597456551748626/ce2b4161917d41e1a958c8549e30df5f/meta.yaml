@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ce2b4161917d41e1a958c8549e30df5f/artifacts
+end_time: 1701660324816
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ce2b4161917d41e1a958c8549e30df5f
+run_name: whimsical-sow-492
+run_uuid: ce2b4161917d41e1a958c8549e30df5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660324738
+status: 3
+tags: []
+user_id: houston

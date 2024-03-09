@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0d8dc7b2f3b94b6d8f3f44afa3faa332/artifacts
+end_time: 1698113458506
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0d8dc7b2f3b94b6d8f3f44afa3faa332
+run_name: luxuriant-worm-212
+run_uuid: 0d8dc7b2f3b94b6d8f3f44afa3faa332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458454
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/27972c08f07349d697577b3265492032/artifacts
+end_time: 1697197581439
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 27972c08f07349d697577b3265492032
+run_name: kindly-lark-135
+run_uuid: 27972c08f07349d697577b3265492032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197581392
+status: 3
+tags: []
+user_id: houston

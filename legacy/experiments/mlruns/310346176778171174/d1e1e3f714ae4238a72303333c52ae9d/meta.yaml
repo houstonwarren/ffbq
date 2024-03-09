@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/d1e1e3f714ae4238a72303333c52ae9d/artifacts
+end_time: 1696909010306
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: d1e1e3f714ae4238a72303333c52ae9d
+run_name: stately-ant-850
+run_uuid: d1e1e3f714ae4238a72303333c52ae9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010297
+status: 3
+tags: []
+user_id: houston

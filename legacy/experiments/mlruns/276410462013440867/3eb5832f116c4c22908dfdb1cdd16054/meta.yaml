@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3eb5832f116c4c22908dfdb1cdd16054/artifacts
+end_time: 1697195555484
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3eb5832f116c4c22908dfdb1cdd16054
+run_name: bouncy-slug-179
+run_uuid: 3eb5832f116c4c22908dfdb1cdd16054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555406
+status: 3
+tags: []
+user_id: houston

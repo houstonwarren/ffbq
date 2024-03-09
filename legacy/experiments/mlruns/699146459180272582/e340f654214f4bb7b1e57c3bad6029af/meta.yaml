@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e340f654214f4bb7b1e57c3bad6029af/artifacts
+end_time: 1698113681679
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e340f654214f4bb7b1e57c3bad6029af
+run_name: delicate-ray-535
+run_uuid: e340f654214f4bb7b1e57c3bad6029af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113681625
+status: 3
+tags: []
+user_id: houston

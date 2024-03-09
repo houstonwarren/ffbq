@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/45b1a305d1cc4e1c858671b0c3411965/artifacts
+end_time: 1701667462336
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 45b1a305d1cc4e1c858671b0c3411965
+run_name: casual-turtle-698
+run_uuid: 45b1a305d1cc4e1c858671b0c3411965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667462260
+status: 3
+tags: []
+user_id: houston

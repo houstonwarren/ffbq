@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/19078f5b395a43aba590c77296ebce04/artifacts
+end_time: 1697440915394
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 19078f5b395a43aba590c77296ebce04
+run_name: luminous-trout-848
+run_uuid: 19078f5b395a43aba590c77296ebce04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440915340
+status: 3
+tags: []
+user_id: houston

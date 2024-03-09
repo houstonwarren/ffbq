@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/beffb68e62474510af5777268873876c/artifacts
+end_time: 1697197060876
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: beffb68e62474510af5777268873876c
+run_name: flawless-rat-301
+run_uuid: beffb68e62474510af5777268873876c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197060859
+status: 3
+tags: []
+user_id: houston

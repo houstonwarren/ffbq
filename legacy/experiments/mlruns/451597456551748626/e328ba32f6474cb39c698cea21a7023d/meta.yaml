@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e328ba32f6474cb39c698cea21a7023d/artifacts
+end_time: 1701660341915
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e328ba32f6474cb39c698cea21a7023d
+run_name: receptive-frog-562
+run_uuid: e328ba32f6474cb39c698cea21a7023d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660341825
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/92a4486f8bbc449889aab3b115810af6/artifacts
+end_time: 1701659476506
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 92a4486f8bbc449889aab3b115810af6
+run_name: gaudy-swan-488
+run_uuid: 92a4486f8bbc449889aab3b115810af6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659476341
+status: 3
+tags: []
+user_id: houston

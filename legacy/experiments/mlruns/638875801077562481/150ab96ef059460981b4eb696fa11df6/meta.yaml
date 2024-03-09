@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/150ab96ef059460981b4eb696fa11df6/artifacts
+end_time: 1701667803919
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 150ab96ef059460981b4eb696fa11df6
+run_name: fun-mule-113
+run_uuid: 150ab96ef059460981b4eb696fa11df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667803772
+status: 3
+tags: []
+user_id: houston

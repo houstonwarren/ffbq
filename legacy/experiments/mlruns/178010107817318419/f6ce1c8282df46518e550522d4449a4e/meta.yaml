@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f6ce1c8282df46518e550522d4449a4e/artifacts
+end_time: 1697359167698
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f6ce1c8282df46518e550522d4449a4e
+run_name: skittish-toad-158
+run_uuid: f6ce1c8282df46518e550522d4449a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359167643
+status: 3
+tags: []
+user_id: houston

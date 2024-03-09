@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/dad3e8297db548a19e335274a64ef9fb/artifacts
+end_time: 1697198175587
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: dad3e8297db548a19e335274a64ef9fb
+run_name: adaptable-shad-318
+run_uuid: dad3e8297db548a19e335274a64ef9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198175537
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b868c29ddca1421fb64fbb42f8c21c02/artifacts
+end_time: 1701667923303
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b868c29ddca1421fb64fbb42f8c21c02
+run_name: vaunted-ray-911
+run_uuid: b868c29ddca1421fb64fbb42f8c21c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667923121
+status: 3
+tags: []
+user_id: houston

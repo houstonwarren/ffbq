@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e78087981b504e13a667c4136dfb70f4/artifacts
+end_time: 1701659572548
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e78087981b504e13a667c4136dfb70f4
+run_name: nebulous-shad-715
+run_uuid: e78087981b504e13a667c4136dfb70f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659572395
+status: 3
+tags: []
+user_id: houston

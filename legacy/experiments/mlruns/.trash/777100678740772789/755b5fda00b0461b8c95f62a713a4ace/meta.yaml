@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/755b5fda00b0461b8c95f62a713a4ace/artifacts
+deleted_time: 1701660238886
+end_time: 1701660171999
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 755b5fda00b0461b8c95f62a713a4ace
+run_name: debonair-koi-787
+run_uuid: 755b5fda00b0461b8c95f62a713a4ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660171831
+status: 3
+tags: []
+user_id: houston

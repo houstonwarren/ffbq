@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ace39df6be91457999d60d891383682e/artifacts
+end_time: 1697195020506
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ace39df6be91457999d60d891383682e
+run_name: luminous-hare-494
+run_uuid: ace39df6be91457999d60d891383682e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195020484
+status: 3
+tags: []
+user_id: houston

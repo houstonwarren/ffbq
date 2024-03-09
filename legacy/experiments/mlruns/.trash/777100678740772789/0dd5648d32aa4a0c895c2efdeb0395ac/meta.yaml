@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/0dd5648d32aa4a0c895c2efdeb0395ac/artifacts
+deleted_time: 1701660238886
+end_time: 1701660178949
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 0dd5648d32aa4a0c895c2efdeb0395ac
+run_name: merciful-moose-626
+run_uuid: 0dd5648d32aa4a0c895c2efdeb0395ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660178821
+status: 3
+tags: []
+user_id: houston

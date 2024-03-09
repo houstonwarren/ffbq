@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1e66fdfe65c745008fd8863629342539/artifacts
+end_time: 1697193948831
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1e66fdfe65c745008fd8863629342539
+run_name: flawless-smelt-765
+run_uuid: 1e66fdfe65c745008fd8863629342539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193948816
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/974de14f8d354035a3db1af82ef40099/artifacts
+end_time: 1698114564285
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 974de14f8d354035a3db1af82ef40099
+run_name: loud-sponge-224
+run_uuid: 974de14f8d354035a3db1af82ef40099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114564225
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/cbcd114f129b47968a25b493eeb73a07/artifacts
+end_time: 1697194172098
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: cbcd114f129b47968a25b493eeb73a07
+run_name: righteous-auk-645
+run_uuid: cbcd114f129b47968a25b493eeb73a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194172081
+status: 3
+tags: []
+user_id: houston

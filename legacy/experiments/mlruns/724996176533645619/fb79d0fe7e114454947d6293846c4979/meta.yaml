@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fb79d0fe7e114454947d6293846c4979/artifacts
+end_time: 1697193777056
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fb79d0fe7e114454947d6293846c4979
+run_name: whimsical-conch-984
+run_uuid: fb79d0fe7e114454947d6293846c4979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193777043
+status: 3
+tags: []
+user_id: houston

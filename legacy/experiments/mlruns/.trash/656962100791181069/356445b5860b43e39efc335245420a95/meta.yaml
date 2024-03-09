@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/356445b5860b43e39efc335245420a95/artifacts
+deleted_time: 1701665274136
+end_time: 1701664750885
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 356445b5860b43e39efc335245420a95
+run_name: industrious-fawn-937
+run_uuid: 356445b5860b43e39efc335245420a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664750819
+status: 3
+tags: []
+user_id: houston

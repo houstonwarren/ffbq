@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/29421418357f480c87f7534d5a160e64/artifacts
+end_time: 1697442341930
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 29421418357f480c87f7534d5a160e64
+run_name: smiling-elk-777
+run_uuid: 29421418357f480c87f7534d5a160e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442341874
+status: 3
+tags: []
+user_id: houston

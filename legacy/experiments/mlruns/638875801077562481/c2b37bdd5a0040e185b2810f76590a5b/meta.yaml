@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c2b37bdd5a0040e185b2810f76590a5b/artifacts
+end_time: 1701667808441
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c2b37bdd5a0040e185b2810f76590a5b
+run_name: omniscient-finch-148
+run_uuid: c2b37bdd5a0040e185b2810f76590a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667808280
+status: 3
+tags: []
+user_id: houston

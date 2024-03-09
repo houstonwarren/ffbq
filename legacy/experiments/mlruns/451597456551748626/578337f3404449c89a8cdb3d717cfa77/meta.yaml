@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/578337f3404449c89a8cdb3d717cfa77/artifacts
+end_time: 1701660271804
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 578337f3404449c89a8cdb3d717cfa77
+run_name: colorful-pig-165
+run_uuid: 578337f3404449c89a8cdb3d717cfa77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660271718
+status: 3
+tags: []
+user_id: houston

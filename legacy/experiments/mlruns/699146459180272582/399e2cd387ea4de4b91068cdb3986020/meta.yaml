@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/399e2cd387ea4de4b91068cdb3986020/artifacts
+end_time: 1698114138361
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 399e2cd387ea4de4b91068cdb3986020
+run_name: wise-shrew-696
+run_uuid: 399e2cd387ea4de4b91068cdb3986020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114138299
+status: 3
+tags: []
+user_id: houston

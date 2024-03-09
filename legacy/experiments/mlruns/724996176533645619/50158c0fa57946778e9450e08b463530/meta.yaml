@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/50158c0fa57946778e9450e08b463530/artifacts
+end_time: 1697194311633
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 50158c0fa57946778e9450e08b463530
+run_name: rogue-sponge-954
+run_uuid: 50158c0fa57946778e9450e08b463530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311614
+status: 3
+tags: []
+user_id: houston

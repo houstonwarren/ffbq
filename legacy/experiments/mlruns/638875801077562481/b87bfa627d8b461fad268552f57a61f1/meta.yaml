@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b87bfa627d8b461fad268552f57a61f1/artifacts
+end_time: 1701667638050
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b87bfa627d8b461fad268552f57a61f1
+run_name: nosy-deer-622
+run_uuid: b87bfa627d8b461fad268552f57a61f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667637912
+status: 3
+tags: []
+user_id: houston

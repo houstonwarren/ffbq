@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/7bb89dbf5363463c820d6fe8a149846d/artifacts
+deleted_time: 1701660238886
+end_time: 1701660176509
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 7bb89dbf5363463c820d6fe8a149846d
+run_name: redolent-gnat-697
+run_uuid: 7bb89dbf5363463c820d6fe8a149846d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660176335
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/aa79e61e440b4a2daa7519a50a537e00/artifacts
+end_time: 1697359029994
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: aa79e61e440b4a2daa7519a50a537e00
+run_name: sneaky-shrimp-291
+run_uuid: aa79e61e440b4a2daa7519a50a537e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359029915
+status: 3
+tags: []
+user_id: houston

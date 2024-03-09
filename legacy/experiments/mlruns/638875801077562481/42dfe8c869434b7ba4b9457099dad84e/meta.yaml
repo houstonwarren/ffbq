@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/42dfe8c869434b7ba4b9457099dad84e/artifacts
+end_time: 1701667765896
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 42dfe8c869434b7ba4b9457099dad84e
+run_name: awesome-calf-290
+run_uuid: 42dfe8c869434b7ba4b9457099dad84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667765769
+status: 3
+tags: []
+user_id: houston

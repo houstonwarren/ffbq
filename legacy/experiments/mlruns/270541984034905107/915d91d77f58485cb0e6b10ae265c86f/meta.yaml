@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/915d91d77f58485cb0e6b10ae265c86f/artifacts
+end_time: 1697441395953
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 915d91d77f58485cb0e6b10ae265c86f
+run_name: welcoming-crane-826
+run_uuid: 915d91d77f58485cb0e6b10ae265c86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441395898
+status: 3
+tags: []
+user_id: houston

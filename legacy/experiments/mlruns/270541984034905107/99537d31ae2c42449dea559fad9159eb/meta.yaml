@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/99537d31ae2c42449dea559fad9159eb/artifacts
+end_time: 1697440615859
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 99537d31ae2c42449dea559fad9159eb
+run_name: trusting-roo-955
+run_uuid: 99537d31ae2c42449dea559fad9159eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440615806
+status: 3
+tags: []
+user_id: houston

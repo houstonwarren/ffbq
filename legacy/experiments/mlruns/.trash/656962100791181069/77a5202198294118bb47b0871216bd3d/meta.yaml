@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/77a5202198294118bb47b0871216bd3d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664801029
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 77a5202198294118bb47b0871216bd3d
+run_name: efficient-shrike-129
+run_uuid: 77a5202198294118bb47b0871216bd3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664800973
+status: 3
+tags: []
+user_id: houston

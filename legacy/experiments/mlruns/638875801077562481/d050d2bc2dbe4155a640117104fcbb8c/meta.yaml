@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d050d2bc2dbe4155a640117104fcbb8c/artifacts
+end_time: 1701667734690
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d050d2bc2dbe4155a640117104fcbb8c
+run_name: masked-sponge-778
+run_uuid: d050d2bc2dbe4155a640117104fcbb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667734554
+status: 3
+tags: []
+user_id: houston

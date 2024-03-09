@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d7e079c1f48a4102a19db3406cd6835b/artifacts
+end_time: 1697195522688
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d7e079c1f48a4102a19db3406cd6835b
+run_name: defiant-rat-980
+run_uuid: d7e079c1f48a4102a19db3406cd6835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195522677
+status: 3
+tags: []
+user_id: houston

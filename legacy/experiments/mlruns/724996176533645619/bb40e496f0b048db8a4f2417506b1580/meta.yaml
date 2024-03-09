@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/bb40e496f0b048db8a4f2417506b1580/artifacts
+end_time: 1697193995544
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: bb40e496f0b048db8a4f2417506b1580
+run_name: rogue-elk-346
+run_uuid: bb40e496f0b048db8a4f2417506b1580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995481
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3cbadd0c6173494a98cf88c0ffc6854a/artifacts
+end_time: 1701667582990
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3cbadd0c6173494a98cf88c0ffc6854a
+run_name: likeable-gnat-771
+run_uuid: 3cbadd0c6173494a98cf88c0ffc6854a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667582868
+status: 3
+tags: []
+user_id: houston

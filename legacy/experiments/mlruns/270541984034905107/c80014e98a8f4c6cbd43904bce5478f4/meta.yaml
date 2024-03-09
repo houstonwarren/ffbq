@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c80014e98a8f4c6cbd43904bce5478f4/artifacts
+end_time: 1697441758207
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c80014e98a8f4c6cbd43904bce5478f4
+run_name: luminous-moose-236
+run_uuid: c80014e98a8f4c6cbd43904bce5478f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441758151
+status: 3
+tags: []
+user_id: houston

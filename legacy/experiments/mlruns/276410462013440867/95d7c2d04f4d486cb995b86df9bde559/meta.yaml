@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/95d7c2d04f4d486cb995b86df9bde559/artifacts
+end_time: 1697195589054
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 95d7c2d04f4d486cb995b86df9bde559
+run_name: charming-deer-11
+run_uuid: 95d7c2d04f4d486cb995b86df9bde559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195589041
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bd3bd2a03bd14b67b7d80ef699a773e7/artifacts
+end_time: 1701667710122
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bd3bd2a03bd14b67b7d80ef699a773e7
+run_name: omniscient-pug-165
+run_uuid: bd3bd2a03bd14b67b7d80ef699a773e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667709960
+status: 3
+tags: []
+user_id: houston

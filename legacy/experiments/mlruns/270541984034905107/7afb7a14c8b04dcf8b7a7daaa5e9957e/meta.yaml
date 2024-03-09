@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7afb7a14c8b04dcf8b7a7daaa5e9957e/artifacts
+end_time: 1697440590363
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7afb7a14c8b04dcf8b7a7daaa5e9957e
+run_name: melodic-frog-237
+run_uuid: 7afb7a14c8b04dcf8b7a7daaa5e9957e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440590314
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/e3aa5b56de3a454fbf633d7d2a82f90c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664789764
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: e3aa5b56de3a454fbf633d7d2a82f90c
+run_name: casual-mare-810
+run_uuid: e3aa5b56de3a454fbf633d7d2a82f90c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664789730
+status: 3
+tags: []
+user_id: houston

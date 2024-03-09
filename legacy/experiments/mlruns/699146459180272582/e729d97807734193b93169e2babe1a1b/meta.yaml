@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e729d97807734193b93169e2babe1a1b/artifacts
+end_time: 1698115195609
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e729d97807734193b93169e2babe1a1b
+run_name: bright-sow-248
+run_uuid: e729d97807734193b93169e2babe1a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115195544
+status: 3
+tags: []
+user_id: houston

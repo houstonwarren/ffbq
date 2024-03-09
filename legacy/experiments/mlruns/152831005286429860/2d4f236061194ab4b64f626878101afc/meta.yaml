@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/2d4f236061194ab4b64f626878101afc/artifacts
+end_time: 1697360288654
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 2d4f236061194ab4b64f626878101afc
+run_name: upbeat-slug-916
+run_uuid: 2d4f236061194ab4b64f626878101afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360288602
+status: 3
+tags: []
+user_id: houston

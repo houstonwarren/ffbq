@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/a695e5d6368f41afad666063b46bbbdf/artifacts
+end_time: 1697360316926
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: a695e5d6368f41afad666063b46bbbdf
+run_name: judicious-asp-127
+run_uuid: a695e5d6368f41afad666063b46bbbdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360316875
+status: 3
+tags: []
+user_id: houston

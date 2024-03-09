@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3309cc48fa6c4ba591ac40d5b715a68d/artifacts
+end_time: 1701660264815
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3309cc48fa6c4ba591ac40d5b715a68d
+run_name: grandiose-grub-88
+run_uuid: 3309cc48fa6c4ba591ac40d5b715a68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660264733
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6a2f0155f58a4662870adf4ff8e273bc/artifacts
+end_time: 1701667677185
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6a2f0155f58a4662870adf4ff8e273bc
+run_name: skittish-perch-169
+run_uuid: 6a2f0155f58a4662870adf4ff8e273bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667677047
+status: 3
+tags: []
+user_id: houston

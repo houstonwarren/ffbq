@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bced31b6b98043f2a96a4ec91acca6a4/artifacts
+end_time: 1701667411236
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bced31b6b98043f2a96a4ec91acca6a4
+run_name: bemused-smelt-559
+run_uuid: bced31b6b98043f2a96a4ec91acca6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667411142
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a777fca18a0e42a6966ec8aa61fd3b0a/artifacts
+end_time: 1697194797539
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a777fca18a0e42a6966ec8aa61fd3b0a
+run_name: classy-grouse-192
+run_uuid: a777fca18a0e42a6966ec8aa61fd3b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797518
+status: 3
+tags: []
+user_id: houston

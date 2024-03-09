@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/ea9c217186484fa8992c2c9806b7d083/artifacts
+end_time: 1697359146867
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: ea9c217186484fa8992c2c9806b7d083
+run_name: resilient-gull-432
+run_uuid: ea9c217186484fa8992c2c9806b7d083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359146812
+status: 3
+tags: []
+user_id: houston

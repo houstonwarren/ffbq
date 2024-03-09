@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/2a027c899b1044c8851cc34999b830c5/artifacts
+deleted_time: 1701659398061
+end_time: 1701658643717
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 2a027c899b1044c8851cc34999b830c5
+run_name: flawless-dove-222
+run_uuid: 2a027c899b1044c8851cc34999b830c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658643543
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/2ccd8f129ba040308595f2c87efa7e34/artifacts
+end_time: 1697360283513
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 2ccd8f129ba040308595f2c87efa7e34
+run_name: rebellious-croc-214
+run_uuid: 2ccd8f129ba040308595f2c87efa7e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360283452
+status: 3
+tags: []
+user_id: houston

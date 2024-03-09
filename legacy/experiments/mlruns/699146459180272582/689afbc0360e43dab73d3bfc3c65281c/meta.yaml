@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/689afbc0360e43dab73d3bfc3c65281c/artifacts
+end_time: 1698114291267
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 689afbc0360e43dab73d3bfc3c65281c
+run_name: able-gull-144
+run_uuid: 689afbc0360e43dab73d3bfc3c65281c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291205
+status: 3
+tags: []
+user_id: houston

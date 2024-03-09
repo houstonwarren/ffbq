@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2d6040dc9b9545a99497d996269bb11d/artifacts
+end_time: 1701660469905
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2d6040dc9b9545a99497d996269bb11d
+run_name: youthful-lynx-154
+run_uuid: 2d6040dc9b9545a99497d996269bb11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660469787
+status: 3
+tags: []
+user_id: houston

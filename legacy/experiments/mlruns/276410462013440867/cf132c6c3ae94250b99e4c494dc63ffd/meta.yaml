@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cf132c6c3ae94250b99e4c494dc63ffd/artifacts
+end_time: 1697198456692
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cf132c6c3ae94250b99e4c494dc63ffd
+run_name: vaunted-koi-907
+run_uuid: cf132c6c3ae94250b99e4c494dc63ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198456669
+status: 3
+tags: []
+user_id: houston

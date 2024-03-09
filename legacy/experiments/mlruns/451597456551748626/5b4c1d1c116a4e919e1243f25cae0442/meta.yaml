@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5b4c1d1c116a4e919e1243f25cae0442/artifacts
+end_time: 1701660452488
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5b4c1d1c116a4e919e1243f25cae0442
+run_name: gregarious-fish-954
+run_uuid: 5b4c1d1c116a4e919e1243f25cae0442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660452373
+status: 3
+tags: []
+user_id: houston

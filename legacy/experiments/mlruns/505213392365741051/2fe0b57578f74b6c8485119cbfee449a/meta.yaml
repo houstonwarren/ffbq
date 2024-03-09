@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/2fe0b57578f74b6c8485119cbfee449a/artifacts
+end_time: 1701659574123
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 2fe0b57578f74b6c8485119cbfee449a
+run_name: polite-fox-675
+run_uuid: 2fe0b57578f74b6c8485119cbfee449a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659574006
+status: 3
+tags: []
+user_id: houston

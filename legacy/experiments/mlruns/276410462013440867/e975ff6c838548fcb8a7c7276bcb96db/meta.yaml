@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e975ff6c838548fcb8a7c7276bcb96db/artifacts
+end_time: 1697198680862
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e975ff6c838548fcb8a7c7276bcb96db
+run_name: rambunctious-dog-589
+run_uuid: e975ff6c838548fcb8a7c7276bcb96db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198680825
+status: 3
+tags: []
+user_id: houston

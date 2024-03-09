@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a3b64774f8ab4a30b2a6c9cd89d570da/artifacts
+deleted_time: 1701665274136
+end_time: 1701664806479
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a3b64774f8ab4a30b2a6c9cd89d570da
+run_name: thundering-stork-724
+run_uuid: a3b64774f8ab4a30b2a6c9cd89d570da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664806428
+status: 3
+tags: []
+user_id: houston

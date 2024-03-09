@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/80e176aaf1a44cf6813fee9b6a63ddac/artifacts
+deleted_time: 1701665274136
+end_time: 1701664825428
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 80e176aaf1a44cf6813fee9b6a63ddac
+run_name: flawless-chimp-323
+run_uuid: 80e176aaf1a44cf6813fee9b6a63ddac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664825378
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8cb0ea23905b41b19d3a1c3b807c0eec/artifacts
+end_time: 1697193909680
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8cb0ea23905b41b19d3a1c3b807c0eec
+run_name: crawling-snail-906
+run_uuid: 8cb0ea23905b41b19d3a1c3b807c0eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909665
+status: 3
+tags: []
+user_id: houston

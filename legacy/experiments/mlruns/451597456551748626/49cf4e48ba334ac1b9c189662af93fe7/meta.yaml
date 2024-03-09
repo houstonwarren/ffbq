@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/49cf4e48ba334ac1b9c189662af93fe7/artifacts
+end_time: 1701660472992
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 49cf4e48ba334ac1b9c189662af93fe7
+run_name: burly-fox-146
+run_uuid: 49cf4e48ba334ac1b9c189662af93fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660472881
+status: 3
+tags: []
+user_id: houston

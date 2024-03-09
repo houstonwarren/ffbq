@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ca4cc385177a42fa84ee5a735fcfbaaa/artifacts
+end_time: 1701667554019
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ca4cc385177a42fa84ee5a735fcfbaaa
+run_name: bold-elk-573
+run_uuid: ca4cc385177a42fa84ee5a735fcfbaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667553880
+status: 3
+tags: []
+user_id: houston

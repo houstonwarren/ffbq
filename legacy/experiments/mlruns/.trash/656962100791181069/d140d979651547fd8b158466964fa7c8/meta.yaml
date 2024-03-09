@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d140d979651547fd8b158466964fa7c8/artifacts
+deleted_time: 1701665274136
+end_time: 1701664688371
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d140d979651547fd8b158466964fa7c8
+run_name: colorful-steed-969
+run_uuid: d140d979651547fd8b158466964fa7c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664688344
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/df91e95614ba4aa28a282b08dce2916a/artifacts
+end_time: 1697194518907
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: df91e95614ba4aa28a282b08dce2916a
+run_name: intelligent-eel-264
+run_uuid: df91e95614ba4aa28a282b08dce2916a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194518878
+status: 3
+tags: []
+user_id: houston

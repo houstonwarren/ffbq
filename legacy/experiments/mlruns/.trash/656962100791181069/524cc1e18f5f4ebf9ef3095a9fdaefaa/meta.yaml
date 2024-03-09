@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/524cc1e18f5f4ebf9ef3095a9fdaefaa/artifacts
+deleted_time: 1701665274136
+end_time: 1701664918456
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 524cc1e18f5f4ebf9ef3095a9fdaefaa
+run_name: wistful-squid-313
+run_uuid: 524cc1e18f5f4ebf9ef3095a9fdaefaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664918372
+status: 3
+tags: []
+user_id: houston

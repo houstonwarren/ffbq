@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a09e520c256b4b1db21bed84ee1b5a53/artifacts
+end_time: 1697195825502
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a09e520c256b4b1db21bed84ee1b5a53
+run_name: handsome-hare-400
+run_uuid: a09e520c256b4b1db21bed84ee1b5a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825444
+status: 3
+tags: []
+user_id: houston

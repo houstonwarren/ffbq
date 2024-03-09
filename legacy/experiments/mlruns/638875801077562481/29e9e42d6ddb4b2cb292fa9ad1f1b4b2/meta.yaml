@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/29e9e42d6ddb4b2cb292fa9ad1f1b4b2/artifacts
+end_time: 1701667847761
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 29e9e42d6ddb4b2cb292fa9ad1f1b4b2
+run_name: redolent-snipe-870
+run_uuid: 29e9e42d6ddb4b2cb292fa9ad1f1b4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667847618
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/120eacd71d834f2e875f8117732df464/artifacts
+end_time: 1697193995736
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 120eacd71d834f2e875f8117732df464
+run_name: valuable-newt-256
+run_uuid: 120eacd71d834f2e875f8117732df464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995720
+status: 3
+tags: []
+user_id: houston

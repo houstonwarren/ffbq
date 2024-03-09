@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/dc83f828aa5e49198a03c481d4053091/artifacts
+end_time: 1697441534240
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: dc83f828aa5e49198a03c481d4053091
+run_name: orderly-fowl-220
+run_uuid: dc83f828aa5e49198a03c481d4053091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441534184
+status: 3
+tags: []
+user_id: houston

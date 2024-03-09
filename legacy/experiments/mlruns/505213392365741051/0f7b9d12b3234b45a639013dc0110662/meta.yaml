@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/0f7b9d12b3234b45a639013dc0110662/artifacts
+end_time: 1701659595100
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 0f7b9d12b3234b45a639013dc0110662
+run_name: invincible-mare-735
+run_uuid: 0f7b9d12b3234b45a639013dc0110662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659594961
+status: 3
+tags: []
+user_id: houston

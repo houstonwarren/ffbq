@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9daa124fb94e456b860267878c7e255e/artifacts
+end_time: 1698113572227
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9daa124fb94e456b860267878c7e255e
+run_name: handsome-dove-223
+run_uuid: 9daa124fb94e456b860267878c7e255e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113572172
+status: 3
+tags: []
+user_id: houston

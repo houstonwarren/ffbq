@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1c32d912e55a473eb94d9cf2291c7426/artifacts
+end_time: 1697193829212
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1c32d912e55a473eb94d9cf2291c7426
+run_name: enchanting-carp-370
+run_uuid: 1c32d912e55a473eb94d9cf2291c7426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829185
+status: 3
+tags: []
+user_id: houston

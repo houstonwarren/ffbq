@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/928e135466a54b408551bf216311b439/artifacts
+end_time: 1697360370539
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 928e135466a54b408551bf216311b439
+run_name: upset-hen-850
+run_uuid: 928e135466a54b408551bf216311b439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360370484
+status: 3
+tags: []
+user_id: houston

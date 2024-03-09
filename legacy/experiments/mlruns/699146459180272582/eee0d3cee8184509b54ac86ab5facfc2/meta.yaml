@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/eee0d3cee8184509b54ac86ab5facfc2/artifacts
+end_time: 1698114644057
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: eee0d3cee8184509b54ac86ab5facfc2
+run_name: bald-snake-921
+run_uuid: eee0d3cee8184509b54ac86ab5facfc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114643996
+status: 3
+tags: []
+user_id: houston

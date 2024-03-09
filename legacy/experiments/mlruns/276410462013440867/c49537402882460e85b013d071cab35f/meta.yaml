@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c49537402882460e85b013d071cab35f/artifacts
+end_time: 1697195710221
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c49537402882460e85b013d071cab35f
+run_name: masked-midge-558
+run_uuid: c49537402882460e85b013d071cab35f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710208
+status: 3
+tags: []
+user_id: houston

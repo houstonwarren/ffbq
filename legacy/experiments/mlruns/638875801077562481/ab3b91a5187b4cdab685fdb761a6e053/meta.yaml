@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ab3b91a5187b4cdab685fdb761a6e053/artifacts
+end_time: 1701667518393
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ab3b91a5187b4cdab685fdb761a6e053
+run_name: orderly-mole-809
+run_uuid: ab3b91a5187b4cdab685fdb761a6e053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667518296
+status: 3
+tags: []
+user_id: houston

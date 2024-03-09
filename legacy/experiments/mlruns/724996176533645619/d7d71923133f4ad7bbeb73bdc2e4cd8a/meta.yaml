@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d7d71923133f4ad7bbeb73bdc2e4cd8a/artifacts
+end_time: 1697193659769
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d7d71923133f4ad7bbeb73bdc2e4cd8a
+run_name: illustrious-bat-832
+run_uuid: d7d71923133f4ad7bbeb73bdc2e4cd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659756
+status: 3
+tags: []
+user_id: houston

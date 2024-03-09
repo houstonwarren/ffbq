@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/032bd3f074ea407b8fc43067e894accb/artifacts
+deleted_time: 1701665274136
+end_time: 1701664708955
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 032bd3f074ea407b8fc43067e894accb
+run_name: traveling-calf-339
+run_uuid: 032bd3f074ea407b8fc43067e894accb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664708931
+status: 3
+tags: []
+user_id: houston

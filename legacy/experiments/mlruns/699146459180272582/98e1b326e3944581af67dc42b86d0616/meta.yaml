@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/98e1b326e3944581af67dc42b86d0616/artifacts
+end_time: 1698113668031
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 98e1b326e3944581af67dc42b86d0616
+run_name: glamorous-snipe-871
+run_uuid: 98e1b326e3944581af67dc42b86d0616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113667977
+status: 3
+tags: []
+user_id: houston

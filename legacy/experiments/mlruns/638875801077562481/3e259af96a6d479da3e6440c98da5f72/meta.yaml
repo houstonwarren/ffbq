@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3e259af96a6d479da3e6440c98da5f72/artifacts
+end_time: 1701667763994
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3e259af96a6d479da3e6440c98da5f72
+run_name: welcoming-hen-184
+run_uuid: 3e259af96a6d479da3e6440c98da5f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667763872
+status: 3
+tags: []
+user_id: houston

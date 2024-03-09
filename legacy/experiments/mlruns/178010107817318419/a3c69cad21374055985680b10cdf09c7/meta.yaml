@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a3c69cad21374055985680b10cdf09c7/artifacts
+end_time: 1697359047571
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a3c69cad21374055985680b10cdf09c7
+run_name: powerful-lynx-900
+run_uuid: a3c69cad21374055985680b10cdf09c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359047519
+status: 3
+tags: []
+user_id: houston

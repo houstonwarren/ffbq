@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/5c7dfc3c19584fc4b698bf835ae270bd/artifacts
+end_time: 1701659454795
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 5c7dfc3c19584fc4b698bf835ae270bd
+run_name: overjoyed-wasp-791
+run_uuid: 5c7dfc3c19584fc4b698bf835ae270bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659454654
+status: 3
+tags: []
+user_id: houston

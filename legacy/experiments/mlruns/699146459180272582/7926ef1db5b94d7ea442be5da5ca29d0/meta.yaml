@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7926ef1db5b94d7ea442be5da5ca29d0/artifacts
+end_time: 1698113483233
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7926ef1db5b94d7ea442be5da5ca29d0
+run_name: angry-smelt-832
+run_uuid: 7926ef1db5b94d7ea442be5da5ca29d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113483181
+status: 3
+tags: []
+user_id: houston

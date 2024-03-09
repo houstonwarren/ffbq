@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/16571ff81ce54ee39ff6132528ef07ac/artifacts
+end_time: 1701667719156
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 16571ff81ce54ee39ff6132528ef07ac
+run_name: bold-squirrel-752
+run_uuid: 16571ff81ce54ee39ff6132528ef07ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667719009
+status: 3
+tags: []
+user_id: houston

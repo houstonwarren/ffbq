@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6d27a8ef939c400792724a1ac327c749/artifacts
+end_time: 1697194686143
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6d27a8ef939c400792724a1ac327c749
+run_name: victorious-sow-829
+run_uuid: 6d27a8ef939c400792724a1ac327c749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686121
+status: 3
+tags: []
+user_id: houston

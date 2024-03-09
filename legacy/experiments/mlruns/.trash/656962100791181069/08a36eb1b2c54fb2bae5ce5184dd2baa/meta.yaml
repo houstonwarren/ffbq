@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/08a36eb1b2c54fb2bae5ce5184dd2baa/artifacts
+deleted_time: 1701665274136
+end_time: 1701664916930
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 08a36eb1b2c54fb2bae5ce5184dd2baa
+run_name: glamorous-crane-889
+run_uuid: 08a36eb1b2c54fb2bae5ce5184dd2baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664916881
+status: 3
+tags: []
+user_id: houston

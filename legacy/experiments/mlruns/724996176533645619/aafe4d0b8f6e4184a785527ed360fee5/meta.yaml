@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/aafe4d0b8f6e4184a785527ed360fee5/artifacts
+end_time: 1697194574318
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: aafe4d0b8f6e4184a785527ed360fee5
+run_name: abundant-shoat-473
+run_uuid: aafe4d0b8f6e4184a785527ed360fee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194574297
+status: 3
+tags: []
+user_id: houston

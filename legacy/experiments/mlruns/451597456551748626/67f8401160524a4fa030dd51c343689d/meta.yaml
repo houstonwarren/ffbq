@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/67f8401160524a4fa030dd51c343689d/artifacts
+end_time: 1701660371644
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 67f8401160524a4fa030dd51c343689d
+run_name: crawling-turtle-572
+run_uuid: 67f8401160524a4fa030dd51c343689d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660371556
+status: 3
+tags: []
+user_id: houston

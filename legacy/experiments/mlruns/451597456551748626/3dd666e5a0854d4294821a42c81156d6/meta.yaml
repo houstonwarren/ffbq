@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3dd666e5a0854d4294821a42c81156d6/artifacts
+end_time: 1701660476716
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3dd666e5a0854d4294821a42c81156d6
+run_name: capable-gnu-759
+run_uuid: 3dd666e5a0854d4294821a42c81156d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660476614
+status: 3
+tags: []
+user_id: houston

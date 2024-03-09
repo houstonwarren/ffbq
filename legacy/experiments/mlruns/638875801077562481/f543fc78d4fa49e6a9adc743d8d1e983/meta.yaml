@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f543fc78d4fa49e6a9adc743d8d1e983/artifacts
+end_time: 1701667614419
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f543fc78d4fa49e6a9adc743d8d1e983
+run_name: funny-ray-43
+run_uuid: f543fc78d4fa49e6a9adc743d8d1e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667614295
+status: 3
+tags: []
+user_id: houston

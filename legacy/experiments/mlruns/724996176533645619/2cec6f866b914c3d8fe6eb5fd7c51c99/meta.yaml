@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2cec6f866b914c3d8fe6eb5fd7c51c99/artifacts
+end_time: 1697194276700
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2cec6f866b914c3d8fe6eb5fd7c51c99
+run_name: skittish-squid-757
+run_uuid: 2cec6f866b914c3d8fe6eb5fd7c51c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276681
+status: 3
+tags: []
+user_id: houston

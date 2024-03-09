@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1d5ae0415924414ea401ad815248c0df/artifacts
+end_time: 1697197870411
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1d5ae0415924414ea401ad815248c0df
+run_name: orderly-seal-473
+run_uuid: 1d5ae0415924414ea401ad815248c0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870392
+status: 3
+tags: []
+user_id: houston

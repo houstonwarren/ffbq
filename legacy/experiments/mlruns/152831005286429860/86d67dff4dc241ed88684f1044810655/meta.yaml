@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/86d67dff4dc241ed88684f1044810655/artifacts
+end_time: 1697360305017
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 86d67dff4dc241ed88684f1044810655
+run_name: ambitious-horse-964
+run_uuid: 86d67dff4dc241ed88684f1044810655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360304965
+status: 3
+tags: []
+user_id: houston

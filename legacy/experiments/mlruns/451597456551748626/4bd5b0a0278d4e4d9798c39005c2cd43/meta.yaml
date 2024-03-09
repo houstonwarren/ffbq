@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4bd5b0a0278d4e4d9798c39005c2cd43/artifacts
+end_time: 1701660487654
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4bd5b0a0278d4e4d9798c39005c2cd43
+run_name: adaptable-snake-41
+run_uuid: 4bd5b0a0278d4e4d9798c39005c2cd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660487533
+status: 3
+tags: []
+user_id: houston

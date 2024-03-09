@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7494b7ef2c084565896d3930fac4c344/artifacts
+end_time: 1701667928378
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7494b7ef2c084565896d3930fac4c344
+run_name: crawling-crane-927
+run_uuid: 7494b7ef2c084565896d3930fac4c344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667928216
+status: 3
+tags: []
+user_id: houston

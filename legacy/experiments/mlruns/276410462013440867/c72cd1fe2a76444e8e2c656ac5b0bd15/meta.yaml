@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c72cd1fe2a76444e8e2c656ac5b0bd15/artifacts
+end_time: 1697196200312
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c72cd1fe2a76444e8e2c656ac5b0bd15
+run_name: tasteful-sponge-871
+run_uuid: c72cd1fe2a76444e8e2c656ac5b0bd15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200230
+status: 3
+tags: []
+user_id: houston

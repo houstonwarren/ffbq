@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/811f5a02804945cfa93d2f6bfb05c295/artifacts
+end_time: 1697440663563
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 811f5a02804945cfa93d2f6bfb05c295
+run_name: omniscient-croc-448
+run_uuid: 811f5a02804945cfa93d2f6bfb05c295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663512
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5133f2b0e12f4265b2ea36d0a5e9a863/artifacts
+end_time: 1701667390807
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5133f2b0e12f4265b2ea36d0a5e9a863
+run_name: stately-shrimp-14
+run_uuid: 5133f2b0e12f4265b2ea36d0a5e9a863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667390726
+status: 3
+tags: []
+user_id: houston

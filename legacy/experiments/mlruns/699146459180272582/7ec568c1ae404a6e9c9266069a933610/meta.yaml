@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7ec568c1ae404a6e9c9266069a933610/artifacts
+end_time: 1698113667967
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7ec568c1ae404a6e9c9266069a933610
+run_name: blushing-moth-47
+run_uuid: 7ec568c1ae404a6e9c9266069a933610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113667911
+status: 3
+tags: []
+user_id: houston

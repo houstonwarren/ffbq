@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/14d0fdddea94428d89adfff0dadd26f2/artifacts
+deleted_time: 1701660238886
+end_time: 1701660169345
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 14d0fdddea94428d89adfff0dadd26f2
+run_name: peaceful-cod-648
+run_uuid: 14d0fdddea94428d89adfff0dadd26f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660169204
+status: 3
+tags: []
+user_id: houston

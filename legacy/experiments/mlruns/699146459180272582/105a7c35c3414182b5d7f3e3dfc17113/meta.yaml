@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/105a7c35c3414182b5d7f3e3dfc17113/artifacts
+end_time: 1698113532096
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 105a7c35c3414182b5d7f3e3dfc17113
+run_name: youthful-jay-973
+run_uuid: 105a7c35c3414182b5d7f3e3dfc17113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113532041
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0c8bdf66d47d4325b5811f2e8da7948f/artifacts
+end_time: 1697193709782
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0c8bdf66d47d4325b5811f2e8da7948f
+run_name: redolent-steed-128
+run_uuid: 0c8bdf66d47d4325b5811f2e8da7948f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709770
+status: 3
+tags: []
+user_id: houston

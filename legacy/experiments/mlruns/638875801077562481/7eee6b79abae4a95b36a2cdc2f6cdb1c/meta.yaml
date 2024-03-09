@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7eee6b79abae4a95b36a2cdc2f6cdb1c/artifacts
+end_time: 1701667459645
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7eee6b79abae4a95b36a2cdc2f6cdb1c
+run_name: honorable-fawn-612
+run_uuid: 7eee6b79abae4a95b36a2cdc2f6cdb1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667459559
+status: 3
+tags: []
+user_id: houston

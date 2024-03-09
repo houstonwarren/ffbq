@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3e2d3c3f066447c1af19d5398686982c/artifacts
+end_time: 1697198569681
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3e2d3c3f066447c1af19d5398686982c
+run_name: traveling-squid-146
+run_uuid: 3e2d3c3f066447c1af19d5398686982c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569660
+status: 3
+tags: []
+user_id: houston

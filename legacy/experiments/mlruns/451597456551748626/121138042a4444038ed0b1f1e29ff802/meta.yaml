@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/121138042a4444038ed0b1f1e29ff802/artifacts
+end_time: 1701660479238
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 121138042a4444038ed0b1f1e29ff802
+run_name: unleashed-grouse-180
+run_uuid: 121138042a4444038ed0b1f1e29ff802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660479127
+status: 3
+tags: []
+user_id: houston

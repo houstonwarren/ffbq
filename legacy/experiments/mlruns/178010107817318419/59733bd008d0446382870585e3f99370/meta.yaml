@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/59733bd008d0446382870585e3f99370/artifacts
+end_time: 1697359157307
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 59733bd008d0446382870585e3f99370
+run_name: intrigued-donkey-458
+run_uuid: 59733bd008d0446382870585e3f99370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359157252
+status: 3
+tags: []
+user_id: houston

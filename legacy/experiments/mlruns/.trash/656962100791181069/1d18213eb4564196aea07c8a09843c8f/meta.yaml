@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1d18213eb4564196aea07c8a09843c8f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664676327
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1d18213eb4564196aea07c8a09843c8f
+run_name: selective-shrimp-731
+run_uuid: 1d18213eb4564196aea07c8a09843c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664676295
+status: 3
+tags: []
+user_id: houston

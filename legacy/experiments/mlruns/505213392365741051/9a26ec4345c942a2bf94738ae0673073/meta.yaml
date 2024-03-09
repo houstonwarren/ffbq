@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/9a26ec4345c942a2bf94738ae0673073/artifacts
+end_time: 1701659456491
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 9a26ec4345c942a2bf94738ae0673073
+run_name: wistful-grouse-175
+run_uuid: 9a26ec4345c942a2bf94738ae0673073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659456356
+status: 3
+tags: []
+user_id: houston

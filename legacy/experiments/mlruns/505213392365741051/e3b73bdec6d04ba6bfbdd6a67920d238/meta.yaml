@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e3b73bdec6d04ba6bfbdd6a67920d238/artifacts
+end_time: 1701659547663
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e3b73bdec6d04ba6bfbdd6a67920d238
+run_name: whimsical-trout-726
+run_uuid: e3b73bdec6d04ba6bfbdd6a67920d238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659547518
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/78e5828daf2a43d1946b3636a1ff020e/artifacts
+end_time: 1697197800323
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 78e5828daf2a43d1946b3636a1ff020e
+run_name: brawny-rat-674
+run_uuid: 78e5828daf2a43d1946b3636a1ff020e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197800289
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/cb39bdea2ad84a6d9d51b6c00b298af0/artifacts
+end_time: 1701660382281
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: cb39bdea2ad84a6d9d51b6c00b298af0
+run_name: adventurous-stork-18
+run_uuid: cb39bdea2ad84a6d9d51b6c00b298af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660382195
+status: 3
+tags: []
+user_id: houston

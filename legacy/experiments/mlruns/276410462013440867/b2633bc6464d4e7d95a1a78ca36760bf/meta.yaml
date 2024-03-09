@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b2633bc6464d4e7d95a1a78ca36760bf/artifacts
+end_time: 1697196200048
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b2633bc6464d4e7d95a1a78ca36760bf
+run_name: able-ox-479
+run_uuid: b2633bc6464d4e7d95a1a78ca36760bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200024
+status: 3
+tags: []
+user_id: houston

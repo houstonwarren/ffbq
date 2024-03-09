@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/5f07f710c40c4279ac8053d97afdcd4c/artifacts
+end_time: 1697359086801
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 5f07f710c40c4279ac8053d97afdcd4c
+run_name: loud-bee-717
+run_uuid: 5f07f710c40c4279ac8053d97afdcd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359086752
+status: 3
+tags: []
+user_id: houston

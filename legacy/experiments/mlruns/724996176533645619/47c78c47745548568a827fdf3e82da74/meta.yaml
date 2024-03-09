@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/47c78c47745548568a827fdf3e82da74/artifacts
+end_time: 1697193909620
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 47c78c47745548568a827fdf3e82da74
+run_name: wise-panda-26
+run_uuid: 47c78c47745548568a827fdf3e82da74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909597
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3cc357c41afd47119c69cbaea91f3047/artifacts
+end_time: 1697194311528
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3cc357c41afd47119c69cbaea91f3047
+run_name: burly-kit-879
+run_uuid: 3cc357c41afd47119c69cbaea91f3047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311509
+status: 3
+tags: []
+user_id: houston

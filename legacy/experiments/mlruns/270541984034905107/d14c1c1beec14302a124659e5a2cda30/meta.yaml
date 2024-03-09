@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d14c1c1beec14302a124659e5a2cda30/artifacts
+end_time: 1697440813733
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d14c1c1beec14302a124659e5a2cda30
+run_name: whimsical-pig-494
+run_uuid: d14c1c1beec14302a124659e5a2cda30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440813681
+status: 3
+tags: []
+user_id: houston

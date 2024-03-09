@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f95593f867274e57b2c8bc87e45a8fd9/artifacts
+end_time: 1697193829346
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f95593f867274e57b2c8bc87e45a8fd9
+run_name: angry-whale-203
+run_uuid: f95593f867274e57b2c8bc87e45a8fd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829328
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8513ecfe69d1430f80a7ddbfb2b83ad5/artifacts
+end_time: 1698113482802
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8513ecfe69d1430f80a7ddbfb2b83ad5
+run_name: skittish-panda-562
+run_uuid: 8513ecfe69d1430f80a7ddbfb2b83ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113482750
+status: 3
+tags: []
+user_id: houston

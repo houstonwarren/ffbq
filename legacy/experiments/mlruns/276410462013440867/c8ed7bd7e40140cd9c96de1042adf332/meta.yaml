@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c8ed7bd7e40140cd9c96de1042adf332/artifacts
+end_time: 1697198287158
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c8ed7bd7e40140cd9c96de1042adf332
+run_name: exultant-worm-596
+run_uuid: c8ed7bd7e40140cd9c96de1042adf332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198287136
+status: 3
+tags: []
+user_id: houston

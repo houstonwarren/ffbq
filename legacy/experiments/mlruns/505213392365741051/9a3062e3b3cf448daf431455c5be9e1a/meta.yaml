@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/9a3062e3b3cf448daf431455c5be9e1a/artifacts
+end_time: 1701659568315
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 9a3062e3b3cf448daf431455c5be9e1a
+run_name: efficient-cod-714
+run_uuid: 9a3062e3b3cf448daf431455c5be9e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659568197
+status: 3
+tags: []
+user_id: houston

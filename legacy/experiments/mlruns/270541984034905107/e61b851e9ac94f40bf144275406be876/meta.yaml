@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e61b851e9ac94f40bf144275406be876/artifacts
+end_time: 1697442564448
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e61b851e9ac94f40bf144275406be876
+run_name: secretive-shad-909
+run_uuid: e61b851e9ac94f40bf144275406be876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442564390
+status: 3
+tags: []
+user_id: houston

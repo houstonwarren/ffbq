@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5bcd1d5ca8cb4de2b794608d4ed8767f/artifacts
+end_time: 1697194346149
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5bcd1d5ca8cb4de2b794608d4ed8767f
+run_name: likeable-tern-413
+run_uuid: 5bcd1d5ca8cb4de2b794608d4ed8767f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194346130
+status: 3
+tags: []
+user_id: houston

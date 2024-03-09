@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/211b200a4da04569aec2e35e71344e80/artifacts
+end_time: 1701660032268
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 211b200a4da04569aec2e35e71344e80
+run_name: useful-turtle-221
+run_uuid: 211b200a4da04569aec2e35e71344e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660032125
+status: 3
+tags: []
+user_id: houston

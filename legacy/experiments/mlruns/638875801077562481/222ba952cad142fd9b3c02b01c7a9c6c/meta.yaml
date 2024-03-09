@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/222ba952cad142fd9b3c02b01c7a9c6c/artifacts
+end_time: 1701667908742
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 222ba952cad142fd9b3c02b01c7a9c6c
+run_name: skillful-mouse-867
+run_uuid: 222ba952cad142fd9b3c02b01c7a9c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667908594
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/45739b090fc449ce89212ba135da0ebd/artifacts
+end_time: 1701660427679
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 45739b090fc449ce89212ba135da0ebd
+run_name: selective-crab-591
+run_uuid: 45739b090fc449ce89212ba135da0ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660427570
+status: 3
+tags: []
+user_id: houston

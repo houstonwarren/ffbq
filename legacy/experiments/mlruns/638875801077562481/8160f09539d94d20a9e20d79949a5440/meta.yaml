@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8160f09539d94d20a9e20d79949a5440/artifacts
+end_time: 1701667869958
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8160f09539d94d20a9e20d79949a5440
+run_name: adaptable-tern-27
+run_uuid: 8160f09539d94d20a9e20d79949a5440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667869820
+status: 3
+tags: []
+user_id: houston

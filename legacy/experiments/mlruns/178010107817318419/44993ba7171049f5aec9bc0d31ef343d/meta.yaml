@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/44993ba7171049f5aec9bc0d31ef343d/artifacts
+end_time: 1697359185047
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 44993ba7171049f5aec9bc0d31ef343d
+run_name: hilarious-eel-239
+run_uuid: 44993ba7171049f5aec9bc0d31ef343d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359184994
+status: 3
+tags: []
+user_id: houston

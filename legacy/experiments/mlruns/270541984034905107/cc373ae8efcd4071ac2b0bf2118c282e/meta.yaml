@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/cc373ae8efcd4071ac2b0bf2118c282e/artifacts
+end_time: 1697440854711
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: cc373ae8efcd4071ac2b0bf2118c282e
+run_name: loud-doe-173
+run_uuid: cc373ae8efcd4071ac2b0bf2118c282e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440854658
+status: 3
+tags: []
+user_id: houston

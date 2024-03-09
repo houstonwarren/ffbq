@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/21e2a9d4626645b3898f7ec599e52500/artifacts
+end_time: 1697440651241
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 21e2a9d4626645b3898f7ec599e52500
+run_name: sedate-ox-799
+run_uuid: 21e2a9d4626645b3898f7ec599e52500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651191
+status: 3
+tags: []
+user_id: houston

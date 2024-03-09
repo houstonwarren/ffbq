@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6588286d5c97442a932dd78a37b70191/artifacts
+end_time: 1697193726437
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6588286d5c97442a932dd78a37b70191
+run_name: trusting-quail-38
+run_uuid: 6588286d5c97442a932dd78a37b70191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726425
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/53bee1af4e5a43b392d956d26e146948/artifacts
+end_time: 1701659494264
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 53bee1af4e5a43b392d956d26e146948
+run_name: caring-gnu-799
+run_uuid: 53bee1af4e5a43b392d956d26e146948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659494125
+status: 3
+tags: []
+user_id: houston

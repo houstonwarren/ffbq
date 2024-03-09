@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/72a9347c4ce448169036ef00373e43cc/artifacts
+deleted_time: 1701665274136
+end_time: 1701664797210
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 72a9347c4ce448169036ef00373e43cc
+run_name: amazing-snail-519
+run_uuid: 72a9347c4ce448169036ef00373e43cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664797174
+status: 3
+tags: []
+user_id: houston

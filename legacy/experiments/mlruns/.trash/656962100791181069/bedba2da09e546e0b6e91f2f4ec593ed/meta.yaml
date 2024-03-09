@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bedba2da09e546e0b6e91f2f4ec593ed/artifacts
+deleted_time: 1701665274136
+end_time: 1701664853328
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bedba2da09e546e0b6e91f2f4ec593ed
+run_name: rambunctious-rat-342
+run_uuid: bedba2da09e546e0b6e91f2f4ec593ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664853281
+status: 3
+tags: []
+user_id: houston

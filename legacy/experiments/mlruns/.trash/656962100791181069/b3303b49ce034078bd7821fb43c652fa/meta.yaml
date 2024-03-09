@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/b3303b49ce034078bd7821fb43c652fa/artifacts
+deleted_time: 1701665274136
+end_time: 1701664872754
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: b3303b49ce034078bd7821fb43c652fa
+run_name: upset-hare-194
+run_uuid: b3303b49ce034078bd7821fb43c652fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664872715
+status: 3
+tags: []
+user_id: houston

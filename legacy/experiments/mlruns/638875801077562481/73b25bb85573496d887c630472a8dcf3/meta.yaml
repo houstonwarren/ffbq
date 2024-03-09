@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/73b25bb85573496d887c630472a8dcf3/artifacts
+end_time: 1701667772884
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 73b25bb85573496d887c630472a8dcf3
+run_name: merciful-shad-89
+run_uuid: 73b25bb85573496d887c630472a8dcf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667772751
+status: 3
+tags: []
+user_id: houston

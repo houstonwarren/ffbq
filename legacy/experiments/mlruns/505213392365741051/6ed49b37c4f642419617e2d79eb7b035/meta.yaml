@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6ed49b37c4f642419617e2d79eb7b035/artifacts
+end_time: 1701659532170
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6ed49b37c4f642419617e2d79eb7b035
+run_name: sincere-ray-314
+run_uuid: 6ed49b37c4f642419617e2d79eb7b035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659532042
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cd7d7885ecda4f85a62a5f4d42af553c/artifacts
+end_time: 1697197408279
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cd7d7885ecda4f85a62a5f4d42af553c
+run_name: capricious-fowl-474
+run_uuid: cd7d7885ecda4f85a62a5f4d42af553c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408213
+status: 3
+tags: []
+user_id: houston

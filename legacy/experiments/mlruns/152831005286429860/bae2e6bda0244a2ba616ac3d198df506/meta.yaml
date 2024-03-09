@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/bae2e6bda0244a2ba616ac3d198df506/artifacts
+end_time: 1697360339374
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: bae2e6bda0244a2ba616ac3d198df506
+run_name: intelligent-stag-864
+run_uuid: bae2e6bda0244a2ba616ac3d198df506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360339322
+status: 3
+tags: []
+user_id: houston

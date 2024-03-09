@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/22f142d6ed0d4ca9814249b2c5a91e53/artifacts
+end_time: 1697193676654
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 22f142d6ed0d4ca9814249b2c5a91e53
+run_name: dazzling-doe-437
+run_uuid: 22f142d6ed0d4ca9814249b2c5a91e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193676644
+status: 3
+tags: []
+user_id: houston

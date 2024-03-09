@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/715b7c007eb34785908406765c703d0a/artifacts
+end_time: 1701659605340
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 715b7c007eb34785908406765c703d0a
+run_name: suave-cow-373
+run_uuid: 715b7c007eb34785908406765c703d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659605183
+status: 3
+tags: []
+user_id: houston

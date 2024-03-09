@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ea46cf0420684903a0f606b1316d46ab/artifacts
+end_time: 1701660331975
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ea46cf0420684903a0f606b1316d46ab
+run_name: classy-trout-921
+run_uuid: ea46cf0420684903a0f606b1316d46ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660331900
+status: 3
+tags: []
+user_id: houston

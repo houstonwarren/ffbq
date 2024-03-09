@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a4b6a1889ce94ae295bb3938f66f4198/artifacts
+end_time: 1697440541001
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a4b6a1889ce94ae295bb3938f66f4198
+run_name: abundant-horse-446
+run_uuid: a4b6a1889ce94ae295bb3938f66f4198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440540940
+status: 3
+tags: []
+user_id: houston

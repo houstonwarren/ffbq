@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fe03f4f9b7a746e3b52b1ba7815afecd/artifacts
+end_time: 1697198230956
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fe03f4f9b7a746e3b52b1ba7815afecd
+run_name: enthused-zebra-294
+run_uuid: fe03f4f9b7a746e3b52b1ba7815afecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198230935
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cf92f6e4b4aa4995ab7d76c19f078a2b/artifacts
+end_time: 1701667497838
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cf92f6e4b4aa4995ab7d76c19f078a2b
+run_name: suave-duck-781
+run_uuid: cf92f6e4b4aa4995ab7d76c19f078a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667497732
+status: 3
+tags: []
+user_id: houston

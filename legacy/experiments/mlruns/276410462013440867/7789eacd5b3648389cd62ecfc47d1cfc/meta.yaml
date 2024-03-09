@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7789eacd5b3648389cd62ecfc47d1cfc/artifacts
+end_time: 1697197581603
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7789eacd5b3648389cd62ecfc47d1cfc
+run_name: wistful-mink-592
+run_uuid: 7789eacd5b3648389cd62ecfc47d1cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197581585
+status: 3
+tags: []
+user_id: houston

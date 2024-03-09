@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d8e3dd9ea73c49358ddf7e7225b1d1d6/artifacts
+end_time: 1701660309551
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d8e3dd9ea73c49358ddf7e7225b1d1d6
+run_name: handsome-hound-76
+run_uuid: d8e3dd9ea73c49358ddf7e7225b1d1d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660309485
+status: 3
+tags: []
+user_id: houston

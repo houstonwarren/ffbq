@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/970fca8ee51c43e7b64999c11a612343/artifacts
+end_time: 1701667528367
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 970fca8ee51c43e7b64999c11a612343
+run_name: capricious-perch-531
+run_uuid: 970fca8ee51c43e7b64999c11a612343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667528280
+status: 3
+tags: []
+user_id: houston

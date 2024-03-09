@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/dbb53f46187b4badb263c2fd8bba8281/artifacts
+end_time: 1697440979549
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: dbb53f46187b4badb263c2fd8bba8281
+run_name: marvelous-donkey-414
+run_uuid: dbb53f46187b4badb263c2fd8bba8281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440979494
+status: 3
+tags: []
+user_id: houston

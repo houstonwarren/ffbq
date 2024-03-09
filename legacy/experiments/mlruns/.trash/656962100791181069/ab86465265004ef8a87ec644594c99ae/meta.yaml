@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ab86465265004ef8a87ec644594c99ae/artifacts
+deleted_time: 1701665274136
+end_time: 1701664741296
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ab86465265004ef8a87ec644594c99ae
+run_name: legendary-frog-478
+run_uuid: ab86465265004ef8a87ec644594c99ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664741273
+status: 3
+tags: []
+user_id: houston

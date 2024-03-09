@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/c911624eda2e475e97405d9317d7aeb6/artifacts
+end_time: 1697360307101
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: c911624eda2e475e97405d9317d7aeb6
+run_name: charming-croc-679
+run_uuid: c911624eda2e475e97405d9317d7aeb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360307046
+status: 3
+tags: []
+user_id: houston

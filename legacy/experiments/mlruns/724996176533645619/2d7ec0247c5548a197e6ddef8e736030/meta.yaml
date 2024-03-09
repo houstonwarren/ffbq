@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2d7ec0247c5548a197e6ddef8e736030/artifacts
+end_time: 1697194088957
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2d7ec0247c5548a197e6ddef8e736030
+run_name: youthful-swan-678
+run_uuid: 2d7ec0247c5548a197e6ddef8e736030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194088941
+status: 3
+tags: []
+user_id: houston

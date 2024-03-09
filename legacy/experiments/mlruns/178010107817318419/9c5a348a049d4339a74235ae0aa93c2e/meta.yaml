@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/9c5a348a049d4339a74235ae0aa93c2e/artifacts
+end_time: 1697359091282
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 9c5a348a049d4339a74235ae0aa93c2e
+run_name: brawny-cat-124
+run_uuid: 9c5a348a049d4339a74235ae0aa93c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359091192
+status: 3
+tags: []
+user_id: houston

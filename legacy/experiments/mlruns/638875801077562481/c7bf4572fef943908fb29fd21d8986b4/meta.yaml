@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c7bf4572fef943908fb29fd21d8986b4/artifacts
+end_time: 1701667793912
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c7bf4572fef943908fb29fd21d8986b4
+run_name: abrasive-moth-377
+run_uuid: c7bf4572fef943908fb29fd21d8986b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667793767
+status: 3
+tags: []
+user_id: houston

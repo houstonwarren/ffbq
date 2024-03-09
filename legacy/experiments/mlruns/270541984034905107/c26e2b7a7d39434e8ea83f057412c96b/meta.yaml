@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c26e2b7a7d39434e8ea83f057412c96b/artifacts
+end_time: 1697441903094
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c26e2b7a7d39434e8ea83f057412c96b
+run_name: rambunctious-cow-822
+run_uuid: c26e2b7a7d39434e8ea83f057412c96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441903039
+status: 3
+tags: []
+user_id: houston

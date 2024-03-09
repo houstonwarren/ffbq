@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ec0b79f8261943cfaf18f632fe96eb42/artifacts
+end_time: 1701667875276
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ec0b79f8261943cfaf18f632fe96eb42
+run_name: charming-shark-483
+run_uuid: ec0b79f8261943cfaf18f632fe96eb42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667875125
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/9b44dadae55441c6b3c1416787736f5c/artifacts
+end_time: 1697359194488
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 9b44dadae55441c6b3c1416787736f5c
+run_name: bouncy-moth-714
+run_uuid: 9b44dadae55441c6b3c1416787736f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359194433
+status: 3
+tags: []
+user_id: houston

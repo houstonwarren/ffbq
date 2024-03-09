@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d73a2bd6fb564f7786aef4cb4ddc529c/artifacts
+end_time: 1698113531840
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d73a2bd6fb564f7786aef4cb4ddc529c
+run_name: sassy-tern-782
+run_uuid: d73a2bd6fb564f7786aef4cb4ddc529c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113531787
+status: 3
+tags: []
+user_id: houston

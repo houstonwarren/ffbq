@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/41cf5cef26c64cf78f49a62ff4d47587/artifacts
+end_time: 1697359156276
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 41cf5cef26c64cf78f49a62ff4d47587
+run_name: tasteful-sheep-200
+run_uuid: 41cf5cef26c64cf78f49a62ff4d47587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359156220
+status: 3
+tags: []
+user_id: houston

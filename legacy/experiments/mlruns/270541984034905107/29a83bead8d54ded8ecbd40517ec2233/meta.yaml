@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/29a83bead8d54ded8ecbd40517ec2233/artifacts
+end_time: 1697440915270
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 29a83bead8d54ded8ecbd40517ec2233
+run_name: thundering-goose-725
+run_uuid: 29a83bead8d54ded8ecbd40517ec2233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440915192
+status: 3
+tags: []
+user_id: houston

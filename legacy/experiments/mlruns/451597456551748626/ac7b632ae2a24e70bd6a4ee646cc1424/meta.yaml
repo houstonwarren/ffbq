@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ac7b632ae2a24e70bd6a4ee646cc1424/artifacts
+end_time: 1701660512041
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ac7b632ae2a24e70bd6a4ee646cc1424
+run_name: sneaky-smelt-109
+run_uuid: ac7b632ae2a24e70bd6a4ee646cc1424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660511928
+status: 3
+tags: []
+user_id: houston

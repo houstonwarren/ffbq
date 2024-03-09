@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/c867210c2f1b4ef191f00a4e42cb261d/artifacts
+end_time: 1697360375904
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: c867210c2f1b4ef191f00a4e42cb261d
+run_name: amusing-sponge-267
+run_uuid: c867210c2f1b4ef191f00a4e42cb261d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360375852
+status: 3
+tags: []
+user_id: houston

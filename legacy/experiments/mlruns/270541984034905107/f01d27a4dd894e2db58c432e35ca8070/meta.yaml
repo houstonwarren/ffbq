@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f01d27a4dd894e2db58c432e35ca8070/artifacts
+end_time: 1697440979736
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f01d27a4dd894e2db58c432e35ca8070
+run_name: magnificent-boar-429
+run_uuid: f01d27a4dd894e2db58c432e35ca8070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440979682
+status: 3
+tags: []
+user_id: houston

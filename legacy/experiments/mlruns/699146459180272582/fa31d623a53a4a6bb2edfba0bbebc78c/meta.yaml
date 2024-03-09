@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/fa31d623a53a4a6bb2edfba0bbebc78c/artifacts
+end_time: 1698113782408
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: fa31d623a53a4a6bb2edfba0bbebc78c
+run_name: enthused-croc-416
+run_uuid: fa31d623a53a4a6bb2edfba0bbebc78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782346
+status: 3
+tags: []
+user_id: houston

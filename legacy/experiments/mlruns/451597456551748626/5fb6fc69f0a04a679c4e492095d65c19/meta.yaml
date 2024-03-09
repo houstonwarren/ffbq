@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5fb6fc69f0a04a679c4e492095d65c19/artifacts
+end_time: 1701660313596
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5fb6fc69f0a04a679c4e492095d65c19
+run_name: zealous-pug-11
+run_uuid: 5fb6fc69f0a04a679c4e492095d65c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660313509
+status: 3
+tags: []
+user_id: houston

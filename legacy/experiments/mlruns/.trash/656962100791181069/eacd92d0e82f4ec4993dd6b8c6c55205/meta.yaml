@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/eacd92d0e82f4ec4993dd6b8c6c55205/artifacts
+deleted_time: 1701665274136
+end_time: 1701664719539
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: eacd92d0e82f4ec4993dd6b8c6c55205
+run_name: chill-elk-819
+run_uuid: eacd92d0e82f4ec4993dd6b8c6c55205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664719513
+status: 3
+tags: []
+user_id: houston

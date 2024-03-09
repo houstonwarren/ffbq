@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/51ca6b6637c64a66a80c3be62762e356/artifacts
+deleted_time: 1701665274136
+end_time: 1701664699723
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 51ca6b6637c64a66a80c3be62762e356
+run_name: mysterious-duck-117
+run_uuid: 51ca6b6637c64a66a80c3be62762e356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664699699
+status: 3
+tags: []
+user_id: houston

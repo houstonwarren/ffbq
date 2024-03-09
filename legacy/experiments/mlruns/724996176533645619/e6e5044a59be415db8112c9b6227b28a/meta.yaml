@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e6e5044a59be415db8112c9b6227b28a/artifacts
+end_time: 1697194686031
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e6e5044a59be415db8112c9b6227b28a
+run_name: valuable-eel-417
+run_uuid: e6e5044a59be415db8112c9b6227b28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686010
+status: 3
+tags: []
+user_id: houston

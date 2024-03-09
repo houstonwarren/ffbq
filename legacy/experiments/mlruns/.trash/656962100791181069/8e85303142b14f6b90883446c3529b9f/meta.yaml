@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/8e85303142b14f6b90883446c3529b9f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664878959
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 8e85303142b14f6b90883446c3529b9f
+run_name: likeable-dog-715
+run_uuid: 8e85303142b14f6b90883446c3529b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664878915
+status: 3
+tags: []
+user_id: houston

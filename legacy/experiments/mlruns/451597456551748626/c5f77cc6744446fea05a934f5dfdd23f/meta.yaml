@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c5f77cc6744446fea05a934f5dfdd23f/artifacts
+end_time: 1701660253219
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c5f77cc6744446fea05a934f5dfdd23f
+run_name: dapper-doe-528
+run_uuid: c5f77cc6744446fea05a934f5dfdd23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660253151
+status: 3
+tags: []
+user_id: houston

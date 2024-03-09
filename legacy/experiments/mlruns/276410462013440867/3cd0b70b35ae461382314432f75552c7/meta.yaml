@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3cd0b70b35ae461382314432f75552c7/artifacts
+end_time: 1697195710110
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3cd0b70b35ae461382314432f75552c7
+run_name: entertaining-ox-428
+run_uuid: 3cd0b70b35ae461382314432f75552c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710096
+status: 3
+tags: []
+user_id: houston

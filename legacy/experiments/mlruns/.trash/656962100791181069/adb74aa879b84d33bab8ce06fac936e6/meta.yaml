@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/adb74aa879b84d33bab8ce06fac936e6/artifacts
+deleted_time: 1701665274136
+end_time: 1701664759873
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: adb74aa879b84d33bab8ce06fac936e6
+run_name: welcoming-wolf-618
+run_uuid: adb74aa879b84d33bab8ce06fac936e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664759836
+status: 3
+tags: []
+user_id: houston

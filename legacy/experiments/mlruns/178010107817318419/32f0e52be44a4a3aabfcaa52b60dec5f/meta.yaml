@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/32f0e52be44a4a3aabfcaa52b60dec5f/artifacts
+end_time: 1697359101586
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 32f0e52be44a4a3aabfcaa52b60dec5f
+run_name: mercurial-foal-485
+run_uuid: 32f0e52be44a4a3aabfcaa52b60dec5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359101504
+status: 3
+tags: []
+user_id: houston

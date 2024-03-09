@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7a790ee81f52473581f2bc172a9148cf/artifacts
+end_time: 1701659483199
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7a790ee81f52473581f2bc172a9148cf
+run_name: tasteful-crane-701
+run_uuid: 7a790ee81f52473581f2bc172a9148cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659483048
+status: 3
+tags: []
+user_id: houston

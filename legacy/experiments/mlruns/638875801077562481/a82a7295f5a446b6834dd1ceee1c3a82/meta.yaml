@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a82a7295f5a446b6834dd1ceee1c3a82/artifacts
+end_time: 1701667815272
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a82a7295f5a446b6834dd1ceee1c3a82
+run_name: rumbling-dolphin-637
+run_uuid: a82a7295f5a446b6834dd1ceee1c3a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667815122
+status: 3
+tags: []
+user_id: houston

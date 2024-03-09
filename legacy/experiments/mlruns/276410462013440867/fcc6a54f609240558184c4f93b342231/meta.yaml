@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fcc6a54f609240558184c4f93b342231/artifacts
+end_time: 1697195571846
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fcc6a54f609240558184c4f93b342231
+run_name: brawny-gnat-112
+run_uuid: fcc6a54f609240558184c4f93b342231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195571780
+status: 3
+tags: []
+user_id: houston

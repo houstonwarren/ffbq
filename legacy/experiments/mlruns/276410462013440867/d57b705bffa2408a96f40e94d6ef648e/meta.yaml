@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d57b705bffa2408a96f40e94d6ef648e/artifacts
+end_time: 1697195748370
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d57b705bffa2408a96f40e94d6ef648e
+run_name: incongruous-foal-468
+run_uuid: d57b705bffa2408a96f40e94d6ef648e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748356
+status: 3
+tags: []
+user_id: houston

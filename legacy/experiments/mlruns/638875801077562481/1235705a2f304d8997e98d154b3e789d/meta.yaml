@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1235705a2f304d8997e98d154b3e789d/artifacts
+end_time: 1701667682719
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1235705a2f304d8997e98d154b3e789d
+run_name: bedecked-hound-265
+run_uuid: 1235705a2f304d8997e98d154b3e789d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667682585
+status: 3
+tags: []
+user_id: houston

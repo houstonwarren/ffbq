@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e5b0209f7c664b01ba316fa31e8e99f3/artifacts
+end_time: 1697441177765
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e5b0209f7c664b01ba316fa31e8e99f3
+run_name: nebulous-boar-869
+run_uuid: e5b0209f7c664b01ba316fa31e8e99f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441177645
+status: 3
+tags: []
+user_id: houston

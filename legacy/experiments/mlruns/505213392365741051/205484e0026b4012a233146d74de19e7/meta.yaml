@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/205484e0026b4012a233146d74de19e7/artifacts
+end_time: 1701659560592
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 205484e0026b4012a233146d74de19e7
+run_name: masked-cow-597
+run_uuid: 205484e0026b4012a233146d74de19e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659560464
+status: 3
+tags: []
+user_id: houston

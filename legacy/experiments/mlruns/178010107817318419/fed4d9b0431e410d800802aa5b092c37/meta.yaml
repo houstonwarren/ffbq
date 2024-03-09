@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fed4d9b0431e410d800802aa5b092c37/artifacts
+end_time: 1697359105785
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fed4d9b0431e410d800802aa5b092c37
+run_name: funny-wren-688
+run_uuid: fed4d9b0431e410d800802aa5b092c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359105734
+status: 3
+tags: []
+user_id: houston

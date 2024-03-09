@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/15384afbf3464d3293682ba12fcae706/artifacts
+end_time: 1701667455968
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 15384afbf3464d3293682ba12fcae706
+run_name: bouncy-wren-370
+run_uuid: 15384afbf3464d3293682ba12fcae706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667455883
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/9a99c92432d54c3c9a65ef5f8db0326c/artifacts
+end_time: 1697359085940
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 9a99c92432d54c3c9a65ef5f8db0326c
+run_name: rare-fowl-244
+run_uuid: 9a99c92432d54c3c9a65ef5f8db0326c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359085890
+status: 3
+tags: []
+user_id: houston

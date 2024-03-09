@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7b574b552c7f4a1cb23f35d8c2ef3592/artifacts
+end_time: 1697359104929
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7b574b552c7f4a1cb23f35d8c2ef3592
+run_name: big-deer-628
+run_uuid: 7b574b552c7f4a1cb23f35d8c2ef3592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359104879
+status: 3
+tags: []
+user_id: houston

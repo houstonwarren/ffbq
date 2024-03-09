@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/f80a78afbd284f58bc9be9e417416c37/artifacts
+end_time: 1701660255801
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: f80a78afbd284f58bc9be9e417416c37
+run_name: gifted-elk-927
+run_uuid: f80a78afbd284f58bc9be9e417416c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660255728
+status: 3
+tags: []
+user_id: houston

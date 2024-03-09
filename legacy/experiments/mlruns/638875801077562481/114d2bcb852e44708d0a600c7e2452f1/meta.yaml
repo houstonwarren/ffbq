@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/114d2bcb852e44708d0a600c7e2452f1/artifacts
+end_time: 1701667759843
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 114d2bcb852e44708d0a600c7e2452f1
+run_name: luxuriant-whale-868
+run_uuid: 114d2bcb852e44708d0a600c7e2452f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667759715
+status: 3
+tags: []
+user_id: houston

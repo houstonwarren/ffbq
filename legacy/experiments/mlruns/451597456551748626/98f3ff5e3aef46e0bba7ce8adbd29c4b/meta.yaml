@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/98f3ff5e3aef46e0bba7ce8adbd29c4b/artifacts
+end_time: 1701660524685
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 98f3ff5e3aef46e0bba7ce8adbd29c4b
+run_name: debonair-bird-295
+run_uuid: 98f3ff5e3aef46e0bba7ce8adbd29c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660524555
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/e9f6f7e8f5b34dbea638dfcc1f1bd6b2/artifacts
+deleted_time: 1701665274136
+end_time: 1701664765207
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: e9f6f7e8f5b34dbea638dfcc1f1bd6b2
+run_name: kindly-doe-713
+run_uuid: e9f6f7e8f5b34dbea638dfcc1f1bd6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664765183
+status: 3
+tags: []
+user_id: houston

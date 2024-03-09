@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a44eeea35b55444d92f37520438c2c2d/artifacts
+end_time: 1697359074950
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a44eeea35b55444d92f37520438c2c2d
+run_name: capricious-bear-867
+run_uuid: a44eeea35b55444d92f37520438c2c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359074902
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/86ae148043254a9a800762ca5590a135/artifacts
+end_time: 1701667462443
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 86ae148043254a9a800762ca5590a135
+run_name: rare-steed-989
+run_uuid: 86ae148043254a9a800762ca5590a135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667462366
+status: 3
+tags: []
+user_id: houston

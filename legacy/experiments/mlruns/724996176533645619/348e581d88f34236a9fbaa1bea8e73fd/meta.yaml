@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/348e581d88f34236a9fbaa1bea8e73fd/artifacts
+end_time: 1697193726280
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 348e581d88f34236a9fbaa1bea8e73fd
+run_name: gifted-asp-463
+run_uuid: 348e581d88f34236a9fbaa1bea8e73fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726204
+status: 3
+tags: []
+user_id: houston

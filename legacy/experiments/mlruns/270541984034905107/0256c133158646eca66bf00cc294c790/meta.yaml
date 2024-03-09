@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/0256c133158646eca66bf00cc294c790/artifacts
+end_time: 1697440573395
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 0256c133158646eca66bf00cc294c790
+run_name: blushing-whale-324
+run_uuid: 0256c133158646eca66bf00cc294c790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440573339
+status: 3
+tags: []
+user_id: houston

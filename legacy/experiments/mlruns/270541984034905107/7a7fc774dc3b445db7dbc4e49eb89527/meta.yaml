@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7a7fc774dc3b445db7dbc4e49eb89527/artifacts
+end_time: 1697440525306
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7a7fc774dc3b445db7dbc4e49eb89527
+run_name: upset-shark-94
+run_uuid: 7a7fc774dc3b445db7dbc4e49eb89527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440525257
+status: 3
+tags: []
+user_id: houston

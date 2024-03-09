@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f862770d0008465e80b8a272151b1d00/artifacts
+end_time: 1701659462697
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f862770d0008465e80b8a272151b1d00
+run_name: righteous-bat-823
+run_uuid: f862770d0008465e80b8a272151b1d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659462571
+status: 3
+tags: []
+user_id: houston

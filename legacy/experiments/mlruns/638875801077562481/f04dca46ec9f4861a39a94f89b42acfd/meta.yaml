@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f04dca46ec9f4861a39a94f89b42acfd/artifacts
+end_time: 1701667978141
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f04dca46ec9f4861a39a94f89b42acfd
+run_name: carefree-midge-911
+run_uuid: f04dca46ec9f4861a39a94f89b42acfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667977992
+status: 3
+tags: []
+user_id: houston

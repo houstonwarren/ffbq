@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d01365cc262749d1b7675c2b07dc5ff3/artifacts
+end_time: 1697194630187
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d01365cc262749d1b7675c2b07dc5ff3
+run_name: victorious-perch-766
+run_uuid: d01365cc262749d1b7675c2b07dc5ff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194630167
+status: 3
+tags: []
+user_id: houston

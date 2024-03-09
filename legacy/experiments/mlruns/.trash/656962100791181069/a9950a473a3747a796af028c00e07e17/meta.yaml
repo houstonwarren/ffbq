@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a9950a473a3747a796af028c00e07e17/artifacts
+deleted_time: 1701665274136
+end_time: 1701664772510
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a9950a473a3747a796af028c00e07e17
+run_name: bustling-worm-271
+run_uuid: a9950a473a3747a796af028c00e07e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664772485
+status: 3
+tags: []
+user_id: houston

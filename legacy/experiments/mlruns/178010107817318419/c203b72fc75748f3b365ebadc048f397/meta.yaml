@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/c203b72fc75748f3b365ebadc048f397/artifacts
+end_time: 1697359107451
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: c203b72fc75748f3b365ebadc048f397
+run_name: marvelous-ant-703
+run_uuid: c203b72fc75748f3b365ebadc048f397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359107401
+status: 3
+tags: []
+user_id: houston

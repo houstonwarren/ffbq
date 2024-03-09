@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/badd38c007874eb9a3da75542587daa9/artifacts
+end_time: 1697359109048
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: badd38c007874eb9a3da75542587daa9
+run_name: unique-steed-619
+run_uuid: badd38c007874eb9a3da75542587daa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359108999
+status: 3
+tags: []
+user_id: houston

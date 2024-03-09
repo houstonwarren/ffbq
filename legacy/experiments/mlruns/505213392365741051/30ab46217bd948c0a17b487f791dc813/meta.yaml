@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/30ab46217bd948c0a17b487f791dc813/artifacts
+end_time: 1701659477053
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 30ab46217bd948c0a17b487f791dc813
+run_name: fearless-shrike-987
+run_uuid: 30ab46217bd948c0a17b487f791dc813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659476904
+status: 3
+tags: []
+user_id: houston

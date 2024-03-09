@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/65eeb1ba9d6947d982df74c6f79919e4/artifacts
+end_time: 1697360306367
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 65eeb1ba9d6947d982df74c6f79919e4
+run_name: caring-sow-87
+run_uuid: 65eeb1ba9d6947d982df74c6f79919e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360306316
+status: 3
+tags: []
+user_id: houston

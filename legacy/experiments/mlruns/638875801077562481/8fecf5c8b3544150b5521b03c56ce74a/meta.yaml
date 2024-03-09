@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8fecf5c8b3544150b5521b03c56ce74a/artifacts
+end_time: 1701667901566
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8fecf5c8b3544150b5521b03c56ce74a
+run_name: able-stag-475
+run_uuid: 8fecf5c8b3544150b5521b03c56ce74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667901365
+status: 3
+tags: []
+user_id: houston

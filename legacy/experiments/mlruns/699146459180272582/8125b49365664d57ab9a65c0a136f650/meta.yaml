@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8125b49365664d57ab9a65c0a136f650/artifacts
+end_time: 1698113712906
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8125b49365664d57ab9a65c0a136f650
+run_name: debonair-flea-357
+run_uuid: 8125b49365664d57ab9a65c0a136f650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113712849
+status: 3
+tags: []
+user_id: houston

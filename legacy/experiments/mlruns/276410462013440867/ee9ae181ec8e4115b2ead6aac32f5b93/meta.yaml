@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ee9ae181ec8e4115b2ead6aac32f5b93/artifacts
+end_time: 1697195605415
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ee9ae181ec8e4115b2ead6aac32f5b93
+run_name: zealous-wolf-786
+run_uuid: ee9ae181ec8e4115b2ead6aac32f5b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605348
+status: 3
+tags: []
+user_id: houston

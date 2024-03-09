@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f0aab43c2d274967b401ce49591b211e/artifacts
+end_time: 1697193964503
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f0aab43c2d274967b401ce49591b211e
+run_name: brawny-shad-606
+run_uuid: f0aab43c2d274967b401ce49591b211e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193964434
+status: 3
+tags: []
+user_id: houston

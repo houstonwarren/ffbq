@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/99e04ae7c5684e7690bfe06a6937687d/artifacts
+end_time: 1697440698856
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 99e04ae7c5684e7690bfe06a6937687d
+run_name: beautiful-koi-91
+run_uuid: 99e04ae7c5684e7690bfe06a6937687d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440698803
+status: 3
+tags: []
+user_id: houston

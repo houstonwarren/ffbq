@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b2eb9ffc608b4ea9a64c7b0b15f9dc42/artifacts
+end_time: 1701667658105
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b2eb9ffc608b4ea9a64c7b0b15f9dc42
+run_name: industrious-gnat-884
+run_uuid: b2eb9ffc608b4ea9a64c7b0b15f9dc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667657983
+status: 3
+tags: []
+user_id: houston

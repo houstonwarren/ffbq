@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fd01efeb1cf541d6a1cdf31dc32957a8/artifacts
+end_time: 1697198681010
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fd01efeb1cf541d6a1cdf31dc32957a8
+run_name: polite-bat-194
+run_uuid: fd01efeb1cf541d6a1cdf31dc32957a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198680987
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b34a91d767474a07acb624c117b13d4c/artifacts
+end_time: 1701667916660
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b34a91d767474a07acb624c117b13d4c
+run_name: carefree-mole-178
+run_uuid: b34a91d767474a07acb624c117b13d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667916512
+status: 3
+tags: []
+user_id: houston

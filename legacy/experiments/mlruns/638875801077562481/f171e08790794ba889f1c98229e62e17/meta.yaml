@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f171e08790794ba889f1c98229e62e17/artifacts
+end_time: 1701667724853
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f171e08790794ba889f1c98229e62e17
+run_name: carefree-worm-692
+run_uuid: f171e08790794ba889f1c98229e62e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667724688
+status: 3
+tags: []
+user_id: houston

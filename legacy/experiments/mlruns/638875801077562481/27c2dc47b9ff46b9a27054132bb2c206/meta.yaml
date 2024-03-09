@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/27c2dc47b9ff46b9a27054132bb2c206/artifacts
+end_time: 1701667806473
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 27c2dc47b9ff46b9a27054132bb2c206
+run_name: suave-wren-253
+run_uuid: 27c2dc47b9ff46b9a27054132bb2c206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667806342
+status: 3
+tags: []
+user_id: houston

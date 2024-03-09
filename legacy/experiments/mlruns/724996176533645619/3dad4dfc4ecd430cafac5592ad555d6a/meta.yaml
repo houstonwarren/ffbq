@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3dad4dfc4ecd430cafac5592ad555d6a/artifacts
+end_time: 1697194073574
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3dad4dfc4ecd430cafac5592ad555d6a
+run_name: big-sheep-221
+run_uuid: 3dad4dfc4ecd430cafac5592ad555d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194073556
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9ea0dbd772a84a51845b3cfad53fec49/artifacts
+end_time: 1697193964721
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9ea0dbd772a84a51845b3cfad53fec49
+run_name: legendary-loon-584
+run_uuid: 9ea0dbd772a84a51845b3cfad53fec49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193964707
+status: 3
+tags: []
+user_id: houston

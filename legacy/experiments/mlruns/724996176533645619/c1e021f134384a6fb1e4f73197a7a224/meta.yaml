@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/c1e021f134384a6fb1e4f73197a7a224/artifacts
+end_time: 1697193852091
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: c1e021f134384a6fb1e4f73197a7a224
+run_name: blushing-eel-325
+run_uuid: c1e021f134384a6fb1e4f73197a7a224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193852065
+status: 3
+tags: []
+user_id: houston

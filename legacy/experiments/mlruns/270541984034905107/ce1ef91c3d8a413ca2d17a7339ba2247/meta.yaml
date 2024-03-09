@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ce1ef91c3d8a413ca2d17a7339ba2247/artifacts
+end_time: 1697440557871
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ce1ef91c3d8a413ca2d17a7339ba2247
+run_name: stately-newt-6
+run_uuid: ce1ef91c3d8a413ca2d17a7339ba2247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440557822
+status: 3
+tags: []
+user_id: houston

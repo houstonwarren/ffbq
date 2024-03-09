@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/34c1219f6423419c971f174c7e5ac17c/artifacts
+end_time: 1697441322629
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 34c1219f6423419c971f174c7e5ac17c
+run_name: industrious-hawk-257
+run_uuid: 34c1219f6423419c971f174c7e5ac17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441322574
+status: 3
+tags: []
+user_id: houston

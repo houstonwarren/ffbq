@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bbcdb52abc2d41cead05b286cd93612e/artifacts
+end_time: 1701667700165
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bbcdb52abc2d41cead05b286cd93612e
+run_name: likeable-kite-42
+run_uuid: bbcdb52abc2d41cead05b286cd93612e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667700035
+status: 3
+tags: []
+user_id: houston

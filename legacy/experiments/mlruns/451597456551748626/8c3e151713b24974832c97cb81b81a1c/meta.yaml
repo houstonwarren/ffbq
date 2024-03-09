@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8c3e151713b24974832c97cb81b81a1c/artifacts
+end_time: 1701660298910
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8c3e151713b24974832c97cb81b81a1c
+run_name: sincere-shrike-37
+run_uuid: 8c3e151713b24974832c97cb81b81a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660298838
+status: 3
+tags: []
+user_id: houston

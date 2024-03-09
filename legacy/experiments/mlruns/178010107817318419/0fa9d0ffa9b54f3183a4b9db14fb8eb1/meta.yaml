@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/0fa9d0ffa9b54f3183a4b9db14fb8eb1/artifacts
+end_time: 1697359191803
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 0fa9d0ffa9b54f3183a4b9db14fb8eb1
+run_name: magnificent-fish-773
+run_uuid: 0fa9d0ffa9b54f3183a4b9db14fb8eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359191749
+status: 3
+tags: []
+user_id: houston

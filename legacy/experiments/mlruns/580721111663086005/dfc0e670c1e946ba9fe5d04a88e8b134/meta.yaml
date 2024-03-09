@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/dfc0e670c1e946ba9fe5d04a88e8b134/artifacts
+end_time: 1701660056090
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: dfc0e670c1e946ba9fe5d04a88e8b134
+run_name: unleashed-shad-980
+run_uuid: dfc0e670c1e946ba9fe5d04a88e8b134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660055923
+status: 3
+tags: []
+user_id: houston

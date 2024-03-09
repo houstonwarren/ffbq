@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d0281e69a83e42439c7b463c25a9df7a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664713644
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d0281e69a83e42439c7b463c25a9df7a
+run_name: calm-penguin-416
+run_uuid: d0281e69a83e42439c7b463c25a9df7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664713611
+status: 3
+tags: []
+user_id: houston

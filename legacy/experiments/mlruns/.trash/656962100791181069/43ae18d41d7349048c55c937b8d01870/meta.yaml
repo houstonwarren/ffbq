@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/43ae18d41d7349048c55c937b8d01870/artifacts
+deleted_time: 1701665274136
+end_time: 1701664717739
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 43ae18d41d7349048c55c937b8d01870
+run_name: marvelous-smelt-38
+run_uuid: 43ae18d41d7349048c55c937b8d01870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664717719
+status: 3
+tags: []
+user_id: houston

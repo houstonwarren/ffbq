@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/42b87d229e754bf1b677be499ca82094/artifacts
+end_time: 1701667979833
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 42b87d229e754bf1b677be499ca82094
+run_name: vaunted-quail-94
+run_uuid: 42b87d229e754bf1b677be499ca82094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667979671
+status: 3
+tags: []
+user_id: houston

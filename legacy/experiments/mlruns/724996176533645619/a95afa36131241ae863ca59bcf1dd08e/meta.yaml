@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a95afa36131241ae863ca59bcf1dd08e/artifacts
+end_time: 1697194042210
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a95afa36131241ae863ca59bcf1dd08e
+run_name: learned-rook-469
+run_uuid: a95afa36131241ae863ca59bcf1dd08e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042194
+status: 3
+tags: []
+user_id: houston

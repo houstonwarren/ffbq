@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f02d8c59a18b42b29f265cd6a7530896/artifacts
+end_time: 1701667906128
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f02d8c59a18b42b29f265cd6a7530896
+run_name: peaceful-bee-994
+run_uuid: f02d8c59a18b42b29f265cd6a7530896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667905951
+status: 3
+tags: []
+user_id: houston

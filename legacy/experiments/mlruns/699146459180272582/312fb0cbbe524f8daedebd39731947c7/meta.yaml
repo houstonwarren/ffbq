@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/312fb0cbbe524f8daedebd39731947c7/artifacts
+end_time: 1698113869659
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 312fb0cbbe524f8daedebd39731947c7
+run_name: gentle-donkey-797
+run_uuid: 312fb0cbbe524f8daedebd39731947c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113869592
+status: 3
+tags: []
+user_id: houston

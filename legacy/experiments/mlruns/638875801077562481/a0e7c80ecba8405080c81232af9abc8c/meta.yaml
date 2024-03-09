@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a0e7c80ecba8405080c81232af9abc8c/artifacts
+end_time: 1701667975680
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a0e7c80ecba8405080c81232af9abc8c
+run_name: marvelous-stork-640
+run_uuid: a0e7c80ecba8405080c81232af9abc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667975509
+status: 3
+tags: []
+user_id: houston

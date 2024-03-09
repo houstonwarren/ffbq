@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/cf360a528f1d487d88a17d82c3b2151d/artifacts
+end_time: 1697359156339
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: cf360a528f1d487d88a17d82c3b2151d
+run_name: grandiose-flea-14
+run_uuid: cf360a528f1d487d88a17d82c3b2151d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359156283
+status: 3
+tags: []
+user_id: houston

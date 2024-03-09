@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f259f914052b4fdd8875070f4b211ebf/artifacts
+end_time: 1697359189979
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f259f914052b4fdd8875070f4b211ebf
+run_name: marvelous-swan-855
+run_uuid: f259f914052b4fdd8875070f4b211ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359189924
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/dba116c038b54ef28c8099748160ce9a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664706966
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: dba116c038b54ef28c8099748160ce9a
+run_name: tasteful-goose-912
+run_uuid: dba116c038b54ef28c8099748160ce9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664706927
+status: 3
+tags: []
+user_id: houston

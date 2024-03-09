@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/1144ae4e98ac424290be9150cedb5518/artifacts
+end_time: 1701659482713
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 1144ae4e98ac424290be9150cedb5518
+run_name: judicious-donkey-639
+run_uuid: 1144ae4e98ac424290be9150cedb5518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659482586
+status: 3
+tags: []
+user_id: houston

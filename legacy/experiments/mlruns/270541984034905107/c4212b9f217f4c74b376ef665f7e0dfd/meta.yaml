@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c4212b9f217f4c74b376ef665f7e0dfd/artifacts
+end_time: 1697440508494
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c4212b9f217f4c74b376ef665f7e0dfd
+run_name: gregarious-ape-778
+run_uuid: c4212b9f217f4c74b376ef665f7e0dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440508415
+status: 3
+tags: []
+user_id: houston

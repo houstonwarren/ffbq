@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/c57d3aee4c3445288b79b1689e568802/artifacts
+deleted_time: 1701659398061
+end_time: 1701658642199
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: c57d3aee4c3445288b79b1689e568802
+run_name: clumsy-ray-11
+run_uuid: c57d3aee4c3445288b79b1689e568802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658642038
+status: 3
+tags: []
+user_id: houston

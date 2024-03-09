@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/086e8cfb57f54fd188ec7b2806d903a1/artifacts
+end_time: 1697193863682
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 086e8cfb57f54fd188ec7b2806d903a1
+run_name: bedecked-sponge-261
+run_uuid: 086e8cfb57f54fd188ec7b2806d903a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193863665
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/de9909ce0ed842a3b9cc9de7dee526f8/artifacts
+end_time: 1701667823880
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: de9909ce0ed842a3b9cc9de7dee526f8
+run_name: entertaining-stag-65
+run_uuid: de9909ce0ed842a3b9cc9de7dee526f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667823732
+status: 3
+tags: []
+user_id: houston

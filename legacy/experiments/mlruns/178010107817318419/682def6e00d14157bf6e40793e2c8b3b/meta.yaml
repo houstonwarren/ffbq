@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/682def6e00d14157bf6e40793e2c8b3b/artifacts
+end_time: 1697359179585
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 682def6e00d14157bf6e40793e2c8b3b
+run_name: grandiose-lamb-986
+run_uuid: 682def6e00d14157bf6e40793e2c8b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359179531
+status: 3
+tags: []
+user_id: houston

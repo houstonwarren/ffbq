@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8e9a0375582e444990ccb20e8e187baf/artifacts
+end_time: 1697194797592
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8e9a0375582e444990ccb20e8e187baf
+run_name: sincere-steed-184
+run_uuid: 8e9a0375582e444990ccb20e8e187baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797571
+status: 3
+tags: []
+user_id: houston

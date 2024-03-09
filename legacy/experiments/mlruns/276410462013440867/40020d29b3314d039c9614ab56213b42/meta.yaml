@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/40020d29b3314d039c9614ab56213b42/artifacts
+end_time: 1697195748407
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 40020d29b3314d039c9614ab56213b42
+run_name: skittish-hare-506
+run_uuid: 40020d29b3314d039c9614ab56213b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748393
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6a5d0a820b844cd0ac2edd48c31b8cee/artifacts
+end_time: 1698115115914
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6a5d0a820b844cd0ac2edd48c31b8cee
+run_name: dazzling-zebra-113
+run_uuid: 6a5d0a820b844cd0ac2edd48c31b8cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115115850
+status: 3
+tags: []
+user_id: houston

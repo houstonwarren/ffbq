@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e6477f32ffb14bc6a0491049a4eaffbd/artifacts
+end_time: 1701659428660
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e6477f32ffb14bc6a0491049a4eaffbd
+run_name: bittersweet-lynx-72
+run_uuid: e6477f32ffb14bc6a0491049a4eaffbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659428503
+status: 3
+tags: []
+user_id: houston

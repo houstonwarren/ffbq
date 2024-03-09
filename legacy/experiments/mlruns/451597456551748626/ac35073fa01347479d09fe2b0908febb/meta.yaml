@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ac35073fa01347479d09fe2b0908febb/artifacts
+end_time: 1701660379508
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ac35073fa01347479d09fe2b0908febb
+run_name: glamorous-snipe-429
+run_uuid: ac35073fa01347479d09fe2b0908febb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660379424
+status: 3
+tags: []
+user_id: houston

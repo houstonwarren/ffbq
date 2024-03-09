@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6f5aad1d17ba4ac0a8b13d31594c75fa/artifacts
+end_time: 1698113586033
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6f5aad1d17ba4ac0a8b13d31594c75fa
+run_name: nosy-pig-842
+run_uuid: 6f5aad1d17ba4ac0a8b13d31594c75fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113585980
+status: 3
+tags: []
+user_id: houston

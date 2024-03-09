@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5f983a7eb8954658bc13283e80640c0f/artifacts
+end_time: 1701667431137
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5f983a7eb8954658bc13283e80640c0f
+run_name: traveling-mink-170
+run_uuid: 5f983a7eb8954658bc13283e80640c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667431027
+status: 3
+tags: []
+user_id: houston

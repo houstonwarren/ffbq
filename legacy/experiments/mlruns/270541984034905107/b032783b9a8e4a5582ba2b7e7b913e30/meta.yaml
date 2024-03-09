@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b032783b9a8e4a5582ba2b7e7b913e30/artifacts
+end_time: 1697440589737
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b032783b9a8e4a5582ba2b7e7b913e30
+run_name: indecisive-stoat-229
+run_uuid: b032783b9a8e4a5582ba2b7e7b913e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440589657
+status: 3
+tags: []
+user_id: houston

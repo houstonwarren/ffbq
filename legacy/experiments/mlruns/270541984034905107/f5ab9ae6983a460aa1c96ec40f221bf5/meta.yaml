@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f5ab9ae6983a460aa1c96ec40f221bf5/artifacts
+end_time: 1697441903675
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f5ab9ae6983a460aa1c96ec40f221bf5
+run_name: fortunate-cat-595
+run_uuid: f5ab9ae6983a460aa1c96ec40f221bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441903619
+status: 3
+tags: []
+user_id: houston

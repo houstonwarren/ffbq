@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/f29f82bc46114165aadb534c6a915767/artifacts
+end_time: 1697360365894
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: f29f82bc46114165aadb534c6a915767
+run_name: fortunate-ox-603
+run_uuid: f29f82bc46114165aadb534c6a915767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360365841
+status: 3
+tags: []
+user_id: houston

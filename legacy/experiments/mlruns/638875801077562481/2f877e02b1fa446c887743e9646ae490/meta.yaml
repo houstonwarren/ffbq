@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2f877e02b1fa446c887743e9646ae490/artifacts
+end_time: 1701667801360
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2f877e02b1fa446c887743e9646ae490
+run_name: bedecked-donkey-661
+run_uuid: 2f877e02b1fa446c887743e9646ae490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667801224
+status: 3
+tags: []
+user_id: houston

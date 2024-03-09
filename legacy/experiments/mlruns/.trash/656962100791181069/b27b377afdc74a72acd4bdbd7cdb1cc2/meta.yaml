@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/b27b377afdc74a72acd4bdbd7cdb1cc2/artifacts
+deleted_time: 1701665274136
+end_time: 1701664882682
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: b27b377afdc74a72acd4bdbd7cdb1cc2
+run_name: shivering-moth-16
+run_uuid: b27b377afdc74a72acd4bdbd7cdb1cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664882633
+status: 3
+tags: []
+user_id: houston

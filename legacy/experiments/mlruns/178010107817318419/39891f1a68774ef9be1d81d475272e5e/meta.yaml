@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/39891f1a68774ef9be1d81d475272e5e/artifacts
+end_time: 1697359044432
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 39891f1a68774ef9be1d81d475272e5e
+run_name: bouncy-stag-149
+run_uuid: 39891f1a68774ef9be1d81d475272e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359044387
+status: 3
+tags: []
+user_id: houston

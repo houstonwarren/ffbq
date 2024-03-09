@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4812fdfc6e02424381c3fb70d236af72/artifacts
+end_time: 1697194686226
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4812fdfc6e02424381c3fb70d236af72
+run_name: gregarious-croc-439
+run_uuid: 4812fdfc6e02424381c3fb70d236af72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686205
+status: 3
+tags: []
+user_id: houston

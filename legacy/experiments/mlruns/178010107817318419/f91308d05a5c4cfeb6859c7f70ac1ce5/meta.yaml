@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f91308d05a5c4cfeb6859c7f70ac1ce5/artifacts
+end_time: 1697359062276
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f91308d05a5c4cfeb6859c7f70ac1ce5
+run_name: aged-zebra-467
+run_uuid: f91308d05a5c4cfeb6859c7f70ac1ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359062221
+status: 3
+tags: []
+user_id: houston

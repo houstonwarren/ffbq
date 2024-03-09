@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/6bd994bd63cc4bde8149954ed4f090d4/artifacts
+end_time: 1697197408551
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 6bd994bd63cc4bde8149954ed4f090d4
+run_name: chill-hare-768
+run_uuid: 6bd994bd63cc4bde8149954ed4f090d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408523
+status: 3
+tags: []
+user_id: houston

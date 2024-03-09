@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7a50318a7c014c9a926f988aa89c5dc8/artifacts
+end_time: 1698113627370
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7a50318a7c014c9a926f988aa89c5dc8
+run_name: abundant-bat-672
+run_uuid: 7a50318a7c014c9a926f988aa89c5dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113627313
+status: 3
+tags: []
+user_id: houston

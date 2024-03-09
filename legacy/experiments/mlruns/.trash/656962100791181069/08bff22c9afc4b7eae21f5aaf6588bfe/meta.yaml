@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/08bff22c9afc4b7eae21f5aaf6588bfe/artifacts
+deleted_time: 1701665274136
+end_time: 1701664926021
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 08bff22c9afc4b7eae21f5aaf6588bfe
+run_name: receptive-crane-589
+run_uuid: 08bff22c9afc4b7eae21f5aaf6588bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664925974
+status: 3
+tags: []
+user_id: houston

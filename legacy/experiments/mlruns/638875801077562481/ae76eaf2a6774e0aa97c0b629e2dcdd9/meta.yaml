@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ae76eaf2a6774e0aa97c0b629e2dcdd9/artifacts
+end_time: 1701667539766
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ae76eaf2a6774e0aa97c0b629e2dcdd9
+run_name: carefree-stag-570
+run_uuid: ae76eaf2a6774e0aa97c0b629e2dcdd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667539664
+status: 3
+tags: []
+user_id: houston

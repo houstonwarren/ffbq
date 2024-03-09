@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/1b286d33312240ec97761a323f981abb/artifacts
+end_time: 1701659484625
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 1b286d33312240ec97761a323f981abb
+run_name: salty-sow-873
+run_uuid: 1b286d33312240ec97761a323f981abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659484477
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/323627ac309741d08f4b9ce07d6c12a5/artifacts
+deleted_time: 1701665274136
+end_time: 1701664924172
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 323627ac309741d08f4b9ce07d6c12a5
+run_name: adaptable-kite-670
+run_uuid: 323627ac309741d08f4b9ce07d6c12a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664924135
+status: 3
+tags: []
+user_id: houston

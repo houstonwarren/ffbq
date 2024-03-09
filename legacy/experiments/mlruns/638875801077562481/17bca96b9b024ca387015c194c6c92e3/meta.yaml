@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/17bca96b9b024ca387015c194c6c92e3/artifacts
+end_time: 1701667702889
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 17bca96b9b024ca387015c194c6c92e3
+run_name: legendary-tern-640
+run_uuid: 17bca96b9b024ca387015c194c6c92e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667702766
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e849328f8dcc4cbc9f187cb50b319518/artifacts
+end_time: 1701659521754
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e849328f8dcc4cbc9f187cb50b319518
+run_name: rare-boar-250
+run_uuid: e849328f8dcc4cbc9f187cb50b319518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659521581
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/3f3d6d7223b5494ea8a340dba428e65c/artifacts
+end_time: 1698113817544
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 3f3d6d7223b5494ea8a340dba428e65c
+run_name: powerful-wasp-813
+run_uuid: 3f3d6d7223b5494ea8a340dba428e65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113817486
+status: 3
+tags: []
+user_id: houston

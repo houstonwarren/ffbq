@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/f68613439d2e4169a53b61e32babbaea/artifacts
+end_time: 1701660304987
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: f68613439d2e4169a53b61e32babbaea
+run_name: bouncy-rat-251
+run_uuid: f68613439d2e4169a53b61e32babbaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660304887
+status: 3
+tags: []
+user_id: houston

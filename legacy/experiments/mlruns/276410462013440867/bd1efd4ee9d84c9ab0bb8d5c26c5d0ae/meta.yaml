@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bd1efd4ee9d84c9ab0bb8d5c26c5d0ae/artifacts
+end_time: 1697195825837
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bd1efd4ee9d84c9ab0bb8d5c26c5d0ae
+run_name: monumental-perch-129
+run_uuid: bd1efd4ee9d84c9ab0bb8d5c26c5d0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825823
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fc68091bb09344ddafd597f3517c942c/artifacts
+end_time: 1697197060690
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fc68091bb09344ddafd597f3517c942c
+run_name: enthused-mare-8
+run_uuid: fc68091bb09344ddafd597f3517c942c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197060622
+status: 3
+tags: []
+user_id: houston

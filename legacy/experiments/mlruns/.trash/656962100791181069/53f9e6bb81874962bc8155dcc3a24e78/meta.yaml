@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/53f9e6bb81874962bc8155dcc3a24e78/artifacts
+deleted_time: 1701665274136
+end_time: 1701664808468
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 53f9e6bb81874962bc8155dcc3a24e78
+run_name: carefree-conch-145
+run_uuid: 53f9e6bb81874962bc8155dcc3a24e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664808433
+status: 3
+tags: []
+user_id: houston

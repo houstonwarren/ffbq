@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/bf08a1ea290b45c4a9ef81bebede18af/artifacts
+end_time: 1697440651602
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: bf08a1ea290b45c4a9ef81bebede18af
+run_name: industrious-colt-810
+run_uuid: bf08a1ea290b45c4a9ef81bebede18af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440651551
+status: 3
+tags: []
+user_id: houston

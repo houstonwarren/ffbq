@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f8ee387d85d141bf8c402d0f20c0384c/artifacts
+end_time: 1697195555679
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f8ee387d85d141bf8c402d0f20c0384c
+run_name: unleashed-shrike-799
+run_uuid: f8ee387d85d141bf8c402d0f20c0384c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555667
+status: 3
+tags: []
+user_id: houston

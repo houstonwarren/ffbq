@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/04f4d95e01794ad8a0c70cf40cdecd8e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664879167
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 04f4d95e01794ad8a0c70cf40cdecd8e
+run_name: masked-kite-296
+run_uuid: 04f4d95e01794ad8a0c70cf40cdecd8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664879113
+status: 3
+tags: []
+user_id: houston

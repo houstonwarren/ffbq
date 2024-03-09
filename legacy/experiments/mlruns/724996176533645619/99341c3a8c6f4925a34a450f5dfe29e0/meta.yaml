@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/99341c3a8c6f4925a34a450f5dfe29e0/artifacts
+end_time: 1697193693089
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 99341c3a8c6f4925a34a450f5dfe29e0
+run_name: masked-fish-916
+run_uuid: 99341c3a8c6f4925a34a450f5dfe29e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193693078
+status: 3
+tags: []
+user_id: houston

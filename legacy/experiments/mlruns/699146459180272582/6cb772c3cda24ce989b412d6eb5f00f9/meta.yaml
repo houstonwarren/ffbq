@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6cb772c3cda24ce989b412d6eb5f00f9/artifacts
+end_time: 1698114643766
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6cb772c3cda24ce989b412d6eb5f00f9
+run_name: rebellious-fly-390
+run_uuid: 6cb772c3cda24ce989b412d6eb5f00f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114643704
+status: 3
+tags: []
+user_id: houston

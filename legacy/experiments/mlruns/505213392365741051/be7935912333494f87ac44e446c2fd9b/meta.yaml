@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/be7935912333494f87ac44e446c2fd9b/artifacts
+end_time: 1701659566681
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: be7935912333494f87ac44e446c2fd9b
+run_name: treasured-crow-691
+run_uuid: be7935912333494f87ac44e446c2fd9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659566517
+status: 3
+tags: []
+user_id: houston

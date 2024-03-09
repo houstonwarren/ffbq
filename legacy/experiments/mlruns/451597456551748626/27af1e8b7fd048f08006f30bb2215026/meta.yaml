@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/27af1e8b7fd048f08006f30bb2215026/artifacts
+end_time: 1701660393685
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 27af1e8b7fd048f08006f30bb2215026
+run_name: sedate-lynx-568
+run_uuid: 27af1e8b7fd048f08006f30bb2215026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660393606
+status: 3
+tags: []
+user_id: houston

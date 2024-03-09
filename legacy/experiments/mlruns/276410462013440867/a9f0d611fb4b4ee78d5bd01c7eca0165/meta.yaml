@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a9f0d611fb4b4ee78d5bd01c7eca0165/artifacts
+end_time: 1697196017515
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a9f0d611fb4b4ee78d5bd01c7eca0165
+run_name: nosy-swan-212
+run_uuid: a9f0d611fb4b4ee78d5bd01c7eca0165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017437
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9af6ded1933640f6a290ec8e7eb3170c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664651763
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9af6ded1933640f6a290ec8e7eb3170c
+run_name: placid-frog-510
+run_uuid: 9af6ded1933640f6a290ec8e7eb3170c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664651735
+status: 3
+tags: []
+user_id: houston

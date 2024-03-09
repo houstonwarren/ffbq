@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ec0427ec9434437db62f026c1bf8eee8/artifacts
+end_time: 1701660313050
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ec0427ec9434437db62f026c1bf8eee8
+run_name: redolent-shrike-946
+run_uuid: ec0427ec9434437db62f026c1bf8eee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660312978
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/29637902934c4ee792a693d053f5877c/artifacts
+end_time: 1698113470533
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 29637902934c4ee792a693d053f5877c
+run_name: adorable-crow-827
+run_uuid: 29637902934c4ee792a693d053f5877c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113470481
+status: 3
+tags: []
+user_id: houston

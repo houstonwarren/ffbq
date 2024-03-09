@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/11f08ef8a34440f7945678117ebd2479/artifacts
+end_time: 1697193776808
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 11f08ef8a34440f7945678117ebd2479
+run_name: placid-perch-418
+run_uuid: 11f08ef8a34440f7945678117ebd2479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193776732
+status: 3
+tags: []
+user_id: houston

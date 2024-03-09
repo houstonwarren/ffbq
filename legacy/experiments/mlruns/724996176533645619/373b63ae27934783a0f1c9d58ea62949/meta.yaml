@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/373b63ae27934783a0f1c9d58ea62949/artifacts
+end_time: 1697193995797
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 373b63ae27934783a0f1c9d58ea62949
+run_name: resilient-fowl-584
+run_uuid: 373b63ae27934783a0f1c9d58ea62949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995781
+status: 3
+tags: []
+user_id: houston

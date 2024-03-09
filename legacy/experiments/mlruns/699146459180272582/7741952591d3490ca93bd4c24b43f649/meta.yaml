@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7741952591d3490ca93bd4c24b43f649/artifacts
+end_time: 1698113585908
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7741952591d3490ca93bd4c24b43f649
+run_name: upset-tern-626
+run_uuid: 7741952591d3490ca93bd4c24b43f649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113585854
+status: 3
+tags: []
+user_id: houston

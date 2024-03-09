@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1f8349dfcac74c1fa0a58249a1159d08/artifacts
+end_time: 1701667663217
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1f8349dfcac74c1fa0a58249a1159d08
+run_name: hilarious-stork-603
+run_uuid: 1f8349dfcac74c1fa0a58249a1159d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667663101
+status: 3
+tags: []
+user_id: houston

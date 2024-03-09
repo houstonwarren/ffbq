@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7ffd1b9ec96c4d6b9a9bc1180d60d6b7/artifacts
+end_time: 1697197581625
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7ffd1b9ec96c4d6b9a9bc1180d60d6b7
+run_name: intrigued-frog-989
+run_uuid: 7ffd1b9ec96c4d6b9a9bc1180d60d6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197581607
+status: 3
+tags: []
+user_id: houston

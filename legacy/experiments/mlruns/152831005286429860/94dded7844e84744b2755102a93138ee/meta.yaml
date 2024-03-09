@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/94dded7844e84744b2755102a93138ee/artifacts
+end_time: 1697360310978
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 94dded7844e84744b2755102a93138ee
+run_name: kindly-shoat-681
+run_uuid: 94dded7844e84744b2755102a93138ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360310926
+status: 3
+tags: []
+user_id: houston

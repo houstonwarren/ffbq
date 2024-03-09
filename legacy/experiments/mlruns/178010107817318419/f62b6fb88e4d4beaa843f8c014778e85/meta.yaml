@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f62b6fb88e4d4beaa843f8c014778e85/artifacts
+end_time: 1697359136199
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f62b6fb88e4d4beaa843f8c014778e85
+run_name: legendary-squid-976
+run_uuid: f62b6fb88e4d4beaa843f8c014778e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359136143
+status: 3
+tags: []
+user_id: houston

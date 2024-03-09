@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a91a14a238e14e4eb59cf54e71a8d834/artifacts
+end_time: 1697359184138
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a91a14a238e14e4eb59cf54e71a8d834
+run_name: trusting-bass-156
+run_uuid: a91a14a238e14e4eb59cf54e71a8d834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359184084
+status: 3
+tags: []
+user_id: houston

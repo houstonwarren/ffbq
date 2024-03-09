@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/c74f56e01adb4611804c4b00010cf2ab/artifacts
+end_time: 1701659452725
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: c74f56e01adb4611804c4b00010cf2ab
+run_name: worried-sow-202
+run_uuid: c74f56e01adb4611804c4b00010cf2ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659452587
+status: 3
+tags: []
+user_id: houston

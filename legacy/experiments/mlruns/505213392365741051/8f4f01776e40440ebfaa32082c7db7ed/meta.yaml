@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/8f4f01776e40440ebfaa32082c7db7ed/artifacts
+end_time: 1701659563027
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 8f4f01776e40440ebfaa32082c7db7ed
+run_name: orderly-crab-768
+run_uuid: 8f4f01776e40440ebfaa32082c7db7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659562904
+status: 3
+tags: []
+user_id: houston

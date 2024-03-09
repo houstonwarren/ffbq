@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e2254d39c5a94d11959bf740be347794/artifacts
+end_time: 1698113654662
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e2254d39c5a94d11959bf740be347794
+run_name: auspicious-ape-210
+run_uuid: e2254d39c5a94d11959bf740be347794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113654606
+status: 3
+tags: []
+user_id: houston

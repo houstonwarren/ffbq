@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4d7d4d6eea174fbea3da5da902c9cd90/artifacts
+end_time: 1701660269382
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4d7d4d6eea174fbea3da5da902c9cd90
+run_name: sedate-fly-303
+run_uuid: 4d7d4d6eea174fbea3da5da902c9cd90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660269287
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/852915c036954451951856b1d85bb9ca/artifacts
+end_time: 1701667822203
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 852915c036954451951856b1d85bb9ca
+run_name: amusing-jay-194
+run_uuid: 852915c036954451951856b1d85bb9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667822054
+status: 3
+tags: []
+user_id: houston

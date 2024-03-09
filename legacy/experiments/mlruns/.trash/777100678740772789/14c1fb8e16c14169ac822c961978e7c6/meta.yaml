@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/14c1fb8e16c14169ac822c961978e7c6/artifacts
+deleted_time: 1701660238886
+end_time: 1701660173624
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 14c1fb8e16c14169ac822c961978e7c6
+run_name: mysterious-gnu-831
+run_uuid: 14c1fb8e16c14169ac822c961978e7c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660173474
+status: 3
+tags: []
+user_id: houston

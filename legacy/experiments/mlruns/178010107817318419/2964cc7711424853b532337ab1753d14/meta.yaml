@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2964cc7711424853b532337ab1753d14/artifacts
+end_time: 1697359125090
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2964cc7711424853b532337ab1753d14
+run_name: loud-mouse-452
+run_uuid: 2964cc7711424853b532337ab1753d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359125039
+status: 3
+tags: []
+user_id: houston

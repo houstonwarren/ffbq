@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/24152f4bf75c4baf85bcc64578628651/artifacts
+end_time: 1701667552061
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 24152f4bf75c4baf85bcc64578628651
+run_name: smiling-hog-509
+run_uuid: 24152f4bf75c4baf85bcc64578628651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667551949
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/02ed9ee8f3fb4b03b4235cda20a4622b/artifacts
+end_time: 1701667860188
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 02ed9ee8f3fb4b03b4235cda20a4622b
+run_name: sassy-crow-138
+run_uuid: 02ed9ee8f3fb4b03b4235cda20a4622b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667860026
+status: 3
+tags: []
+user_id: houston

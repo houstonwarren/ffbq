@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f745ec90ce564b9a9809c91ddaf9746c/artifacts
+end_time: 1697440895280
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f745ec90ce564b9a9809c91ddaf9746c
+run_name: casual-shoat-299
+run_uuid: f745ec90ce564b9a9809c91ddaf9746c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440895224
+status: 3
+tags: []
+user_id: houston

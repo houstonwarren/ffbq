@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/06ed0b340efb4b30a715d5c7a189c32c/artifacts
+end_time: 1701667609600
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 06ed0b340efb4b30a715d5c7a189c32c
+run_name: polite-grouse-444
+run_uuid: 06ed0b340efb4b30a715d5c7a189c32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667609470
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/23f7f9d35834413e8b36dc5483f0b685/artifacts
+end_time: 1697196547172
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 23f7f9d35834413e8b36dc5483f0b685
+run_name: abrasive-frog-350
+run_uuid: 23f7f9d35834413e8b36dc5483f0b685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547089
+status: 3
+tags: []
+user_id: houston

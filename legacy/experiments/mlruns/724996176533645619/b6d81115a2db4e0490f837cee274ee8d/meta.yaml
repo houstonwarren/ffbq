@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b6d81115a2db4e0490f837cee274ee8d/artifacts
+end_time: 1697194518872
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b6d81115a2db4e0490f837cee274ee8d
+run_name: peaceful-fowl-306
+run_uuid: b6d81115a2db4e0490f837cee274ee8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194518844
+status: 3
+tags: []
+user_id: houston

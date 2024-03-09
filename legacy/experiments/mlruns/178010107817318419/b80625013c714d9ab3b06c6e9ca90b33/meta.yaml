@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b80625013c714d9ab3b06c6e9ca90b33/artifacts
+end_time: 1697359029814
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b80625013c714d9ab3b06c6e9ca90b33
+run_name: wise-asp-976
+run_uuid: b80625013c714d9ab3b06c6e9ca90b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359029768
+status: 3
+tags: []
+user_id: houston

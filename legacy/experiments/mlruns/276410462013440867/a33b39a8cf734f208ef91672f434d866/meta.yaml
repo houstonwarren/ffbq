@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a33b39a8cf734f208ef91672f434d866/artifacts
+end_time: 1697196200333
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a33b39a8cf734f208ef91672f434d866
+run_name: flawless-shrike-274
+run_uuid: a33b39a8cf734f208ef91672f434d866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200317
+status: 3
+tags: []
+user_id: houston

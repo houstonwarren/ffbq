@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9895031fa51142f88e531e16a61d3fea/artifacts
+end_time: 1697194686115
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9895031fa51142f88e531e16a61d3fea
+run_name: blushing-boar-364
+run_uuid: 9895031fa51142f88e531e16a61d3fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686093
+status: 3
+tags: []
+user_id: houston

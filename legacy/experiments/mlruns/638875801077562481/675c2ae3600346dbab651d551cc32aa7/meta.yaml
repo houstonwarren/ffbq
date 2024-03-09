@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/675c2ae3600346dbab651d551cc32aa7/artifacts
+end_time: 1701667921120
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 675c2ae3600346dbab651d551cc32aa7
+run_name: likeable-dolphin-261
+run_uuid: 675c2ae3600346dbab651d551cc32aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667920953
+status: 3
+tags: []
+user_id: houston

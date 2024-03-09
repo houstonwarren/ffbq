@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/85c6eafdb3534d28b25e50d6d9c66b21/artifacts
+end_time: 1697193659895
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 85c6eafdb3534d28b25e50d6d9c66b21
+run_name: selective-chimp-502
+run_uuid: 85c6eafdb3534d28b25e50d6d9c66b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659885
+status: 3
+tags: []
+user_id: houston

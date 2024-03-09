@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8a6b3ee670c54417bd197d83c61b36ec/artifacts
+end_time: 1697441466669
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8a6b3ee670c54417bd197d83c61b36ec
+run_name: polite-whale-265
+run_uuid: 8a6b3ee670c54417bd197d83c61b36ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441466612
+status: 3
+tags: []
+user_id: houston

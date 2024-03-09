@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/698699fb3a3a45fbb8bc86f99133718d/artifacts
+end_time: 1697440915182
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 698699fb3a3a45fbb8bc86f99133718d
+run_name: gaudy-carp-338
+run_uuid: 698699fb3a3a45fbb8bc86f99133718d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440915107
+status: 3
+tags: []
+user_id: houston

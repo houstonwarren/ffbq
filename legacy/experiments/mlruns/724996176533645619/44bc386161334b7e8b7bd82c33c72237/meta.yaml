@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/44bc386161334b7e8b7bd82c33c72237/artifacts
+end_time: 1697193759952
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 44bc386161334b7e8b7bd82c33c72237
+run_name: hilarious-conch-201
+run_uuid: 44bc386161334b7e8b7bd82c33c72237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193759938
+status: 3
+tags: []
+user_id: houston

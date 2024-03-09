@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/481f1a82e68c46ab97083042c5041549/artifacts
+end_time: 1697440590025
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 481f1a82e68c46ab97083042c5041549
+run_name: caring-mouse-226
+run_uuid: 481f1a82e68c46ab97083042c5041549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440589976
+status: 3
+tags: []
+user_id: houston

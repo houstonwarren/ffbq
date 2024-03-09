@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e9f42a9edfaf4733bd8e12e395d1e60e/artifacts
+end_time: 1697359088426
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e9f42a9edfaf4733bd8e12e395d1e60e
+run_name: rebellious-trout-151
+run_uuid: e9f42a9edfaf4733bd8e12e395d1e60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359088377
+status: 3
+tags: []
+user_id: houston

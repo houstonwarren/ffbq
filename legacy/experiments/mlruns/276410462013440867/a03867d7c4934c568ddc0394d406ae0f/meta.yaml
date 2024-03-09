@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a03867d7c4934c568ddc0394d406ae0f/artifacts
+end_time: 1697195588983
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a03867d7c4934c568ddc0394d406ae0f
+run_name: capricious-vole-674
+run_uuid: a03867d7c4934c568ddc0394d406ae0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195588970
+status: 3
+tags: []
+user_id: houston

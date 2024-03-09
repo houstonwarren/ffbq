@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/59ac613f90ba43d881ce814bbe3f1c93/artifacts
+end_time: 1701667562278
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 59ac613f90ba43d881ce814bbe3f1c93
+run_name: fortunate-gull-503
+run_uuid: 59ac613f90ba43d881ce814bbe3f1c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667562167
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/8eeac673fc3042dd9d3d8b52ed3bb3ce/artifacts
+end_time: 1697195589001
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 8eeac673fc3042dd9d3d8b52ed3bb3ce
+run_name: honorable-toad-270
+run_uuid: 8eeac673fc3042dd9d3d8b52ed3bb3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195588988
+status: 3
+tags: []
+user_id: houston

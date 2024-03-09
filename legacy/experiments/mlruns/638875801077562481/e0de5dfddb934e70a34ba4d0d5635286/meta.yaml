@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e0de5dfddb934e70a34ba4d0d5635286/artifacts
+end_time: 1701667924140
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e0de5dfddb934e70a34ba4d0d5635286
+run_name: grandiose-robin-586
+run_uuid: e0de5dfddb934e70a34ba4d0d5635286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667923987
+status: 3
+tags: []
+user_id: houston

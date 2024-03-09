@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b47d32a808a14de5b0246a449e83c9fb/artifacts
+end_time: 1701667741104
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b47d32a808a14de5b0246a449e83c9fb
+run_name: adorable-eel-126
+run_uuid: b47d32a808a14de5b0246a449e83c9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667740987
+status: 3
+tags: []
+user_id: houston

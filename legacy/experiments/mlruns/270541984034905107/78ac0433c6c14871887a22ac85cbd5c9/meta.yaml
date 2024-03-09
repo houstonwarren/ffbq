@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/78ac0433c6c14871887a22ac85cbd5c9/artifacts
+end_time: 1697441107095
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 78ac0433c6c14871887a22ac85cbd5c9
+run_name: adorable-cow-848
+run_uuid: 78ac0433c6c14871887a22ac85cbd5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441107040
+status: 3
+tags: []
+user_id: houston

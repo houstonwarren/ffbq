@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fe4c4cb0ca0842bda776eb77af81c63e/artifacts
+end_time: 1701667542491
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fe4c4cb0ca0842bda776eb77af81c63e
+run_name: valuable-fox-492
+run_uuid: fe4c4cb0ca0842bda776eb77af81c63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667542376
+status: 3
+tags: []
+user_id: houston

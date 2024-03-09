@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3a0355689307499e9a416c2b4c9b03a9/artifacts
+end_time: 1701667914206
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3a0355689307499e9a416c2b4c9b03a9
+run_name: upbeat-bass-29
+run_uuid: 3a0355689307499e9a416c2b4c9b03a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667914030
+status: 3
+tags: []
+user_id: houston

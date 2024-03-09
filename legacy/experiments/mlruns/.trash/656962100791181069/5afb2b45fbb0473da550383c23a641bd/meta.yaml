@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/5afb2b45fbb0473da550383c23a641bd/artifacts
+deleted_time: 1701665274136
+end_time: 1701664798921
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 5afb2b45fbb0473da550383c23a641bd
+run_name: ambitious-pug-532
+run_uuid: 5afb2b45fbb0473da550383c23a641bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664798887
+status: 3
+tags: []
+user_id: houston

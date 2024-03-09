@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/aa2e0d3dd1f74c4a8e985413f9e4d885/artifacts
+deleted_time: 1701665274136
+end_time: 1701664649023
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: aa2e0d3dd1f74c4a8e985413f9e4d885
+run_name: tasteful-skunk-761
+run_uuid: aa2e0d3dd1f74c4a8e985413f9e4d885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664648983
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c22aec822dda43fcb368ff51fb4544a0/artifacts
+end_time: 1697440525249
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c22aec822dda43fcb368ff51fb4544a0
+run_name: gregarious-snipe-923
+run_uuid: c22aec822dda43fcb368ff51fb4544a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440525201
+status: 3
+tags: []
+user_id: houston

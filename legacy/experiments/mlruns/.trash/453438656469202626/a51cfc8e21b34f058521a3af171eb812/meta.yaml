@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/a51cfc8e21b34f058521a3af171eb812/artifacts
+deleted_time: 1701659398061
+end_time: 1701658635600
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: a51cfc8e21b34f058521a3af171eb812
+run_name: funny-hound-808
+run_uuid: a51cfc8e21b34f058521a3af171eb812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658635498
+status: 3
+tags: []
+user_id: houston

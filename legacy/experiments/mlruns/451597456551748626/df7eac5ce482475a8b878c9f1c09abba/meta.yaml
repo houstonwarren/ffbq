@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/df7eac5ce482475a8b878c9f1c09abba/artifacts
+end_time: 1701660287983
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: df7eac5ce482475a8b878c9f1c09abba
+run_name: enthused-penguin-228
+run_uuid: df7eac5ce482475a8b878c9f1c09abba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660287885
+status: 3
+tags: []
+user_id: houston

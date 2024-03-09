@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e0b36671d3d646008756aa5159dc503b/artifacts
+end_time: 1701660303419
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e0b36671d3d646008756aa5159dc503b
+run_name: sincere-snail-571
+run_uuid: e0b36671d3d646008756aa5159dc503b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660303353
+status: 3
+tags: []
+user_id: houston

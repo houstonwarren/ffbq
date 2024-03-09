@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/013b315e343a48b88be38486fd3e0a12/artifacts
+end_time: 1701659524522
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 013b315e343a48b88be38486fd3e0a12
+run_name: awesome-panda-503
+run_uuid: 013b315e343a48b88be38486fd3e0a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659524333
+status: 3
+tags: []
+user_id: houston

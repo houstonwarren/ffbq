@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/744a131eac1547aab7e30a66594d36dd/artifacts
+end_time: 1697359129140
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 744a131eac1547aab7e30a66594d36dd
+run_name: rumbling-hound-555
+run_uuid: 744a131eac1547aab7e30a66594d36dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359129085
+status: 3
+tags: []
+user_id: houston

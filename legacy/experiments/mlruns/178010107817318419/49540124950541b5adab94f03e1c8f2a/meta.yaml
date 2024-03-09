@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/49540124950541b5adab94f03e1c8f2a/artifacts
+end_time: 1697359177849
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 49540124950541b5adab94f03e1c8f2a
+run_name: able-fly-634
+run_uuid: 49540124950541b5adab94f03e1c8f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359177787
+status: 3
+tags: []
+user_id: houston

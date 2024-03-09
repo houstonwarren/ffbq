@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e03684031c4b4880ae717e46cf269997/artifacts
+end_time: 1697193692857
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e03684031c4b4880ae717e46cf269997
+run_name: flawless-cat-728
+run_uuid: e03684031c4b4880ae717e46cf269997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193692780
+status: 3
+tags: []
+user_id: houston

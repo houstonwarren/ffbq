@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ee7d7ba0bd8e44d7b58af203fa064d83/artifacts
+end_time: 1697195605762
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ee7d7ba0bd8e44d7b58af203fa064d83
+run_name: youthful-cat-25
+run_uuid: ee7d7ba0bd8e44d7b58af203fa064d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605749
+status: 3
+tags: []
+user_id: houston

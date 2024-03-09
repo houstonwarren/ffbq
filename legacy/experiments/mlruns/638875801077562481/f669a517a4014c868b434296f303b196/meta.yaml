@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f669a517a4014c868b434296f303b196/artifacts
+end_time: 1701667902068
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f669a517a4014c868b434296f303b196
+run_name: gentle-sow-628
+run_uuid: f669a517a4014c868b434296f303b196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667901912
+status: 3
+tags: []
+user_id: houston

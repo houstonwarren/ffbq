@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/691aa8a1ceeb470d8d43965d0019694f/artifacts
+end_time: 1701660389023
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 691aa8a1ceeb470d8d43965d0019694f
+run_name: vaunted-carp-92
+run_uuid: 691aa8a1ceeb470d8d43965d0019694f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660388940
+status: 3
+tags: []
+user_id: houston

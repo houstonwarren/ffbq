@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a59251eca8f84dd494c85cd2cf9227cb/artifacts
+end_time: 1701667817264
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a59251eca8f84dd494c85cd2cf9227cb
+run_name: spiffy-newt-279
+run_uuid: a59251eca8f84dd494c85cd2cf9227cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667817112
+status: 3
+tags: []
+user_id: houston

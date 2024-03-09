@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/e0f7d7a9bc124ba0928dcad72b40560c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664873065
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: e0f7d7a9bc124ba0928dcad72b40560c
+run_name: zealous-auk-676
+run_uuid: e0f7d7a9bc124ba0928dcad72b40560c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664873019
+status: 3
+tags: []
+user_id: houston

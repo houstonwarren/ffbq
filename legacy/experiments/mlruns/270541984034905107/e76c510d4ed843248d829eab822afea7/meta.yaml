@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e76c510d4ed843248d829eab822afea7/artifacts
+end_time: 1697441606916
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e76c510d4ed843248d829eab822afea7
+run_name: wise-gnu-341
+run_uuid: e76c510d4ed843248d829eab822afea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441606859
+status: 3
+tags: []
+user_id: houston

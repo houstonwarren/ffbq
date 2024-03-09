@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/03a5c3df9be949e0aaffd1fe9b40d56d/artifacts
+end_time: 1698113558540
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 03a5c3df9be949e0aaffd1fe9b40d56d
+run_name: burly-pig-801
+run_uuid: 03a5c3df9be949e0aaffd1fe9b40d56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113558486
+status: 3
+tags: []
+user_id: houston

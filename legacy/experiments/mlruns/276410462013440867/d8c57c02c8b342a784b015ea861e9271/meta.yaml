@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/d8c57c02c8b342a784b015ea861e9271/artifacts
+end_time: 1697195605848
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: d8c57c02c8b342a784b015ea861e9271
+run_name: abundant-moose-148
+run_uuid: d8c57c02c8b342a784b015ea861e9271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605836
+status: 3
+tags: []
+user_id: houston

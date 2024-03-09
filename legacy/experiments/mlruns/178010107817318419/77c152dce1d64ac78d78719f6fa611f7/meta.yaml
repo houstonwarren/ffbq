@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/77c152dce1d64ac78d78719f6fa611f7/artifacts
+end_time: 1697359106643
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 77c152dce1d64ac78d78719f6fa611f7
+run_name: masked-gull-893
+run_uuid: 77c152dce1d64ac78d78719f6fa611f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359106594
+status: 3
+tags: []
+user_id: houston

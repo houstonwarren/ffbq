@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fce8068b4fe14426bf22a4c72b7cb3cd/artifacts
+end_time: 1701667695638
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fce8068b4fe14426bf22a4c72b7cb3cd
+run_name: judicious-tern-529
+run_uuid: fce8068b4fe14426bf22a4c72b7cb3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667695495
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7e2f30b94213487d83964a45603b4233/artifacts
+end_time: 1697196547427
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7e2f30b94213487d83964a45603b4233
+run_name: funny-robin-335
+run_uuid: 7e2f30b94213487d83964a45603b4233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547411
+status: 3
+tags: []
+user_id: houston

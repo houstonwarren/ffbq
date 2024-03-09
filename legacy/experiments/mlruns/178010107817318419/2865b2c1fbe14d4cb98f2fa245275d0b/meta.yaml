@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2865b2c1fbe14d4cb98f2fa245275d0b/artifacts
+end_time: 1697359075059
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2865b2c1fbe14d4cb98f2fa245275d0b
+run_name: worried-flea-49
+run_uuid: 2865b2c1fbe14d4cb98f2fa245275d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359075012
+status: 3
+tags: []
+user_id: houston

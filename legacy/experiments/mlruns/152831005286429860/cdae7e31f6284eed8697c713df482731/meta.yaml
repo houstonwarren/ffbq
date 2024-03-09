@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/cdae7e31f6284eed8697c713df482731/artifacts
+end_time: 1697360288063
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: cdae7e31f6284eed8697c713df482731
+run_name: languid-shoat-921
+run_uuid: cdae7e31f6284eed8697c713df482731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360288011
+status: 3
+tags: []
+user_id: houston

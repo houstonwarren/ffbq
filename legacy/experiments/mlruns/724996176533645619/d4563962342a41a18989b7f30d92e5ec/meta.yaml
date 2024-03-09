@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d4563962342a41a18989b7f30d92e5ec/artifacts
+end_time: 1697193921090
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d4563962342a41a18989b7f30d92e5ec
+run_name: glamorous-robin-450
+run_uuid: d4563962342a41a18989b7f30d92e5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193921075
+status: 3
+tags: []
+user_id: houston

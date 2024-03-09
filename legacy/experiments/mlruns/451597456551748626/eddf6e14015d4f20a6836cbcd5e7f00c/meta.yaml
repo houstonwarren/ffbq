@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/eddf6e14015d4f20a6836cbcd5e7f00c/artifacts
+end_time: 1701660348700
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: eddf6e14015d4f20a6836cbcd5e7f00c
+run_name: overjoyed-colt-816
+run_uuid: eddf6e14015d4f20a6836cbcd5e7f00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660348615
+status: 3
+tags: []
+user_id: houston

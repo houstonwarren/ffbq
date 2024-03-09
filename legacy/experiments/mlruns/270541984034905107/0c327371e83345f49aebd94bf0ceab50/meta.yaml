@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/0c327371e83345f49aebd94bf0ceab50/artifacts
+end_time: 1697440663680
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 0c327371e83345f49aebd94bf0ceab50
+run_name: colorful-horse-887
+run_uuid: 0c327371e83345f49aebd94bf0ceab50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663628
+status: 3
+tags: []
+user_id: houston

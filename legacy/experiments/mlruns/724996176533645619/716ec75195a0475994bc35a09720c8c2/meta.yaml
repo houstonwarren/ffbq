@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/716ec75195a0475994bc35a09720c8c2/artifacts
+end_time: 1697193692973
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 716ec75195a0475994bc35a09720c8c2
+run_name: popular-dog-517
+run_uuid: 716ec75195a0475994bc35a09720c8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193692960
+status: 3
+tags: []
+user_id: houston

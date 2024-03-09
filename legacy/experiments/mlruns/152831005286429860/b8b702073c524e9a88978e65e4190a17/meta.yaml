@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/b8b702073c524e9a88978e65e4190a17/artifacts
+end_time: 1697360381381
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: b8b702073c524e9a88978e65e4190a17
+run_name: luxuriant-goose-371
+run_uuid: b8b702073c524e9a88978e65e4190a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360381327
+status: 3
+tags: []
+user_id: houston

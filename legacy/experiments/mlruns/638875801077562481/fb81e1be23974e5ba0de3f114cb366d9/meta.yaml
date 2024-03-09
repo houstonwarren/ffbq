@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fb81e1be23974e5ba0de3f114cb366d9/artifacts
+end_time: 1701667860473
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fb81e1be23974e5ba0de3f114cb366d9
+run_name: resilient-pig-521
+run_uuid: fb81e1be23974e5ba0de3f114cb366d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667860319
+status: 3
+tags: []
+user_id: houston

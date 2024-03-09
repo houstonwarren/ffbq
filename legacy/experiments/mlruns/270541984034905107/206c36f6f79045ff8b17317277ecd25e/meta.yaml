@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/206c36f6f79045ff8b17317277ecd25e/artifacts
+end_time: 1697440711192
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 206c36f6f79045ff8b17317277ecd25e
+run_name: shivering-lark-154
+run_uuid: 206c36f6f79045ff8b17317277ecd25e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440711141
+status: 3
+tags: []
+user_id: houston

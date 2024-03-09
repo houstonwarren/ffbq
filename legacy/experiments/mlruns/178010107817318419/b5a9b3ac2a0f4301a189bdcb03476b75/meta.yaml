@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b5a9b3ac2a0f4301a189bdcb03476b75/artifacts
+end_time: 1697359133103
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b5a9b3ac2a0f4301a189bdcb03476b75
+run_name: respected-whale-10
+run_uuid: b5a9b3ac2a0f4301a189bdcb03476b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359133054
+status: 3
+tags: []
+user_id: houston

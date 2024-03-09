@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8c9052ca16994f69bb0228e8c87763ca/artifacts
+end_time: 1701667968366
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8c9052ca16994f69bb0228e8c87763ca
+run_name: stylish-hen-471
+run_uuid: 8c9052ca16994f69bb0228e8c87763ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667968200
+status: 3
+tags: []
+user_id: houston

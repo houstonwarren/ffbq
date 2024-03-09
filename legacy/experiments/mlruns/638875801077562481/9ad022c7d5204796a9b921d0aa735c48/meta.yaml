@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9ad022c7d5204796a9b921d0aa735c48/artifacts
+end_time: 1701667945291
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9ad022c7d5204796a9b921d0aa735c48
+run_name: masked-frog-953
+run_uuid: 9ad022c7d5204796a9b921d0aa735c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667945130
+status: 3
+tags: []
+user_id: houston

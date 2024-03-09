@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/bf4ec92177da4577b301e7d302c0af1d/artifacts
+end_time: 1697193693106
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: bf4ec92177da4577b301e7d302c0af1d
+run_name: fortunate-whale-891
+run_uuid: bf4ec92177da4577b301e7d302c0af1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193693095
+status: 3
+tags: []
+user_id: houston

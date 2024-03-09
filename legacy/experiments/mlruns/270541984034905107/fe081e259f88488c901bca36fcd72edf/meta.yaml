@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fe081e259f88488c901bca36fcd72edf/artifacts
+end_time: 1697442341800
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fe081e259f88488c901bca36fcd72edf
+run_name: charming-auk-908
+run_uuid: fe081e259f88488c901bca36fcd72edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442341745
+status: 3
+tags: []
+user_id: houston

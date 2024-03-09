@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e26f6b2b42ab46f9b24e4f156cc1a2ce/artifacts
+end_time: 1697194057788
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e26f6b2b42ab46f9b24e4f156cc1a2ce
+run_name: youthful-colt-426
+run_uuid: e26f6b2b42ab46f9b24e4f156cc1a2ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194057744
+status: 3
+tags: []
+user_id: houston

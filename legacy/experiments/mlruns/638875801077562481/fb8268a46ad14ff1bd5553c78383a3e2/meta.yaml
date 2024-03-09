@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fb8268a46ad14ff1bd5553c78383a3e2/artifacts
+end_time: 1701667738740
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fb8268a46ad14ff1bd5553c78383a3e2
+run_name: righteous-moose-883
+run_uuid: fb8268a46ad14ff1bd5553c78383a3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667738611
+status: 3
+tags: []
+user_id: houston

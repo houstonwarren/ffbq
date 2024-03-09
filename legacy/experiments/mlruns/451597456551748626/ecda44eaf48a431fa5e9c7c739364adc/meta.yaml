@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ecda44eaf48a431fa5e9c7c739364adc/artifacts
+end_time: 1701660341233
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ecda44eaf48a431fa5e9c7c739364adc
+run_name: loud-grub-865
+run_uuid: ecda44eaf48a431fa5e9c7c739364adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660341152
+status: 3
+tags: []
+user_id: houston

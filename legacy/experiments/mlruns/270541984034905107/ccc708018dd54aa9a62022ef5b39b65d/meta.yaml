@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ccc708018dd54aa9a62022ef5b39b65d/artifacts
+end_time: 1697440699095
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ccc708018dd54aa9a62022ef5b39b65d
+run_name: salty-hawk-912
+run_uuid: ccc708018dd54aa9a62022ef5b39b65d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440699045
+status: 3
+tags: []
+user_id: houston

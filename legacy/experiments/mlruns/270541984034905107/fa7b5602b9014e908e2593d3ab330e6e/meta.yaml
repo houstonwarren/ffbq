@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fa7b5602b9014e908e2593d3ab330e6e/artifacts
+end_time: 1697442042936
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fa7b5602b9014e908e2593d3ab330e6e
+run_name: redolent-rat-0
+run_uuid: fa7b5602b9014e908e2593d3ab330e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442042882
+status: 3
+tags: []
+user_id: houston

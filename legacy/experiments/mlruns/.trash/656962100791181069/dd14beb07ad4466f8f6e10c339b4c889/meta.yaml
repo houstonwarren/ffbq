@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/dd14beb07ad4466f8f6e10c339b4c889/artifacts
+deleted_time: 1701665274136
+end_time: 1701664920757
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: dd14beb07ad4466f8f6e10c339b4c889
+run_name: sneaky-gnu-484
+run_uuid: dd14beb07ad4466f8f6e10c339b4c889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664920716
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/52e95b5c573640e38662e661d34b2303/artifacts
+end_time: 1701660251016
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 52e95b5c573640e38662e661d34b2303
+run_name: rare-quail-934
+run_uuid: 52e95b5c573640e38662e661d34b2303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660250922
+status: 3
+tags: []
+user_id: houston

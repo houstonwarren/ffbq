@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/fcafcaa8c3e448c8a3e257db71f1dd53/artifacts
+end_time: 1701660250612
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: fcafcaa8c3e448c8a3e257db71f1dd53
+run_name: bedecked-ant-806
+run_uuid: fcafcaa8c3e448c8a3e257db71f1dd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660250529
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/cffef69c23664ea2ad32e7f6b636f27e/artifacts
+end_time: 1701659415210
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: cffef69c23664ea2ad32e7f6b636f27e
+run_name: handsome-yak-28
+run_uuid: cffef69c23664ea2ad32e7f6b636f27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659415094
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8c0102d3af1540be921b0a32ad187a64/artifacts
+end_time: 1701660312158
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8c0102d3af1540be921b0a32ad187a64
+run_name: merciful-rook-700
+run_uuid: 8c0102d3af1540be921b0a32ad187a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660312068
+status: 3
+tags: []
+user_id: houston

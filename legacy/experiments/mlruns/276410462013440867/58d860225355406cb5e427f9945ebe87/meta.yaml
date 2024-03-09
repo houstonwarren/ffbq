@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/58d860225355406cb5e427f9945ebe87/artifacts
+end_time: 1697197060921
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 58d860225355406cb5e427f9945ebe87
+run_name: luxuriant-slug-986
+run_uuid: 58d860225355406cb5e427f9945ebe87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197060904
+status: 3
+tags: []
+user_id: houston

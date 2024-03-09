@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/64e4ebe33fa34f359dd6c44dacc2a89c/artifacts
+end_time: 1697440813912
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 64e4ebe33fa34f359dd6c44dacc2a89c
+run_name: crawling-cod-137
+run_uuid: 64e4ebe33fa34f359dd6c44dacc2a89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440813860
+status: 3
+tags: []
+user_id: houston

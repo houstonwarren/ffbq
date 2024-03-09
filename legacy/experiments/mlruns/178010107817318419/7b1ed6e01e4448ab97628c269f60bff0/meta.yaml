@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7b1ed6e01e4448ab97628c269f60bff0/artifacts
+end_time: 1697359116947
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7b1ed6e01e4448ab97628c269f60bff0
+run_name: nebulous-moth-634
+run_uuid: 7b1ed6e01e4448ab97628c269f60bff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359116895
+status: 3
+tags: []
+user_id: houston

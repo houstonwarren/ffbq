@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c3b21db3704e4eefb09534c45a7296ea/artifacts
+end_time: 1697197870309
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c3b21db3704e4eefb09534c45a7296ea
+run_name: glamorous-bird-488
+run_uuid: c3b21db3704e4eefb09534c45a7296ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870288
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a81604b675f94e6b876aee92b6e4a3d9/artifacts
+deleted_time: 1701665274136
+end_time: 1701664886759
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a81604b675f94e6b876aee92b6e4a3d9
+run_name: melodic-sow-880
+run_uuid: a81604b675f94e6b876aee92b6e4a3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664886706
+status: 3
+tags: []
+user_id: houston

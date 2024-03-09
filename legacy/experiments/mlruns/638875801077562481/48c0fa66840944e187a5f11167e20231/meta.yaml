@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/48c0fa66840944e187a5f11167e20231/artifacts
+end_time: 1701667492446
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 48c0fa66840944e187a5f11167e20231
+run_name: abrasive-chimp-889
+run_uuid: 48c0fa66840944e187a5f11167e20231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667492355
+status: 3
+tags: []
+user_id: houston

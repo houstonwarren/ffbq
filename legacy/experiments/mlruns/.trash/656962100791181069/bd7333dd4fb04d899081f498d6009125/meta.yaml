@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bd7333dd4fb04d899081f498d6009125/artifacts
+deleted_time: 1701665274136
+end_time: 1701664831401
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bd7333dd4fb04d899081f498d6009125
+run_name: suave-midge-195
+run_uuid: bd7333dd4fb04d899081f498d6009125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664831336
+status: 3
+tags: []
+user_id: houston

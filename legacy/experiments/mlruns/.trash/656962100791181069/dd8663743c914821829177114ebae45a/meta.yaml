@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/dd8663743c914821829177114ebae45a/artifacts
+deleted_time: 1701665274136
+end_time: 1701664747215
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: dd8663743c914821829177114ebae45a
+run_name: nimble-vole-186
+run_uuid: dd8663743c914821829177114ebae45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664747184
+status: 3
+tags: []
+user_id: houston

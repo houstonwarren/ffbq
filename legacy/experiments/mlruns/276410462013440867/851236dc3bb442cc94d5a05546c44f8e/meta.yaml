@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/851236dc3bb442cc94d5a05546c44f8e/artifacts
+end_time: 1697196200393
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 851236dc3bb442cc94d5a05546c44f8e
+run_name: zealous-swan-312
+run_uuid: 851236dc3bb442cc94d5a05546c44f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200378
+status: 3
+tags: []
+user_id: houston

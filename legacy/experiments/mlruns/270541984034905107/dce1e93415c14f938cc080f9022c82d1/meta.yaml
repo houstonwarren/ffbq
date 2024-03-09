@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/dce1e93415c14f938cc080f9022c82d1/artifacts
+end_time: 1697441534304
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: dce1e93415c14f938cc080f9022c82d1
+run_name: defiant-whale-767
+run_uuid: dce1e93415c14f938cc080f9022c82d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441534248
+status: 3
+tags: []
+user_id: houston

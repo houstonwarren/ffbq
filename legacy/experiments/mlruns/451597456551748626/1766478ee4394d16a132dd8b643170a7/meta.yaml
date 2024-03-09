@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/1766478ee4394d16a132dd8b643170a7/artifacts
+end_time: 1701660378355
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 1766478ee4394d16a132dd8b643170a7
+run_name: sedate-zebra-712
+run_uuid: 1766478ee4394d16a132dd8b643170a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660378264
+status: 3
+tags: []
+user_id: houston

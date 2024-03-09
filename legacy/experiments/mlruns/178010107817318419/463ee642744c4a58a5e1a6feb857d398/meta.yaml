@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/463ee642744c4a58a5e1a6feb857d398/artifacts
+end_time: 1697359174843
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 463ee642744c4a58a5e1a6feb857d398
+run_name: fun-snipe-149
+run_uuid: 463ee642744c4a58a5e1a6feb857d398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359174787
+status: 3
+tags: []
+user_id: houston

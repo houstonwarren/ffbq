@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/b5186ace07774d679a95ebe1dbde1bc2/artifacts
+deleted_time: 1701665274136
+end_time: 1701664752398
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: b5186ace07774d679a95ebe1dbde1bc2
+run_name: upbeat-mule-31
+run_uuid: b5186ace07774d679a95ebe1dbde1bc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664752355
+status: 3
+tags: []
+user_id: houston

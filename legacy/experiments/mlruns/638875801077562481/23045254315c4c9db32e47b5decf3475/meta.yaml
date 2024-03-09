@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/23045254315c4c9db32e47b5decf3475/artifacts
+end_time: 1701667940877
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 23045254315c4c9db32e47b5decf3475
+run_name: smiling-penguin-315
+run_uuid: 23045254315c4c9db32e47b5decf3475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667940721
+status: 3
+tags: []
+user_id: houston

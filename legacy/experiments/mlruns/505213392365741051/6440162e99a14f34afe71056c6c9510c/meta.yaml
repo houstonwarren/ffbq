@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6440162e99a14f34afe71056c6c9510c/artifacts
+end_time: 1701659523304
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6440162e99a14f34afe71056c6c9510c
+run_name: legendary-bat-878
+run_uuid: 6440162e99a14f34afe71056c6c9510c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659523159
+status: 3
+tags: []
+user_id: houston

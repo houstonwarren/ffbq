@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/738579791f264148bd923f6b33d0f53d/artifacts
+end_time: 1697440687166
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 738579791f264148bd923f6b33d0f53d
+run_name: mercurial-calf-790
+run_uuid: 738579791f264148bd923f6b33d0f53d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440687115
+status: 3
+tags: []
+user_id: houston

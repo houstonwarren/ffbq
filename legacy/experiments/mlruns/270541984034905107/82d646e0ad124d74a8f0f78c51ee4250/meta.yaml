@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/82d646e0ad124d74a8f0f78c51ee4250/artifacts
+end_time: 1697442632595
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 82d646e0ad124d74a8f0f78c51ee4250
+run_name: treasured-cub-635
+run_uuid: 82d646e0ad124d74a8f0f78c51ee4250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442632537
+status: 3
+tags: []
+user_id: houston

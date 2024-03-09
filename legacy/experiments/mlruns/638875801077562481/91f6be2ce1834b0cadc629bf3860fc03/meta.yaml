@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/91f6be2ce1834b0cadc629bf3860fc03/artifacts
+end_time: 1701667418232
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 91f6be2ce1834b0cadc629bf3860fc03
+run_name: secretive-roo-556
+run_uuid: 91f6be2ce1834b0cadc629bf3860fc03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667418152
+status: 3
+tags: []
+user_id: houston

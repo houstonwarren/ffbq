@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8b1e4b6839274df3968ce3bbd4ea0804/artifacts
+end_time: 1697359162589
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8b1e4b6839274df3968ce3bbd4ea0804
+run_name: big-carp-283
+run_uuid: 8b1e4b6839274df3968ce3bbd4ea0804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359162532
+status: 3
+tags: []
+user_id: houston

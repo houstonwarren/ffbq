@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8a22fe615a9c465bb7ff7e885f7ff29d/artifacts
+end_time: 1701667989305
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8a22fe615a9c465bb7ff7e885f7ff29d
+run_name: enthused-vole-190
+run_uuid: 8a22fe615a9c465bb7ff7e885f7ff29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667989145
+status: 3
+tags: []
+user_id: houston

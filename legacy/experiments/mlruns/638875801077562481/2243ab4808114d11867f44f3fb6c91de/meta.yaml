@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2243ab4808114d11867f44f3fb6c91de/artifacts
+end_time: 1701667847117
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2243ab4808114d11867f44f3fb6c91de
+run_name: nervous-mink-733
+run_uuid: 2243ab4808114d11867f44f3fb6c91de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667846950
+status: 3
+tags: []
+user_id: houston

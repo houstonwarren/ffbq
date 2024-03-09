@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/856c855a7b674802a8388dd507052fc1/artifacts
+end_time: 1698113471150
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 856c855a7b674802a8388dd507052fc1
+run_name: auspicious-mare-208
+run_uuid: 856c855a7b674802a8388dd507052fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113471098
+status: 3
+tags: []
+user_id: houston

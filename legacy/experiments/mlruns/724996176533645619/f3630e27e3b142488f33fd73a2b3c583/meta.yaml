@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f3630e27e3b142488f33fd73a2b3c583/artifacts
+end_time: 1697193817380
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f3630e27e3b142488f33fd73a2b3c583
+run_name: zealous-mole-563
+run_uuid: f3630e27e3b142488f33fd73a2b3c583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817300
+status: 3
+tags: []
+user_id: houston

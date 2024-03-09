@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/80c0ce0b0ff9434aab552b2709cae1c8/artifacts
+end_time: 1698113729820
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 80c0ce0b0ff9434aab552b2709cae1c8
+run_name: enthused-wolf-602
+run_uuid: 80c0ce0b0ff9434aab552b2709cae1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113729763
+status: 3
+tags: []
+user_id: houston

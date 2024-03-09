@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9a81081e353040da83bdd27245c4615b/artifacts
+end_time: 1698114189719
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9a81081e353040da83bdd27245c4615b
+run_name: indecisive-moose-136
+run_uuid: 9a81081e353040da83bdd27245c4615b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114189658
+status: 3
+tags: []
+user_id: houston

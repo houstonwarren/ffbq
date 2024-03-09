@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d854597c2cdd4226a6d9e4134a6734cc/artifacts
+end_time: 1697440663089
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d854597c2cdd4226a6d9e4134a6734cc
+run_name: loud-crow-340
+run_uuid: d854597c2cdd4226a6d9e4134a6734cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663038
+status: 3
+tags: []
+user_id: houston

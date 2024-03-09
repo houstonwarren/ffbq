@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fb4e57d297b44f2aa996a4a01d4d961d/artifacts
+end_time: 1697440573908
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fb4e57d297b44f2aa996a4a01d4d961d
+run_name: intelligent-goose-56
+run_uuid: fb4e57d297b44f2aa996a4a01d4d961d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440573858
+status: 3
+tags: []
+user_id: houston

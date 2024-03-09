@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/41e4518dbc574dec89753b9784710fe3/artifacts
+end_time: 1701668002825
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 41e4518dbc574dec89753b9784710fe3
+run_name: fearless-seal-85
+run_uuid: 41e4518dbc574dec89753b9784710fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701668002620
+status: 3
+tags: []
+user_id: houston

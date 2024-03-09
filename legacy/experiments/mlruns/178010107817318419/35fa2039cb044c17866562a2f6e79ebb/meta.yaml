@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/35fa2039cb044c17866562a2f6e79ebb/artifacts
+end_time: 1697359128429
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 35fa2039cb044c17866562a2f6e79ebb
+run_name: abundant-yak-844
+run_uuid: 35fa2039cb044c17866562a2f6e79ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359128379
+status: 3
+tags: []
+user_id: houston

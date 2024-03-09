@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/060f04c7eec344d39825feac84f30d81/artifacts
+end_time: 1701659509543
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 060f04c7eec344d39825feac84f30d81
+run_name: gifted-grouse-992
+run_uuid: 060f04c7eec344d39825feac84f30d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659509387
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e03b3b3f71de42eb98d719084dc252f7/artifacts
+end_time: 1697440833742
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e03b3b3f71de42eb98d719084dc252f7
+run_name: flawless-steed-953
+run_uuid: e03b3b3f71de42eb98d719084dc252f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440833687
+status: 3
+tags: []
+user_id: houston

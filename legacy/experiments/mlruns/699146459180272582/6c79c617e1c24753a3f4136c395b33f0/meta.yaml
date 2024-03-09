@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6c79c617e1c24753a3f4136c395b33f0/artifacts
+end_time: 1698113572360
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6c79c617e1c24753a3f4136c395b33f0
+run_name: colorful-donkey-745
+run_uuid: 6c79c617e1c24753a3f4136c395b33f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113572306
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ecba9bf6596c47c093891f485f62e438/artifacts
+end_time: 1697193995694
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ecba9bf6596c47c093891f485f62e438
+run_name: bright-skunk-56
+run_uuid: ecba9bf6596c47c093891f485f62e438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995675
+status: 3
+tags: []
+user_id: houston

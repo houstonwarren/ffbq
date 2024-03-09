@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/38604aa8b7cf43539860cfa4c657719d/artifacts
+end_time: 1701667632899
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 38604aa8b7cf43539860cfa4c657719d
+run_name: enchanting-sloth-665
+run_uuid: 38604aa8b7cf43539860cfa4c657719d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667632787
+status: 3
+tags: []
+user_id: houston

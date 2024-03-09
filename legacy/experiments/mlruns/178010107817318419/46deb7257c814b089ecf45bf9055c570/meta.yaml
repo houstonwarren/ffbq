@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/46deb7257c814b089ecf45bf9055c570/artifacts
+end_time: 1697359044275
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 46deb7257c814b089ecf45bf9055c570
+run_name: magnificent-ram-587
+run_uuid: 46deb7257c814b089ecf45bf9055c570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359044228
+status: 3
+tags: []
+user_id: houston

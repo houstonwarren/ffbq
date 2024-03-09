@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1f03010d9b6f4910ac88f907d062d80e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664757711
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1f03010d9b6f4910ac88f907d062d80e
+run_name: bemused-moose-534
+run_uuid: 1f03010d9b6f4910ac88f907d062d80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664757679
+status: 3
+tags: []
+user_id: houston

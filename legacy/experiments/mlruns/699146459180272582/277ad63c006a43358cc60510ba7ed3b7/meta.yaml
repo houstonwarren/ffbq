@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/277ad63c006a43358cc60510ba7ed3b7/artifacts
+end_time: 1698115195373
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 277ad63c006a43358cc60510ba7ed3b7
+run_name: incongruous-snake-21
+run_uuid: 277ad63c006a43358cc60510ba7ed3b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115195299
+status: 3
+tags: []
+user_id: houston

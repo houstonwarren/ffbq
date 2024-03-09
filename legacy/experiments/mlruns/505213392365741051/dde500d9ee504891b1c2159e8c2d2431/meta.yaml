@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/dde500d9ee504891b1c2159e8c2d2431/artifacts
+end_time: 1701659447537
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: dde500d9ee504891b1c2159e8c2d2431
+run_name: inquisitive-colt-219
+run_uuid: dde500d9ee504891b1c2159e8c2d2431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659447395
+status: 3
+tags: []
+user_id: houston

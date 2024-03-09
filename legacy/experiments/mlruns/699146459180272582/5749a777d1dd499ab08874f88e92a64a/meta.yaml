@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5749a777d1dd499ab08874f88e92a64a/artifacts
+end_time: 1698113765021
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5749a777d1dd499ab08874f88e92a64a
+run_name: suave-ram-247
+run_uuid: 5749a777d1dd499ab08874f88e92a64a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113764965
+status: 3
+tags: []
+user_id: houston

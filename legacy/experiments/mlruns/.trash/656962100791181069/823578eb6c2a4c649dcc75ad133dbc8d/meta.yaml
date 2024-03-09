@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/823578eb6c2a4c649dcc75ad133dbc8d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664736141
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 823578eb6c2a4c649dcc75ad133dbc8d
+run_name: glamorous-doe-888
+run_uuid: 823578eb6c2a4c649dcc75ad133dbc8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664736113
+status: 3
+tags: []
+user_id: houston

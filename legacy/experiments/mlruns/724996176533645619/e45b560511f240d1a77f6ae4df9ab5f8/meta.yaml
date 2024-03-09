@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e45b560511f240d1a77f6ae4df9ab5f8/artifacts
+end_time: 1697194450891
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e45b560511f240d1a77f6ae4df9ab5f8
+run_name: secretive-swan-118
+run_uuid: e45b560511f240d1a77f6ae4df9ab5f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194450871
+status: 3
+tags: []
+user_id: houston

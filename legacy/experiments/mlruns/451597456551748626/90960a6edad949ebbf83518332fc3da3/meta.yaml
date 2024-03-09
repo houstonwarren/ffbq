@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/90960a6edad949ebbf83518332fc3da3/artifacts
+end_time: 1701660254834
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 90960a6edad949ebbf83518332fc3da3
+run_name: upset-crab-898
+run_uuid: 90960a6edad949ebbf83518332fc3da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660254749
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5d5d8dfcff4a40f6bf09418d91754351/artifacts
+end_time: 1698113558314
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5d5d8dfcff4a40f6bf09418d91754351
+run_name: traveling-asp-676
+run_uuid: 5d5d8dfcff4a40f6bf09418d91754351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113558227
+status: 3
+tags: []
+user_id: houston

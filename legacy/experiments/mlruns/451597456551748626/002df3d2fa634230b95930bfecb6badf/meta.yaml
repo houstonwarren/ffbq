@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/002df3d2fa634230b95930bfecb6badf/artifacts
+end_time: 1701660339465
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 002df3d2fa634230b95930bfecb6badf
+run_name: redolent-boar-520
+run_uuid: 002df3d2fa634230b95930bfecb6badf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660339383
+status: 3
+tags: []
+user_id: houston

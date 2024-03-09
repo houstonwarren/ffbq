@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e861ab4cb25d41ecbdd4df7b21216f62/artifacts
+end_time: 1697193886632
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e861ab4cb25d41ecbdd4df7b21216f62
+run_name: rumbling-cub-664
+run_uuid: e861ab4cb25d41ecbdd4df7b21216f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193886609
+status: 3
+tags: []
+user_id: houston

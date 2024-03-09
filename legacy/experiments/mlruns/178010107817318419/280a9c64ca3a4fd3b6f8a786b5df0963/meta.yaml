@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/280a9c64ca3a4fd3b6f8a786b5df0963/artifacts
+end_time: 1697359097678
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 280a9c64ca3a4fd3b6f8a786b5df0963
+run_name: learned-shrike-646
+run_uuid: 280a9c64ca3a4fd3b6f8a786b5df0963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359097621
+status: 3
+tags: []
+user_id: houston

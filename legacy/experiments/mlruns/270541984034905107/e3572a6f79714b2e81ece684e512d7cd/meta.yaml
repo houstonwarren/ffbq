@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e3572a6f79714b2e81ece684e512d7cd/artifacts
+end_time: 1697442261468
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e3572a6f79714b2e81ece684e512d7cd
+run_name: bemused-mole-356
+run_uuid: e3572a6f79714b2e81ece684e512d7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442261412
+status: 3
+tags: []
+user_id: houston

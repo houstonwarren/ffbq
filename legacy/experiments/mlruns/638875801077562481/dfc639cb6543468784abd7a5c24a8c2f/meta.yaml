@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dfc639cb6543468784abd7a5c24a8c2f/artifacts
+end_time: 1701667693603
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dfc639cb6543468784abd7a5c24a8c2f
+run_name: exultant-owl-453
+run_uuid: dfc639cb6543468784abd7a5c24a8c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667693468
+status: 3
+tags: []
+user_id: houston

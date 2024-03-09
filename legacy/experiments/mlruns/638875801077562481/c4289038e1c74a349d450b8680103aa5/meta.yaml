@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c4289038e1c74a349d450b8680103aa5/artifacts
+end_time: 1701667536507
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c4289038e1c74a349d450b8680103aa5
+run_name: agreeable-moose-583
+run_uuid: c4289038e1c74a349d450b8680103aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667536415
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/0dcf60c6149c47fca735fd1eba4ef2ac/artifacts
+end_time: 1697359158093
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 0dcf60c6149c47fca735fd1eba4ef2ac
+run_name: popular-gull-71
+run_uuid: 0dcf60c6149c47fca735fd1eba4ef2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359158037
+status: 3
+tags: []
+user_id: houston

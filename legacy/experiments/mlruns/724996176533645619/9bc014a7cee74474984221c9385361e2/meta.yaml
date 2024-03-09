@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9bc014a7cee74474984221c9385361e2/artifacts
+end_time: 1697194964339
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9bc014a7cee74474984221c9385361e2
+run_name: flawless-stork-766
+run_uuid: 9bc014a7cee74474984221c9385361e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194964306
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a784f66705fd4617a10f7a7db382631e/artifacts
+end_time: 1697359064661
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a784f66705fd4617a10f7a7db382631e
+run_name: debonair-loon-755
+run_uuid: a784f66705fd4617a10f7a7db382631e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359064599
+status: 3
+tags: []
+user_id: houston

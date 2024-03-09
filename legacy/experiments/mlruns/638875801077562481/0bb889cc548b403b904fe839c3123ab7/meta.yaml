@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0bb889cc548b403b904fe839c3123ab7/artifacts
+end_time: 1701667845323
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0bb889cc548b403b904fe839c3123ab7
+run_name: learned-ox-84
+run_uuid: 0bb889cc548b403b904fe839c3123ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667845165
+status: 3
+tags: []
+user_id: houston

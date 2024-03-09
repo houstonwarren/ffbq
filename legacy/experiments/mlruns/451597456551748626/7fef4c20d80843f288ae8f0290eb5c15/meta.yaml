@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/7fef4c20d80843f288ae8f0290eb5c15/artifacts
+end_time: 1701660312832
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 7fef4c20d80843f288ae8f0290eb5c15
+run_name: adaptable-quail-386
+run_uuid: 7fef4c20d80843f288ae8f0290eb5c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660312729
+status: 3
+tags: []
+user_id: houston

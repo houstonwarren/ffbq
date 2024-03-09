@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c8f85e947e724f8384b3bc50e914cf2e/artifacts
+end_time: 1701667653286
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c8f85e947e724f8384b3bc50e914cf2e
+run_name: dashing-swan-553
+run_uuid: c8f85e947e724f8384b3bc50e914cf2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667653158
+status: 3
+tags: []
+user_id: houston

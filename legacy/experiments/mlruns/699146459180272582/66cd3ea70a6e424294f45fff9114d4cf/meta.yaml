@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/66cd3ea70a6e424294f45fff9114d4cf/artifacts
+end_time: 1698114720167
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 66cd3ea70a6e424294f45fff9114d4cf
+run_name: selective-donkey-850
+run_uuid: 66cd3ea70a6e424294f45fff9114d4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114720106
+status: 3
+tags: []
+user_id: houston

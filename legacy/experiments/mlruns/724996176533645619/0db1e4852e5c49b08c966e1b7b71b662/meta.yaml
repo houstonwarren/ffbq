@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0db1e4852e5c49b08c966e1b7b71b662/artifacts
+end_time: 1697193643017
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0db1e4852e5c49b08c966e1b7b71b662
+run_name: bittersweet-mole-89
+run_uuid: 0db1e4852e5c49b08c966e1b7b71b662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193643006
+status: 3
+tags: []
+user_id: houston

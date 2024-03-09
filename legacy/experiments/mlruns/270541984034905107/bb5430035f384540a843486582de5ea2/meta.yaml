@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/bb5430035f384540a843486582de5ea2/artifacts
+end_time: 1697441758722
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: bb5430035f384540a843486582de5ea2
+run_name: peaceful-owl-17
+run_uuid: bb5430035f384540a843486582de5ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441758665
+status: 3
+tags: []
+user_id: houston

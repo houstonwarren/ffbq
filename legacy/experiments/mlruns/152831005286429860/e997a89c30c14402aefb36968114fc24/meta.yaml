@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/e997a89c30c14402aefb36968114fc24/artifacts
+end_time: 1697360259053
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: e997a89c30c14402aefb36968114fc24
+run_name: honorable-stag-740
+run_uuid: e997a89c30c14402aefb36968114fc24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360259004
+status: 3
+tags: []
+user_id: houston

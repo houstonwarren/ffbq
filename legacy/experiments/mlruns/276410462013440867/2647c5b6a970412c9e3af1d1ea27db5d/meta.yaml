@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2647c5b6a970412c9e3af1d1ea27db5d/artifacts
+end_time: 1697195864167
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2647c5b6a970412c9e3af1d1ea27db5d
+run_name: beautiful-flea-27
+run_uuid: 2647c5b6a970412c9e3af1d1ea27db5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195864107
+status: 3
+tags: []
+user_id: houston

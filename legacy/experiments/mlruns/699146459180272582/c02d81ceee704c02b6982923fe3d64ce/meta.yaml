@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c02d81ceee704c02b6982923fe3d64ce/artifacts
+end_time: 1698113730164
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c02d81ceee704c02b6982923fe3d64ce
+run_name: bedecked-wren-647
+run_uuid: c02d81ceee704c02b6982923fe3d64ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113730107
+status: 3
+tags: []
+user_id: houston

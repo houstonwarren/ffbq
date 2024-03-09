@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/64a1687a8cf541d288fa62e724b8f819/artifacts
+end_time: 1697360388012
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 64a1687a8cf541d288fa62e724b8f819
+run_name: enchanting-wasp-54
+run_uuid: 64a1687a8cf541d288fa62e724b8f819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360387958
+status: 3
+tags: []
+user_id: houston

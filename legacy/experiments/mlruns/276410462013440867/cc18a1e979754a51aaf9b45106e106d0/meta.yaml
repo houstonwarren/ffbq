@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cc18a1e979754a51aaf9b45106e106d0/artifacts
+end_time: 1697197800122
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cc18a1e979754a51aaf9b45106e106d0
+run_name: nosy-stoat-234
+run_uuid: cc18a1e979754a51aaf9b45106e106d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197800103
+status: 3
+tags: []
+user_id: houston

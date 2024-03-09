@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a60b532036dd4574b0258d9387a914a1/artifacts
+end_time: 1697195588906
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a60b532036dd4574b0258d9387a914a1
+run_name: agreeable-ram-467
+run_uuid: a60b532036dd4574b0258d9387a914a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195588835
+status: 3
+tags: []
+user_id: houston

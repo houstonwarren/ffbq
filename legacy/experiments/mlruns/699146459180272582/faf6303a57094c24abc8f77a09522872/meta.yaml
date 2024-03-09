@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/faf6303a57094c24abc8f77a09522872/artifacts
+end_time: 1698114240834
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: faf6303a57094c24abc8f77a09522872
+run_name: useful-pig-704
+run_uuid: faf6303a57094c24abc8f77a09522872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114240762
+status: 3
+tags: []
+user_id: houston

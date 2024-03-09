@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/34a28ab155804395bd6bdf724e9afcb2/artifacts
+end_time: 1697359179645
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 34a28ab155804395bd6bdf724e9afcb2
+run_name: intrigued-sponge-717
+run_uuid: 34a28ab155804395bd6bdf724e9afcb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359179592
+status: 3
+tags: []
+user_id: houston

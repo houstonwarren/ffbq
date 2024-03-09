@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9ea21afc613748d4918405076465edb6/artifacts
+end_time: 1697195539319
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9ea21afc613748d4918405076465edb6
+run_name: sincere-mole-207
+run_uuid: 9ea21afc613748d4918405076465edb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539307
+status: 3
+tags: []
+user_id: houston

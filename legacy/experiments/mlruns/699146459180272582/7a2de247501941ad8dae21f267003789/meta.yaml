@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7a2de247501941ad8dae21f267003789/artifacts
+end_time: 1698113729468
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7a2de247501941ad8dae21f267003789
+run_name: nebulous-wren-757
+run_uuid: 7a2de247501941ad8dae21f267003789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113729410
+status: 3
+tags: []
+user_id: houston

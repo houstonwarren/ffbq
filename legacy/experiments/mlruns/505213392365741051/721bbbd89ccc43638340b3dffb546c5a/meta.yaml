@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/721bbbd89ccc43638340b3dffb546c5a/artifacts
+end_time: 1701659448249
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 721bbbd89ccc43638340b3dffb546c5a
+run_name: colorful-hawk-215
+run_uuid: 721bbbd89ccc43638340b3dffb546c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659448131
+status: 3
+tags: []
+user_id: houston

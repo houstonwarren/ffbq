@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d8b11407719544549cbfb0873fd85d6a/artifacts
+end_time: 1701660527052
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d8b11407719544549cbfb0873fd85d6a
+run_name: likeable-carp-81
+run_uuid: d8b11407719544549cbfb0873fd85d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660526943
+status: 3
+tags: []
+user_id: houston

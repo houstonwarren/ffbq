@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bb6538e9cabe475a83c0ec2e3138d778/artifacts
+end_time: 1698113782337
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bb6538e9cabe475a83c0ec2e3138d778
+run_name: legendary-sponge-971
+run_uuid: bb6538e9cabe475a83c0ec2e3138d778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782275
+status: 3
+tags: []
+user_id: houston

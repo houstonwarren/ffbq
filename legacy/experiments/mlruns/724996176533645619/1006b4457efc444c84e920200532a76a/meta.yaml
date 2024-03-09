@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1006b4457efc444c84e920200532a76a/artifacts
+end_time: 1697194416163
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1006b4457efc444c84e920200532a76a
+run_name: likeable-fawn-65
+run_uuid: 1006b4457efc444c84e920200532a76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194416142
+status: 3
+tags: []
+user_id: houston

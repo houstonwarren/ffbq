@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3dadfbfa708045f7813f21fe718d8358/artifacts
+end_time: 1697359094617
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3dadfbfa708045f7813f21fe718d8358
+run_name: gifted-kit-863
+run_uuid: 3dadfbfa708045f7813f21fe718d8358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359094569
+status: 3
+tags: []
+user_id: houston

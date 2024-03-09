@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/48c73b098cc14f6e8ed8e56b9d94cce3/artifacts
+end_time: 1698114483583
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 48c73b098cc14f6e8ed8e56b9d94cce3
+run_name: bedecked-flea-405
+run_uuid: 48c73b098cc14f6e8ed8e56b9d94cce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114483510
+status: 3
+tags: []
+user_id: houston

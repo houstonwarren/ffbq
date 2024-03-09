@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/36da46d09f4f4f169f1cdda85bf38f3f/artifacts
+end_time: 1697193726454
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 36da46d09f4f4f169f1cdda85bf38f3f
+run_name: sneaky-seal-179
+run_uuid: 36da46d09f4f4f169f1cdda85bf38f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726442
+status: 3
+tags: []
+user_id: houston

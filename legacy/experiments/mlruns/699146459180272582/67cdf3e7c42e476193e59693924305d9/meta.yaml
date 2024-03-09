@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/67cdf3e7c42e476193e59693924305d9/artifacts
+end_time: 1698113572099
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 67cdf3e7c42e476193e59693924305d9
+run_name: zealous-ape-708
+run_uuid: 67cdf3e7c42e476193e59693924305d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113572044
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fe5bb9a8d7eb47269d141c0d79406718/artifacts
+end_time: 1697193829180
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fe5bb9a8d7eb47269d141c0d79406718
+run_name: stately-fowl-372
+run_uuid: fe5bb9a8d7eb47269d141c0d79406718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829153
+status: 3
+tags: []
+user_id: houston

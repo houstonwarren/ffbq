@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/324652b63f9b4fb6a03a53b6d4790eb4/artifacts
+deleted_time: 1701665274136
+end_time: 1701664709323
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 324652b63f9b4fb6a03a53b6d4790eb4
+run_name: auspicious-lynx-664
+run_uuid: 324652b63f9b4fb6a03a53b6d4790eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664709287
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ce6234b6601b4d528c4cae43a2cb4d0e/artifacts
+end_time: 1701667363002
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ce6234b6601b4d528c4cae43a2cb4d0e
+run_name: upset-perch-616
+run_uuid: ce6234b6601b4d528c4cae43a2cb4d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667362918
+status: 3
+tags: []
+user_id: houston

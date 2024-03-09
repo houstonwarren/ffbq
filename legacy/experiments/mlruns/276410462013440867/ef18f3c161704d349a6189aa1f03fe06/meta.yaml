@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ef18f3c161704d349a6189aa1f03fe06/artifacts
+end_time: 1697198230928
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ef18f3c161704d349a6189aa1f03fe06
+run_name: valuable-goat-431
+run_uuid: ef18f3c161704d349a6189aa1f03fe06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198230907
+status: 3
+tags: []
+user_id: houston

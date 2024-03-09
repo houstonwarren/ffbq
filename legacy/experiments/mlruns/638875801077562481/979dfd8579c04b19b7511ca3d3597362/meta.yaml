@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/979dfd8579c04b19b7511ca3d3597362/artifacts
+end_time: 1701667670820
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 979dfd8579c04b19b7511ca3d3597362
+run_name: crawling-duck-588
+run_uuid: 979dfd8579c04b19b7511ca3d3597362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667670680
+status: 3
+tags: []
+user_id: houston

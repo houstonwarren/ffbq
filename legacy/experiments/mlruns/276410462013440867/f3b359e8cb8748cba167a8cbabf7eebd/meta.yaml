@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f3b359e8cb8748cba167a8cbabf7eebd/artifacts
+end_time: 1697198109659
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f3b359e8cb8748cba167a8cbabf7eebd
+run_name: legendary-shark-527
+run_uuid: f3b359e8cb8748cba167a8cbabf7eebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198109638
+status: 3
+tags: []
+user_id: houston

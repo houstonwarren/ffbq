@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/661f78d808bf41f9b720601fa3b09c82/artifacts
+end_time: 1701660483791
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 661f78d808bf41f9b720601fa3b09c82
+run_name: handsome-skunk-801
+run_uuid: 661f78d808bf41f9b720601fa3b09c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660483656
+status: 3
+tags: []
+user_id: houston

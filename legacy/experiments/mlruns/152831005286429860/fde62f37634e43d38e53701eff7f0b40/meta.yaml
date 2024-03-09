@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/fde62f37634e43d38e53701eff7f0b40/artifacts
+end_time: 1697360393218
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: fde62f37634e43d38e53701eff7f0b40
+run_name: vaunted-crow-933
+run_uuid: fde62f37634e43d38e53701eff7f0b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360393165
+status: 3
+tags: []
+user_id: houston

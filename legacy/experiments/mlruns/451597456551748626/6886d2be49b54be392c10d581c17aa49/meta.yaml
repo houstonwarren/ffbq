@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/6886d2be49b54be392c10d581c17aa49/artifacts
+end_time: 1701660525287
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 6886d2be49b54be392c10d581c17aa49
+run_name: unleashed-kite-900
+run_uuid: 6886d2be49b54be392c10d581c17aa49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660525184
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ca553a12faf84579b0be971c958a4840/artifacts
+end_time: 1701667736458
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ca553a12faf84579b0be971c958a4840
+run_name: welcoming-bear-902
+run_uuid: ca553a12faf84579b0be971c958a4840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667736328
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/dd23c8760171405d89323a01762428b4/artifacts
+end_time: 1698113531384
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: dd23c8760171405d89323a01762428b4
+run_name: kindly-rook-400
+run_uuid: dd23c8760171405d89323a01762428b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113531331
+status: 3
+tags: []
+user_id: houston

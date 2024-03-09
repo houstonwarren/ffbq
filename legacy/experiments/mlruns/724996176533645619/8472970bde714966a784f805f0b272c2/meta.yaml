@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8472970bde714966a784f805f0b272c2/artifacts
+end_time: 1697194851836
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8472970bde714966a784f805f0b272c2
+run_name: able-snail-725
+run_uuid: 8472970bde714966a784f805f0b272c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194851795
+status: 3
+tags: []
+user_id: houston

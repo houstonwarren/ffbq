@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e0e57cb742df4a12bbd6c41d5f528055/artifacts
+end_time: 1697193709622
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e0e57cb742df4a12bbd6c41d5f528055
+run_name: magnificent-worm-715
+run_uuid: e0e57cb742df4a12bbd6c41d5f528055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709580
+status: 3
+tags: []
+user_id: houston

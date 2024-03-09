@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ed46d96a1b7a4e9d9cbda8845e789d13/artifacts
+end_time: 1698115194927
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ed46d96a1b7a4e9d9cbda8845e789d13
+run_name: charming-shrimp-455
+run_uuid: ed46d96a1b7a4e9d9cbda8845e789d13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115194865
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/88fda914120e4ceab505adcce43fb17d/artifacts
+end_time: 1698114190016
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 88fda914120e4ceab505adcce43fb17d
+run_name: caring-goose-861
+run_uuid: 88fda914120e4ceab505adcce43fb17d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114189955
+status: 3
+tags: []
+user_id: houston

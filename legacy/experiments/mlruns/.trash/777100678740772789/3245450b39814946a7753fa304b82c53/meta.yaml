@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/3245450b39814946a7753fa304b82c53/artifacts
+deleted_time: 1701660238886
+end_time: 1701660172248
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 3245450b39814946a7753fa304b82c53
+run_name: puzzled-fowl-549
+run_uuid: 3245450b39814946a7753fa304b82c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660172041
+status: 3
+tags: []
+user_id: houston

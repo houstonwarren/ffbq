@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3d4236af458845ccba22bd092fa3178f/artifacts
+end_time: 1701660392031
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3d4236af458845ccba22bd092fa3178f
+run_name: dashing-shrimp-445
+run_uuid: 3d4236af458845ccba22bd092fa3178f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660391938
+status: 3
+tags: []
+user_id: houston

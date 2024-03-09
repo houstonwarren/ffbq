@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9143268dc6164b88b02f6c21011d67ea/artifacts
+end_time: 1697193980078
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9143268dc6164b88b02f6c21011d67ea
+run_name: respected-sow-122
+run_uuid: 9143268dc6164b88b02f6c21011d67ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193980062
+status: 3
+tags: []
+user_id: houston

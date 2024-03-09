@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d53e149959244971b494e9fdb866cada/artifacts
+end_time: 1701660280054
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d53e149959244971b494e9fdb866cada
+run_name: secretive-fox-675
+run_uuid: d53e149959244971b494e9fdb866cada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660279982
+status: 3
+tags: []
+user_id: houston

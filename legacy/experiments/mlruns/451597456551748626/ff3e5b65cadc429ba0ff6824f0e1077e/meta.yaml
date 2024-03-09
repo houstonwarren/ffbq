@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ff3e5b65cadc429ba0ff6824f0e1077e/artifacts
+end_time: 1701660463867
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ff3e5b65cadc429ba0ff6824f0e1077e
+run_name: likeable-fawn-152
+run_uuid: ff3e5b65cadc429ba0ff6824f0e1077e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660463732
+status: 3
+tags: []
+user_id: houston

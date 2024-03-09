@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/da02c469e9d444c9a3b41f20215bfe6f/artifacts
+end_time: 1697197870201
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: da02c469e9d444c9a3b41f20215bfe6f
+run_name: receptive-wasp-843
+run_uuid: da02c469e9d444c9a3b41f20215bfe6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197870173
+status: 3
+tags: []
+user_id: houston

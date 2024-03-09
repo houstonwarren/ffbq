@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0274c91e9a6f4ab3a8bef3f6e3d38cc4/artifacts
+end_time: 1701667994904
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0274c91e9a6f4ab3a8bef3f6e3d38cc4
+run_name: amazing-moose-621
+run_uuid: 0274c91e9a6f4ab3a8bef3f6e3d38cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667994727
+status: 3
+tags: []
+user_id: houston

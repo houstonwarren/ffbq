@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/41a626d4089c4fdfb765a2b1e5e3212d/artifacts
+end_time: 1701660322701
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 41a626d4089c4fdfb765a2b1e5e3212d
+run_name: tasteful-moth-591
+run_uuid: 41a626d4089c4fdfb765a2b1e5e3212d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660322606
+status: 3
+tags: []
+user_id: houston

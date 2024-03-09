@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/eb1d86c6b6224fdd91c80958e77beded/artifacts
+end_time: 1701659509179
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: eb1d86c6b6224fdd91c80958e77beded
+run_name: intrigued-auk-273
+run_uuid: eb1d86c6b6224fdd91c80958e77beded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659509030
+status: 3
+tags: []
+user_id: houston

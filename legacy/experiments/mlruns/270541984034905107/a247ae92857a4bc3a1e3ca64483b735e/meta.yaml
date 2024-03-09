@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/a247ae92857a4bc3a1e3ca64483b735e/artifacts
+end_time: 1697440915702
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: a247ae92857a4bc3a1e3ca64483b735e
+run_name: loud-cod-470
+run_uuid: a247ae92857a4bc3a1e3ca64483b735e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440915648
+status: 3
+tags: []
+user_id: houston

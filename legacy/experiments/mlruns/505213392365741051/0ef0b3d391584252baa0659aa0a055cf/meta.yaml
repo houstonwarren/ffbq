@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/0ef0b3d391584252baa0659aa0a055cf/artifacts
+end_time: 1701659514372
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 0ef0b3d391584252baa0659aa0a055cf
+run_name: exultant-mouse-809
+run_uuid: 0ef0b3d391584252baa0659aa0a055cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659514199
+status: 3
+tags: []
+user_id: houston

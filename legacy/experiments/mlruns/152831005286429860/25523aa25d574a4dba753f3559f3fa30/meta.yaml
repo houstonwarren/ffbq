@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/25523aa25d574a4dba753f3559f3fa30/artifacts
+end_time: 1697360397896
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 25523aa25d574a4dba753f3559f3fa30
+run_name: popular-lynx-862
+run_uuid: 25523aa25d574a4dba753f3559f3fa30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360397842
+status: 3
+tags: []
+user_id: houston

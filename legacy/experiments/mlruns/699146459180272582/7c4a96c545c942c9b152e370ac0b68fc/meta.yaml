@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7c4a96c545c942c9b152e370ac0b68fc/artifacts
+end_time: 1698113470659
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7c4a96c545c942c9b152e370ac0b68fc
+run_name: charming-mink-997
+run_uuid: 7c4a96c545c942c9b152e370ac0b68fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113470606
+status: 3
+tags: []
+user_id: houston

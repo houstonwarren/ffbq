@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/383791c1c6814ab1877aa4b4f4348444/artifacts
+end_time: 1701667593672
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 383791c1c6814ab1877aa4b4f4348444
+run_name: secretive-rat-437
+run_uuid: 383791c1c6814ab1877aa4b4f4348444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667593554
+status: 3
+tags: []
+user_id: houston

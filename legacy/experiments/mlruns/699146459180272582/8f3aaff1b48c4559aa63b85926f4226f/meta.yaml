@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8f3aaff1b48c4559aa63b85926f4226f/artifacts
+end_time: 1698113985064
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8f3aaff1b48c4559aa63b85926f4226f
+run_name: capricious-goat-186
+run_uuid: 8f3aaff1b48c4559aa63b85926f4226f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113985004
+status: 3
+tags: []
+user_id: houston

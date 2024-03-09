@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e75b3137f0b5439e8c3e3315e766c21f/artifacts
+end_time: 1697196718223
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e75b3137f0b5439e8c3e3315e766c21f
+run_name: exultant-doe-926
+run_uuid: e75b3137f0b5439e8c3e3315e766c21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196718207
+status: 3
+tags: []
+user_id: houston

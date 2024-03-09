@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/930aef61366c4ee4ba440c959854e341/artifacts
+end_time: 1697197904574
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 930aef61366c4ee4ba440c959854e341
+run_name: enthused-bird-29
+run_uuid: 930aef61366c4ee4ba440c959854e341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197904555
+status: 3
+tags: []
+user_id: houston

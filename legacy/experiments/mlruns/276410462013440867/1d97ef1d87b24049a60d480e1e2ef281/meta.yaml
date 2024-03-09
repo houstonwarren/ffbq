@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1d97ef1d87b24049a60d480e1e2ef281/artifacts
+end_time: 1697195539351
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1d97ef1d87b24049a60d480e1e2ef281
+run_name: caring-bass-786
+run_uuid: 1d97ef1d87b24049a60d480e1e2ef281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539339
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1237d83d723848daaf3a07ebf6d6cc3f/artifacts
+end_time: 1697193909564
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1237d83d723848daaf3a07ebf6d6cc3f
+run_name: bemused-bee-837
+run_uuid: 1237d83d723848daaf3a07ebf6d6cc3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909541
+status: 3
+tags: []
+user_id: houston

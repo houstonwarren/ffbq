@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0fdedb2d8a864b45ba1b34d43885edf4/artifacts
+end_time: 1698113458763
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0fdedb2d8a864b45ba1b34d43885edf4
+run_name: awesome-wasp-71
+run_uuid: 0fdedb2d8a864b45ba1b34d43885edf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458710
+status: 3
+tags: []
+user_id: houston

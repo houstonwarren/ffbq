@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/1e963a54fa98444c88105f91695d7741/artifacts
+end_time: 1698113747749
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 1e963a54fa98444c88105f91695d7741
+run_name: rumbling-worm-755
+run_uuid: 1e963a54fa98444c88105f91695d7741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113747692
+status: 3
+tags: []
+user_id: houston

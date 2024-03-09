@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6d443e812e0545e18a85f727f3888514/artifacts
+end_time: 1697359031924
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6d443e812e0545e18a85f727f3888514
+run_name: efficient-bug-65
+run_uuid: 6d443e812e0545e18a85f727f3888514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359031880
+status: 3
+tags: []
+user_id: houston

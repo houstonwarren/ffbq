@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/372ae32890b14338a006ebf10c56891b/artifacts
+end_time: 1698114960076
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 372ae32890b14338a006ebf10c56891b
+run_name: shivering-stoat-159
+run_uuid: 372ae32890b14338a006ebf10c56891b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114960013
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/00ff8af4c8fd464481b74ddc87fde153/artifacts
+end_time: 1698113599497
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 00ff8af4c8fd464481b74ddc87fde153
+run_name: bedecked-skunk-110
+run_uuid: 00ff8af4c8fd464481b74ddc87fde153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599443
+status: 3
+tags: []
+user_id: houston

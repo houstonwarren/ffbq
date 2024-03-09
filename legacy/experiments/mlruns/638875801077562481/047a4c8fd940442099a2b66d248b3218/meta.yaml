@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/047a4c8fd940442099a2b66d248b3218/artifacts
+end_time: 1701667747995
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 047a4c8fd940442099a2b66d248b3218
+run_name: dazzling-squid-163
+run_uuid: 047a4c8fd940442099a2b66d248b3218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667747838
+status: 3
+tags: []
+user_id: houston

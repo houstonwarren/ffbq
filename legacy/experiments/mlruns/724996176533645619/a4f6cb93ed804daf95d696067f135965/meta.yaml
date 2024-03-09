@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a4f6cb93ed804daf95d696067f135965/artifacts
+end_time: 1697193726503
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a4f6cb93ed804daf95d696067f135965
+run_name: gregarious-hare-657
+run_uuid: a4f6cb93ed804daf95d696067f135965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726491
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/84af731d5d9e40ab810f1bd7ef80af1a/artifacts
+end_time: 1697442159227
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 84af731d5d9e40ab810f1bd7ef80af1a
+run_name: shivering-moth-766
+run_uuid: 84af731d5d9e40ab810f1bd7ef80af1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442159171
+status: 3
+tags: []
+user_id: houston

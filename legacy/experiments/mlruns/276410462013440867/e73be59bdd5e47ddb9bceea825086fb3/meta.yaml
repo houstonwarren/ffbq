@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e73be59bdd5e47ddb9bceea825086fb3/artifacts
+end_time: 1697195539125
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e73be59bdd5e47ddb9bceea825086fb3
+run_name: glamorous-shoat-154
+run_uuid: e73be59bdd5e47ddb9bceea825086fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539065
+status: 3
+tags: []
+user_id: houston

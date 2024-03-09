@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d6c4d2a7f86842cca83a29372f049968/artifacts
+end_time: 1698114190086
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d6c4d2a7f86842cca83a29372f049968
+run_name: grandiose-ant-940
+run_uuid: d6c4d2a7f86842cca83a29372f049968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114190026
+status: 3
+tags: []
+user_id: houston

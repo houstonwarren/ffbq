@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/11036d7b694c4c09b0f801b65537a89c/artifacts
+end_time: 1697196717991
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 11036d7b694c4c09b0f801b65537a89c
+run_name: whimsical-grub-972
+run_uuid: 11036d7b694c4c09b0f801b65537a89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196717973
+status: 3
+tags: []
+user_id: houston

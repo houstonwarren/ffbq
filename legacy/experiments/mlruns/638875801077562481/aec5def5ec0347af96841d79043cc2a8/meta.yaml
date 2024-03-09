@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/aec5def5ec0347af96841d79043cc2a8/artifacts
+end_time: 1701667947375
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: aec5def5ec0347af96841d79043cc2a8
+run_name: industrious-worm-270
+run_uuid: aec5def5ec0347af96841d79043cc2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667947197
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/414bcc3ad09040f39bd66b397ab12fed/artifacts
+end_time: 1697440663208
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 414bcc3ad09040f39bd66b397ab12fed
+run_name: charming-horse-743
+run_uuid: 414bcc3ad09040f39bd66b397ab12fed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663157
+status: 3
+tags: []
+user_id: houston

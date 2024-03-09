@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/6e835316fb8a4e70bccdc64692a401d3/artifacts
+end_time: 1697441466860
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 6e835316fb8a4e70bccdc64692a401d3
+run_name: skillful-fowl-413
+run_uuid: 6e835316fb8a4e70bccdc64692a401d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441466804
+status: 3
+tags: []
+user_id: houston

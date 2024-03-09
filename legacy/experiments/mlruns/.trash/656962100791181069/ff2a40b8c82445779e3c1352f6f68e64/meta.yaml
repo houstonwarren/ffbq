@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/ff2a40b8c82445779e3c1352f6f68e64/artifacts
+deleted_time: 1701665274136
+end_time: 1701664732244
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: ff2a40b8c82445779e3c1352f6f68e64
+run_name: secretive-cub-170
+run_uuid: ff2a40b8c82445779e3c1352f6f68e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664732201
+status: 3
+tags: []
+user_id: houston

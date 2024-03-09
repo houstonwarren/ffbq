@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/54f78e80d2dc400c96e81692f678c754/artifacts
+end_time: 1701667630127
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 54f78e80d2dc400c96e81692f678c754
+run_name: nimble-worm-254
+run_uuid: 54f78e80d2dc400c96e81692f678c754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667630001
+status: 3
+tags: []
+user_id: houston

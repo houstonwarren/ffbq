@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8670cc566f0b4433a8c7731f330b1c99/artifacts
+end_time: 1701660499245
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8670cc566f0b4433a8c7731f330b1c99
+run_name: mysterious-foal-106
+run_uuid: 8670cc566f0b4433a8c7731f330b1c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660499066
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/663f2836e8b4418fa852de6014c7ff1c/artifacts
+end_time: 1697441902966
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 663f2836e8b4418fa852de6014c7ff1c
+run_name: bald-wasp-299
+run_uuid: 663f2836e8b4418fa852de6014c7ff1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441902912
+status: 3
+tags: []
+user_id: houston

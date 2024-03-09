@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0589beeef5cb4de38f7d9e54fca37b85/artifacts
+end_time: 1697193676505
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0589beeef5cb4de38f7d9e54fca37b85
+run_name: bedecked-colt-379
+run_uuid: 0589beeef5cb4de38f7d9e54fca37b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193676461
+status: 3
+tags: []
+user_id: houston

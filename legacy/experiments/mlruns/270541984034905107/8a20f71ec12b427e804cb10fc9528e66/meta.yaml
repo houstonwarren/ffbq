@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8a20f71ec12b427e804cb10fc9528e66/artifacts
+end_time: 1697440813613
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8a20f71ec12b427e804cb10fc9528e66
+run_name: trusting-mink-350
+run_uuid: 8a20f71ec12b427e804cb10fc9528e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440813561
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/310346176778171174/631c3924c71a45e4809d18d011a6c840/artifacts
+end_time: 1696909010270
+entry_point_name: ''
+experiment_id: '310346176778171174'
+lifecycle_stage: active
+run_id: 631c3924c71a45e4809d18d011a6c840
+run_name: orderly-flea-825
+run_uuid: 631c3924c71a45e4809d18d011a6c840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696909010260
+status: 3
+tags: []
+user_id: houston

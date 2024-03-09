@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/92a1549d77f74469b04127fd834230be/artifacts
+end_time: 1697193726369
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 92a1549d77f74469b04127fd834230be
+run_name: gregarious-moose-900
+run_uuid: 92a1549d77f74469b04127fd834230be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726357
+status: 3
+tags: []
+user_id: houston

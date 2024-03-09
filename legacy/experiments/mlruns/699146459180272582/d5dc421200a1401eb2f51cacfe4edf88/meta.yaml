@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d5dc421200a1401eb2f51cacfe4edf88/artifacts
+end_time: 1698113483111
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d5dc421200a1401eb2f51cacfe4edf88
+run_name: sassy-rook-496
+run_uuid: d5dc421200a1401eb2f51cacfe4edf88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113483059
+status: 3
+tags: []
+user_id: houston

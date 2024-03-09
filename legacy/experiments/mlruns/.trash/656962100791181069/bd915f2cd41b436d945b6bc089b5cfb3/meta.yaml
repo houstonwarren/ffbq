@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/bd915f2cd41b436d945b6bc089b5cfb3/artifacts
+deleted_time: 1701665274136
+end_time: 1701664646308
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: bd915f2cd41b436d945b6bc089b5cfb3
+run_name: tasteful-calf-7
+run_uuid: bd915f2cd41b436d945b6bc089b5cfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664646292
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/86724942f51545bb8e9d979f7b8f39f7/artifacts
+end_time: 1697359071760
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 86724942f51545bb8e9d979f7b8f39f7
+run_name: big-sloth-514
+run_uuid: 86724942f51545bb8e9d979f7b8f39f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359071702
+status: 3
+tags: []
+user_id: houston

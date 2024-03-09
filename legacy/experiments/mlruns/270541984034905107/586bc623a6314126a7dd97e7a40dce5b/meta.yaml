@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/586bc623a6314126a7dd97e7a40dce5b/artifacts
+end_time: 1697440699214
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 586bc623a6314126a7dd97e7a40dce5b
+run_name: marvelous-midge-907
+run_uuid: 586bc623a6314126a7dd97e7a40dce5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440699163
+status: 3
+tags: []
+user_id: houston

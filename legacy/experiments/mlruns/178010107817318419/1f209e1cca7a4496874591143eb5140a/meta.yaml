@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/1f209e1cca7a4496874591143eb5140a/artifacts
+end_time: 1697359063915
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 1f209e1cca7a4496874591143eb5140a
+run_name: able-donkey-912
+run_uuid: 1f209e1cca7a4496874591143eb5140a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359063866
+status: 3
+tags: []
+user_id: houston

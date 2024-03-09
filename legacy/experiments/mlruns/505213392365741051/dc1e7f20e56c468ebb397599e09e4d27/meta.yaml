@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/dc1e7f20e56c468ebb397599e09e4d27/artifacts
+end_time: 1701659445566
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: dc1e7f20e56c468ebb397599e09e4d27
+run_name: rare-donkey-857
+run_uuid: dc1e7f20e56c468ebb397599e09e4d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659445421
+status: 3
+tags: []
+user_id: houston

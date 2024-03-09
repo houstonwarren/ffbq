@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/619bb9f013d54cbbadcd07ddc9e5c44d/artifacts
+end_time: 1697359144436
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 619bb9f013d54cbbadcd07ddc9e5c44d
+run_name: invincible-colt-90
+run_uuid: 619bb9f013d54cbbadcd07ddc9e5c44d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359144380
+status: 3
+tags: []
+user_id: houston

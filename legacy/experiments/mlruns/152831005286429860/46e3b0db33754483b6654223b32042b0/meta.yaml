@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/46e3b0db33754483b6654223b32042b0/artifacts
+end_time: 1697360394419
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 46e3b0db33754483b6654223b32042b0
+run_name: efficient-smelt-997
+run_uuid: 46e3b0db33754483b6654223b32042b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360394365
+status: 3
+tags: []
+user_id: houston

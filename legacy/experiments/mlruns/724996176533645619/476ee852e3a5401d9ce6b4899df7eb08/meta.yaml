@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/476ee852e3a5401d9ce6b4899df7eb08/artifacts
+end_time: 1697193709814
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 476ee852e3a5401d9ce6b4899df7eb08
+run_name: secretive-wasp-15
+run_uuid: 476ee852e3a5401d9ce6b4899df7eb08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709802
+status: 3
+tags: []
+user_id: houston

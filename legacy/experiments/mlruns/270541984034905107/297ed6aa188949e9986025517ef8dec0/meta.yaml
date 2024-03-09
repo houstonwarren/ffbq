@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/297ed6aa188949e9986025517ef8dec0/artifacts
+end_time: 1697440686691
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 297ed6aa188949e9986025517ef8dec0
+run_name: overjoyed-rook-327
+run_uuid: 297ed6aa188949e9986025517ef8dec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440686635
+status: 3
+tags: []
+user_id: houston

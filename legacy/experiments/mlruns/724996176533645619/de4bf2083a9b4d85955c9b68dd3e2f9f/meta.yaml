@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/de4bf2083a9b4d85955c9b68dd3e2f9f/artifacts
+end_time: 1697194241783
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: de4bf2083a9b4d85955c9b68dd3e2f9f
+run_name: rumbling-finch-900
+run_uuid: de4bf2083a9b4d85955c9b68dd3e2f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194241764
+status: 3
+tags: []
+user_id: houston

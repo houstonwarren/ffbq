@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/191db2b00c19406a9d5af4f8782e4754/artifacts
+end_time: 1701667522830
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 191db2b00c19406a9d5af4f8782e4754
+run_name: dapper-shad-716
+run_uuid: 191db2b00c19406a9d5af4f8782e4754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667522736
+status: 3
+tags: []
+user_id: houston

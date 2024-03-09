@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8b0ef70419204e9ab1a21299c06edd55/artifacts
+end_time: 1701667871669
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8b0ef70419204e9ab1a21299c06edd55
+run_name: bald-rat-30
+run_uuid: 8b0ef70419204e9ab1a21299c06edd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667871455
+status: 3
+tags: []
+user_id: houston

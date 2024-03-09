@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/1d123e6ba2384e148704635dcf6cbd8d/artifacts
+end_time: 1701660353721
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 1d123e6ba2384e148704635dcf6cbd8d
+run_name: colorful-crane-277
+run_uuid: 1d123e6ba2384e148704635dcf6cbd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660353620
+status: 3
+tags: []
+user_id: houston

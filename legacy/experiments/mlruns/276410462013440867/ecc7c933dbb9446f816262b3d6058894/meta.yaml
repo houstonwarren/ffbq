@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ecc7c933dbb9446f816262b3d6058894/artifacts
+end_time: 1697195748332
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ecc7c933dbb9446f816262b3d6058894
+run_name: luminous-skunk-592
+run_uuid: ecc7c933dbb9446f816262b3d6058894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748318
+status: 3
+tags: []
+user_id: houston

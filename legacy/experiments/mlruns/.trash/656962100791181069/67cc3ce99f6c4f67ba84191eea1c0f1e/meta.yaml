@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/67cc3ce99f6c4f67ba84191eea1c0f1e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664819974
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 67cc3ce99f6c4f67ba84191eea1c0f1e
+run_name: amazing-fawn-839
+run_uuid: 67cc3ce99f6c4f67ba84191eea1c0f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664819933
+status: 3
+tags: []
+user_id: houston

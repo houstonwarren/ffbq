@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/63db9ec46f684d339d1e4e57f04a4b7e/artifacts
+end_time: 1701667821706
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 63db9ec46f684d339d1e4e57f04a4b7e
+run_name: delicate-rook-926
+run_uuid: 63db9ec46f684d339d1e4e57f04a4b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667821577
+status: 3
+tags: []
+user_id: houston

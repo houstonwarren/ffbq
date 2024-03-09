@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/beb3a02c6e9446b18fcff663829b9d85/artifacts
+end_time: 1697198040464
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: beb3a02c6e9446b18fcff663829b9d85
+run_name: wistful-ant-913
+run_uuid: beb3a02c6e9446b18fcff663829b9d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198040444
+status: 3
+tags: []
+user_id: houston

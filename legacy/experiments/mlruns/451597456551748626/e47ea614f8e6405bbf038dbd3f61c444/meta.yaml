@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e47ea614f8e6405bbf038dbd3f61c444/artifacts
+end_time: 1701660276891
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e47ea614f8e6405bbf038dbd3f61c444
+run_name: languid-deer-724
+run_uuid: e47ea614f8e6405bbf038dbd3f61c444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660276808
+status: 3
+tags: []
+user_id: houston

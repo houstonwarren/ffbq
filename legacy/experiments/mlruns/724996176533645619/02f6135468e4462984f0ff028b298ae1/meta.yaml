@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/02f6135468e4462984f0ff028b298ae1/artifacts
+end_time: 1697194908065
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 02f6135468e4462984f0ff028b298ae1
+run_name: mysterious-rat-624
+run_uuid: 02f6135468e4462984f0ff028b298ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194908039
+status: 3
+tags: []
+user_id: houston

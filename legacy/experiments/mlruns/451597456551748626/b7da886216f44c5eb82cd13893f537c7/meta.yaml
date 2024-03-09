@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/b7da886216f44c5eb82cd13893f537c7/artifacts
+end_time: 1701660516918
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: b7da886216f44c5eb82cd13893f537c7
+run_name: suave-ape-928
+run_uuid: b7da886216f44c5eb82cd13893f537c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660516795
+status: 3
+tags: []
+user_id: houston

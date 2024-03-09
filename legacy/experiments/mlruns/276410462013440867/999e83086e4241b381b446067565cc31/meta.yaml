@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/999e83086e4241b381b446067565cc31/artifacts
+end_time: 1697195555743
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 999e83086e4241b381b446067565cc31
+run_name: enthused-lynx-98
+run_uuid: 999e83086e4241b381b446067565cc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555732
+status: 3
+tags: []
+user_id: houston

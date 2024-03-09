@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6f5ac712b5b14ec4bb846bc282aa7352/artifacts
+end_time: 1701667737197
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6f5ac712b5b14ec4bb846bc282aa7352
+run_name: puzzled-seal-768
+run_uuid: 6f5ac712b5b14ec4bb846bc282aa7352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667737035
+status: 3
+tags: []
+user_id: houston

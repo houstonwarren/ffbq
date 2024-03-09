@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f8f6d63b01524a559712bf28c4b60f6c/artifacts
+end_time: 1701659544722
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f8f6d63b01524a559712bf28c4b60f6c
+run_name: classy-pig-747
+run_uuid: f8f6d63b01524a559712bf28c4b60f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659544578
+status: 3
+tags: []
+user_id: houston

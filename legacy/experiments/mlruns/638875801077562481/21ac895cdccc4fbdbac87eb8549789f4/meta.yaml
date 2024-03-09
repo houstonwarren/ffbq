@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/21ac895cdccc4fbdbac87eb8549789f4/artifacts
+end_time: 1701667729361
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 21ac895cdccc4fbdbac87eb8549789f4
+run_name: gregarious-lamb-147
+run_uuid: 21ac895cdccc4fbdbac87eb8549789f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667729210
+status: 3
+tags: []
+user_id: houston

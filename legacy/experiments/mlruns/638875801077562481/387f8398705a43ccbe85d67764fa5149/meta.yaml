@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/387f8398705a43ccbe85d67764fa5149/artifacts
+end_time: 1701667860682
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 387f8398705a43ccbe85d67764fa5149
+run_name: bustling-kite-327
+run_uuid: 387f8398705a43ccbe85d67764fa5149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667860530
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/85dab3458f4a4190bd97cafa036b1428/artifacts
+end_time: 1701667525629
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 85dab3458f4a4190bd97cafa036b1428
+run_name: burly-wren-430
+run_uuid: 85dab3458f4a4190bd97cafa036b1428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667525544
+status: 3
+tags: []
+user_id: houston

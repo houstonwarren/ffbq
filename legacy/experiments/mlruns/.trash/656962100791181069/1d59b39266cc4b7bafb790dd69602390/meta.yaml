@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1d59b39266cc4b7bafb790dd69602390/artifacts
+deleted_time: 1701665274136
+end_time: 1701664896796
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1d59b39266cc4b7bafb790dd69602390
+run_name: industrious-grub-176
+run_uuid: 1d59b39266cc4b7bafb790dd69602390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664896735
+status: 3
+tags: []
+user_id: houston

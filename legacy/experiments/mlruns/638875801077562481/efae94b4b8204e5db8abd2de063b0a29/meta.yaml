@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/efae94b4b8204e5db8abd2de063b0a29/artifacts
+end_time: 1701667899556
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: efae94b4b8204e5db8abd2de063b0a29
+run_name: incongruous-cub-188
+run_uuid: efae94b4b8204e5db8abd2de063b0a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667899400
+status: 3
+tags: []
+user_id: houston

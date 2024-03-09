@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/51ae4bac764d48d480056291075be0ec/artifacts
+end_time: 1701667583147
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 51ae4bac764d48d480056291075be0ec
+run_name: smiling-hen-491
+run_uuid: 51ae4bac764d48d480056291075be0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667583039
+status: 3
+tags: []
+user_id: houston

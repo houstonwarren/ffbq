@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/13022dd55ee84837b14e99fb8f1576d5/artifacts
+deleted_time: 1701665274136
+end_time: 1701664778349
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 13022dd55ee84837b14e99fb8f1576d5
+run_name: bold-rat-315
+run_uuid: 13022dd55ee84837b14e99fb8f1576d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664778323
+status: 3
+tags: []
+user_id: houston

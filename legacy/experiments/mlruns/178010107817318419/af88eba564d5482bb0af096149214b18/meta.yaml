@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/af88eba564d5482bb0af096149214b18/artifacts
+end_time: 1697359151300
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: af88eba564d5482bb0af096149214b18
+run_name: polite-owl-79
+run_uuid: af88eba564d5482bb0af096149214b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359151245
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/9a906cda79774d6d8a32af58fa447f86/artifacts
+end_time: 1697193709575
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 9a906cda79774d6d8a32af58fa447f86
+run_name: youthful-cub-167
+run_uuid: 9a906cda79774d6d8a32af58fa447f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709532
+status: 3
+tags: []
+user_id: houston

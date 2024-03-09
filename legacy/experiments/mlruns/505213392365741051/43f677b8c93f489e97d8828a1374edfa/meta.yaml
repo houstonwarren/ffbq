@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/43f677b8c93f489e97d8828a1374edfa/artifacts
+end_time: 1701659553837
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 43f677b8c93f489e97d8828a1374edfa
+run_name: youthful-bug-577
+run_uuid: 43f677b8c93f489e97d8828a1374edfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659553702
+status: 3
+tags: []
+user_id: houston

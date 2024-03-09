@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/64c8a0f1ebef4f9ca84ed85283c71484/artifacts
+end_time: 1701660331759
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 64c8a0f1ebef4f9ca84ed85283c71484
+run_name: unruly-turtle-334
+run_uuid: 64c8a0f1ebef4f9ca84ed85283c71484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660331679
+status: 3
+tags: []
+user_id: houston

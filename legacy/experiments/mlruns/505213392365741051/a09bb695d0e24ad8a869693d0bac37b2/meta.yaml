@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/a09bb695d0e24ad8a869693d0bac37b2/artifacts
+end_time: 1701659547158
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: a09bb695d0e24ad8a869693d0bac37b2
+run_name: secretive-worm-242
+run_uuid: a09bb695d0e24ad8a869693d0bac37b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659546987
+status: 3
+tags: []
+user_id: houston

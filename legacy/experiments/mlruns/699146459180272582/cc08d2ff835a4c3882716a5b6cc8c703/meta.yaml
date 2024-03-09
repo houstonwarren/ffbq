@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/cc08d2ff835a4c3882716a5b6cc8c703/artifacts
+end_time: 1698113613134
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: cc08d2ff835a4c3882716a5b6cc8c703
+run_name: calm-shrimp-486
+run_uuid: cc08d2ff835a4c3882716a5b6cc8c703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113613078
+status: 3
+tags: []
+user_id: houston

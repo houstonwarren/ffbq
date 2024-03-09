@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/08a6a4e62c2a47fca7055b7d713ea574/artifacts
+deleted_time: 1701665274136
+end_time: 1701664664350
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 08a6a4e62c2a47fca7055b7d713ea574
+run_name: melodic-cat-308
+run_uuid: 08a6a4e62c2a47fca7055b7d713ea574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664664315
+status: 3
+tags: []
+user_id: houston

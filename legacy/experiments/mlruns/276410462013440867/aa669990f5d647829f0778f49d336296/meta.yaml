@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/aa669990f5d647829f0778f49d336296/artifacts
+end_time: 1697195786860
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: aa669990f5d647829f0778f49d336296
+run_name: amazing-wren-498
+run_uuid: aa669990f5d647829f0778f49d336296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786846
+status: 3
+tags: []
+user_id: houston

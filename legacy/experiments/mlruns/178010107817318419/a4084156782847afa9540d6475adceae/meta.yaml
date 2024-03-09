@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/a4084156782847afa9540d6475adceae/artifacts
+end_time: 1697359122460
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: a4084156782847afa9540d6475adceae
+run_name: shivering-lynx-846
+run_uuid: a4084156782847afa9540d6475adceae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359122386
+status: 3
+tags: []
+user_id: houston

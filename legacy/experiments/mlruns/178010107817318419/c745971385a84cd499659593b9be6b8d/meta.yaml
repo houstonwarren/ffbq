@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/c745971385a84cd499659593b9be6b8d/artifacts
+end_time: 1697359115496
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: c745971385a84cd499659593b9be6b8d
+run_name: intrigued-pig-396
+run_uuid: c745971385a84cd499659593b9be6b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359115446
+status: 3
+tags: []
+user_id: houston

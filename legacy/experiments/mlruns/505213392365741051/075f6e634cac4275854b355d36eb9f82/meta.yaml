@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/075f6e634cac4275854b355d36eb9f82/artifacts
+end_time: 1701659428942
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 075f6e634cac4275854b355d36eb9f82
+run_name: defiant-fowl-325
+run_uuid: 075f6e634cac4275854b355d36eb9f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659428795
+status: 3
+tags: []
+user_id: houston

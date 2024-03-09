@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/ae855f37c8b84ab2a82c4dceac61849c/artifacts
+end_time: 1697359171338
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: ae855f37c8b84ab2a82c4dceac61849c
+run_name: unleashed-chimp-988
+run_uuid: ae855f37c8b84ab2a82c4dceac61849c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359171286
+status: 3
+tags: []
+user_id: houston

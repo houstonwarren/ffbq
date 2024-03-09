@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/0ac90aa5bfda486b847c05f0d92d78f7/artifacts
+end_time: 1697440752765
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 0ac90aa5bfda486b847c05f0d92d78f7
+run_name: magnificent-duck-692
+run_uuid: 0ac90aa5bfda486b847c05f0d92d78f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440752712
+status: 3
+tags: []
+user_id: houston

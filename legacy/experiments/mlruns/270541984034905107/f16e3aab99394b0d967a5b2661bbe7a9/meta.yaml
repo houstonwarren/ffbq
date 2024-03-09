@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f16e3aab99394b0d967a5b2661bbe7a9/artifacts
+end_time: 1697440733165
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f16e3aab99394b0d967a5b2661bbe7a9
+run_name: rumbling-ant-337
+run_uuid: f16e3aab99394b0d967a5b2661bbe7a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440733113
+status: 3
+tags: []
+user_id: houston

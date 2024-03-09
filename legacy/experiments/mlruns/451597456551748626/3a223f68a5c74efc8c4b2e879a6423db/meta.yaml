@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3a223f68a5c74efc8c4b2e879a6423db/artifacts
+end_time: 1701660260412
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3a223f68a5c74efc8c4b2e879a6423db
+run_name: big-kite-995
+run_uuid: 3a223f68a5c74efc8c4b2e879a6423db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660260352
+status: 3
+tags: []
+user_id: houston

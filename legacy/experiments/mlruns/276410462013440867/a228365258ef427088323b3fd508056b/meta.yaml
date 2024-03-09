@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a228365258ef427088323b3fd508056b/artifacts
+end_time: 1697198681154
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a228365258ef427088323b3fd508056b
+run_name: enchanting-vole-549
+run_uuid: a228365258ef427088323b3fd508056b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198681132
+status: 3
+tags: []
+user_id: houston

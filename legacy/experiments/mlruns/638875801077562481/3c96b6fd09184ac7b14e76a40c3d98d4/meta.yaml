@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3c96b6fd09184ac7b14e76a40c3d98d4/artifacts
+end_time: 1701667622249
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3c96b6fd09184ac7b14e76a40c3d98d4
+run_name: powerful-ray-337
+run_uuid: 3c96b6fd09184ac7b14e76a40c3d98d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667622104
+status: 3
+tags: []
+user_id: houston

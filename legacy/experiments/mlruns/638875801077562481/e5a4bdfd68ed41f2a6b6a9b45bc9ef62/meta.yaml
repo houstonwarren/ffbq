@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e5a4bdfd68ed41f2a6b6a9b45bc9ef62/artifacts
+end_time: 1701667740861
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e5a4bdfd68ed41f2a6b6a9b45bc9ef62
+run_name: resilient-sheep-740
+run_uuid: e5a4bdfd68ed41f2a6b6a9b45bc9ef62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667740716
+status: 3
+tags: []
+user_id: houston

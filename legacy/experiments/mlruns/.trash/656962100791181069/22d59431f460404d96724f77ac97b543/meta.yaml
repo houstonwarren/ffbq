@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/22d59431f460404d96724f77ac97b543/artifacts
+deleted_time: 1701665274136
+end_time: 1701664879311
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 22d59431f460404d96724f77ac97b543
+run_name: worried-ape-272
+run_uuid: 22d59431f460404d96724f77ac97b543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664879261
+status: 3
+tags: []
+user_id: houston

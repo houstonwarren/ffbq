@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/2f21624f7cb6485cb2c3362ed1db0dd4/artifacts
+deleted_time: 1701660238886
+end_time: 1701660174628
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 2f21624f7cb6485cb2c3362ed1db0dd4
+run_name: persistent-stork-752
+run_uuid: 2f21624f7cb6485cb2c3362ed1db0dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660174486
+status: 3
+tags: []
+user_id: houston

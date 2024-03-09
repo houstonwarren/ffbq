@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/93fbe552a5174c4184e1927b2fbafa56/artifacts
+end_time: 1701667862767
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 93fbe552a5174c4184e1927b2fbafa56
+run_name: honorable-ant-759
+run_uuid: 93fbe552a5174c4184e1927b2fbafa56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667862618
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a61ce37d66fb4a7581a1c92ba9aa0221/artifacts
+end_time: 1701667397235
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a61ce37d66fb4a7581a1c92ba9aa0221
+run_name: luminous-carp-506
+run_uuid: a61ce37d66fb4a7581a1c92ba9aa0221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667397170
+status: 3
+tags: []
+user_id: houston

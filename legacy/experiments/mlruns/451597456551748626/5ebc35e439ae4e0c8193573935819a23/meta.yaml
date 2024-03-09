@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5ebc35e439ae4e0c8193573935819a23/artifacts
+end_time: 1701660387755
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5ebc35e439ae4e0c8193573935819a23
+run_name: burly-colt-31
+run_uuid: 5ebc35e439ae4e0c8193573935819a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660387654
+status: 3
+tags: []
+user_id: houston

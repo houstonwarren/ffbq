@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5cec9b0517f1440dad3d40fbf2880e3b/artifacts
+end_time: 1697197581669
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5cec9b0517f1440dad3d40fbf2880e3b
+run_name: bustling-slug-631
+run_uuid: 5cec9b0517f1440dad3d40fbf2880e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197581652
+status: 3
+tags: []
+user_id: houston

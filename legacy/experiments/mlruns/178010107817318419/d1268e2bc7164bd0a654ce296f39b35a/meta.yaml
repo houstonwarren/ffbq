@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d1268e2bc7164bd0a654ce296f39b35a/artifacts
+end_time: 1697359144373
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d1268e2bc7164bd0a654ce296f39b35a
+run_name: merciful-panda-85
+run_uuid: d1268e2bc7164bd0a654ce296f39b35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359144321
+status: 3
+tags: []
+user_id: houston

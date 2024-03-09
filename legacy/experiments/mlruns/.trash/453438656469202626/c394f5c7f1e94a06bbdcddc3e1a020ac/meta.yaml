@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/c394f5c7f1e94a06bbdcddc3e1a020ac/artifacts
+deleted_time: 1701659398061
+end_time: 1701658645741
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: c394f5c7f1e94a06bbdcddc3e1a020ac
+run_name: selective-bear-392
+run_uuid: c394f5c7f1e94a06bbdcddc3e1a020ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658645618
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/69bc2abd47774d92a0c3c45659521e61/artifacts
+end_time: 1697360322034
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 69bc2abd47774d92a0c3c45659521e61
+run_name: upset-conch-686
+run_uuid: 69bc2abd47774d92a0c3c45659521e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360321982
+status: 3
+tags: []
+user_id: houston

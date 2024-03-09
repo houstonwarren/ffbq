@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/d4218dd544764052a77ebafc17ee8835/artifacts
+deleted_time: 1701660238886
+end_time: 1701660170606
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: d4218dd544764052a77ebafc17ee8835
+run_name: exultant-ray-548
+run_uuid: d4218dd544764052a77ebafc17ee8835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660170440
+status: 3
+tags: []
+user_id: houston

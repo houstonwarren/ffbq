@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/58fdcc92e6464c4c8dd8d8f755834e5f/artifacts
+end_time: 1701667494551
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 58fdcc92e6464c4c8dd8d8f755834e5f
+run_name: exultant-bee-4
+run_uuid: 58fdcc92e6464c4c8dd8d8f755834e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667494459
+status: 3
+tags: []
+user_id: houston

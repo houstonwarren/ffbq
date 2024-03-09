@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/22f0843355be4858a621c1518c025fab/artifacts
+deleted_time: 1701665274136
+end_time: 1701664687957
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 22f0843355be4858a621c1518c025fab
+run_name: bright-stork-548
+run_uuid: 22f0843355be4858a621c1518c025fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664687934
+status: 3
+tags: []
+user_id: houston

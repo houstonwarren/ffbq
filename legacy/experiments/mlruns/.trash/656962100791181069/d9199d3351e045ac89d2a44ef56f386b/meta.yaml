@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d9199d3351e045ac89d2a44ef56f386b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664685954
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d9199d3351e045ac89d2a44ef56f386b
+run_name: fortunate-deer-680
+run_uuid: d9199d3351e045ac89d2a44ef56f386b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664685920
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/65150a7d883a42e3b4d58c696235ea6e/artifacts
+end_time: 1701667877309
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 65150a7d883a42e3b4d58c696235ea6e
+run_name: bittersweet-yak-803
+run_uuid: 65150a7d883a42e3b4d58c696235ea6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667877153
+status: 3
+tags: []
+user_id: houston

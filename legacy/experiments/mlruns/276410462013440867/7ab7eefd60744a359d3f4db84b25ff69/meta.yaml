@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7ab7eefd60744a359d3f4db84b25ff69/artifacts
+end_time: 1697198513837
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7ab7eefd60744a359d3f4db84b25ff69
+run_name: glamorous-carp-799
+run_uuid: 7ab7eefd60744a359d3f4db84b25ff69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513807
+status: 3
+tags: []
+user_id: houston

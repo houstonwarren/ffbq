@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8216d9fec5e146ceb67872f0efa6f31f/artifacts
+end_time: 1697194852110
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8216d9fec5e146ceb67872f0efa6f31f
+run_name: defiant-cub-709
+run_uuid: 8216d9fec5e146ceb67872f0efa6f31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194852089
+status: 3
+tags: []
+user_id: houston

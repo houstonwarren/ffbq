@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/67f9ceece5654f4790fc1b126338e63b/artifacts
+end_time: 1698114087250
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 67f9ceece5654f4790fc1b126338e63b
+run_name: rebellious-robin-32
+run_uuid: 67f9ceece5654f4790fc1b126338e63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114087191
+status: 3
+tags: []
+user_id: houston

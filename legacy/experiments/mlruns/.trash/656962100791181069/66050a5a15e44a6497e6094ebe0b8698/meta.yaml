@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/66050a5a15e44a6497e6094ebe0b8698/artifacts
+deleted_time: 1701665274136
+end_time: 1701664816256
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 66050a5a15e44a6497e6094ebe0b8698
+run_name: handsome-wolf-887
+run_uuid: 66050a5a15e44a6497e6094ebe0b8698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664816213
+status: 3
+tags: []
+user_id: houston

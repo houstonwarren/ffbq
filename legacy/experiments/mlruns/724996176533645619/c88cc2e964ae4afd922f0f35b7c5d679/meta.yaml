@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/c88cc2e964ae4afd922f0f35b7c5d679/artifacts
+end_time: 1697194042366
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: c88cc2e964ae4afd922f0f35b7c5d679
+run_name: amusing-grub-518
+run_uuid: c88cc2e964ae4afd922f0f35b7c5d679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042350
+status: 3
+tags: []
+user_id: houston

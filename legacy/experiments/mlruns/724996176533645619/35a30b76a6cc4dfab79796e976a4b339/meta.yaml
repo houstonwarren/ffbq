@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/35a30b76a6cc4dfab79796e976a4b339/artifacts
+end_time: 1697193840637
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 35a30b76a6cc4dfab79796e976a4b339
+run_name: amusing-perch-924
+run_uuid: 35a30b76a6cc4dfab79796e976a4b339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193840615
+status: 3
+tags: []
+user_id: houston

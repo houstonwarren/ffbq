@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/11093e6fcb6448b798eeb7c23b96fb74/artifacts
+end_time: 1697193851998
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 11093e6fcb6448b798eeb7c23b96fb74
+run_name: incongruous-fish-875
+run_uuid: 11093e6fcb6448b798eeb7c23b96fb74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193851974
+status: 3
+tags: []
+user_id: houston

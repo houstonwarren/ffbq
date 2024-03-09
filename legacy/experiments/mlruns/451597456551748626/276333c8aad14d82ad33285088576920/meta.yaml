@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/276333c8aad14d82ad33285088576920/artifacts
+end_time: 1701660488188
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 276333c8aad14d82ad33285088576920
+run_name: thoughtful-shad-894
+run_uuid: 276333c8aad14d82ad33285088576920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660488072
+status: 3
+tags: []
+user_id: houston

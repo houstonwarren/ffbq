@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f91ea3221c1842a687e7d38cc6608963/artifacts
+deleted_time: 1701665274136
+end_time: 1701664849803
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f91ea3221c1842a687e7d38cc6608963
+run_name: worried-pug-44
+run_uuid: f91ea3221c1842a687e7d38cc6608963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664849770
+status: 3
+tags: []
+user_id: houston

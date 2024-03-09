@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/702d0f820c054ba2ba7feeb7e6c7e795/artifacts
+deleted_time: 1701665274136
+end_time: 1701664741652
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 702d0f820c054ba2ba7feeb7e6c7e795
+run_name: thoughtful-panda-718
+run_uuid: 702d0f820c054ba2ba7feeb7e6c7e795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664741625
+status: 3
+tags: []
+user_id: houston

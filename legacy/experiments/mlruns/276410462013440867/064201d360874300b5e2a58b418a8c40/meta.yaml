@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/064201d360874300b5e2a58b418a8c40/artifacts
+end_time: 1697195539142
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 064201d360874300b5e2a58b418a8c40
+run_name: handsome-stag-578
+run_uuid: 064201d360874300b5e2a58b418a8c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195539130
+status: 3
+tags: []
+user_id: houston

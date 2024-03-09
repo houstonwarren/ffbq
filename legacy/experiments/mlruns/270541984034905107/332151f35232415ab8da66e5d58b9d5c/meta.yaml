@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/332151f35232415ab8da66e5d58b9d5c/artifacts
+end_time: 1697442491779
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 332151f35232415ab8da66e5d58b9d5c
+run_name: bittersweet-jay-337
+run_uuid: 332151f35232415ab8da66e5d58b9d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442491714
+status: 3
+tags: []
+user_id: houston

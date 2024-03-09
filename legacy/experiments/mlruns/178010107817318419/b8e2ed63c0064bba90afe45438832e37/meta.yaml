@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b8e2ed63c0064bba90afe45438832e37/artifacts
+end_time: 1697359046005
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b8e2ed63c0064bba90afe45438832e37
+run_name: nimble-panda-71
+run_uuid: b8e2ed63c0064bba90afe45438832e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359045959
+status: 3
+tags: []
+user_id: houston

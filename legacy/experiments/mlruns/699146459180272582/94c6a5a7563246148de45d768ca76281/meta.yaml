@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/94c6a5a7563246148de45d768ca76281/artifacts
+end_time: 1698114564216
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 94c6a5a7563246148de45d768ca76281
+run_name: illustrious-hawk-234
+run_uuid: 94c6a5a7563246148de45d768ca76281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114564155
+status: 3
+tags: []
+user_id: houston

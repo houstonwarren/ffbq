@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/700963f4211d49689effa75aba5dded2/artifacts
+deleted_time: 1701660238886
+end_time: 1701660177901
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 700963f4211d49689effa75aba5dded2
+run_name: orderly-shrew-944
+run_uuid: 700963f4211d49689effa75aba5dded2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660177742
+status: 3
+tags: []
+user_id: houston

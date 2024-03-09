@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/2298e4259d0d4cbeb43bc298b5171282/artifacts
+deleted_time: 1701665274136
+end_time: 1701664900633
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 2298e4259d0d4cbeb43bc298b5171282
+run_name: calm-hound-335
+run_uuid: 2298e4259d0d4cbeb43bc298b5171282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664900597
+status: 3
+tags: []
+user_id: houston

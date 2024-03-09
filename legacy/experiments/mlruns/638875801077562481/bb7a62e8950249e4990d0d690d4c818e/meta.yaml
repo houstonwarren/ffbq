@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bb7a62e8950249e4990d0d690d4c818e/artifacts
+end_time: 1701667617283
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bb7a62e8950249e4990d0d690d4c818e
+run_name: upbeat-quail-668
+run_uuid: bb7a62e8950249e4990d0d690d4c818e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667617166
+status: 3
+tags: []
+user_id: houston

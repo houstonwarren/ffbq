@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/da5606a7b235474e8bf29d77ee4a046e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664745145
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: da5606a7b235474e8bf29d77ee4a046e
+run_name: fortunate-chimp-194
+run_uuid: da5606a7b235474e8bf29d77ee4a046e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664745112
+status: 3
+tags: []
+user_id: houston

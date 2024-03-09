@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f90d76f6c8a94b70b9794b8cf48fe194/artifacts
+end_time: 1697194346271
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f90d76f6c8a94b70b9794b8cf48fe194
+run_name: gaudy-sponge-196
+run_uuid: f90d76f6c8a94b70b9794b8cf48fe194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194346253
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c8cd739e8b414debb1a83e78feb35b46/artifacts
+end_time: 1701667604722
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c8cd739e8b414debb1a83e78feb35b46
+run_name: unique-conch-179
+run_uuid: c8cd739e8b414debb1a83e78feb35b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667604560
+status: 3
+tags: []
+user_id: houston

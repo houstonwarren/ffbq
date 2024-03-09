@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8da7df2ca4694528b1c84cdbb64d584e/artifacts
+end_time: 1697440627324
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8da7df2ca4694528b1c84cdbb64d584e
+run_name: clumsy-mole-133
+run_uuid: 8da7df2ca4694528b1c84cdbb64d584e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440627272
+status: 3
+tags: []
+user_id: houston

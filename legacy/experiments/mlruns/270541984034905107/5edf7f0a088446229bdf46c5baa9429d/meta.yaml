@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/5edf7f0a088446229bdf46c5baa9429d/artifacts
+end_time: 1697440476677
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 5edf7f0a088446229bdf46c5baa9429d
+run_name: victorious-roo-993
+run_uuid: 5edf7f0a088446229bdf46c5baa9429d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440476629
+status: 3
+tags: []
+user_id: houston

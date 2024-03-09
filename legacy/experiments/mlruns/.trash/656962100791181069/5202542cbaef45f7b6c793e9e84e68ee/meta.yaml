@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/5202542cbaef45f7b6c793e9e84e68ee/artifacts
+deleted_time: 1701665274136
+end_time: 1701664685683
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 5202542cbaef45f7b6c793e9e84e68ee
+run_name: melodic-cow-968
+run_uuid: 5202542cbaef45f7b6c793e9e84e68ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664685655
+status: 3
+tags: []
+user_id: houston

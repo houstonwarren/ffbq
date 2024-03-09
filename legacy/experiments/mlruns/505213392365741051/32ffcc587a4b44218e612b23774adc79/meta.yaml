@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/32ffcc587a4b44218e612b23774adc79/artifacts
+end_time: 1701659585787
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 32ffcc587a4b44218e612b23774adc79
+run_name: bittersweet-wren-298
+run_uuid: 32ffcc587a4b44218e612b23774adc79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659585659
+status: 3
+tags: []
+user_id: houston

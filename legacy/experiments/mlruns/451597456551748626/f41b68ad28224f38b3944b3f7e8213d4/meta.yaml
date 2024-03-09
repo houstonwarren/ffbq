@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/f41b68ad28224f38b3944b3f7e8213d4/artifacts
+end_time: 1701660365588
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: f41b68ad28224f38b3944b3f7e8213d4
+run_name: treasured-frog-433
+run_uuid: f41b68ad28224f38b3944b3f7e8213d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660365517
+status: 3
+tags: []
+user_id: houston

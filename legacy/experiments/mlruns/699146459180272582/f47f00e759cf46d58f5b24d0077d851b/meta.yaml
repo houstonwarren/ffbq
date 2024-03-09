@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f47f00e759cf46d58f5b24d0077d851b/artifacts
+end_time: 1698113641085
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f47f00e759cf46d58f5b24d0077d851b
+run_name: masked-sponge-345
+run_uuid: f47f00e759cf46d58f5b24d0077d851b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113641029
+status: 3
+tags: []
+user_id: houston

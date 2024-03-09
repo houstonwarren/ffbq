@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/eb33ccac693a4067a80136bc87347179/artifacts
+end_time: 1698113747079
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: eb33ccac693a4067a80136bc87347179
+run_name: redolent-smelt-910
+run_uuid: eb33ccac693a4067a80136bc87347179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113747024
+status: 3
+tags: []
+user_id: houston

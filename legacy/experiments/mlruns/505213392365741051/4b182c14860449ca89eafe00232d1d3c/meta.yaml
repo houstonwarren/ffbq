@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4b182c14860449ca89eafe00232d1d3c/artifacts
+end_time: 1701659472580
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4b182c14860449ca89eafe00232d1d3c
+run_name: painted-crane-426
+run_uuid: 4b182c14860449ca89eafe00232d1d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659472413
+status: 3
+tags: []
+user_id: houston

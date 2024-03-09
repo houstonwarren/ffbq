@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/2c736c68f1fb4f9bba99f375f865db84/artifacts
+end_time: 1697193643002
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 2c736c68f1fb4f9bba99f375f865db84
+run_name: valuable-fowl-950
+run_uuid: 2c736c68f1fb4f9bba99f375f865db84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193642992
+status: 3
+tags: []
+user_id: houston

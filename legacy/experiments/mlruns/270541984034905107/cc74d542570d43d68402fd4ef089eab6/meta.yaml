@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/cc74d542570d43d68402fd4ef089eab6/artifacts
+end_time: 1697441533671
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: cc74d542570d43d68402fd4ef089eab6
+run_name: painted-croc-469
+run_uuid: cc74d542570d43d68402fd4ef089eab6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441533618
+status: 3
+tags: []
+user_id: houston

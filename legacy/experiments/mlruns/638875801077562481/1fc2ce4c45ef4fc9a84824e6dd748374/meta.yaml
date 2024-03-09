@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1fc2ce4c45ef4fc9a84824e6dd748374/artifacts
+end_time: 1701667954772
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1fc2ce4c45ef4fc9a84824e6dd748374
+run_name: valuable-cub-610
+run_uuid: 1fc2ce4c45ef4fc9a84824e6dd748374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667954603
+status: 3
+tags: []
+user_id: houston

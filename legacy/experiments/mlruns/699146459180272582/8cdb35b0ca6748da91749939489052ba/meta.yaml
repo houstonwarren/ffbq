@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8cdb35b0ca6748da91749939489052ba/artifacts
+end_time: 1698113869733
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8cdb35b0ca6748da91749939489052ba
+run_name: bald-mare-495
+run_uuid: 8cdb35b0ca6748da91749939489052ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113869670
+status: 3
+tags: []
+user_id: houston

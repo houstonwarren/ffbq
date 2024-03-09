@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/efe1699550264edc934e5e3fc3e4aa6d/artifacts
+end_time: 1697360275721
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: efe1699550264edc934e5e3fc3e4aa6d
+run_name: marvelous-grouse-41
+run_uuid: efe1699550264edc934e5e3fc3e4aa6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360275661
+status: 3
+tags: []
+user_id: houston

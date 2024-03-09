@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1ae340f16d524451a80cc9b311b9d32e/artifacts
+end_time: 1701667475092
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1ae340f16d524451a80cc9b311b9d32e
+run_name: magnificent-bear-951
+run_uuid: 1ae340f16d524451a80cc9b311b9d32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667474982
+status: 3
+tags: []
+user_id: houston

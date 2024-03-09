@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ab7d630462bf45129e28e009320a5b5a/artifacts
+end_time: 1701667691778
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ab7d630462bf45129e28e009320a5b5a
+run_name: gregarious-perch-8
+run_uuid: ab7d630462bf45129e28e009320a5b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667691667
+status: 3
+tags: []
+user_id: houston

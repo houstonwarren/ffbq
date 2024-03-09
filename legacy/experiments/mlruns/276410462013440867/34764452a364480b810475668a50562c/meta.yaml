@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/34764452a364480b810475668a50562c/artifacts
+end_time: 1697197752917
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 34764452a364480b810475668a50562c
+run_name: smiling-boar-489
+run_uuid: 34764452a364480b810475668a50562c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197752900
+status: 3
+tags: []
+user_id: houston

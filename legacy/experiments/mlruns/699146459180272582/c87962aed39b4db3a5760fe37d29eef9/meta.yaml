@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c87962aed39b4db3a5760fe37d29eef9/artifacts
+end_time: 1698113458444
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c87962aed39b4db3a5760fe37d29eef9
+run_name: sincere-fly-186
+run_uuid: c87962aed39b4db3a5760fe37d29eef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458393
+status: 3
+tags: []
+user_id: houston

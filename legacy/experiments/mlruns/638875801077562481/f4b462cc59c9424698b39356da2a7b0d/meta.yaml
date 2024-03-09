@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f4b462cc59c9424698b39356da2a7b0d/artifacts
+end_time: 1701667906895
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f4b462cc59c9424698b39356da2a7b0d
+run_name: caring-worm-154
+run_uuid: f4b462cc59c9424698b39356da2a7b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667906724
+status: 3
+tags: []
+user_id: houston

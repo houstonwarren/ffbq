@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/d584d18c958349d081486f1e76d0c957/artifacts
+deleted_time: 1701660238886
+end_time: 1701660171471
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: d584d18c958349d081486f1e76d0c957
+run_name: inquisitive-stoat-25
+run_uuid: d584d18c958349d081486f1e76d0c957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660171335
+status: 3
+tags: []
+user_id: houston

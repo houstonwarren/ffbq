@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/9786612883f640b091b0a9ac86a20f47/artifacts
+deleted_time: 1701665274136
+end_time: 1701664889141
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 9786612883f640b091b0a9ac86a20f47
+run_name: likeable-toad-737
+run_uuid: 9786612883f640b091b0a9ac86a20f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664889102
+status: 3
+tags: []
+user_id: houston

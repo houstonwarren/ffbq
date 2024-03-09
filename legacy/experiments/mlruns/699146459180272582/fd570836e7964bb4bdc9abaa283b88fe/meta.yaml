@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/fd570836e7964bb4bdc9abaa283b88fe/artifacts
+end_time: 1698113627039
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: fd570836e7964bb4bdc9abaa283b88fe
+run_name: big-fowl-951
+run_uuid: fd570836e7964bb4bdc9abaa283b88fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113626982
+status: 3
+tags: []
+user_id: houston

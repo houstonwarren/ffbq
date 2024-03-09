@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e56b4aaeead9464eaae02f002f7b8606/artifacts
+end_time: 1701659517105
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e56b4aaeead9464eaae02f002f7b8606
+run_name: monumental-hound-561
+run_uuid: e56b4aaeead9464eaae02f002f7b8606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659516993
+status: 3
+tags: []
+user_id: houston

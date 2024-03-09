@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/9a73ae05108b45e2a93e1cbe8aef0797/artifacts
+end_time: 1697360323445
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 9a73ae05108b45e2a93e1cbe8aef0797
+run_name: luminous-wren-748
+run_uuid: 9a73ae05108b45e2a93e1cbe8aef0797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360323393
+status: 3
+tags: []
+user_id: houston

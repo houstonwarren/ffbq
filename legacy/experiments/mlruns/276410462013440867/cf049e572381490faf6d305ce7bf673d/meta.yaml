@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cf049e572381490faf6d305ce7bf673d/artifacts
+end_time: 1697196373195
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cf049e572381490faf6d305ce7bf673d
+run_name: gregarious-dove-49
+run_uuid: cf049e572381490faf6d305ce7bf673d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196373178
+status: 3
+tags: []
+user_id: houston

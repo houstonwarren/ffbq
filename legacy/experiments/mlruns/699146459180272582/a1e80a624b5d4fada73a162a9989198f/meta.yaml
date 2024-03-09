@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/a1e80a624b5d4fada73a162a9989198f/artifacts
+end_time: 1698114720454
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: a1e80a624b5d4fada73a162a9989198f
+run_name: wistful-squid-849
+run_uuid: a1e80a624b5d4fada73a162a9989198f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114720392
+status: 3
+tags: []
+user_id: houston

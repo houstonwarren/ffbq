@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/68b68786acde460bbc764f2049fa4750/artifacts
+end_time: 1698113556732
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 68b68786acde460bbc764f2049fa4750
+run_name: luminous-panda-802
+run_uuid: 68b68786acde460bbc764f2049fa4750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113556679
+status: 3
+tags: []
+user_id: houston

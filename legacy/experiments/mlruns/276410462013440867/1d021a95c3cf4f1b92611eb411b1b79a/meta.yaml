@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1d021a95c3cf4f1b92611eb411b1b79a/artifacts
+end_time: 1697197972786
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1d021a95c3cf4f1b92611eb411b1b79a
+run_name: abundant-lark-563
+run_uuid: 1d021a95c3cf4f1b92611eb411b1b79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197972766
+status: 3
+tags: []
+user_id: houston

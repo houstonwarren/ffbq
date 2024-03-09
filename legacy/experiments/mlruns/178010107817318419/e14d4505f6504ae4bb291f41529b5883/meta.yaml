@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e14d4505f6504ae4bb291f41529b5883/artifacts
+end_time: 1697359167636
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e14d4505f6504ae4bb291f41529b5883
+run_name: dazzling-crane-430
+run_uuid: e14d4505f6504ae4bb291f41529b5883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359167580
+status: 3
+tags: []
+user_id: houston

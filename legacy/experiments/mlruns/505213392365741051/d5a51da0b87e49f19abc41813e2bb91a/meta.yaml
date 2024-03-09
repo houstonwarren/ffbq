@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d5a51da0b87e49f19abc41813e2bb91a/artifacts
+end_time: 1701659422404
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d5a51da0b87e49f19abc41813e2bb91a
+run_name: magnificent-gull-115
+run_uuid: d5a51da0b87e49f19abc41813e2bb91a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659422279
+status: 3
+tags: []
+user_id: houston

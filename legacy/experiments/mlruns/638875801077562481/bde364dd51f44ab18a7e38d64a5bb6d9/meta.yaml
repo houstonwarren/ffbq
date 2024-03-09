@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bde364dd51f44ab18a7e38d64a5bb6d9/artifacts
+end_time: 1701667401092
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bde364dd51f44ab18a7e38d64a5bb6d9
+run_name: judicious-wolf-46
+run_uuid: bde364dd51f44ab18a7e38d64a5bb6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667401008
+status: 3
+tags: []
+user_id: houston

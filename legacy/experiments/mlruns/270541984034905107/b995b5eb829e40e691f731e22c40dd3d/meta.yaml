@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b995b5eb829e40e691f731e22c40dd3d/artifacts
+end_time: 1697440492304
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b995b5eb829e40e691f731e22c40dd3d
+run_name: defiant-bat-800
+run_uuid: b995b5eb829e40e691f731e22c40dd3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440492229
+status: 3
+tags: []
+user_id: houston

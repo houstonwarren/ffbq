@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/670c9eaf1eef4723914277b57f43b74d/artifacts
+end_time: 1698113765502
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 670c9eaf1eef4723914277b57f43b74d
+run_name: receptive-ant-465
+run_uuid: 670c9eaf1eef4723914277b57f43b74d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113765443
+status: 3
+tags: []
+user_id: houston

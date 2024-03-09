@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/92db97d1dc384c7f9d201fc62814d027/artifacts
+end_time: 1701660370744
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 92db97d1dc384c7f9d201fc62814d027
+run_name: awesome-sponge-882
+run_uuid: 92db97d1dc384c7f9d201fc62814d027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660370679
+status: 3
+tags: []
+user_id: houston

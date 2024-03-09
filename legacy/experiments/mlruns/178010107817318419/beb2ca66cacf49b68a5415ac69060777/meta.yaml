@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/beb2ca66cacf49b68a5415ac69060777/artifacts
+end_time: 1697359129257
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: beb2ca66cacf49b68a5415ac69060777
+run_name: unruly-seal-926
+run_uuid: beb2ca66cacf49b68a5415ac69060777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359129207
+status: 3
+tags: []
+user_id: houston

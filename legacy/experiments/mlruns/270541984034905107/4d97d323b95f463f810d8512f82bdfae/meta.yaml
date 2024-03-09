@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/4d97d323b95f463f810d8512f82bdfae/artifacts
+end_time: 1697440476219
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 4d97d323b95f463f810d8512f82bdfae
+run_name: resilient-vole-783
+run_uuid: 4d97d323b95f463f810d8512f82bdfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440476142
+status: 3
+tags: []
+user_id: houston

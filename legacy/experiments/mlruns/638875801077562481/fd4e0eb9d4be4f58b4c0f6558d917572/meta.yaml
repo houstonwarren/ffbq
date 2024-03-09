@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fd4e0eb9d4be4f58b4c0f6558d917572/artifacts
+end_time: 1701667686651
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fd4e0eb9d4be4f58b4c0f6558d917572
+run_name: glamorous-kit-210
+run_uuid: fd4e0eb9d4be4f58b4c0f6558d917572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667686511
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/dfadbfa2b2ec4668ac210afc759fb855/artifacts
+end_time: 1701660503854
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: dfadbfa2b2ec4668ac210afc759fb855
+run_name: inquisitive-bird-122
+run_uuid: dfadbfa2b2ec4668ac210afc759fb855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660503720
+status: 3
+tags: []
+user_id: houston

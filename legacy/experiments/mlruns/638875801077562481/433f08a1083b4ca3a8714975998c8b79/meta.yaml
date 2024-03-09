@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/433f08a1083b4ca3a8714975998c8b79/artifacts
+end_time: 1701667869667
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 433f08a1083b4ca3a8714975998c8b79
+run_name: resilient-gull-137
+run_uuid: 433f08a1083b4ca3a8714975998c8b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667869495
+status: 3
+tags: []
+user_id: houston

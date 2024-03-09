@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/1f2ac539e0d14929b13e067110f92f3d/artifacts
+end_time: 1697360369745
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 1f2ac539e0d14929b13e067110f92f3d
+run_name: stylish-crane-462
+run_uuid: 1f2ac539e0d14929b13e067110f92f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360369684
+status: 3
+tags: []
+user_id: houston

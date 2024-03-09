@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bf2e36d9d88e432d90c89ef123b7daf9/artifacts
+end_time: 1697195589037
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bf2e36d9d88e432d90c89ef123b7daf9
+run_name: nosy-goose-388
+run_uuid: bf2e36d9d88e432d90c89ef123b7daf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195589023
+status: 3
+tags: []
+user_id: houston

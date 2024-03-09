@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ffde6501d15d4f5bbc24fa9189887a2b/artifacts
+end_time: 1701667920807
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ffde6501d15d4f5bbc24fa9189887a2b
+run_name: aged-steed-888
+run_uuid: ffde6501d15d4f5bbc24fa9189887a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667920655
+status: 3
+tags: []
+user_id: houston

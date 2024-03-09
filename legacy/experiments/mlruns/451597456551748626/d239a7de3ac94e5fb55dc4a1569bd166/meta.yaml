@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d239a7de3ac94e5fb55dc4a1569bd166/artifacts
+end_time: 1701660494853
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d239a7de3ac94e5fb55dc4a1569bd166
+run_name: carefree-fly-478
+run_uuid: d239a7de3ac94e5fb55dc4a1569bd166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660494734
+status: 3
+tags: []
+user_id: houston

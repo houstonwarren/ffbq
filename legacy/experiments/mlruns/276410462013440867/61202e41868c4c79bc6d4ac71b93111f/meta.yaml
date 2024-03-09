@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/61202e41868c4c79bc6d4ac71b93111f/artifacts
+end_time: 1697195489196
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 61202e41868c4c79bc6d4ac71b93111f
+run_name: fun-eel-22
+run_uuid: 61202e41868c4c79bc6d4ac71b93111f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489184
+status: 3
+tags: []
+user_id: houston

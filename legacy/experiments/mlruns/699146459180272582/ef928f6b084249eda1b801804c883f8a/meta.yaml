@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ef928f6b084249eda1b801804c883f8a/artifacts
+end_time: 1698113782266
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ef928f6b084249eda1b801804c883f8a
+run_name: loud-smelt-653
+run_uuid: ef928f6b084249eda1b801804c883f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782211
+status: 3
+tags: []
+user_id: houston

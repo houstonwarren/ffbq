@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3e355bcbce9142c18b25cf409f086f0e/artifacts
+end_time: 1697359067981
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3e355bcbce9142c18b25cf409f086f0e
+run_name: inquisitive-mole-640
+run_uuid: 3e355bcbce9142c18b25cf409f086f0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359067930
+status: 3
+tags: []
+user_id: houston

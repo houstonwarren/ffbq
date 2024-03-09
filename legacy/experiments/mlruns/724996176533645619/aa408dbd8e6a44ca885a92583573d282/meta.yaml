@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/aa408dbd8e6a44ca885a92583573d282/artifacts
+end_time: 1697193817479
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: aa408dbd8e6a44ca885a92583573d282
+run_name: burly-grouse-887
+run_uuid: aa408dbd8e6a44ca885a92583573d282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193817465
+status: 3
+tags: []
+user_id: houston

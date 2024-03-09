@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/4a3f7fe00e9f4d2d93a9b44e425182a1/artifacts
+end_time: 1697359127418
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 4a3f7fe00e9f4d2d93a9b44e425182a1
+run_name: mercurial-swan-435
+run_uuid: 4a3f7fe00e9f4d2d93a9b44e425182a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359127358
+status: 3
+tags: []
+user_id: houston

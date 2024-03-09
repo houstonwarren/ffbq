@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/1a4b34e43da545b599ecfa31fd70554b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664889248
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 1a4b34e43da545b599ecfa31fd70554b
+run_name: wise-foal-943
+run_uuid: 1a4b34e43da545b599ecfa31fd70554b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664889191
+status: 3
+tags: []
+user_id: houston

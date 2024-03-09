@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/61d5fff330034f57862110cddbdd01cc/artifacts
+deleted_time: 1701660238886
+end_time: 1701660177691
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 61d5fff330034f57862110cddbdd01cc
+run_name: peaceful-kite-74
+run_uuid: 61d5fff330034f57862110cddbdd01cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660177510
+status: 3
+tags: []
+user_id: houston

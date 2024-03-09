@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/58101abdde654addbf3ba4ceeb200e0d/artifacts
+end_time: 1697440834458
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 58101abdde654addbf3ba4ceeb200e0d
+run_name: whimsical-newt-633
+run_uuid: 58101abdde654addbf3ba4ceeb200e0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440834404
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e46742c5a9cb430eb22e487bd1b3e623/artifacts
+end_time: 1701660470189
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e46742c5a9cb430eb22e487bd1b3e623
+run_name: adaptable-flea-510
+run_uuid: e46742c5a9cb430eb22e487bd1b3e623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660470074
+status: 3
+tags: []
+user_id: houston

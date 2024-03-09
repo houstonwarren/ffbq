@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a45a0821da9a426b91f799ae9e7383ec/artifacts
+end_time: 1697195489295
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a45a0821da9a426b91f799ae9e7383ec
+run_name: learned-shark-289
+run_uuid: a45a0821da9a426b91f799ae9e7383ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489284
+status: 3
+tags: []
+user_id: houston

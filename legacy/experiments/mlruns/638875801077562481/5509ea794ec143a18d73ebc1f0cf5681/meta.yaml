@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5509ea794ec143a18d73ebc1f0cf5681/artifacts
+end_time: 1701667766135
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5509ea794ec143a18d73ebc1f0cf5681
+run_name: caring-hound-312
+run_uuid: 5509ea794ec143a18d73ebc1f0cf5681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667766005
+status: 3
+tags: []
+user_id: houston

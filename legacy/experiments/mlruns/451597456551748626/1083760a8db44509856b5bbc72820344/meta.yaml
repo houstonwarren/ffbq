@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/1083760a8db44509856b5bbc72820344/artifacts
+end_time: 1701660441371
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 1083760a8db44509856b5bbc72820344
+run_name: invincible-conch-732
+run_uuid: 1083760a8db44509856b5bbc72820344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660441267
+status: 3
+tags: []
+user_id: houston

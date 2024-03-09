@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/9c28b5866e814cae8707f14e85ee5417/artifacts
+end_time: 1697198513801
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 9c28b5866e814cae8707f14e85ee5417
+run_name: calm-bat-731
+run_uuid: 9c28b5866e814cae8707f14e85ee5417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513765
+status: 3
+tags: []
+user_id: houston

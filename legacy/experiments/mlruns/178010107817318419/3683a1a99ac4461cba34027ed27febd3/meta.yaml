@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3683a1a99ac4461cba34027ed27febd3/artifacts
+end_time: 1697359061537
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3683a1a99ac4461cba34027ed27febd3
+run_name: luxuriant-finch-235
+run_uuid: 3683a1a99ac4461cba34027ed27febd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359061483
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6dbf39e950a44e3e9322b4a2385b1592/artifacts
+end_time: 1698113852091
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6dbf39e950a44e3e9322b4a2385b1592
+run_name: capricious-boar-627
+run_uuid: 6dbf39e950a44e3e9322b4a2385b1592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113852034
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/eeb7805ec7214d15918ab15d6425c04c/artifacts
+end_time: 1697196017782
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: eeb7805ec7214d15918ab15d6425c04c
+run_name: grandiose-colt-459
+run_uuid: eeb7805ec7214d15918ab15d6425c04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017766
+status: 3
+tags: []
+user_id: houston

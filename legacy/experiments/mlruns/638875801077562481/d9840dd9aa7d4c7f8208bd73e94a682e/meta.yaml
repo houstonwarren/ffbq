@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d9840dd9aa7d4c7f8208bd73e94a682e/artifacts
+end_time: 1701667559668
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d9840dd9aa7d4c7f8208bd73e94a682e
+run_name: entertaining-jay-329
+run_uuid: d9840dd9aa7d4c7f8208bd73e94a682e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667559544
+status: 3
+tags: []
+user_id: houston

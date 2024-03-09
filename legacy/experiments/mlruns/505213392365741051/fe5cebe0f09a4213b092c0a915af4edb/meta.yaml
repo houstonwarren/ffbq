@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/fe5cebe0f09a4213b092c0a915af4edb/artifacts
+end_time: 1701659408026
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: fe5cebe0f09a4213b092c0a915af4edb
+run_name: smiling-fowl-518
+run_uuid: fe5cebe0f09a4213b092c0a915af4edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659407912
+status: 3
+tags: []
+user_id: houston

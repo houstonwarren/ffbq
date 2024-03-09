@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/3ce7210580b24292a951932a528d3eb0/artifacts
+end_time: 1698113799694
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 3ce7210580b24292a951932a528d3eb0
+run_name: fortunate-bee-919
+run_uuid: 3ce7210580b24292a951932a528d3eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113799637
+status: 3
+tags: []
+user_id: houston

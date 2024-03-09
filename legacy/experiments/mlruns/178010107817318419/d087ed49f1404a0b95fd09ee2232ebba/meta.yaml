@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d087ed49f1404a0b95fd09ee2232ebba/artifacts
+end_time: 1697359139570
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d087ed49f1404a0b95fd09ee2232ebba
+run_name: delightful-fly-862
+run_uuid: d087ed49f1404a0b95fd09ee2232ebba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359139519
+status: 3
+tags: []
+user_id: houston

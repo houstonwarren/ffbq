@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/458e8188674e40888184a21290c4b174/artifacts
+end_time: 1698113599626
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 458e8188674e40888184a21290c4b174
+run_name: caring-kit-198
+run_uuid: 458e8188674e40888184a21290c4b174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599572
+status: 3
+tags: []
+user_id: houston

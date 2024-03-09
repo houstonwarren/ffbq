@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1afb07cd164f4319ac45dfee09e500da/artifacts
+end_time: 1701667826697
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1afb07cd164f4319ac45dfee09e500da
+run_name: victorious-stork-741
+run_uuid: 1afb07cd164f4319ac45dfee09e500da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667826553
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/0048e58fac4b4145aac61c89f84e2e03/artifacts
+end_time: 1701660133385
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 0048e58fac4b4145aac61c89f84e2e03
+run_name: nervous-shrimp-425
+run_uuid: 0048e58fac4b4145aac61c89f84e2e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660133236
+status: 3
+tags: []
+user_id: houston

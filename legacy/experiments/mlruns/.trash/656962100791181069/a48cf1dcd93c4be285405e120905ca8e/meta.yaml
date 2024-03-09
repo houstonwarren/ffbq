@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/a48cf1dcd93c4be285405e120905ca8e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664895052
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: a48cf1dcd93c4be285405e120905ca8e
+run_name: carefree-grub-408
+run_uuid: a48cf1dcd93c4be285405e120905ca8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664894987
+status: 3
+tags: []
+user_id: houston

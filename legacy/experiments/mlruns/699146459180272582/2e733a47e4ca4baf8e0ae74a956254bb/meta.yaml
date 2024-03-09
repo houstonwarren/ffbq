@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/2e733a47e4ca4baf8e0ae74a956254bb/artifacts
+end_time: 1698114087110
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 2e733a47e4ca4baf8e0ae74a956254bb
+run_name: flawless-fox-426
+run_uuid: 2e733a47e4ca4baf8e0ae74a956254bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114087048
+status: 3
+tags: []
+user_id: houston

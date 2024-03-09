@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5cded328224f4ceaad61c3aa9274dfb7/artifacts
+end_time: 1697197408640
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5cded328224f4ceaad61c3aa9274dfb7
+run_name: respected-bat-524
+run_uuid: 5cded328224f4ceaad61c3aa9274dfb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408623
+status: 3
+tags: []
+user_id: houston

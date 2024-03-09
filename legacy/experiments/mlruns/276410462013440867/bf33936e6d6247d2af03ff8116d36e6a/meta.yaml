@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bf33936e6d6247d2af03ff8116d36e6a/artifacts
+end_time: 1697196547239
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bf33936e6d6247d2af03ff8116d36e6a
+run_name: shivering-panda-932
+run_uuid: bf33936e6d6247d2af03ff8116d36e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547222
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/19e874236bc547e4b041735578adf1ba/artifacts
+end_time: 1697193852184
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 19e874236bc547e4b041735578adf1ba
+run_name: overjoyed-donkey-768
+run_uuid: 19e874236bc547e4b041735578adf1ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193852158
+status: 3
+tags: []
+user_id: houston

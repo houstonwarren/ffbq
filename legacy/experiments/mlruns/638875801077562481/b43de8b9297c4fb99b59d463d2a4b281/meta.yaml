@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b43de8b9297c4fb99b59d463d2a4b281/artifacts
+end_time: 1701667935926
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b43de8b9297c4fb99b59d463d2a4b281
+run_name: gentle-bass-404
+run_uuid: b43de8b9297c4fb99b59d463d2a4b281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667935773
+status: 3
+tags: []
+user_id: houston

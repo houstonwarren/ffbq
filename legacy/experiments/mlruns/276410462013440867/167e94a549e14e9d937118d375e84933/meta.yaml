@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/167e94a549e14e9d937118d375e84933/artifacts
+end_time: 1697197904550
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 167e94a549e14e9d937118d375e84933
+run_name: funny-seal-388
+run_uuid: 167e94a549e14e9d937118d375e84933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197904528
+status: 3
+tags: []
+user_id: houston

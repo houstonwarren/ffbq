@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/86c636245abe4a45ac7e536640f93f61/artifacts
+end_time: 1697195572226
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 86c636245abe4a45ac7e536640f93f61
+run_name: welcoming-flea-153
+run_uuid: 86c636245abe4a45ac7e536640f93f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195572214
+status: 3
+tags: []
+user_id: houston

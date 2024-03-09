@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/520bfc0959394edb8086a18e9102ecc7/artifacts
+end_time: 1697359114584
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 520bfc0959394edb8086a18e9102ecc7
+run_name: worried-owl-876
+run_uuid: 520bfc0959394edb8086a18e9102ecc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359114534
+status: 3
+tags: []
+user_id: houston

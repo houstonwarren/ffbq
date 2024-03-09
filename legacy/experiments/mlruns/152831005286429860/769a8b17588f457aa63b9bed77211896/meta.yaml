@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/769a8b17588f457aa63b9bed77211896/artifacts
+end_time: 1697360262661
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 769a8b17588f457aa63b9bed77211896
+run_name: abrasive-worm-977
+run_uuid: 769a8b17588f457aa63b9bed77211896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360262610
+status: 3
+tags: []
+user_id: houston

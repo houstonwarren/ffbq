@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8a38c00a5c7342c39b13883e794dc9d3/artifacts
+end_time: 1697359085137
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8a38c00a5c7342c39b13883e794dc9d3
+run_name: carefree-colt-449
+run_uuid: 8a38c00a5c7342c39b13883e794dc9d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359085089
+status: 3
+tags: []
+user_id: houston

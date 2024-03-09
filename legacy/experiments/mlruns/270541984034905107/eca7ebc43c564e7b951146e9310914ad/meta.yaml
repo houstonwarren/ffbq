@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/eca7ebc43c564e7b951146e9310914ad/artifacts
+end_time: 1697440603962
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: eca7ebc43c564e7b951146e9310914ad
+run_name: lyrical-elk-116
+run_uuid: eca7ebc43c564e7b951146e9310914ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440603912
+status: 3
+tags: []
+user_id: houston

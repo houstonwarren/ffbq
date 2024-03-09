@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/719025908b524c019decc4b2769016da/artifacts
+end_time: 1701659533019
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 719025908b524c019decc4b2769016da
+run_name: peaceful-stoat-38
+run_uuid: 719025908b524c019decc4b2769016da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659532869
+status: 3
+tags: []
+user_id: houston

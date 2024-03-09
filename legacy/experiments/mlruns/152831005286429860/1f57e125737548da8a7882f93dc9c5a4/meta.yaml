@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/1f57e125737548da8a7882f93dc9c5a4/artifacts
+end_time: 1697360377089
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 1f57e125737548da8a7882f93dc9c5a4
+run_name: unruly-midge-351
+run_uuid: 1f57e125737548da8a7882f93dc9c5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360377034
+status: 3
+tags: []
+user_id: houston

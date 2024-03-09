@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f7deb5e154804fa9b2b52657a0fa308f/artifacts
+end_time: 1697197060778
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f7deb5e154804fa9b2b52657a0fa308f
+run_name: amazing-mouse-38
+run_uuid: f7deb5e154804fa9b2b52657a0fa308f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197060695
+status: 3
+tags: []
+user_id: houston

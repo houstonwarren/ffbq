@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/38e41e769a0c43f882b2707d31f7c739/artifacts
+end_time: 1697440541114
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 38e41e769a0c43f882b2707d31f7c739
+run_name: shivering-robin-736
+run_uuid: 38e41e769a0c43f882b2707d31f7c739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440541065
+status: 3
+tags: []
+user_id: houston

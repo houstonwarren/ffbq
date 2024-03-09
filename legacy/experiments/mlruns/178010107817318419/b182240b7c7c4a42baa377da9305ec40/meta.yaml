@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b182240b7c7c4a42baa377da9305ec40/artifacts
+end_time: 1697359196341
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b182240b7c7c4a42baa377da9305ec40
+run_name: popular-fawn-439
+run_uuid: b182240b7c7c4a42baa377da9305ec40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359196287
+status: 3
+tags: []
+user_id: houston

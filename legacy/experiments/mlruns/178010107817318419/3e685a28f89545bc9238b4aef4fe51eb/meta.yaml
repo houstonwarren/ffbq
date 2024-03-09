@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3e685a28f89545bc9238b4aef4fe51eb/artifacts
+end_time: 1697359063970
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3e685a28f89545bc9238b4aef4fe51eb
+run_name: fortunate-pug-233
+run_uuid: 3e685a28f89545bc9238b4aef4fe51eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359063922
+status: 3
+tags: []
+user_id: houston

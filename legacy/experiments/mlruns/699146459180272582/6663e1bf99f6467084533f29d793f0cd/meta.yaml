@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6663e1bf99f6467084533f29d793f0cd/artifacts
+end_time: 1698113446655
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6663e1bf99f6467084533f29d793f0cd
+run_name: mysterious-pig-197
+run_uuid: 6663e1bf99f6467084533f29d793f0cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113446604
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/07506149d8b64698800a7796ef102d78/artifacts
+end_time: 1698113422654
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 07506149d8b64698800a7796ef102d78
+run_name: enchanting-hound-289
+run_uuid: 07506149d8b64698800a7796ef102d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113422602
+status: 3
+tags: []
+user_id: houston

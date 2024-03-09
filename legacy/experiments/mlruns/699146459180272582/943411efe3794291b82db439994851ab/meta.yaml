@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/943411efe3794291b82db439994851ab/artifacts
+end_time: 1698114087181
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 943411efe3794291b82db439994851ab
+run_name: bald-ram-431
+run_uuid: 943411efe3794291b82db439994851ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114087120
+status: 3
+tags: []
+user_id: houston

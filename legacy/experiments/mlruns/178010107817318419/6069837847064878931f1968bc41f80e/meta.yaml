@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6069837847064878931f1968bc41f80e/artifacts
+end_time: 1697359126664
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6069837847064878931f1968bc41f80e
+run_name: zealous-bird-243
+run_uuid: 6069837847064878931f1968bc41f80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359126612
+status: 3
+tags: []
+user_id: houston

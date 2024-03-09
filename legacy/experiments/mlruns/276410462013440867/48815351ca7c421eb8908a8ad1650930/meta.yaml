@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/48815351ca7c421eb8908a8ad1650930/artifacts
+end_time: 1697195505870
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 48815351ca7c421eb8908a8ad1650930
+run_name: upset-mouse-906
+run_uuid: 48815351ca7c421eb8908a8ad1650930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195505859
+status: 3
+tags: []
+user_id: houston

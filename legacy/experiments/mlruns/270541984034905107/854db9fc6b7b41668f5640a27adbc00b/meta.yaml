@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/854db9fc6b7b41668f5640a27adbc00b/artifacts
+end_time: 1697441395826
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 854db9fc6b7b41668f5640a27adbc00b
+run_name: awesome-koi-810
+run_uuid: 854db9fc6b7b41668f5640a27adbc00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441395771
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/149a31bf79514e2eb188c3ed242132f0/artifacts
+end_time: 1701667757129
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 149a31bf79514e2eb188c3ed242132f0
+run_name: skillful-dolphin-397
+run_uuid: 149a31bf79514e2eb188c3ed242132f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667756943
+status: 3
+tags: []
+user_id: houston

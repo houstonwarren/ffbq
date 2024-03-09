@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/5dd42c2d6cc34754b11c38770aa9044c/artifacts
+deleted_time: 1701659398061
+end_time: 1701658641367
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: 5dd42c2d6cc34754b11c38770aa9044c
+run_name: unique-crow-968
+run_uuid: 5dd42c2d6cc34754b11c38770aa9044c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658641217
+status: 3
+tags: []
+user_id: houston

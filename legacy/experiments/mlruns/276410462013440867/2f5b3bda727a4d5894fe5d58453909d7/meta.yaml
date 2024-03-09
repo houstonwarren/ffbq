@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2f5b3bda727a4d5894fe5d58453909d7/artifacts
+end_time: 1697198175713
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2f5b3bda727a4d5894fe5d58453909d7
+run_name: stylish-wasp-706
+run_uuid: 2f5b3bda727a4d5894fe5d58453909d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198175693
+status: 3
+tags: []
+user_id: houston

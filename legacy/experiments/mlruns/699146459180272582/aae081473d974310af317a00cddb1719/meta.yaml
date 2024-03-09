@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/aae081473d974310af317a00cddb1719/artifacts
+end_time: 1698113667836
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: aae081473d974310af317a00cddb1719
+run_name: bedecked-kit-983
+run_uuid: aae081473d974310af317a00cddb1719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113667781
+status: 3
+tags: []
+user_id: houston

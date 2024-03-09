@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4fcc2ffe7bbb4e4b93cdd6478057b49a/artifacts
+end_time: 1701667786855
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4fcc2ffe7bbb4e4b93cdd6478057b49a
+run_name: hilarious-sloth-779
+run_uuid: 4fcc2ffe7bbb4e4b93cdd6478057b49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667786694
+status: 3
+tags: []
+user_id: houston

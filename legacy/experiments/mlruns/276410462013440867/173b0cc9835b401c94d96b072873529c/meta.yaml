@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/173b0cc9835b401c94d96b072873529c/artifacts
+end_time: 1697198175738
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 173b0cc9835b401c94d96b072873529c
+run_name: traveling-shark-503
+run_uuid: 173b0cc9835b401c94d96b072873529c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198175718
+status: 3
+tags: []
+user_id: houston

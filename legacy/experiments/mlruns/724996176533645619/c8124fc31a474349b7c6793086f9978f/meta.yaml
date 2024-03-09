@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/c8124fc31a474349b7c6793086f9978f/artifacts
+end_time: 1697193898159
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: c8124fc31a474349b7c6793086f9978f
+run_name: bustling-flea-330
+run_uuid: c8124fc31a474349b7c6793086f9978f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193898145
+status: 3
+tags: []
+user_id: houston

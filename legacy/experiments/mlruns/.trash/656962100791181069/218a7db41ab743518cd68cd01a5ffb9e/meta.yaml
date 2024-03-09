@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/218a7db41ab743518cd68cd01a5ffb9e/artifacts
+deleted_time: 1701665274136
+end_time: 1701664717400
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 218a7db41ab743518cd68cd01a5ffb9e
+run_name: skillful-ant-34
+run_uuid: 218a7db41ab743518cd68cd01a5ffb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664717368
+status: 3
+tags: []
+user_id: houston

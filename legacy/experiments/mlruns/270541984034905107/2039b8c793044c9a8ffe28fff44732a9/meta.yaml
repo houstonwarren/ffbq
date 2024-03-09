@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/2039b8c793044c9a8ffe28fff44732a9/artifacts
+end_time: 1697441322879
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 2039b8c793044c9a8ffe28fff44732a9
+run_name: indecisive-wolf-943
+run_uuid: 2039b8c793044c9a8ffe28fff44732a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441322824
+status: 3
+tags: []
+user_id: houston

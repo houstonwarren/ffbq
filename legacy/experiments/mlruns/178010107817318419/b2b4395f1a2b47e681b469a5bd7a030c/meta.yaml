@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/b2b4395f1a2b47e681b469a5bd7a030c/artifacts
+end_time: 1697359133853
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: b2b4395f1a2b47e681b469a5bd7a030c
+run_name: amusing-snake-150
+run_uuid: b2b4395f1a2b47e681b469a5bd7a030c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359133801
+status: 3
+tags: []
+user_id: houston

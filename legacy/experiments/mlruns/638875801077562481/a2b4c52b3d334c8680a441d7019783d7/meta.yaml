@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a2b4c52b3d334c8680a441d7019783d7/artifacts
+end_time: 1701667673281
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a2b4c52b3d334c8680a441d7019783d7
+run_name: abundant-eel-864
+run_uuid: a2b4c52b3d334c8680a441d7019783d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667673173
+status: 3
+tags: []
+user_id: houston

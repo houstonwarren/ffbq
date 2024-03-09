@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/60817495c32a48a196d86c544b15dac6/artifacts
+end_time: 1701659547398
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 60817495c32a48a196d86c544b15dac6
+run_name: bemused-yak-45
+run_uuid: 60817495c32a48a196d86c544b15dac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659547269
+status: 3
+tags: []
+user_id: houston

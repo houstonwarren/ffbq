@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b0a821afb086491e9b7f95e5b0bd71c5/artifacts
+end_time: 1698114036884
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b0a821afb086491e9b7f95e5b0bd71c5
+run_name: receptive-colt-623
+run_uuid: b0a821afb086491e9b7f95e5b0bd71c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114036826
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/727a16d6592245b58b337058ef7c1f56/artifacts
+end_time: 1701660508262
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 727a16d6592245b58b337058ef7c1f56
+run_name: dapper-cow-871
+run_uuid: 727a16d6592245b58b337058ef7c1f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660508154
+status: 3
+tags: []
+user_id: houston

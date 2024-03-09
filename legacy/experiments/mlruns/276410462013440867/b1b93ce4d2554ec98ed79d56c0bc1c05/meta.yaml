@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b1b93ce4d2554ec98ed79d56c0bc1c05/artifacts
+end_time: 1697195522588
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b1b93ce4d2554ec98ed79d56c0bc1c05
+run_name: upset-colt-790
+run_uuid: b1b93ce4d2554ec98ed79d56c0bc1c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195522576
+status: 3
+tags: []
+user_id: houston

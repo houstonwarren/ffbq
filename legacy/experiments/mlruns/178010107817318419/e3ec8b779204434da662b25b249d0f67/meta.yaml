@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e3ec8b779204434da662b25b249d0f67/artifacts
+end_time: 1697359140433
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e3ec8b779204434da662b25b249d0f67
+run_name: intrigued-snail-944
+run_uuid: e3ec8b779204434da662b25b249d0f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359140379
+status: 3
+tags: []
+user_id: houston

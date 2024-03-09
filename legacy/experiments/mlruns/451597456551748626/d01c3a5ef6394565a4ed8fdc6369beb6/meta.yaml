@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/d01c3a5ef6394565a4ed8fdc6369beb6/artifacts
+end_time: 1701660390529
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: d01c3a5ef6394565a4ed8fdc6369beb6
+run_name: unruly-lamb-943
+run_uuid: d01c3a5ef6394565a4ed8fdc6369beb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660390449
+status: 3
+tags: []
+user_id: houston

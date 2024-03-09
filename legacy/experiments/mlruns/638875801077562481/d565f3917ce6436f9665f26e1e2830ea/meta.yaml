@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d565f3917ce6436f9665f26e1e2830ea/artifacts
+end_time: 1701667779899
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d565f3917ce6436f9665f26e1e2830ea
+run_name: incongruous-snipe-94
+run_uuid: d565f3917ce6436f9665f26e1e2830ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667779748
+status: 3
+tags: []
+user_id: houston

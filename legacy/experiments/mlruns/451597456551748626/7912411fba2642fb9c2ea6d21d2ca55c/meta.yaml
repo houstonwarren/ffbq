@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/7912411fba2642fb9c2ea6d21d2ca55c/artifacts
+end_time: 1701660315767
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 7912411fba2642fb9c2ea6d21d2ca55c
+run_name: legendary-toad-874
+run_uuid: 7912411fba2642fb9c2ea6d21d2ca55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660315685
+status: 3
+tags: []
+user_id: houston

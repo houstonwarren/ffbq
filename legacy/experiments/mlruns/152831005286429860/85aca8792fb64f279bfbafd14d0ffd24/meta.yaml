@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/85aca8792fb64f279bfbafd14d0ffd24/artifacts
+end_time: 1697360325777
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 85aca8792fb64f279bfbafd14d0ffd24
+run_name: bouncy-crane-671
+run_uuid: 85aca8792fb64f279bfbafd14d0ffd24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360325726
+status: 3
+tags: []
+user_id: houston

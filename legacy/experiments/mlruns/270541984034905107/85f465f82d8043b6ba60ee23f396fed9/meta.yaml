@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/85f465f82d8043b6ba60ee23f396fed9/artifacts
+end_time: 1697440674868
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 85f465f82d8043b6ba60ee23f396fed9
+run_name: learned-squirrel-193
+run_uuid: 85f465f82d8043b6ba60ee23f396fed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440674819
+status: 3
+tags: []
+user_id: houston

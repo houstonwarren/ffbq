@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/df9939ab1a4c4ac381a47aa6a2fa085a/artifacts
+end_time: 1697195505650
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: df9939ab1a4c4ac381a47aa6a2fa085a
+run_name: hilarious-fox-46
+run_uuid: df9939ab1a4c4ac381a47aa6a2fa085a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195505576
+status: 3
+tags: []
+user_id: houston

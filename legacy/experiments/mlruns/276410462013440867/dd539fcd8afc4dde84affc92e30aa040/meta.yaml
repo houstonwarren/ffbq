@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/dd539fcd8afc4dde84affc92e30aa040/artifacts
+end_time: 1697198456628
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: dd539fcd8afc4dde84affc92e30aa040
+run_name: carefree-calf-347
+run_uuid: dd539fcd8afc4dde84affc92e30aa040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198456605
+status: 3
+tags: []
+user_id: houston

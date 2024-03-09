@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/75b66548ccf141cb8082311dc3f3df55/artifacts
+end_time: 1697195020476
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 75b66548ccf141cb8082311dc3f3df55
+run_name: fortunate-robin-264
+run_uuid: 75b66548ccf141cb8082311dc3f3df55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195020454
+status: 3
+tags: []
+user_id: houston

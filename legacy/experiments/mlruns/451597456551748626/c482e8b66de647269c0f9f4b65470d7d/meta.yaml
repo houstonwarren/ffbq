@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c482e8b66de647269c0f9f4b65470d7d/artifacts
+end_time: 1701660499522
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c482e8b66de647269c0f9f4b65470d7d
+run_name: auspicious-koi-372
+run_uuid: c482e8b66de647269c0f9f4b65470d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660499394
+status: 3
+tags: []
+user_id: houston

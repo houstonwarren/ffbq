@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/0d7464934efe472c8f5fde93b26631b3/artifacts
+end_time: 1697195748496
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 0d7464934efe472c8f5fde93b26631b3
+run_name: stylish-tern-976
+run_uuid: 0d7464934efe472c8f5fde93b26631b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195748483
+status: 3
+tags: []
+user_id: houston

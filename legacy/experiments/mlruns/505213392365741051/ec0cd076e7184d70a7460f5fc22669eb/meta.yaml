@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ec0cd076e7184d70a7460f5fc22669eb/artifacts
+end_time: 1701659620760
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ec0cd076e7184d70a7460f5fc22669eb
+run_name: unequaled-sponge-209
+run_uuid: ec0cd076e7184d70a7460f5fc22669eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659620611
+status: 3
+tags: []
+user_id: houston

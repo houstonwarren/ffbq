@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/1a9e59f114484424928a796889fe4d34/artifacts
+end_time: 1701667817516
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 1a9e59f114484424928a796889fe4d34
+run_name: flawless-auk-389
+run_uuid: 1a9e59f114484424928a796889fe4d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667817385
+status: 3
+tags: []
+user_id: houston

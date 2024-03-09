@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/90abf74b1ab749f18362306805dc59d0/artifacts
+end_time: 1697193863726
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 90abf74b1ab749f18362306805dc59d0
+run_name: puzzled-shoat-726
+run_uuid: 90abf74b1ab749f18362306805dc59d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193863709
+status: 3
+tags: []
+user_id: houston

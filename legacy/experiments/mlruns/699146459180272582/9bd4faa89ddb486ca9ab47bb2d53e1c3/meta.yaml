@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9bd4faa89ddb486ca9ab47bb2d53e1c3/artifacts
+end_time: 1698113682212
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9bd4faa89ddb486ca9ab47bb2d53e1c3
+run_name: debonair-donkey-571
+run_uuid: 9bd4faa89ddb486ca9ab47bb2d53e1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113682157
+status: 3
+tags: []
+user_id: houston

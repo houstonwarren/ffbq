@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2cc792e99de94075934cbcd86cbb092e/artifacts
+end_time: 1701660276764
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2cc792e99de94075934cbcd86cbb092e
+run_name: entertaining-slug-15
+run_uuid: 2cc792e99de94075934cbcd86cbb092e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660276695
+status: 3
+tags: []
+user_id: houston

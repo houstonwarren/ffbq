@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7cf66d452f65418b806f45d6a6996aac/artifacts
+end_time: 1697198569843
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7cf66d452f65418b806f45d6a6996aac
+run_name: charming-worm-428
+run_uuid: 7cf66d452f65418b806f45d6a6996aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569822
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d14b73df72744c1b852df305e29d022c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664796946
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d14b73df72744c1b852df305e29d022c
+run_name: judicious-shoat-115
+run_uuid: d14b73df72744c1b852df305e29d022c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664796920
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/1aa52af95a914a8792f9f6ffc7cb8cfe/artifacts
+end_time: 1697194057920
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 1aa52af95a914a8792f9f6ffc7cb8cfe
+run_name: adaptable-donkey-8
+run_uuid: 1aa52af95a914a8792f9f6ffc7cb8cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194057904
+status: 3
+tags: []
+user_id: houston

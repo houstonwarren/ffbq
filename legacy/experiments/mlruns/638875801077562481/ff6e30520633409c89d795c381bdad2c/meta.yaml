@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ff6e30520633409c89d795c381bdad2c/artifacts
+end_time: 1701667936146
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ff6e30520633409c89d795c381bdad2c
+run_name: sedate-sponge-322
+run_uuid: ff6e30520633409c89d795c381bdad2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667935987
+status: 3
+tags: []
+user_id: houston

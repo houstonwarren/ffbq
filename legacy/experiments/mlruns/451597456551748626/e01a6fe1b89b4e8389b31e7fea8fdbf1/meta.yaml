@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e01a6fe1b89b4e8389b31e7fea8fdbf1/artifacts
+end_time: 1701660274018
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e01a6fe1b89b4e8389b31e7fea8fdbf1
+run_name: rumbling-shad-4
+run_uuid: e01a6fe1b89b4e8389b31e7fea8fdbf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660273951
+status: 3
+tags: []
+user_id: houston

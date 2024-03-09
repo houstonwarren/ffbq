@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/254b5137091f4dcb953bdf80036125e5/artifacts
+end_time: 1697359194552
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 254b5137091f4dcb953bdf80036125e5
+run_name: wise-hawk-69
+run_uuid: 254b5137091f4dcb953bdf80036125e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359194496
+status: 3
+tags: []
+user_id: houston

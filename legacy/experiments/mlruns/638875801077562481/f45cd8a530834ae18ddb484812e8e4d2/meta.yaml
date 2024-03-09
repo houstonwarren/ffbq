@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f45cd8a530834ae18ddb484812e8e4d2/artifacts
+end_time: 1701667619741
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f45cd8a530834ae18ddb484812e8e4d2
+run_name: gifted-cod-221
+run_uuid: f45cd8a530834ae18ddb484812e8e4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667619621
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8cb33e3e313a4fd89f17538d517e3e07/artifacts
+end_time: 1697194416188
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8cb33e3e313a4fd89f17538d517e3e07
+run_name: bald-turtle-154
+run_uuid: 8cb33e3e313a4fd89f17538d517e3e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194416168
+status: 3
+tags: []
+user_id: houston

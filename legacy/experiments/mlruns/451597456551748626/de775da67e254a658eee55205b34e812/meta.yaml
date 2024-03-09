@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/de775da67e254a658eee55205b34e812/artifacts
+end_time: 1701660365125
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: de775da67e254a658eee55205b34e812
+run_name: thundering-ray-507
+run_uuid: de775da67e254a658eee55205b34e812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660365048
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/f087335ec1b6444da18dff91345a42f7/artifacts
+end_time: 1697194686060
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: f087335ec1b6444da18dff91345a42f7
+run_name: unleashed-toad-356
+run_uuid: f087335ec1b6444da18dff91345a42f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686038
+status: 3
+tags: []
+user_id: houston

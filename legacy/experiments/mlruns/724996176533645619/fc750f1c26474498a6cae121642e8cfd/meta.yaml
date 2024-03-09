@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fc750f1c26474498a6cae121642e8cfd/artifacts
+end_time: 1697193921009
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fc750f1c26474498a6cae121642e8cfd
+run_name: treasured-stoat-375
+run_uuid: fc750f1c26474498a6cae121642e8cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193920986
+status: 3
+tags: []
+user_id: houston

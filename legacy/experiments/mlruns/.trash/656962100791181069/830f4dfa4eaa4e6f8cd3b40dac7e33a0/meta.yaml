@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/830f4dfa4eaa4e6f8cd3b40dac7e33a0/artifacts
+deleted_time: 1701665274136
+end_time: 1701664851493
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 830f4dfa4eaa4e6f8cd3b40dac7e33a0
+run_name: popular-lynx-843
+run_uuid: 830f4dfa4eaa4e6f8cd3b40dac7e33a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664851448
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/09e39db6d134437ab495442b2c605e9e/artifacts
+end_time: 1698113985588
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 09e39db6d134437ab495442b2c605e9e
+run_name: useful-donkey-115
+run_uuid: 09e39db6d134437ab495442b2c605e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113985527
+status: 3
+tags: []
+user_id: houston

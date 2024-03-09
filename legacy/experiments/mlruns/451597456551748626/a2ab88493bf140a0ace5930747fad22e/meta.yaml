@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/a2ab88493bf140a0ace5930747fad22e/artifacts
+end_time: 1701660395050
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: a2ab88493bf140a0ace5930747fad22e
+run_name: likeable-cod-266
+run_uuid: a2ab88493bf140a0ace5930747fad22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660394979
+status: 3
+tags: []
+user_id: houston

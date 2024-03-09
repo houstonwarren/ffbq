@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8db35a07c8424721804572ab7f239bb3/artifacts
+end_time: 1697359166704
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8db35a07c8424721804572ab7f239bb3
+run_name: calm-hawk-334
+run_uuid: 8db35a07c8424721804572ab7f239bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359166636
+status: 3
+tags: []
+user_id: houston

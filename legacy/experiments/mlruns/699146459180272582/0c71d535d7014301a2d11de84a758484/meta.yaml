@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/0c71d535d7014301a2d11de84a758484/artifacts
+end_time: 1698113434382
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 0c71d535d7014301a2d11de84a758484
+run_name: nebulous-swan-4
+run_uuid: 0c71d535d7014301a2d11de84a758484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113434332
+status: 3
+tags: []
+user_id: houston

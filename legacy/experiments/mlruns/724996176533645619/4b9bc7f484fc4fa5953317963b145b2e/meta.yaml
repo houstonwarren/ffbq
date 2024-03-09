@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4b9bc7f484fc4fa5953317963b145b2e/artifacts
+end_time: 1697193995669
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4b9bc7f484fc4fa5953317963b145b2e
+run_name: auspicious-zebra-988
+run_uuid: 4b9bc7f484fc4fa5953317963b145b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995653
+status: 3
+tags: []
+user_id: houston

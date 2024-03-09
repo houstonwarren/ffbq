@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/47215e76e9964388b6e18282b9859879/artifacts
+deleted_time: 1701665274136
+end_time: 1701664739634
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 47215e76e9964388b6e18282b9859879
+run_name: useful-elk-759
+run_uuid: 47215e76e9964388b6e18282b9859879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664739559
+status: 3
+tags: []
+user_id: houston

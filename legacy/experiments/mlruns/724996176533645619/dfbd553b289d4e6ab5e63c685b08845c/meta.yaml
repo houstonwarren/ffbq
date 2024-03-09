@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/dfbd553b289d4e6ab5e63c685b08845c/artifacts
+end_time: 1697194042429
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: dfbd553b289d4e6ab5e63c685b08845c
+run_name: legendary-cow-675
+run_uuid: dfbd553b289d4e6ab5e63c685b08845c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042413
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/21716da1a87246509e03722676e06fc4/artifacts
+end_time: 1697440753241
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 21716da1a87246509e03722676e06fc4
+run_name: bittersweet-roo-529
+run_uuid: 21716da1a87246509e03722676e06fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440753189
+status: 3
+tags: []
+user_id: houston

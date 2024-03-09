@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/69e5d7c82f124798ae29ea5b32d6a24a/artifacts
+end_time: 1697193642408
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 69e5d7c82f124798ae29ea5b32d6a24a
+run_name: handsome-horse-633
+run_uuid: 69e5d7c82f124798ae29ea5b32d6a24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193642349
+status: 3
+tags: []
+user_id: houston

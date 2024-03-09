@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5b77f8c2d8fe41999e26e7a29fae1a1e/artifacts
+end_time: 1701667671026
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5b77f8c2d8fe41999e26e7a29fae1a1e
+run_name: stylish-hound-331
+run_uuid: 5b77f8c2d8fe41999e26e7a29fae1a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667670893
+status: 3
+tags: []
+user_id: houston

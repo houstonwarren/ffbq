@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a52cdd302f7347ddaae546c429919d85/artifacts
+end_time: 1701667770356
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a52cdd302f7347ddaae546c429919d85
+run_name: bustling-shrew-88
+run_uuid: a52cdd302f7347ddaae546c429919d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667770212
+status: 3
+tags: []
+user_id: houston

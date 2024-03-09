@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6f4d00a83f254bbc8a70beda6e0fe45c/artifacts
+end_time: 1698113852567
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6f4d00a83f254bbc8a70beda6e0fe45c
+run_name: puzzled-loon-154
+run_uuid: 6f4d00a83f254bbc8a70beda6e0fe45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113852501
+status: 3
+tags: []
+user_id: houston

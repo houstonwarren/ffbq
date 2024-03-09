@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/ebc25e6f4dfa456e86257e407b8971aa/artifacts
+end_time: 1697360333108
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: ebc25e6f4dfa456e86257e407b8971aa
+run_name: learned-stag-326
+run_uuid: ebc25e6f4dfa456e86257e407b8971aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360333051
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/c72ac290548d4d17bcd5ca856f9e327e/artifacts
+end_time: 1701660386522
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: c72ac290548d4d17bcd5ca856f9e327e
+run_name: agreeable-pug-386
+run_uuid: c72ac290548d4d17bcd5ca856f9e327e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660386438
+status: 3
+tags: []
+user_id: houston

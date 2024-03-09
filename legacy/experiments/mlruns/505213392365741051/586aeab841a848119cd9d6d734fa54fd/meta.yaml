@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/586aeab841a848119cd9d6d734fa54fd/artifacts
+end_time: 1701659486999
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 586aeab841a848119cd9d6d734fa54fd
+run_name: gentle-perch-557
+run_uuid: 586aeab841a848119cd9d6d734fa54fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659486879
+status: 3
+tags: []
+user_id: houston

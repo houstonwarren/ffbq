@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/96ce904647414438874de6e17359b7cd/artifacts
+end_time: 1697193980201
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 96ce904647414438874de6e17359b7cd
+run_name: intrigued-cub-12
+run_uuid: 96ce904647414438874de6e17359b7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193980185
+status: 3
+tags: []
+user_id: houston

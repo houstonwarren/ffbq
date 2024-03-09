@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6a8719eaaac44a09a427261704656a67/artifacts
+end_time: 1697193676639
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6a8719eaaac44a09a427261704656a67
+run_name: zealous-toad-234
+run_uuid: 6a8719eaaac44a09a427261704656a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193676628
+status: 3
+tags: []
+user_id: houston

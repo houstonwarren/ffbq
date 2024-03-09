@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/843d270ee802497da69257320f429374/artifacts
+end_time: 1701660512683
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 843d270ee802497da69257320f429374
+run_name: brawny-bass-638
+run_uuid: 843d270ee802497da69257320f429374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660512553
+status: 3
+tags: []
+user_id: houston

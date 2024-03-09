@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/6457e58084d54986930b943f40d83d2b/artifacts
+end_time: 1697359160734
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 6457e58084d54986930b943f40d83d2b
+run_name: adaptable-ant-20
+run_uuid: 6457e58084d54986930b943f40d83d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359160678
+status: 3
+tags: []
+user_id: houston

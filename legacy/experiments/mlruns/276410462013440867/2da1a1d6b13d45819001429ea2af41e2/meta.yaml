@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2da1a1d6b13d45819001429ea2af41e2/artifacts
+end_time: 1697198175638
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2da1a1d6b13d45819001429ea2af41e2
+run_name: redolent-bass-474
+run_uuid: 2da1a1d6b13d45819001429ea2af41e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198175593
+status: 3
+tags: []
+user_id: houston

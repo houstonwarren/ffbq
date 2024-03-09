@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/bd27cff87fa047689fe518ca57108291/artifacts
+end_time: 1697196017619
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: bd27cff87fa047689fe518ca57108291
+run_name: auspicious-snipe-183
+run_uuid: bd27cff87fa047689fe518ca57108291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017603
+status: 3
+tags: []
+user_id: houston

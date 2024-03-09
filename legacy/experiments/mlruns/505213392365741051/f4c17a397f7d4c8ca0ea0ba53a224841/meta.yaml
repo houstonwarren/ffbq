@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f4c17a397f7d4c8ca0ea0ba53a224841/artifacts
+end_time: 1701659489175
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f4c17a397f7d4c8ca0ea0ba53a224841
+run_name: auspicious-hound-957
+run_uuid: f4c17a397f7d4c8ca0ea0ba53a224841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659489052
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/736b8af6ba354e738bff9df4f46221a9/artifacts
+end_time: 1697195786823
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 736b8af6ba354e738bff9df4f46221a9
+run_name: merciful-smelt-831
+run_uuid: 736b8af6ba354e738bff9df4f46221a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786809
+status: 3
+tags: []
+user_id: houston

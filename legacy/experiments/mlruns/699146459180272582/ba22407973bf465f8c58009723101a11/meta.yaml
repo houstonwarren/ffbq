@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ba22407973bf465f8c58009723101a11/artifacts
+end_time: 1698114800853
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ba22407973bf465f8c58009723101a11
+run_name: polite-hen-184
+run_uuid: ba22407973bf465f8c58009723101a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114800791
+status: 3
+tags: []
+user_id: houston

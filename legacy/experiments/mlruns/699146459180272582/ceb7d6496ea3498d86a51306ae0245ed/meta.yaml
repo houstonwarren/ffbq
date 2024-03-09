@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ceb7d6496ea3498d86a51306ae0245ed/artifacts
+end_time: 1698113531970
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ceb7d6496ea3498d86a51306ae0245ed
+run_name: flawless-worm-897
+run_uuid: ceb7d6496ea3498d86a51306ae0245ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113531916
+status: 3
+tags: []
+user_id: houston

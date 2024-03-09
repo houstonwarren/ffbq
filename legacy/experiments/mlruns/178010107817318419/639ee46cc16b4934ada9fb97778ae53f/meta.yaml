@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/639ee46cc16b4934ada9fb97778ae53f/artifacts
+end_time: 1697359195420
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 639ee46cc16b4934ada9fb97778ae53f
+run_name: mysterious-ram-462
+run_uuid: 639ee46cc16b4934ada9fb97778ae53f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359195365
+status: 3
+tags: []
+user_id: houston

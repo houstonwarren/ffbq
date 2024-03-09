@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5526b29c104e4161ae5671f8ffec2fc9/artifacts
+end_time: 1701660411960
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5526b29c104e4161ae5671f8ffec2fc9
+run_name: sneaky-frog-769
+run_uuid: 5526b29c104e4161ae5671f8ffec2fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660411838
+status: 3
+tags: []
+user_id: houston

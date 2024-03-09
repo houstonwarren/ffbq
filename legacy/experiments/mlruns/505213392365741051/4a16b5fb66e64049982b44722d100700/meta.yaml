@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4a16b5fb66e64049982b44722d100700/artifacts
+end_time: 1701659607975
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4a16b5fb66e64049982b44722d100700
+run_name: dazzling-sloth-770
+run_uuid: 4a16b5fb66e64049982b44722d100700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659607815
+status: 3
+tags: []
+user_id: houston

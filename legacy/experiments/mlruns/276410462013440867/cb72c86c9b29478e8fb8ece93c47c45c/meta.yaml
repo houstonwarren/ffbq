@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/cb72c86c9b29478e8fb8ece93c47c45c/artifacts
+end_time: 1697195825743
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: cb72c86c9b29478e8fb8ece93c47c45c
+run_name: entertaining-eel-165
+run_uuid: cb72c86c9b29478e8fb8ece93c47c45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825729
+status: 3
+tags: []
+user_id: houston

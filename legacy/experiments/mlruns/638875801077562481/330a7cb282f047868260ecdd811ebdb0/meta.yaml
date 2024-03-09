@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/330a7cb282f047868260ecdd811ebdb0/artifacts
+end_time: 1701667901863
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 330a7cb282f047868260ecdd811ebdb0
+run_name: serious-toad-330
+run_uuid: 330a7cb282f047868260ecdd811ebdb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667901693
+status: 3
+tags: []
+user_id: houston

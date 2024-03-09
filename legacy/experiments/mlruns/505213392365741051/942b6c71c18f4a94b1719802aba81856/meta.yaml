@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/942b6c71c18f4a94b1719802aba81856/artifacts
+end_time: 1701659522810
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 942b6c71c18f4a94b1719802aba81856
+run_name: rumbling-stoat-307
+run_uuid: 942b6c71c18f4a94b1719802aba81856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659522680
+status: 3
+tags: []
+user_id: houston

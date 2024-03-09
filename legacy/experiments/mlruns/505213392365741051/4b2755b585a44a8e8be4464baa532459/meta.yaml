@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4b2755b585a44a8e8be4464baa532459/artifacts
+end_time: 1701659433461
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4b2755b585a44a8e8be4464baa532459
+run_name: rebellious-squid-572
+run_uuid: 4b2755b585a44a8e8be4464baa532459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659433327
+status: 3
+tags: []
+user_id: houston

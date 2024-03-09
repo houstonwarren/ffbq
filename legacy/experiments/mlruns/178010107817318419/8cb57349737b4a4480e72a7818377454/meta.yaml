@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8cb57349737b4a4480e72a7818377454/artifacts
+end_time: 1697359158280
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8cb57349737b4a4480e72a7818377454
+run_name: masked-yak-134
+run_uuid: 8cb57349737b4a4480e72a7818377454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359158227
+status: 3
+tags: []
+user_id: houston

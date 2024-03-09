@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ce0f67d31bc84b90b6ef58d3a8c500d5/artifacts
+end_time: 1697193897976
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ce0f67d31bc84b90b6ef58d3a8c500d5
+run_name: dazzling-cub-487
+run_uuid: ce0f67d31bc84b90b6ef58d3a8c500d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193897948
+status: 3
+tags: []
+user_id: houston

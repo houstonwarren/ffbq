@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b93a9946bc2e473e9ac08245ba11ce2d/artifacts
+end_time: 1698113835316
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b93a9946bc2e473e9ac08245ba11ce2d
+run_name: respected-flea-77
+run_uuid: b93a9946bc2e473e9ac08245ba11ce2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113835259
+status: 3
+tags: []
+user_id: houston

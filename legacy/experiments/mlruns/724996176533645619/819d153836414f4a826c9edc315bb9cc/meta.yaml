@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/819d153836414f4a826c9edc315bb9cc/artifacts
+end_time: 1697193642972
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 819d153836414f4a826c9edc315bb9cc
+run_name: sedate-slug-12
+run_uuid: 819d153836414f4a826c9edc315bb9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193642962
+status: 3
+tags: []
+user_id: houston

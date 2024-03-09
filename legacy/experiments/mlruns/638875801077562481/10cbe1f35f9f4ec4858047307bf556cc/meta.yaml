@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/10cbe1f35f9f4ec4858047307bf556cc/artifacts
+end_time: 1701667640091
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 10cbe1f35f9f4ec4858047307bf556cc
+run_name: useful-bee-689
+run_uuid: 10cbe1f35f9f4ec4858047307bf556cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667639945
+status: 3
+tags: []
+user_id: houston

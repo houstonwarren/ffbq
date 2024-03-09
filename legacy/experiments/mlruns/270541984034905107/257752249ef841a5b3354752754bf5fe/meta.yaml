@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/257752249ef841a5b3354752754bf5fe/artifacts
+end_time: 1697440663621
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 257752249ef841a5b3354752754bf5fe
+run_name: orderly-carp-297
+run_uuid: 257752249ef841a5b3354752754bf5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440663570
+status: 3
+tags: []
+user_id: houston

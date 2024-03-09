@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/0b63dfe3f04d4dd7b93eb226cddf2ac7/artifacts
+end_time: 1701659570172
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 0b63dfe3f04d4dd7b93eb226cddf2ac7
+run_name: resilient-crab-693
+run_uuid: 0b63dfe3f04d4dd7b93eb226cddf2ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659570026
+status: 3
+tags: []
+user_id: houston

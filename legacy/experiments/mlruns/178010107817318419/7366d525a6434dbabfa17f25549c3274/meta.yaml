@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7366d525a6434dbabfa17f25549c3274/artifacts
+end_time: 1697359085253
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7366d525a6434dbabfa17f25549c3274
+run_name: worried-pug-791
+run_uuid: 7366d525a6434dbabfa17f25549c3274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359085205
+status: 3
+tags: []
+user_id: houston

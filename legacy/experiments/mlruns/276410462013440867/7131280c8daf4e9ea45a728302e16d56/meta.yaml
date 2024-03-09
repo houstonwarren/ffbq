@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7131280c8daf4e9ea45a728302e16d56/artifacts
+end_time: 1697195710091
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7131280c8daf4e9ea45a728302e16d56
+run_name: gifted-seal-245
+run_uuid: 7131280c8daf4e9ea45a728302e16d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195710078
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e992ebca18394cbaaeb8915c24775928/artifacts
+end_time: 1697193793804
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e992ebca18394cbaaeb8915c24775928
+run_name: classy-perch-208
+run_uuid: e992ebca18394cbaaeb8915c24775928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793791
+status: 3
+tags: []
+user_id: houston

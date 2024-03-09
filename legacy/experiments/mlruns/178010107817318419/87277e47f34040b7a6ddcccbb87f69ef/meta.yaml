@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/87277e47f34040b7a6ddcccbb87f69ef/artifacts
+end_time: 1697359136258
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 87277e47f34040b7a6ddcccbb87f69ef
+run_name: defiant-gnat-8
+run_uuid: 87277e47f34040b7a6ddcccbb87f69ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359136206
+status: 3
+tags: []
+user_id: houston

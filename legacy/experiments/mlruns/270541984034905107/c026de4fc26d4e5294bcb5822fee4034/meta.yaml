@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c026de4fc26d4e5294bcb5822fee4034/artifacts
+end_time: 1697441758465
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c026de4fc26d4e5294bcb5822fee4034
+run_name: chill-stag-629
+run_uuid: c026de4fc26d4e5294bcb5822fee4034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441758409
+status: 3
+tags: []
+user_id: houston

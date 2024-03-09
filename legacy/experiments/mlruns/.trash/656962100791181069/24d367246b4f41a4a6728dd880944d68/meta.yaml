@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/24d367246b4f41a4a6728dd880944d68/artifacts
+deleted_time: 1701665274136
+end_time: 1701664784093
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 24d367246b4f41a4a6728dd880944d68
+run_name: grandiose-bear-322
+run_uuid: 24d367246b4f41a4a6728dd880944d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664784056
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/7bff11b69ef24a18a3a59e681103f009/artifacts
+end_time: 1701659583872
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 7bff11b69ef24a18a3a59e681103f009
+run_name: delightful-fox-265
+run_uuid: 7bff11b69ef24a18a3a59e681103f009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659583699
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/d1339abe73ab46429263381e78e07b07/artifacts
+deleted_time: 1701665274136
+end_time: 1701664881246
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: d1339abe73ab46429263381e78e07b07
+run_name: upset-lynx-455
+run_uuid: d1339abe73ab46429263381e78e07b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664881205
+status: 3
+tags: []
+user_id: houston

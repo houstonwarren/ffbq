@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a86244eae8dc4a8da6c5cdaaf525ac16/artifacts
+end_time: 1697196547345
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a86244eae8dc4a8da6c5cdaaf525ac16
+run_name: invincible-zebra-530
+run_uuid: a86244eae8dc4a8da6c5cdaaf525ac16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547328
+status: 3
+tags: []
+user_id: houston

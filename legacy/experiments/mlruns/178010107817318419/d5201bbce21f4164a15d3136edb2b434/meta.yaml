@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d5201bbce21f4164a15d3136edb2b434/artifacts
+end_time: 1697359145166
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d5201bbce21f4164a15d3136edb2b434
+run_name: sincere-deer-709
+run_uuid: d5201bbce21f4164a15d3136edb2b434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359145112
+status: 3
+tags: []
+user_id: houston

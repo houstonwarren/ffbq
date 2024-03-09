@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4bfd114f20d24a159e15eca07f8484a5/artifacts
+end_time: 1701667437451
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4bfd114f20d24a159e15eca07f8484a5
+run_name: handsome-steed-215
+run_uuid: 4bfd114f20d24a159e15eca07f8484a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667437368
+status: 3
+tags: []
+user_id: houston

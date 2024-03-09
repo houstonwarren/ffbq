@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/f139f88466ba45afb19b42edbcea6a81/artifacts
+end_time: 1697359047454
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: f139f88466ba45afb19b42edbcea6a81
+run_name: inquisitive-fly-113
+run_uuid: f139f88466ba45afb19b42edbcea6a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359047397
+status: 3
+tags: []
+user_id: houston

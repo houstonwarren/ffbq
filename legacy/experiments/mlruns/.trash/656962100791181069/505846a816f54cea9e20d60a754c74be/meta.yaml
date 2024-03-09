@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/505846a816f54cea9e20d60a754c74be/artifacts
+deleted_time: 1701665274136
+end_time: 1701664758204
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 505846a816f54cea9e20d60a754c74be
+run_name: wise-mouse-959
+run_uuid: 505846a816f54cea9e20d60a754c74be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664758180
+status: 3
+tags: []
+user_id: houston

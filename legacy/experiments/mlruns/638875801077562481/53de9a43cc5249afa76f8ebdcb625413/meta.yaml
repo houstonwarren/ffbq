@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/53de9a43cc5249afa76f8ebdcb625413/artifacts
+end_time: 1701667691624
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 53de9a43cc5249afa76f8ebdcb625413
+run_name: capable-snake-527
+run_uuid: 53de9a43cc5249afa76f8ebdcb625413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667691476
+status: 3
+tags: []
+user_id: houston

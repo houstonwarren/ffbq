@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3a86994aa9bf4f6081314d113b5ff650/artifacts
+end_time: 1701667533079
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3a86994aa9bf4f6081314d113b5ff650
+run_name: indecisive-steed-841
+run_uuid: 3a86994aa9bf4f6081314d113b5ff650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667532965
+status: 3
+tags: []
+user_id: houston

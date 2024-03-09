@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/54c07aadd7b74d3e81f396a322c4ce9f/artifacts
+end_time: 1701667459288
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 54c07aadd7b74d3e81f396a322c4ce9f
+run_name: grandiose-duck-753
+run_uuid: 54c07aadd7b74d3e81f396a322c4ce9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667459184
+status: 3
+tags: []
+user_id: houston

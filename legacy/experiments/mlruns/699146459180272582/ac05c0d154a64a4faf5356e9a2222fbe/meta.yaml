@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ac05c0d154a64a4faf5356e9a2222fbe/artifacts
+end_time: 1698114394496
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ac05c0d154a64a4faf5356e9a2222fbe
+run_name: luxuriant-snail-927
+run_uuid: ac05c0d154a64a4faf5356e9a2222fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114394436
+status: 3
+tags: []
+user_id: houston

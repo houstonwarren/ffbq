@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/112fb4819e6a4105bbce7d932d358819/artifacts
+end_time: 1698113434811
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 112fb4819e6a4105bbce7d932d358819
+run_name: respected-carp-186
+run_uuid: 112fb4819e6a4105bbce7d932d358819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113434760
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/164011e69e214db1817602e31944c3f1/artifacts
+deleted_time: 1701665274136
+end_time: 1701664833183
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 164011e69e214db1817602e31944c3f1
+run_name: serious-crab-805
+run_uuid: 164011e69e214db1817602e31944c3f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664833130
+status: 3
+tags: []
+user_id: houston

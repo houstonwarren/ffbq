@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8cec8ef5fdad4d6ea119661b7e6346cc/artifacts
+end_time: 1697194026688
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8cec8ef5fdad4d6ea119661b7e6346cc
+run_name: learned-shoat-168
+run_uuid: 8cec8ef5fdad4d6ea119661b7e6346cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194026625
+status: 3
+tags: []
+user_id: houston

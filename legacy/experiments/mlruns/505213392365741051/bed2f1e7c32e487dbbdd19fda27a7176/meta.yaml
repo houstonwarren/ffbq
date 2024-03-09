@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/bed2f1e7c32e487dbbdd19fda27a7176/artifacts
+end_time: 1701659535285
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: bed2f1e7c32e487dbbdd19fda27a7176
+run_name: skillful-swan-56
+run_uuid: bed2f1e7c32e487dbbdd19fda27a7176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659535141
+status: 3
+tags: []
+user_id: houston

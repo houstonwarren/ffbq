@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/dff8f498197e4bbfaf5dcb512f1cca62/artifacts
+end_time: 1698113869947
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: dff8f498197e4bbfaf5dcb512f1cca62
+run_name: puzzled-shad-534
+run_uuid: dff8f498197e4bbfaf5dcb512f1cca62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113869886
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/316ecbe5735e4f4ca03358749933926e/artifacts
+end_time: 1701667512298
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 316ecbe5735e4f4ca03358749933926e
+run_name: peaceful-moose-370
+run_uuid: 316ecbe5735e4f4ca03358749933926e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667512108
+status: 3
+tags: []
+user_id: houston

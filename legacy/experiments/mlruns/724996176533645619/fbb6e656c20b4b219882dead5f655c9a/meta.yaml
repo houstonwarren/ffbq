@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fbb6e656c20b4b219882dead5f655c9a/artifacts
+end_time: 1697194136629
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fbb6e656c20b4b219882dead5f655c9a
+run_name: peaceful-rat-954
+run_uuid: fbb6e656c20b4b219882dead5f655c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194136599
+status: 3
+tags: []
+user_id: houston

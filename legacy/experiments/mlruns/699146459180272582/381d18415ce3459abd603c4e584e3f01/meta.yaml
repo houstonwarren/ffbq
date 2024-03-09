@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/381d18415ce3459abd603c4e584e3f01/artifacts
+end_time: 1698114394644
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 381d18415ce3459abd603c4e584e3f01
+run_name: omniscient-colt-911
+run_uuid: 381d18415ce3459abd603c4e584e3f01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114394575
+status: 3
+tags: []
+user_id: houston

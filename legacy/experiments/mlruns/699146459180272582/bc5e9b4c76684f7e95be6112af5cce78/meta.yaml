@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bc5e9b4c76684f7e95be6112af5cce78/artifacts
+end_time: 1698113613468
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bc5e9b4c76684f7e95be6112af5cce78
+run_name: youthful-lynx-284
+run_uuid: bc5e9b4c76684f7e95be6112af5cce78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113613411
+status: 3
+tags: []
+user_id: houston

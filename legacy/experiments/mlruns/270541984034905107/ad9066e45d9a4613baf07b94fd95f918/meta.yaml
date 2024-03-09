@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ad9066e45d9a4613baf07b94fd95f918/artifacts
+end_time: 1697441250810
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ad9066e45d9a4613baf07b94fd95f918
+run_name: learned-cow-280
+run_uuid: ad9066e45d9a4613baf07b94fd95f918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441250756
+status: 3
+tags: []
+user_id: houston

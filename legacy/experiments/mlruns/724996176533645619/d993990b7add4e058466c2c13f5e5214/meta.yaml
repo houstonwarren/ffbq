@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d993990b7add4e058466c2c13f5e5214/artifacts
+end_time: 1697194519416
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d993990b7add4e058466c2c13f5e5214
+run_name: grandiose-roo-813
+run_uuid: d993990b7add4e058466c2c13f5e5214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194519395
+status: 3
+tags: []
+user_id: houston

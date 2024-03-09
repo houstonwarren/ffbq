@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/b1b70f6e75534b5e9e15035103a8715f/artifacts
+end_time: 1697194276651
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: b1b70f6e75534b5e9e15035103a8715f
+run_name: intelligent-swan-148
+run_uuid: b1b70f6e75534b5e9e15035103a8715f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276631
+status: 3
+tags: []
+user_id: houston

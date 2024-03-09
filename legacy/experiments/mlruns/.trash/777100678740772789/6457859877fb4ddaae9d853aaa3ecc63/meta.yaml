@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/777100678740772789/6457859877fb4ddaae9d853aaa3ecc63/artifacts
+deleted_time: 1701660238886
+end_time: 1701660181603
+entry_point_name: ''
+experiment_id: '777100678740772789'
+lifecycle_stage: deleted
+run_id: 6457859877fb4ddaae9d853aaa3ecc63
+run_name: wise-quail-453
+run_uuid: 6457859877fb4ddaae9d853aaa3ecc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660181453
+status: 3
+tags: []
+user_id: houston

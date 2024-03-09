@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/cb737d1001894cd2a9cddff973da2dd3/artifacts
+end_time: 1701659455547
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: cb737d1001894cd2a9cddff973da2dd3
+run_name: rare-shad-943
+run_uuid: cb737d1001894cd2a9cddff973da2dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659455417
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/dbb2899ba06b4e088a22ce1a687f528c/artifacts
+end_time: 1698113985660
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: dbb2899ba06b4e088a22ce1a687f528c
+run_name: loud-deer-761
+run_uuid: dbb2899ba06b4e088a22ce1a687f528c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113985598
+status: 3
+tags: []
+user_id: houston

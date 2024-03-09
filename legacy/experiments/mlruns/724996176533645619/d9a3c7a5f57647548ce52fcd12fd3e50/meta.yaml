@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d9a3c7a5f57647548ce52fcd12fd3e50/artifacts
+end_time: 1697193995817
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d9a3c7a5f57647548ce52fcd12fd3e50
+run_name: useful-stag-193
+run_uuid: d9a3c7a5f57647548ce52fcd12fd3e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193995802
+status: 3
+tags: []
+user_id: houston

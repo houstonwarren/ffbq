@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/481c7e2f4c2a4d3d843c984f8837ce10/artifacts
+end_time: 1698114880237
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 481c7e2f4c2a4d3d843c984f8837ce10
+run_name: clumsy-loon-468
+run_uuid: 481c7e2f4c2a4d3d843c984f8837ce10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114880175
+status: 3
+tags: []
+user_id: houston

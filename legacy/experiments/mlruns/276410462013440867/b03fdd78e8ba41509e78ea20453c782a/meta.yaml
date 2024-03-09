@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b03fdd78e8ba41509e78ea20453c782a/artifacts
+end_time: 1697195864263
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b03fdd78e8ba41509e78ea20453c782a
+run_name: adaptable-mare-350
+run_uuid: b03fdd78e8ba41509e78ea20453c782a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195864248
+status: 3
+tags: []
+user_id: houston

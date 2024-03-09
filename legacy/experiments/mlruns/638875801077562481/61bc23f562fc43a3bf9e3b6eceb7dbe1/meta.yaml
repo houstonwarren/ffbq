@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/61bc23f562fc43a3bf9e3b6eceb7dbe1/artifacts
+end_time: 1701667637494
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 61bc23f562fc43a3bf9e3b6eceb7dbe1
+run_name: painted-hen-93
+run_uuid: 61bc23f562fc43a3bf9e3b6eceb7dbe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667637308
+status: 3
+tags: []
+user_id: houston

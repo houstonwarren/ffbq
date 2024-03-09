@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fba6b542ae9b42868bacfd6bb234207d/artifacts
+end_time: 1697195472180
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fba6b542ae9b42868bacfd6bb234207d
+run_name: youthful-foal-881
+run_uuid: fba6b542ae9b42868bacfd6bb234207d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195472166
+status: 3
+tags: []
+user_id: houston

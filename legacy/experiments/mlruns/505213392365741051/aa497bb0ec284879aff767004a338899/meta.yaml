@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/aa497bb0ec284879aff767004a338899/artifacts
+end_time: 1701659460888
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: aa497bb0ec284879aff767004a338899
+run_name: handsome-ram-889
+run_uuid: aa497bb0ec284879aff767004a338899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659460759
+status: 3
+tags: []
+user_id: houston

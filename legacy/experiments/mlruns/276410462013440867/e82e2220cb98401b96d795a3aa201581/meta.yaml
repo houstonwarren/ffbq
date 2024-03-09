@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e82e2220cb98401b96d795a3aa201581/artifacts
+end_time: 1697198006776
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e82e2220cb98401b96d795a3aa201581
+run_name: polite-donkey-267
+run_uuid: e82e2220cb98401b96d795a3aa201581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006756
+status: 3
+tags: []
+user_id: houston

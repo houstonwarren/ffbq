@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1fe0a5f79e7f4b77a886c8b4b6e195f1/artifacts
+end_time: 1697195605831
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1fe0a5f79e7f4b77a886c8b4b6e195f1
+run_name: wise-mule-21
+run_uuid: 1fe0a5f79e7f4b77a886c8b4b6e195f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195605819
+status: 3
+tags: []
+user_id: houston

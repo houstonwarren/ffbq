@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/97e52364df4c448eaf882b1c6dc0a1eb/artifacts
+end_time: 1698113572295
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 97e52364df4c448eaf882b1c6dc0a1eb
+run_name: glamorous-mare-910
+run_uuid: 97e52364df4c448eaf882b1c6dc0a1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113572238
+status: 3
+tags: []
+user_id: houston

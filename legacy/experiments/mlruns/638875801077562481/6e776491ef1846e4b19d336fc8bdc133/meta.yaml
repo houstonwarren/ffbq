@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/6e776491ef1846e4b19d336fc8bdc133/artifacts
+end_time: 1701667999093
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 6e776491ef1846e4b19d336fc8bdc133
+run_name: dazzling-ant-144
+run_uuid: 6e776491ef1846e4b19d336fc8bdc133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667998930
+status: 3
+tags: []
+user_id: houston

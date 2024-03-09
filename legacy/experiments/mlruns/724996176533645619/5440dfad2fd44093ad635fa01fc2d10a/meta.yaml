@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5440dfad2fd44093ad635fa01fc2d10a/artifacts
+end_time: 1697193921051
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5440dfad2fd44093ad635fa01fc2d10a
+run_name: casual-dog-256
+run_uuid: 5440dfad2fd44093ad635fa01fc2d10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193921035
+status: 3
+tags: []
+user_id: houston

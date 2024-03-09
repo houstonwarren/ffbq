@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c65479a9d5564308b461cb11e392ee46/artifacts
+end_time: 1701667850073
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c65479a9d5564308b461cb11e392ee46
+run_name: mysterious-snail-857
+run_uuid: c65479a9d5564308b461cb11e392ee46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667849907
+status: 3
+tags: []
+user_id: houston

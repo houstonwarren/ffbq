@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4aff8256b6734493b77eacdce17fd4b7/artifacts
+end_time: 1697194416137
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4aff8256b6734493b77eacdce17fd4b7
+run_name: gentle-bear-834
+run_uuid: 4aff8256b6734493b77eacdce17fd4b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194416117
+status: 3
+tags: []
+user_id: houston

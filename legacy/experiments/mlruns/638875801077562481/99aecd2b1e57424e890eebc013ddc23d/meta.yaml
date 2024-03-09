@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/99aecd2b1e57424e890eebc013ddc23d/artifacts
+end_time: 1701667536962
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 99aecd2b1e57424e890eebc013ddc23d
+run_name: tasteful-gull-484
+run_uuid: 99aecd2b1e57424e890eebc013ddc23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667536867
+status: 3
+tags: []
+user_id: houston

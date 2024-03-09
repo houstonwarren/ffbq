@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/c94cf997523a40389c9ca3aa7cb88784/artifacts
+end_time: 1697440541058
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: c94cf997523a40389c9ca3aa7cb88784
+run_name: stately-elk-477
+run_uuid: c94cf997523a40389c9ca3aa7cb88784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440541010
+status: 3
+tags: []
+user_id: houston

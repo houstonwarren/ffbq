@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fde0436b04224aa89621426a3d099cd9/artifacts
+end_time: 1697193793872
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fde0436b04224aa89621426a3d099cd9
+run_name: aged-dove-983
+run_uuid: fde0436b04224aa89621426a3d099cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793859
+status: 3
+tags: []
+user_id: houston

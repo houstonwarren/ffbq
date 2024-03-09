@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/7862a776a1fe4c988c5ab4ba66b4b509/artifacts
+deleted_time: 1701665274136
+end_time: 1701664883070
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 7862a776a1fe4c988c5ab4ba66b4b509
+run_name: enthused-finch-942
+run_uuid: 7862a776a1fe4c988c5ab4ba66b4b509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664883033
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/645d29cf6bca4d3fa4d1e237d2cc11ff/artifacts
+end_time: 1697193726199
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 645d29cf6bca4d3fa4d1e237d2cc11ff
+run_name: exultant-hound-295
+run_uuid: 645d29cf6bca4d3fa4d1e237d2cc11ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193726122
+status: 3
+tags: []
+user_id: houston

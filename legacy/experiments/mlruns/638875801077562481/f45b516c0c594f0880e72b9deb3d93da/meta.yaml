@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f45b516c0c594f0880e72b9deb3d93da/artifacts
+end_time: 1701667931083
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f45b516c0c594f0880e72b9deb3d93da
+run_name: honorable-sloth-133
+run_uuid: f45b516c0c594f0880e72b9deb3d93da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667930923
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/8b1d908ba9a244858b5b65735b9c3eef/artifacts
+end_time: 1701660445391
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 8b1d908ba9a244858b5b65735b9c3eef
+run_name: monumental-yak-648
+run_uuid: 8b1d908ba9a244858b5b65735b9c3eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660445290
+status: 3
+tags: []
+user_id: houston

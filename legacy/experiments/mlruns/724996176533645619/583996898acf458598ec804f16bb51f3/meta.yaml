@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/583996898acf458598ec804f16bb51f3/artifacts
+end_time: 1697194346248
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 583996898acf458598ec804f16bb51f3
+run_name: hilarious-slug-191
+run_uuid: 583996898acf458598ec804f16bb51f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194346228
+status: 3
+tags: []
+user_id: houston

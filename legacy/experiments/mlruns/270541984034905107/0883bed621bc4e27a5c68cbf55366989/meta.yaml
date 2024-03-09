@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/0883bed621bc4e27a5c68cbf55366989/artifacts
+end_time: 1697440589648
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 0883bed621bc4e27a5c68cbf55366989
+run_name: dapper-croc-309
+run_uuid: 0883bed621bc4e27a5c68cbf55366989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440589568
+status: 3
+tags: []
+user_id: houston

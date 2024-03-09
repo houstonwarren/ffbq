@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/b081f8fd4ca94d078d5e8e6dad8d4bcc/artifacts
+end_time: 1701660026648
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: b081f8fd4ca94d078d5e8e6dad8d4bcc
+run_name: serious-pug-150
+run_uuid: b081f8fd4ca94d078d5e8e6dad8d4bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660026511
+status: 3
+tags: []
+user_id: houston

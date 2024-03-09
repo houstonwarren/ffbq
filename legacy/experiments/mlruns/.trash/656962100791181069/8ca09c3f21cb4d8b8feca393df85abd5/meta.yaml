@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/8ca09c3f21cb4d8b8feca393df85abd5/artifacts
+deleted_time: 1701665274136
+end_time: 1701664664529
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 8ca09c3f21cb4d8b8feca393df85abd5
+run_name: bustling-croc-830
+run_uuid: 8ca09c3f21cb4d8b8feca393df85abd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664664490
+status: 3
+tags: []
+user_id: houston

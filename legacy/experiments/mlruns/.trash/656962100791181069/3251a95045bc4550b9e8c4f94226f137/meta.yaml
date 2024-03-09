@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/3251a95045bc4550b9e8c4f94226f137/artifacts
+deleted_time: 1701665274136
+end_time: 1701664737694
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 3251a95045bc4550b9e8c4f94226f137
+run_name: peaceful-shrike-270
+run_uuid: 3251a95045bc4550b9e8c4f94226f137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664737650
+status: 3
+tags: []
+user_id: houston

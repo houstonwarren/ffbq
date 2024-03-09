@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/93902b64c24949f3b764783d2f8b4911/artifacts
+deleted_time: 1701665274136
+end_time: 1701664767132
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 93902b64c24949f3b764783d2f8b4911
+run_name: indecisive-koi-125
+run_uuid: 93902b64c24949f3b764783d2f8b4911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664767109
+status: 3
+tags: []
+user_id: houston

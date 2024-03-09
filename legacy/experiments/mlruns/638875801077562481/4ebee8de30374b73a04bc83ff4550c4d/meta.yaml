@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4ebee8de30374b73a04bc83ff4550c4d/artifacts
+end_time: 1701667655974
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4ebee8de30374b73a04bc83ff4550c4d
+run_name: angry-rat-215
+run_uuid: 4ebee8de30374b73a04bc83ff4550c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667655853
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/113ebfd2b947484eaf64bdd8b80e5464/artifacts
+end_time: 1697359126778
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 113ebfd2b947484eaf64bdd8b80e5464
+run_name: learned-mink-67
+run_uuid: 113ebfd2b947484eaf64bdd8b80e5464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359126728
+status: 3
+tags: []
+user_id: houston

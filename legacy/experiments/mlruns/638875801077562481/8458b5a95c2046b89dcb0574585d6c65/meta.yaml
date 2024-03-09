@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8458b5a95c2046b89dcb0574585d6c65/artifacts
+end_time: 1701667972851
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8458b5a95c2046b89dcb0574585d6c65
+run_name: worried-shad-410
+run_uuid: 8458b5a95c2046b89dcb0574585d6c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667972675
+status: 3
+tags: []
+user_id: houston

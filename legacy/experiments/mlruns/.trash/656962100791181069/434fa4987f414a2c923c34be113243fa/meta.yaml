@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/434fa4987f414a2c923c34be113243fa/artifacts
+deleted_time: 1701665274136
+end_time: 1701664862111
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 434fa4987f414a2c923c34be113243fa
+run_name: grandiose-elk-912
+run_uuid: 434fa4987f414a2c923c34be113243fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664862065
+status: 3
+tags: []
+user_id: houston

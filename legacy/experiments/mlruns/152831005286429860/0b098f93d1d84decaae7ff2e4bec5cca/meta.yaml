@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/0b098f93d1d84decaae7ff2e4bec5cca/artifacts
+end_time: 1697360275300
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 0b098f93d1d84decaae7ff2e4bec5cca
+run_name: intrigued-zebra-528
+run_uuid: 0b098f93d1d84decaae7ff2e4bec5cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360275243
+status: 3
+tags: []
+user_id: houston

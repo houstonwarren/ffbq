@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/398423faee22446abf9de07c2c2606ec/artifacts
+end_time: 1698114291759
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 398423faee22446abf9de07c2c2606ec
+run_name: placid-squirrel-74
+run_uuid: 398423faee22446abf9de07c2c2606ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291698
+status: 3
+tags: []
+user_id: houston

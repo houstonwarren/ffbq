@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/6ea7edf1d11f4a949da0d3599f23a250/artifacts
+deleted_time: 1701665274136
+end_time: 1701664868919
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 6ea7edf1d11f4a949da0d3599f23a250
+run_name: angry-mule-690
+run_uuid: 6ea7edf1d11f4a949da0d3599f23a250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664868848
+status: 3
+tags: []
+user_id: houston

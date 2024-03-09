@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/212caf1316a648a286153e4075e24373/artifacts
+end_time: 1697193777090
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 212caf1316a648a286153e4075e24373
+run_name: nosy-carp-385
+run_uuid: 212caf1316a648a286153e4075e24373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193777077
+status: 3
+tags: []
+user_id: houston

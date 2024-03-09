@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6eb8d032c2e2416183c5af797fa5cc1f/artifacts
+end_time: 1697193948205
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6eb8d032c2e2416183c5af797fa5cc1f
+run_name: respected-dog-537
+run_uuid: 6eb8d032c2e2416183c5af797fa5cc1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193948189
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/17ee16707f9645c3be64919302e716e0/artifacts
+end_time: 1697196887578
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 17ee16707f9645c3be64919302e716e0
+run_name: legendary-skink-277
+run_uuid: 17ee16707f9645c3be64919302e716e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887561
+status: 3
+tags: []
+user_id: houston

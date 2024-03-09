@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/11cd53eeb2f8435f9a3e2921f86e5e86/artifacts
+end_time: 1697198513938
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 11cd53eeb2f8435f9a3e2921f86e5e86
+run_name: wise-snipe-23
+run_uuid: 11cd53eeb2f8435f9a3e2921f86e5e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513915
+status: 3
+tags: []
+user_id: houston

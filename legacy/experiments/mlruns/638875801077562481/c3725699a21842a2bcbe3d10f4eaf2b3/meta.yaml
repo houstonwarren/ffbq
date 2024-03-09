@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c3725699a21842a2bcbe3d10f4eaf2b3/artifacts
+end_time: 1701667559504
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c3725699a21842a2bcbe3d10f4eaf2b3
+run_name: persistent-whale-55
+run_uuid: c3725699a21842a2bcbe3d10f4eaf2b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667559397
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7685160aa2ef409aaf5831e78182954b/artifacts
+end_time: 1697359053672
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7685160aa2ef409aaf5831e78182954b
+run_name: powerful-toad-699
+run_uuid: 7685160aa2ef409aaf5831e78182954b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359053623
+status: 3
+tags: []
+user_id: houston

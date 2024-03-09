@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/09226b3c5feb4d04839f7d6b421aebcd/artifacts
+end_time: 1701667547166
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 09226b3c5feb4d04839f7d6b421aebcd
+run_name: debonair-ape-514
+run_uuid: 09226b3c5feb4d04839f7d6b421aebcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667547068
+status: 3
+tags: []
+user_id: houston

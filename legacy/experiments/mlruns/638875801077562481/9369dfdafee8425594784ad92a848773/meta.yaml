@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/9369dfdafee8425594784ad92a848773/artifacts
+end_time: 1701667973579
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 9369dfdafee8425594784ad92a848773
+run_name: righteous-hawk-355
+run_uuid: 9369dfdafee8425594784ad92a848773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667973426
+status: 3
+tags: []
+user_id: houston

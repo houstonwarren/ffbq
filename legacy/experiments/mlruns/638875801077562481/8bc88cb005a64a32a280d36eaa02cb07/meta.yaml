@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8bc88cb005a64a32a280d36eaa02cb07/artifacts
+end_time: 1701667515526
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8bc88cb005a64a32a280d36eaa02cb07
+run_name: flawless-fowl-301
+run_uuid: 8bc88cb005a64a32a280d36eaa02cb07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667515435
+status: 3
+tags: []
+user_id: houston

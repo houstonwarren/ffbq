@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5867a979bfee4345802870ce59d53f4f/artifacts
+end_time: 1697195555558
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5867a979bfee4345802870ce59d53f4f
+run_name: learned-panda-155
+run_uuid: 5867a979bfee4345802870ce59d53f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195555545
+status: 3
+tags: []
+user_id: houston

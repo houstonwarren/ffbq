@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4583317b44a64b9ab0f7fd4470a3125c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664920523
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4583317b44a64b9ab0f7fd4470a3125c
+run_name: unequaled-pig-497
+run_uuid: 4583317b44a64b9ab0f7fd4470a3125c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664920475
+status: 3
+tags: []
+user_id: houston

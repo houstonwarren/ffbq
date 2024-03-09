@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/95edf4a890c54290ac576c7a35e8934b/artifacts
+end_time: 1697440615738
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 95edf4a890c54290ac576c7a35e8934b
+run_name: trusting-rat-689
+run_uuid: 95edf4a890c54290ac576c7a35e8934b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440615687
+status: 3
+tags: []
+user_id: houston

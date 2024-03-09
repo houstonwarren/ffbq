@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/d7355872aaee442ca3466150811d9c91/artifacts
+end_time: 1698113458634
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: d7355872aaee442ca3466150811d9c91
+run_name: adventurous-lamb-260
+run_uuid: d7355872aaee442ca3466150811d9c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458582
+status: 3
+tags: []
+user_id: houston

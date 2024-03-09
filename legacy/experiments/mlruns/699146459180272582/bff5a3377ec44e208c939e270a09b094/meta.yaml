@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bff5a3377ec44e208c939e270a09b094/artifacts
+end_time: 1698113852767
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bff5a3377ec44e208c939e270a09b094
+run_name: bustling-crane-984
+run_uuid: bff5a3377ec44e208c939e270a09b094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113852710
+status: 3
+tags: []
+user_id: houston

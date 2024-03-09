@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/868a6529f0504ccc86f5d6f207baf3dc/artifacts
+end_time: 1698113817138
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 868a6529f0504ccc86f5d6f207baf3dc
+run_name: worried-fowl-104
+run_uuid: 868a6529f0504ccc86f5d6f207baf3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113817081
+status: 3
+tags: []
+user_id: houston

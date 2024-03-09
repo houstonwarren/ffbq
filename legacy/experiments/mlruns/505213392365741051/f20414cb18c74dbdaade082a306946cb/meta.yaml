@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/f20414cb18c74dbdaade082a306946cb/artifacts
+end_time: 1701659601021
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: f20414cb18c74dbdaade082a306946cb
+run_name: bustling-hen-631
+run_uuid: f20414cb18c74dbdaade082a306946cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659600856
+status: 3
+tags: []
+user_id: houston

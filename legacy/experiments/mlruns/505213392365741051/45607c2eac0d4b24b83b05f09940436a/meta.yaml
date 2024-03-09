@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/45607c2eac0d4b24b83b05f09940436a/artifacts
+end_time: 1701659441936
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 45607c2eac0d4b24b83b05f09940436a
+run_name: bustling-fox-432
+run_uuid: 45607c2eac0d4b24b83b05f09940436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659441811
+status: 3
+tags: []
+user_id: houston

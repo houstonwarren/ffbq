@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/b5779fea794a4e0c998045820fbd5957/artifacts
+end_time: 1697440508977
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: b5779fea794a4e0c998045820fbd5957
+run_name: persistent-fox-32
+run_uuid: b5779fea794a4e0c998045820fbd5957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440508929
+status: 3
+tags: []
+user_id: houston

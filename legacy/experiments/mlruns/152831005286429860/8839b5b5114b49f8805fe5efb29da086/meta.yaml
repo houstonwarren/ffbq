@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/8839b5b5114b49f8805fe5efb29da086/artifacts
+end_time: 1697360332060
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 8839b5b5114b49f8805fe5efb29da086
+run_name: salty-croc-195
+run_uuid: 8839b5b5114b49f8805fe5efb29da086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360332008
+status: 3
+tags: []
+user_id: houston

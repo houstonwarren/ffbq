@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/c8ccfb535e42416c80be6bb5c3eb2fe4/artifacts
+deleted_time: 1701665274136
+end_time: 1701664849632
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: c8ccfb535e42416c80be6bb5c3eb2fe4
+run_name: traveling-foal-979
+run_uuid: c8ccfb535e42416c80be6bb5c3eb2fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664849588
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/4e2e3b48edb24dfba94ef4e746c1b82f/artifacts
+end_time: 1701660256100
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 4e2e3b48edb24dfba94ef4e746c1b82f
+run_name: wistful-owl-94
+run_uuid: 4e2e3b48edb24dfba94ef4e746c1b82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660256039
+status: 3
+tags: []
+user_id: houston

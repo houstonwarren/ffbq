@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/60a37773d62e468d9c248b7b79e7d980/artifacts
+end_time: 1701667959190
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 60a37773d62e468d9c248b7b79e7d980
+run_name: caring-bear-887
+run_uuid: 60a37773d62e468d9c248b7b79e7d980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667959021
+status: 3
+tags: []
+user_id: houston

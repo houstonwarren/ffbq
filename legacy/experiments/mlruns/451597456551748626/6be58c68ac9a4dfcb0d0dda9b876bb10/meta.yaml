@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/6be58c68ac9a4dfcb0d0dda9b876bb10/artifacts
+end_time: 1701660316550
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 6be58c68ac9a4dfcb0d0dda9b876bb10
+run_name: selective-rat-60
+run_uuid: 6be58c68ac9a4dfcb0d0dda9b876bb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660316473
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/8a846a0fbfb74f09989779f9a41dc445/artifacts
+end_time: 1697360266677
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 8a846a0fbfb74f09989779f9a41dc445
+run_name: colorful-snake-394
+run_uuid: 8a846a0fbfb74f09989779f9a41dc445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360266625
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8fb687e555144ab084d297331a7e59b0/artifacts
+end_time: 1697193659787
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8fb687e555144ab084d297331a7e59b0
+run_name: powerful-skink-248
+run_uuid: 8fb687e555144ab084d297331a7e59b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659774
+status: 3
+tags: []
+user_id: houston

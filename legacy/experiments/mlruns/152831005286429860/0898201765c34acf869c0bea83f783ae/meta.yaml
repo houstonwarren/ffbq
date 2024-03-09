@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/0898201765c34acf869c0bea83f783ae/artifacts
+end_time: 1697360258236
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 0898201765c34acf869c0bea83f783ae
+run_name: handsome-hound-963
+run_uuid: 0898201765c34acf869c0bea83f783ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360258187
+status: 3
+tags: []
+user_id: houston

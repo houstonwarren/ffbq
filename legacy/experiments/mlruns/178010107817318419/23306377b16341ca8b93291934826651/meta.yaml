@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/23306377b16341ca8b93291934826651/artifacts
+end_time: 1697359146988
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 23306377b16341ca8b93291934826651
+run_name: dazzling-sheep-297
+run_uuid: 23306377b16341ca8b93291934826651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359146935
+status: 3
+tags: []
+user_id: houston

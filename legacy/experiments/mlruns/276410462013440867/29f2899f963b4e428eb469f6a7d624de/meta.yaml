@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/29f2899f963b4e428eb469f6a7d624de/artifacts
+end_time: 1697195489230
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 29f2899f963b4e428eb469f6a7d624de
+run_name: glamorous-sow-703
+run_uuid: 29f2899f963b4e428eb469f6a7d624de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489218
+status: 3
+tags: []
+user_id: houston

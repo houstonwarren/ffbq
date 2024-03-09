@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e7f2f1e5933444caa5f220191ff99672/artifacts
+end_time: 1697194026865
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e7f2f1e5933444caa5f220191ff99672
+run_name: powerful-tern-471
+run_uuid: e7f2f1e5933444caa5f220191ff99672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194026849
+status: 3
+tags: []
+user_id: houston

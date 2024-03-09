@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/88fad1f253f944c49da164f490c45894/artifacts
+end_time: 1697193829424
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 88fad1f253f944c49da164f490c45894
+run_name: legendary-newt-113
+run_uuid: 88fad1f253f944c49da164f490c45894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193829410
+status: 3
+tags: []
+user_id: houston

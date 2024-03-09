@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/dd9de19e08f342598979f5bb61573f7c/artifacts
+end_time: 1697198006751
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: dd9de19e08f342598979f5bb61573f7c
+run_name: burly-skunk-438
+run_uuid: dd9de19e08f342598979f5bb61573f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198006732
+status: 3
+tags: []
+user_id: houston

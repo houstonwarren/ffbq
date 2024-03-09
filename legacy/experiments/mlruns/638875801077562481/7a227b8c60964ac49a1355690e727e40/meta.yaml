@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/7a227b8c60964ac49a1355690e727e40/artifacts
+end_time: 1701667961726
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 7a227b8c60964ac49a1355690e727e40
+run_name: persistent-crab-954
+run_uuid: 7a227b8c60964ac49a1355690e727e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667961553
+status: 3
+tags: []
+user_id: houston

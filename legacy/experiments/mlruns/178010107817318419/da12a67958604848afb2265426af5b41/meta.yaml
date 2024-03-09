@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/da12a67958604848afb2265426af5b41/artifacts
+end_time: 1697359193473
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: da12a67958604848afb2265426af5b41
+run_name: judicious-crane-620
+run_uuid: da12a67958604848afb2265426af5b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359193416
+status: 3
+tags: []
+user_id: houston

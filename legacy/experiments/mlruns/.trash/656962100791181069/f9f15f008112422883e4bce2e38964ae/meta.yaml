@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/f9f15f008112422883e4bce2e38964ae/artifacts
+deleted_time: 1701665274136
+end_time: 1701664894597
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: f9f15f008112422883e4bce2e38964ae
+run_name: crawling-cod-44
+run_uuid: f9f15f008112422883e4bce2e38964ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664894541
+status: 3
+tags: []
+user_id: houston

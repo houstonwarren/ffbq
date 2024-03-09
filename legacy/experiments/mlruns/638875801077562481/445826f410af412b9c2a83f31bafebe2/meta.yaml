@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/445826f410af412b9c2a83f31bafebe2/artifacts
+end_time: 1701667991915
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 445826f410af412b9c2a83f31bafebe2
+run_name: orderly-kit-537
+run_uuid: 445826f410af412b9c2a83f31bafebe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667991737
+status: 3
+tags: []
+user_id: houston

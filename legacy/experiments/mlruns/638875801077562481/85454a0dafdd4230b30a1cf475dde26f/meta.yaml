@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/85454a0dafdd4230b30a1cf475dde26f/artifacts
+end_time: 1701667688867
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 85454a0dafdd4230b30a1cf475dde26f
+run_name: thoughtful-gull-291
+run_uuid: 85454a0dafdd4230b30a1cf475dde26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667688734
+status: 3
+tags: []
+user_id: houston

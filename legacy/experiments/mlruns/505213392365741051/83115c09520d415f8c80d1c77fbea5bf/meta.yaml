@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/83115c09520d415f8c80d1c77fbea5bf/artifacts
+end_time: 1701659531745
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 83115c09520d415f8c80d1c77fbea5bf
+run_name: adaptable-colt-731
+run_uuid: 83115c09520d415f8c80d1c77fbea5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659531605
+status: 3
+tags: []
+user_id: houston

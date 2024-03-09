@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5c92161bc1584d7cbafc6ae3e55a63c2/artifacts
+end_time: 1697195470695
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5c92161bc1584d7cbafc6ae3e55a63c2
+run_name: dazzling-croc-551
+run_uuid: 5c92161bc1584d7cbafc6ae3e55a63c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195470684
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/41dcb2ae5ccb48499a8ab49490b3a5c0/artifacts
+end_time: 1697193980120
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 41dcb2ae5ccb48499a8ab49490b3a5c0
+run_name: calm-sow-741
+run_uuid: 41dcb2ae5ccb48499a8ab49490b3a5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193980104
+status: 3
+tags: []
+user_id: houston

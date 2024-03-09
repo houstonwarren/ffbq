@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/2bb29a27219a4145886607908c50d8d7/artifacts
+end_time: 1697359174716
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 2bb29a27219a4145886607908c50d8d7
+run_name: thundering-doe-48
+run_uuid: 2bb29a27219a4145886607908c50d8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359174660
+status: 3
+tags: []
+user_id: houston

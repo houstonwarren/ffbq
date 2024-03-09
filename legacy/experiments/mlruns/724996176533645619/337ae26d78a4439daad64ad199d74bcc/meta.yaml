@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/337ae26d78a4439daad64ad199d74bcc/artifacts
+end_time: 1697194574343
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 337ae26d78a4439daad64ad199d74bcc
+run_name: bouncy-bird-984
+run_uuid: 337ae26d78a4439daad64ad199d74bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194574323
+status: 3
+tags: []
+user_id: houston

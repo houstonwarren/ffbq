@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/27ce9514291f4cb7b09184a64de1e2a8/artifacts
+end_time: 1701667512913
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 27ce9514291f4cb7b09184a64de1e2a8
+run_name: melodic-zebra-388
+run_uuid: 27ce9514291f4cb7b09184a64de1e2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667512816
+status: 3
+tags: []
+user_id: houston

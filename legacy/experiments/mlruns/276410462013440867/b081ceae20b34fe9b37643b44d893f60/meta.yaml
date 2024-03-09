@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b081ceae20b34fe9b37643b44d893f60/artifacts
+end_time: 1697195902640
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b081ceae20b34fe9b37643b44d893f60
+run_name: bald-sheep-309
+run_uuid: b081ceae20b34fe9b37643b44d893f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902624
+status: 3
+tags: []
+user_id: houston

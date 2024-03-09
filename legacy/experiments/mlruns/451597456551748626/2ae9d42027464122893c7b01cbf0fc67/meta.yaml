@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/2ae9d42027464122893c7b01cbf0fc67/artifacts
+end_time: 1701660504536
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 2ae9d42027464122893c7b01cbf0fc67
+run_name: painted-ox-261
+run_uuid: 2ae9d42027464122893c7b01cbf0fc67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660504437
+status: 3
+tags: []
+user_id: houston

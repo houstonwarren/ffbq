@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/f071fba2c0b543ae9e5ee10c590db2ac/artifacts
+end_time: 1697360308181
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: f071fba2c0b543ae9e5ee10c590db2ac
+run_name: kindly-shrew-157
+run_uuid: f071fba2c0b543ae9e5ee10c590db2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360308128
+status: 3
+tags: []
+user_id: houston

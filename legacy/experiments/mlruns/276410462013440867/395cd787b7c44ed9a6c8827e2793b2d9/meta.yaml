@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/395cd787b7c44ed9a6c8827e2793b2d9/artifacts
+end_time: 1697196546990
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 395cd787b7c44ed9a6c8827e2793b2d9
+run_name: peaceful-ray-134
+run_uuid: 395cd787b7c44ed9a6c8827e2793b2d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196546922
+status: 3
+tags: []
+user_id: houston

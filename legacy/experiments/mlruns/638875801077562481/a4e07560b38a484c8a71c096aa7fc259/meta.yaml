@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/a4e07560b38a484c8a71c096aa7fc259/artifacts
+end_time: 1701667958905
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: a4e07560b38a484c8a71c096aa7fc259
+run_name: languid-snipe-668
+run_uuid: a4e07560b38a484c8a71c096aa7fc259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667958726
+status: 3
+tags: []
+user_id: houston

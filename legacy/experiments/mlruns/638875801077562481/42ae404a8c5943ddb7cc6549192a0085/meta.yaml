@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/42ae404a8c5943ddb7cc6549192a0085/artifacts
+end_time: 1701667689363
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 42ae404a8c5943ddb7cc6549192a0085
+run_name: orderly-skunk-845
+run_uuid: 42ae404a8c5943ddb7cc6549192a0085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667689219
+status: 3
+tags: []
+user_id: houston

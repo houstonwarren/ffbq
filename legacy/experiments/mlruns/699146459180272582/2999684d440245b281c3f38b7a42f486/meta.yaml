@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/2999684d440245b281c3f38b7a42f486/artifacts
+end_time: 1698114036470
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 2999684d440245b281c3f38b7a42f486
+run_name: salty-trout-554
+run_uuid: 2999684d440245b281c3f38b7a42f486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114036411
+status: 3
+tags: []
+user_id: houston

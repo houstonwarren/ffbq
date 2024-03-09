@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/c3fab6712cb24091881190d9ebd8e2dc/artifacts
+end_time: 1701667875090
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: c3fab6712cb24091881190d9ebd8e2dc
+run_name: skittish-seal-354
+run_uuid: c3fab6712cb24091881190d9ebd8e2dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667874955
+status: 3
+tags: []
+user_id: houston

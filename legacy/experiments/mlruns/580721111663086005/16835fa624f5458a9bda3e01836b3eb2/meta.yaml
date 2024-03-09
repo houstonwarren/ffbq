@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/16835fa624f5458a9bda3e01836b3eb2/artifacts
+end_time: 1701660055730
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 16835fa624f5458a9bda3e01836b3eb2
+run_name: silent-squirrel-236
+run_uuid: 16835fa624f5458a9bda3e01836b3eb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660055595
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/decf79ec97604cb1b66144f0746013ba/artifacts
+end_time: 1697195589070
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: decf79ec97604cb1b66144f0746013ba
+run_name: incongruous-toad-534
+run_uuid: decf79ec97604cb1b66144f0746013ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195589058
+status: 3
+tags: []
+user_id: houston

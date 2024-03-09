@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/7cce00650b0f49f49943343939ee3e62/artifacts
+end_time: 1697440773172
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 7cce00650b0f49f49943343939ee3e62
+run_name: nimble-steed-313
+run_uuid: 7cce00650b0f49f49943343939ee3e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440773116
+status: 3
+tags: []
+user_id: houston

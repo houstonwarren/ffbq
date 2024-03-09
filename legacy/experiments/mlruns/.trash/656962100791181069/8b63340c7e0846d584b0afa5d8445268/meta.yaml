@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/8b63340c7e0846d584b0afa5d8445268/artifacts
+deleted_time: 1701665274136
+end_time: 1701664895327
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 8b63340c7e0846d584b0afa5d8445268
+run_name: chill-sheep-17
+run_uuid: 8b63340c7e0846d584b0afa5d8445268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664895274
+status: 3
+tags: []
+user_id: houston

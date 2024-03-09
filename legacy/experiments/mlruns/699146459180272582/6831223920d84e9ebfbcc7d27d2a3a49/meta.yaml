@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6831223920d84e9ebfbcc7d27d2a3a49/artifacts
+end_time: 1698113852701
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6831223920d84e9ebfbcc7d27d2a3a49
+run_name: able-koi-264
+run_uuid: 6831223920d84e9ebfbcc7d27d2a3a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113852644
+status: 3
+tags: []
+user_id: houston

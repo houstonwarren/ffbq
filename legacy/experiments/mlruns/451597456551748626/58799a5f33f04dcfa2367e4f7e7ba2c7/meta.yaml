@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/58799a5f33f04dcfa2367e4f7e7ba2c7/artifacts
+end_time: 1701660458522
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 58799a5f33f04dcfa2367e4f7e7ba2c7
+run_name: upset-worm-492
+run_uuid: 58799a5f33f04dcfa2367e4f7e7ba2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660458407
+status: 3
+tags: []
+user_id: houston

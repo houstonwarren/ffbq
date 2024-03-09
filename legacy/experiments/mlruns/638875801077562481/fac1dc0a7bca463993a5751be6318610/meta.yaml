@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/fac1dc0a7bca463993a5751be6318610/artifacts
+end_time: 1701667968932
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: fac1dc0a7bca463993a5751be6318610
+run_name: chill-mole-751
+run_uuid: fac1dc0a7bca463993a5751be6318610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667968753
+status: 3
+tags: []
+user_id: houston

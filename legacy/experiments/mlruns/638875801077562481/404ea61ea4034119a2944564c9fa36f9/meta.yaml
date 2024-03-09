@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/404ea61ea4034119a2944564c9fa36f9/artifacts
+end_time: 1701667999375
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 404ea61ea4034119a2944564c9fa36f9
+run_name: clumsy-turtle-296
+run_uuid: 404ea61ea4034119a2944564c9fa36f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667999202
+status: 3
+tags: []
+user_id: houston

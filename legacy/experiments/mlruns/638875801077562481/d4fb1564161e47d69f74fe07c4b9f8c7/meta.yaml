@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d4fb1564161e47d69f74fe07c4b9f8c7/artifacts
+end_time: 1701667456459
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d4fb1564161e47d69f74fe07c4b9f8c7
+run_name: zealous-tern-423
+run_uuid: d4fb1564161e47d69f74fe07c4b9f8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667456362
+status: 3
+tags: []
+user_id: houston

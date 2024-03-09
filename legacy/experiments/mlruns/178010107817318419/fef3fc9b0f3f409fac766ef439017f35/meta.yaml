@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fef3fc9b0f3f409fac766ef439017f35/artifacts
+end_time: 1697359031139
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fef3fc9b0f3f409fac766ef439017f35
+run_name: valuable-hound-872
+run_uuid: fef3fc9b0f3f409fac766ef439017f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359031071
+status: 3
+tags: []
+user_id: houston

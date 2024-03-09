@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/06fd2427b328416cb515f4801e2e271c/artifacts
+end_time: 1701660510373
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 06fd2427b328416cb515f4801e2e271c
+run_name: sincere-shrimp-673
+run_uuid: 06fd2427b328416cb515f4801e2e271c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660510252
+status: 3
+tags: []
+user_id: houston

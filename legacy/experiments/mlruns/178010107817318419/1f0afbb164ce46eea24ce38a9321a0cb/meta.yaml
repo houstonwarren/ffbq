@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/1f0afbb164ce46eea24ce38a9321a0cb/artifacts
+end_time: 1697359047512
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 1f0afbb164ce46eea24ce38a9321a0cb
+run_name: masked-ray-140
+run_uuid: 1f0afbb164ce46eea24ce38a9321a0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359047461
+status: 3
+tags: []
+user_id: houston

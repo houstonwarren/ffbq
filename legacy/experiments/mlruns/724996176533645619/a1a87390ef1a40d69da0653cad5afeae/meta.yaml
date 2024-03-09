@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a1a87390ef1a40d69da0653cad5afeae/artifacts
+end_time: 1697194172121
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a1a87390ef1a40d69da0653cad5afeae
+run_name: chill-dove-485
+run_uuid: a1a87390ef1a40d69da0653cad5afeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194172104
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/5965b59f6d55470da92e19dc321fd98c/artifacts
+end_time: 1701660383921
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 5965b59f6d55470da92e19dc321fd98c
+run_name: wise-wasp-200
+run_uuid: 5965b59f6d55470da92e19dc321fd98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660383834
+status: 3
+tags: []
+user_id: houston

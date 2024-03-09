@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/ba7301c3aaf74c71a25072f9cecd297f/artifacts
+end_time: 1701660055348
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: ba7301c3aaf74c71a25072f9cecd297f
+run_name: nosy-shoat-413
+run_uuid: ba7301c3aaf74c71a25072f9cecd297f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660055188
+status: 3
+tags: []
+user_id: houston

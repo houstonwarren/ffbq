@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/e142343450d34c33a402d3d8e5196700/artifacts
+end_time: 1697440854519
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: e142343450d34c33a402d3d8e5196700
+run_name: incongruous-crow-307
+run_uuid: e142343450d34c33a402d3d8e5196700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440854467
+status: 3
+tags: []
+user_id: houston

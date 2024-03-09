@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c4c31a5d78e148fb803c2417f1a3b8d2/artifacts
+end_time: 1698114291548
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c4c31a5d78e148fb803c2417f1a3b8d2
+run_name: burly-bee-824
+run_uuid: c4c31a5d78e148fb803c2417f1a3b8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291487
+status: 3
+tags: []
+user_id: houston

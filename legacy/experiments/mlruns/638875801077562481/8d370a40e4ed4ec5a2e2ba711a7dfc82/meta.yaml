@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8d370a40e4ed4ec5a2e2ba711a7dfc82/artifacts
+end_time: 1701667837599
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8d370a40e4ed4ec5a2e2ba711a7dfc82
+run_name: delicate-ape-611
+run_uuid: 8d370a40e4ed4ec5a2e2ba711a7dfc82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667837454
+status: 3
+tags: []
+user_id: houston

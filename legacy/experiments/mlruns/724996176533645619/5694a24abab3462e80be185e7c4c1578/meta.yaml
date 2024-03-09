@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5694a24abab3462e80be185e7c4c1578/artifacts
+end_time: 1697193793752
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5694a24abab3462e80be185e7c4c1578
+run_name: whimsical-jay-318
+run_uuid: 5694a24abab3462e80be185e7c4c1578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193793739
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e886afe2540f4409afe76dc7991a2a60/artifacts
+end_time: 1698113600008
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e886afe2540f4409afe76dc7991a2a60
+run_name: bright-eel-230
+run_uuid: e886afe2540f4409afe76dc7991a2a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113599955
+status: 3
+tags: []
+user_id: houston

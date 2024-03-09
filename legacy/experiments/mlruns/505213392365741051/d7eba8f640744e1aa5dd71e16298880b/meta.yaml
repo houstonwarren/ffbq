@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d7eba8f640744e1aa5dd71e16298880b/artifacts
+end_time: 1701659612305
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d7eba8f640744e1aa5dd71e16298880b
+run_name: thoughtful-chimp-48
+run_uuid: d7eba8f640744e1aa5dd71e16298880b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659612134
+status: 3
+tags: []
+user_id: houston

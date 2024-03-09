@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/72be8acc7982465f8d133fe3979cd6eb/artifacts
+end_time: 1698113782680
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 72be8acc7982465f8d133fe3979cd6eb
+run_name: upset-croc-802
+run_uuid: 72be8acc7982465f8d133fe3979cd6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113782621
+status: 3
+tags: []
+user_id: houston

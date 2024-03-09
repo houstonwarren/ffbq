@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3d56580f61224644b4878a82b7ba7051/artifacts
+end_time: 1701667930569
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3d56580f61224644b4878a82b7ba7051
+run_name: marvelous-ox-148
+run_uuid: 3d56580f61224644b4878a82b7ba7051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667930401
+status: 3
+tags: []
+user_id: houston

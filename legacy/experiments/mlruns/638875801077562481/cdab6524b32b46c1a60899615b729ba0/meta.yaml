@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cdab6524b32b46c1a60899615b729ba0/artifacts
+end_time: 1701667590268
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cdab6524b32b46c1a60899615b729ba0
+run_name: stylish-stag-145
+run_uuid: cdab6524b32b46c1a60899615b729ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667590144
+status: 3
+tags: []
+user_id: houston

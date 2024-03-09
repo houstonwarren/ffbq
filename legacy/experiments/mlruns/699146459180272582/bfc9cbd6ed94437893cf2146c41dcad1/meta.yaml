@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bfc9cbd6ed94437893cf2146c41dcad1/artifacts
+end_time: 1698114393936
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bfc9cbd6ed94437893cf2146c41dcad1
+run_name: honorable-finch-410
+run_uuid: bfc9cbd6ed94437893cf2146c41dcad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114393876
+status: 3
+tags: []
+user_id: houston

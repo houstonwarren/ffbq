@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/a19efc542e5e42b18ec52193a419bac0/artifacts
+end_time: 1701659410860
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: a19efc542e5e42b18ec52193a419bac0
+run_name: victorious-hog-309
+run_uuid: a19efc542e5e42b18ec52193a419bac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659410751
+status: 3
+tags: []
+user_id: houston

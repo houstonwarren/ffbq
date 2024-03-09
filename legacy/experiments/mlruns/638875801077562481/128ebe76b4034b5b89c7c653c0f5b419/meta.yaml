@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/128ebe76b4034b5b89c7c653c0f5b419/artifacts
+end_time: 1701667865127
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 128ebe76b4034b5b89c7c653c0f5b419
+run_name: brawny-cub-581
+run_uuid: 128ebe76b4034b5b89c7c653c0f5b419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667864990
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e451cf66eeb146d0bcea849898edac8b/artifacts
+end_time: 1697194136519
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e451cf66eeb146d0bcea849898edac8b
+run_name: casual-foal-846
+run_uuid: e451cf66eeb146d0bcea849898edac8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194136483
+status: 3
+tags: []
+user_id: houston

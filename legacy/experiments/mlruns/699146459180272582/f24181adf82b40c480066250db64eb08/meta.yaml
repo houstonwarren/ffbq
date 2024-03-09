@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f24181adf82b40c480066250db64eb08/artifacts
+end_time: 1698113627303
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f24181adf82b40c480066250db64eb08
+run_name: calm-pig-629
+run_uuid: f24181adf82b40c480066250db64eb08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113627247
+status: 3
+tags: []
+user_id: houston

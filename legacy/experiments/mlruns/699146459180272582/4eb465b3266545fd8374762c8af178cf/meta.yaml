@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/4eb465b3266545fd8374762c8af178cf/artifacts
+end_time: 1698115195216
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 4eb465b3266545fd8374762c8af178cf
+run_name: carefree-rat-501
+run_uuid: 4eb465b3266545fd8374762c8af178cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115195155
+status: 3
+tags: []
+user_id: houston

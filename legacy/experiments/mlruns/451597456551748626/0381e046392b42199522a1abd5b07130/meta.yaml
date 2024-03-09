@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/0381e046392b42199522a1abd5b07130/artifacts
+end_time: 1701660425996
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 0381e046392b42199522a1abd5b07130
+run_name: bright-swan-358
+run_uuid: 0381e046392b42199522a1abd5b07130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660425852
+status: 3
+tags: []
+user_id: houston

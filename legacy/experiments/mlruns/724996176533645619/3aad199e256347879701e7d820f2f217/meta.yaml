@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/3aad199e256347879701e7d820f2f217/artifacts
+end_time: 1697193759713
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 3aad199e256347879701e7d820f2f217
+run_name: monumental-fish-692
+run_uuid: 3aad199e256347879701e7d820f2f217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193759646
+status: 3
+tags: []
+user_id: houston

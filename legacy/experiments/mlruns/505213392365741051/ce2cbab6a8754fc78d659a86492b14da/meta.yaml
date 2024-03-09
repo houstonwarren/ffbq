@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ce2cbab6a8754fc78d659a86492b14da/artifacts
+end_time: 1701659555865
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ce2cbab6a8754fc78d659a86492b14da
+run_name: gaudy-fly-927
+run_uuid: ce2cbab6a8754fc78d659a86492b14da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659555729
+status: 3
+tags: []
+user_id: houston

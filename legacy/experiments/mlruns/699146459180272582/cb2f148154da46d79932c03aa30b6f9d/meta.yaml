@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/cb2f148154da46d79932c03aa30b6f9d/artifacts
+end_time: 1698113931888
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: cb2f148154da46d79932c03aa30b6f9d
+run_name: unequaled-turtle-698
+run_uuid: cb2f148154da46d79932c03aa30b6f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113931828
+status: 3
+tags: []
+user_id: houston

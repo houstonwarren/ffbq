@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fa3c8a95b11047daaaddc3351810d274/artifacts
+end_time: 1697440492561
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fa3c8a95b11047daaaddc3351810d274
+run_name: enchanting-goat-560
+run_uuid: fa3c8a95b11047daaaddc3351810d274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440492513
+status: 3
+tags: []
+user_id: houston

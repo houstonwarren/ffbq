@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/788e4f3a068e485587e9f3965614bce0/artifacts
+end_time: 1697198344770
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 788e4f3a068e485587e9f3965614bce0
+run_name: stylish-ram-697
+run_uuid: 788e4f3a068e485587e9f3965614bce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198344749
+status: 3
+tags: []
+user_id: houston

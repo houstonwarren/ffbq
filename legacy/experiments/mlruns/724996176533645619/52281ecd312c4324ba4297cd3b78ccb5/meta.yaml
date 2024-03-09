@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/52281ecd312c4324ba4297cd3b78ccb5/artifacts
+end_time: 1697194908122
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 52281ecd312c4324ba4297cd3b78ccb5
+run_name: bemused-moth-614
+run_uuid: 52281ecd312c4324ba4297cd3b78ccb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194908100
+status: 3
+tags: []
+user_id: houston

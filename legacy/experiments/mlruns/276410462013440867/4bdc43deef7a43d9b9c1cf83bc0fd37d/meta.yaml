@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/4bdc43deef7a43d9b9c1cf83bc0fd37d/artifacts
+end_time: 1697198400783
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 4bdc43deef7a43d9b9c1cf83bc0fd37d
+run_name: beautiful-grub-882
+run_uuid: 4bdc43deef7a43d9b9c1cf83bc0fd37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198400761
+status: 3
+tags: []
+user_id: houston

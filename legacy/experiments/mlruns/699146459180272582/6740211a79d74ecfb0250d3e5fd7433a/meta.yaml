@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6740211a79d74ecfb0250d3e5fd7433a/artifacts
+end_time: 1698114482756
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6740211a79d74ecfb0250d3e5fd7433a
+run_name: incongruous-sow-320
+run_uuid: 6740211a79d74ecfb0250d3e5fd7433a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114482693
+status: 3
+tags: []
+user_id: houston

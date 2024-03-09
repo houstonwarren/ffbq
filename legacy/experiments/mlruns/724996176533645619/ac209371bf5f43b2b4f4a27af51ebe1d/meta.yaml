@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ac209371bf5f43b2b4f4a27af51ebe1d/artifacts
+end_time: 1697194088824
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ac209371bf5f43b2b4f4a27af51ebe1d
+run_name: skillful-doe-539
+run_uuid: ac209371bf5f43b2b4f4a27af51ebe1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194088807
+status: 3
+tags: []
+user_id: houston

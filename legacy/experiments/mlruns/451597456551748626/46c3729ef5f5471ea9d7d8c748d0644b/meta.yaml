@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/46c3729ef5f5471ea9d7d8c748d0644b/artifacts
+end_time: 1701660267291
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 46c3729ef5f5471ea9d7d8c748d0644b
+run_name: gaudy-boar-719
+run_uuid: 46c3729ef5f5471ea9d7d8c748d0644b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660267210
+status: 3
+tags: []
+user_id: houston

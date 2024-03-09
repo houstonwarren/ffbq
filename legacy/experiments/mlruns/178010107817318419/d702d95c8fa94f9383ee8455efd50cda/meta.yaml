@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d702d95c8fa94f9383ee8455efd50cda/artifacts
+end_time: 1697359107338
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d702d95c8fa94f9383ee8455efd50cda
+run_name: capable-hare-759
+run_uuid: d702d95c8fa94f9383ee8455efd50cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359107287
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/495644260a3e48fb9a8cf470a9a5544c/artifacts
+end_time: 1701667495117
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 495644260a3e48fb9a8cf470a9a5544c
+run_name: handsome-fish-153
+run_uuid: 495644260a3e48fb9a8cf470a9a5544c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667495004
+status: 3
+tags: []
+user_id: houston

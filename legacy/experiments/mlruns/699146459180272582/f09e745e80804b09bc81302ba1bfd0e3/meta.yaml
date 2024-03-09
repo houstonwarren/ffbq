@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/f09e745e80804b09bc81302ba1bfd0e3/artifacts
+end_time: 1698113800154
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: f09e745e80804b09bc81302ba1bfd0e3
+run_name: intelligent-vole-402
+run_uuid: f09e745e80804b09bc81302ba1bfd0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113800097
+status: 3
+tags: []
+user_id: houston

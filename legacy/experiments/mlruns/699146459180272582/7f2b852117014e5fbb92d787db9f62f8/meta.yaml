@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7f2b852117014e5fbb92d787db9f62f8/artifacts
+end_time: 1698114879356
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7f2b852117014e5fbb92d787db9f62f8
+run_name: gaudy-midge-462
+run_uuid: 7f2b852117014e5fbb92d787db9f62f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114879295
+status: 3
+tags: []
+user_id: houston

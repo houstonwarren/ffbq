@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/74cfc9e01ef74fd2bb5808064f39e7ae/artifacts
+deleted_time: 1701665274136
+end_time: 1701664818167
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 74cfc9e01ef74fd2bb5808064f39e7ae
+run_name: capable-croc-770
+run_uuid: 74cfc9e01ef74fd2bb5808064f39e7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664818110
+status: 3
+tags: []
+user_id: houston

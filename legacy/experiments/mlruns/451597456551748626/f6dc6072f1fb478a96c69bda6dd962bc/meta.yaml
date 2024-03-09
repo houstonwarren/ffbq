@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/f6dc6072f1fb478a96c69bda6dd962bc/artifacts
+end_time: 1701660369021
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: f6dc6072f1fb478a96c69bda6dd962bc
+run_name: incongruous-toad-796
+run_uuid: f6dc6072f1fb478a96c69bda6dd962bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660368951
+status: 3
+tags: []
+user_id: houston

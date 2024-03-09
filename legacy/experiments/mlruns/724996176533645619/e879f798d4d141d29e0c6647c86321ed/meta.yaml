@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e879f798d4d141d29e0c6647c86321ed/artifacts
+end_time: 1697194042254
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e879f798d4d141d29e0c6647c86321ed
+run_name: adventurous-pug-989
+run_uuid: e879f798d4d141d29e0c6647c86321ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042237
+status: 3
+tags: []
+user_id: houston

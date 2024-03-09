@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/84d389036b54429aad1539eaa5b34410/artifacts
+end_time: 1697195864322
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 84d389036b54429aad1539eaa5b34410
+run_name: clean-gull-343
+run_uuid: 84d389036b54429aad1539eaa5b34410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195864305
+status: 3
+tags: []
+user_id: houston

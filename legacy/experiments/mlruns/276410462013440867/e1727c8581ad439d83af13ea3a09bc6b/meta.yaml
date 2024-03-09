@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/e1727c8581ad439d83af13ea3a09bc6b/artifacts
+end_time: 1697196017821
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: e1727c8581ad439d83af13ea3a09bc6b
+run_name: adorable-jay-811
+run_uuid: e1727c8581ad439d83af13ea3a09bc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196017806
+status: 3
+tags: []
+user_id: houston

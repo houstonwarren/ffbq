@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/207b3ee2044a44d2b9d4887f1a15f033/artifacts
+end_time: 1697359197242
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 207b3ee2044a44d2b9d4887f1a15f033
+run_name: learned-seal-6
+run_uuid: 207b3ee2044a44d2b9d4887f1a15f033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359197185
+status: 3
+tags: []
+user_id: houston

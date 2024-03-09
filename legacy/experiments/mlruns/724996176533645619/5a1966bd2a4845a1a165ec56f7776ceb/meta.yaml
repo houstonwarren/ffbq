@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/5a1966bd2a4845a1a165ec56f7776ceb/artifacts
+end_time: 1697193909395
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 5a1966bd2a4845a1a165ec56f7776ceb
+run_name: flawless-bird-618
+run_uuid: 5a1966bd2a4845a1a165ec56f7776ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193909374
+status: 3
+tags: []
+user_id: houston

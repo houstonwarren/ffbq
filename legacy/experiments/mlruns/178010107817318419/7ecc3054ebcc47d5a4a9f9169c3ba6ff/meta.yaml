@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/7ecc3054ebcc47d5a4a9f9169c3ba6ff/artifacts
+end_time: 1697359037409
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 7ecc3054ebcc47d5a4a9f9169c3ba6ff
+run_name: skillful-wren-808
+run_uuid: 7ecc3054ebcc47d5a4a9f9169c3ba6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359037355
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/b70b49b5b383454295eb93383ce862a0/artifacts
+end_time: 1697198513995
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: b70b49b5b383454295eb93383ce862a0
+run_name: burly-auk-953
+run_uuid: b70b49b5b383454295eb93383ce862a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198513973
+status: 3
+tags: []
+user_id: houston

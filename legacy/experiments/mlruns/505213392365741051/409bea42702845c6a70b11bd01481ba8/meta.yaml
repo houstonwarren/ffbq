@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/409bea42702845c6a70b11bd01481ba8/artifacts
+end_time: 1701659571069
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 409bea42702845c6a70b11bd01481ba8
+run_name: bemused-fox-661
+run_uuid: 409bea42702845c6a70b11bd01481ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659570888
+status: 3
+tags: []
+user_id: houston

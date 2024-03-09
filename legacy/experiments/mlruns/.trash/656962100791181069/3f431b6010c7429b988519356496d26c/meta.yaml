@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/3f431b6010c7429b988519356496d26c/artifacts
+deleted_time: 1701665274136
+end_time: 1701664719382
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 3f431b6010c7429b988519356496d26c
+run_name: mercurial-bat-538
+run_uuid: 3f431b6010c7429b988519356496d26c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664719360
+status: 3
+tags: []
+user_id: houston

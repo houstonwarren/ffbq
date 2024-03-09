@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/edcdb3250ba64f1abd9b85bece56a338/artifacts
+end_time: 1697440557647
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: edcdb3250ba64f1abd9b85bece56a338
+run_name: adventurous-foal-584
+run_uuid: edcdb3250ba64f1abd9b85bece56a338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440557599
+status: 3
+tags: []
+user_id: houston

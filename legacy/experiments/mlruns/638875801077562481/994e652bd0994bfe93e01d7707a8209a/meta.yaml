@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/994e652bd0994bfe93e01d7707a8209a/artifacts
+end_time: 1701667660601
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 994e652bd0994bfe93e01d7707a8209a
+run_name: bold-trout-357
+run_uuid: 994e652bd0994bfe93e01d7707a8209a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667660473
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/4cdd61b0dcd347b283023fe48d12821d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664717626
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 4cdd61b0dcd347b283023fe48d12821d
+run_name: fortunate-midge-90
+run_uuid: 4cdd61b0dcd347b283023fe48d12821d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664717601
+status: 3
+tags: []
+user_id: houston

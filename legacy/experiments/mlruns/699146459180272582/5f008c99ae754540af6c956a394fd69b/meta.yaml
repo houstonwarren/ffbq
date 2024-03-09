@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/5f008c99ae754540af6c956a394fd69b/artifacts
+end_time: 1698114291338
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 5f008c99ae754540af6c956a394fd69b
+run_name: burly-croc-748
+run_uuid: 5f008c99ae754540af6c956a394fd69b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114291277
+status: 3
+tags: []
+user_id: houston

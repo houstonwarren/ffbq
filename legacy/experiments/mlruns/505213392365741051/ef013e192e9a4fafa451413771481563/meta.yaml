@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ef013e192e9a4fafa451413771481563/artifacts
+end_time: 1701659555388
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ef013e192e9a4fafa451413771481563
+run_name: welcoming-lynx-535
+run_uuid: ef013e192e9a4fafa451413771481563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659555231
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/2783dfc9fb8b4796af4f6e2b39006f05/artifacts
+end_time: 1701667698627
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 2783dfc9fb8b4796af4f6e2b39006f05
+run_name: victorious-newt-761
+run_uuid: 2783dfc9fb8b4796af4f6e2b39006f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667698510
+status: 3
+tags: []
+user_id: houston

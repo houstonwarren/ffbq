@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/87e71a6b98574bbca7bdd751c91526e0/artifacts
+end_time: 1701660383212
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 87e71a6b98574bbca7bdd751c91526e0
+run_name: clean-bat-523
+run_uuid: 87e71a6b98574bbca7bdd751c91526e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660383096
+status: 3
+tags: []
+user_id: houston

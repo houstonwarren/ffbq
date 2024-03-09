@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/349b94ee22da4ebf97f78bbebf3f0dd9/artifacts
+end_time: 1697198569763
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 349b94ee22da4ebf97f78bbebf3f0dd9
+run_name: treasured-mole-870
+run_uuid: 349b94ee22da4ebf97f78bbebf3f0dd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198569742
+status: 3
+tags: []
+user_id: houston

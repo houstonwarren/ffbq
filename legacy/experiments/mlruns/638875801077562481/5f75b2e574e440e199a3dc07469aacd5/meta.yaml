@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5f75b2e574e440e199a3dc07469aacd5/artifacts
+end_time: 1701667865349
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5f75b2e574e440e199a3dc07469aacd5
+run_name: dashing-dog-881
+run_uuid: 5f75b2e574e440e199a3dc07469aacd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667865166
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/3aab040fa2f04cdeb01d7395504937b4/artifacts
+end_time: 1697359085884
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 3aab040fa2f04cdeb01d7395504937b4
+run_name: adaptable-kite-216
+run_uuid: 3aab040fa2f04cdeb01d7395504937b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359085831
+status: 3
+tags: []
+user_id: houston

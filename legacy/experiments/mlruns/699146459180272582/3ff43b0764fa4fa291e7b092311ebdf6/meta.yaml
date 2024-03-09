@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/3ff43b0764fa4fa291e7b092311ebdf6/artifacts
+end_time: 1698115039763
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 3ff43b0764fa4fa291e7b092311ebdf6
+run_name: abundant-whale-531
+run_uuid: 3ff43b0764fa4fa291e7b092311ebdf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698115039701
+status: 3
+tags: []
+user_id: houston

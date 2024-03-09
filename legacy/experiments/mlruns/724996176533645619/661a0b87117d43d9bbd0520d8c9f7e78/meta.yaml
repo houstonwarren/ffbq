@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/661a0b87117d43d9bbd0520d8c9f7e78/artifacts
+end_time: 1697194416058
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 661a0b87117d43d9bbd0520d8c9f7e78
+run_name: adorable-mole-366
+run_uuid: 661a0b87117d43d9bbd0520d8c9f7e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194416038
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/44538a3deff94df897b28e770217aada/artifacts
+end_time: 1701659554607
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 44538a3deff94df897b28e770217aada
+run_name: learned-ray-890
+run_uuid: 44538a3deff94df897b28e770217aada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659554454
+status: 3
+tags: []
+user_id: houston

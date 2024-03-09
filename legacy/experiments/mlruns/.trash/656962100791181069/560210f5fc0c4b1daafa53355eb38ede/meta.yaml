@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/560210f5fc0c4b1daafa53355eb38ede/artifacts
+deleted_time: 1701665274136
+end_time: 1701664800937
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 560210f5fc0c4b1daafa53355eb38ede
+run_name: adventurous-moth-536
+run_uuid: 560210f5fc0c4b1daafa53355eb38ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664800897
+status: 3
+tags: []
+user_id: houston

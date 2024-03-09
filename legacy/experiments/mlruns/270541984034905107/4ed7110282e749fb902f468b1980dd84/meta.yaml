@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/4ed7110282e749fb902f468b1980dd84/artifacts
+end_time: 1697441322504
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 4ed7110282e749fb902f468b1980dd84
+run_name: dashing-duck-215
+run_uuid: 4ed7110282e749fb902f468b1980dd84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441322449
+status: 3
+tags: []
+user_id: houston

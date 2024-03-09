@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/b3db4d964206469d856e0d476eaa4bcb/artifacts
+deleted_time: 1701665274136
+end_time: 1701664802443
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: b3db4d964206469d856e0d476eaa4bcb
+run_name: blushing-goose-56
+run_uuid: b3db4d964206469d856e0d476eaa4bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664802390
+status: 3
+tags: []
+user_id: houston

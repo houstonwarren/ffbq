@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f39b4c1fc238470086c75c695644871d/artifacts
+end_time: 1697197408362
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f39b4c1fc238470086c75c695644871d
+run_name: mysterious-sow-544
+run_uuid: f39b4c1fc238470086c75c695644871d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408284
+status: 3
+tags: []
+user_id: houston

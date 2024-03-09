@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/45c840ca5a2d423ebbb890361268ad11/artifacts
+end_time: 1697359155543
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 45c840ca5a2d423ebbb890361268ad11
+run_name: spiffy-gull-312
+run_uuid: 45c840ca5a2d423ebbb890361268ad11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359155490
+status: 3
+tags: []
+user_id: houston

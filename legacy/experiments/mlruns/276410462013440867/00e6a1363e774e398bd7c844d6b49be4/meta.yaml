@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/00e6a1363e774e398bd7c844d6b49be4/artifacts
+end_time: 1697197938340
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 00e6a1363e774e398bd7c844d6b49be4
+run_name: flawless-doe-608
+run_uuid: 00e6a1363e774e398bd7c844d6b49be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197938321
+status: 3
+tags: []
+user_id: houston

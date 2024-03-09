@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ed350b93d9d945b49cf56d7a8dfc95ae/artifacts
+end_time: 1698114036678
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ed350b93d9d945b49cf56d7a8dfc95ae
+run_name: tasteful-croc-882
+run_uuid: ed350b93d9d945b49cf56d7a8dfc95ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114036619
+status: 3
+tags: []
+user_id: houston

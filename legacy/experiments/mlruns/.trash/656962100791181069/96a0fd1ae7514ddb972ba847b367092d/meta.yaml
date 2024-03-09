@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/96a0fd1ae7514ddb972ba847b367092d/artifacts
+deleted_time: 1701665274136
+end_time: 1701664754193
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 96a0fd1ae7514ddb972ba847b367092d
+run_name: merciful-foal-340
+run_uuid: 96a0fd1ae7514ddb972ba847b367092d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664754153
+status: 3
+tags: []
+user_id: houston

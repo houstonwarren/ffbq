@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8a7682b1158844b38733040c27dad0df/artifacts
+end_time: 1697194518046
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8a7682b1158844b38733040c27dad0df
+run_name: adaptable-toad-650
+run_uuid: 8a7682b1158844b38733040c27dad0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194518024
+status: 3
+tags: []
+user_id: houston

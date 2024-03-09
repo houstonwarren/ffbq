@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c1ecf4eda6014caebb9915e8a2913aba/artifacts
+end_time: 1697198680949
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c1ecf4eda6014caebb9915e8a2913aba
+run_name: rebellious-bird-348
+run_uuid: c1ecf4eda6014caebb9915e8a2913aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198680912
+status: 3
+tags: []
+user_id: houston

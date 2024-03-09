@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/42757f3f1e0745bfa282c09a246a27ce/artifacts
+end_time: 1697360315870
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 42757f3f1e0745bfa282c09a246a27ce
+run_name: likeable-wren-484
+run_uuid: 42757f3f1e0745bfa282c09a246a27ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360315818
+status: 3
+tags: []
+user_id: houston

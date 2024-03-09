@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f8de461f915b4d1e96d05772b581b1d9/artifacts
+end_time: 1701667717331
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f8de461f915b4d1e96d05772b581b1d9
+run_name: overjoyed-shoat-83
+run_uuid: f8de461f915b4d1e96d05772b581b1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667717220
+status: 3
+tags: []
+user_id: houston

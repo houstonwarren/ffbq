@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/8db540f24f644623b3fb980cd99cb431/artifacts
+end_time: 1698114959263
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 8db540f24f644623b3fb980cd99cb431
+run_name: powerful-fawn-450
+run_uuid: 8db540f24f644623b3fb980cd99cb431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114959203
+status: 3
+tags: []
+user_id: houston

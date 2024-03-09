@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a431c5312e4848bfa9709288e0dae02c/artifacts
+end_time: 1697193676540
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a431c5312e4848bfa9709288e0dae02c
+run_name: caring-eel-438
+run_uuid: a431c5312e4848bfa9709288e0dae02c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193676527
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/ce8c1814c61f4e0890043316cf9ad912/artifacts
+end_time: 1697360360440
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: ce8c1814c61f4e0890043316cf9ad912
+run_name: flawless-newt-16
+run_uuid: ce8c1814c61f4e0890043316cf9ad912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360360387
+status: 3
+tags: []
+user_id: houston

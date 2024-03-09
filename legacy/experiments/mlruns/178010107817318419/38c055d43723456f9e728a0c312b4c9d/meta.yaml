@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/38c055d43723456f9e728a0c312b4c9d/artifacts
+end_time: 1697359124212
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 38c055d43723456f9e728a0c312b4c9d
+run_name: clumsy-mouse-678
+run_uuid: 38c055d43723456f9e728a0c312b4c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359124161
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/ad22b9d9a9ac4d629205c55b6fc91b55/artifacts
+deleted_time: 1701659398061
+end_time: 1701658643412
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: ad22b9d9a9ac4d629205c55b6fc91b55
+run_name: big-gnat-788
+run_uuid: ad22b9d9a9ac4d629205c55b6fc91b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658643262
+status: 3
+tags: []
+user_id: houston

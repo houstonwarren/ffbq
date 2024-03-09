@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d01d15ef2f0d4464808a7881339cbe0b/artifacts
+end_time: 1701659422188
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d01d15ef2f0d4464808a7881339cbe0b
+run_name: angry-cod-611
+run_uuid: d01d15ef2f0d4464808a7881339cbe0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659422063
+status: 3
+tags: []
+user_id: houston

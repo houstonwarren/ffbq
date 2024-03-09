@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/e943b200224e462ea05fcbc97a9fc28f/artifacts
+end_time: 1701659444355
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: e943b200224e462ea05fcbc97a9fc28f
+run_name: treasured-snipe-927
+run_uuid: e943b200224e462ea05fcbc97a9fc28f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659444216
+status: 3
+tags: []
+user_id: houston

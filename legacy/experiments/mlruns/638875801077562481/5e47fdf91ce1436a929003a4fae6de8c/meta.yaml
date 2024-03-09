@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/5e47fdf91ce1436a929003a4fae6de8c/artifacts
+end_time: 1701667750604
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 5e47fdf91ce1436a929003a4fae6de8c
+run_name: upset-rook-495
+run_uuid: 5e47fdf91ce1436a929003a4fae6de8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667750445
+status: 3
+tags: []
+user_id: houston

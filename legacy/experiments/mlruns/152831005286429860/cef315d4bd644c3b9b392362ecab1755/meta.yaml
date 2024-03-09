@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/cef315d4bd644c3b9b392362ecab1755/artifacts
+end_time: 1697360336883
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: cef315d4bd644c3b9b392362ecab1755
+run_name: auspicious-sloth-498
+run_uuid: cef315d4bd644c3b9b392362ecab1755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360336832
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8974cc859dd349bab42b69509685f299/artifacts
+end_time: 1701667520950
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8974cc859dd349bab42b69509685f299
+run_name: bustling-fish-587
+run_uuid: 8974cc859dd349bab42b69509685f299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667520859
+status: 3
+tags: []
+user_id: houston

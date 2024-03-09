@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/541a6b2a9a5b4f11be5935198cb7149d/artifacts
+end_time: 1697359181250
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 541a6b2a9a5b4f11be5935198cb7149d
+run_name: melodic-shoat-897
+run_uuid: 541a6b2a9a5b4f11be5935198cb7149d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359181194
+status: 3
+tags: []
+user_id: houston

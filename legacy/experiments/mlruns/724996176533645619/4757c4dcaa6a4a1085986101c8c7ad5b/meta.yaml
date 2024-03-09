@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/4757c4dcaa6a4a1085986101c8c7ad5b/artifacts
+end_time: 1697193964825
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 4757c4dcaa6a4a1085986101c8c7ad5b
+run_name: abrasive-jay-42
+run_uuid: 4757c4dcaa6a4a1085986101c8c7ad5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193964807
+status: 3
+tags: []
+user_id: houston

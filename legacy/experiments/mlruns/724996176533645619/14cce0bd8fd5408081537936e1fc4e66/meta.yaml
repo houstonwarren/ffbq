@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/14cce0bd8fd5408081537936e1fc4e66/artifacts
+end_time: 1697194042299
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 14cce0bd8fd5408081537936e1fc4e66
+run_name: big-robin-240
+run_uuid: 14cce0bd8fd5408081537936e1fc4e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194042283
+status: 3
+tags: []
+user_id: houston

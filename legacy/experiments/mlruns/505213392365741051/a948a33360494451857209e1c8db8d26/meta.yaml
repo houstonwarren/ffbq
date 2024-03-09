@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/a948a33360494451857209e1c8db8d26/artifacts
+end_time: 1701659412050
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: a948a33360494451857209e1c8db8d26
+run_name: bald-loon-464
+run_uuid: a948a33360494451857209e1c8db8d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659411911
+status: 3
+tags: []
+user_id: houston

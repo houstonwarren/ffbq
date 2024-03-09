@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/d2434eda018c4ec9ab7deaff0f7f6be5/artifacts
+end_time: 1697194276573
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: d2434eda018c4ec9ab7deaff0f7f6be5
+run_name: grandiose-bird-181
+run_uuid: d2434eda018c4ec9ab7deaff0f7f6be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194276553
+status: 3
+tags: []
+user_id: houston

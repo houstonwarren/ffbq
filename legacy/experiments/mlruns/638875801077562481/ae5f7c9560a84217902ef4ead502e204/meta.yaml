@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ae5f7c9560a84217902ef4ead502e204/artifacts
+end_time: 1701667840790
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ae5f7c9560a84217902ef4ead502e204
+run_name: bouncy-ox-35
+run_uuid: ae5f7c9560a84217902ef4ead502e204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667840643
+status: 3
+tags: []
+user_id: houston

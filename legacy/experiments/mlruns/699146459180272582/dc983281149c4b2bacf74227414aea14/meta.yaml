@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/dc983281149c4b2bacf74227414aea14/artifacts
+end_time: 1698113470906
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: dc983281149c4b2bacf74227414aea14
+run_name: judicious-bee-703
+run_uuid: dc983281149c4b2bacf74227414aea14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113470854
+status: 3
+tags: []
+user_id: houston

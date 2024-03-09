@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/bcc97b4bfb184624a9b6dfa4feeace86/artifacts
+end_time: 1701660422229
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: bcc97b4bfb184624a9b6dfa4feeace86
+run_name: invincible-horse-825
+run_uuid: bcc97b4bfb184624a9b6dfa4feeace86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660422127
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/d170730766234497887097a0a340c3c2/artifacts
+end_time: 1697359112050
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: d170730766234497887097a0a340c3c2
+run_name: invincible-doe-542
+run_uuid: d170730766234497887097a0a340c3c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359111982
+status: 3
+tags: []
+user_id: houston

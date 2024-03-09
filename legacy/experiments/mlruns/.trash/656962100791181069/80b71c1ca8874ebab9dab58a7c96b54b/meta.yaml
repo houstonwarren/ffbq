@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/80b71c1ca8874ebab9dab58a7c96b54b/artifacts
+deleted_time: 1701665274136
+end_time: 1701664825743
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 80b71c1ca8874ebab9dab58a7c96b54b
+run_name: popular-quail-711
+run_uuid: 80b71c1ca8874ebab9dab58a7c96b54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664825713
+status: 3
+tags: []
+user_id: houston

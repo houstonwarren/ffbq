@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/f95b66478902497a81ae58f5c2eb1376/artifacts
+end_time: 1701667722464
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: f95b66478902497a81ae58f5c2eb1376
+run_name: beautiful-panda-232
+run_uuid: f95b66478902497a81ae58f5c2eb1376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667722349
+status: 3
+tags: []
+user_id: houston

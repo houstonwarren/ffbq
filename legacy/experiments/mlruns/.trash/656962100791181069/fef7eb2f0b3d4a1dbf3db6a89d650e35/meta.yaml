@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/fef7eb2f0b3d4a1dbf3db6a89d650e35/artifacts
+deleted_time: 1701665274136
+end_time: 1701664763360
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: fef7eb2f0b3d4a1dbf3db6a89d650e35
+run_name: bustling-smelt-679
+run_uuid: fef7eb2f0b3d4a1dbf3db6a89d650e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664763325
+status: 3
+tags: []
+user_id: houston

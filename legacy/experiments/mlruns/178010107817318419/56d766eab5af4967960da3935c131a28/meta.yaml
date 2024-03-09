@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/56d766eab5af4967960da3935c131a28/artifacts
+end_time: 1697359105727
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 56d766eab5af4967960da3935c131a28
+run_name: magnificent-roo-71
+run_uuid: 56d766eab5af4967960da3935c131a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359105675
+status: 3
+tags: []
+user_id: houston

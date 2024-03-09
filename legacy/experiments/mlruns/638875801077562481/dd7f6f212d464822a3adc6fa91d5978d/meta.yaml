@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/dd7f6f212d464822a3adc6fa91d5978d/artifacts
+end_time: 1701667394162
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: dd7f6f212d464822a3adc6fa91d5978d
+run_name: casual-panda-558
+run_uuid: dd7f6f212d464822a3adc6fa91d5978d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667394050
+status: 3
+tags: []
+user_id: houston

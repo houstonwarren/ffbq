@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/d26a7a7dd52640aca180176b6cc6b924/artifacts
+end_time: 1701659474002
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: d26a7a7dd52640aca180176b6cc6b924
+run_name: nosy-lark-464
+run_uuid: d26a7a7dd52640aca180176b6cc6b924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659473862
+status: 3
+tags: []
+user_id: houston

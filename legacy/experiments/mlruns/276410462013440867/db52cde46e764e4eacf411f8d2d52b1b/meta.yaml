@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/db52cde46e764e4eacf411f8d2d52b1b/artifacts
+end_time: 1697197408772
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: db52cde46e764e4eacf411f8d2d52b1b
+run_name: stylish-chimp-335
+run_uuid: db52cde46e764e4eacf411f8d2d52b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197408755
+status: 3
+tags: []
+user_id: houston

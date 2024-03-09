@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/98b841074b5e429ebb71a83f479f44cc/artifacts
+end_time: 1697194450836
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 98b841074b5e429ebb71a83f479f44cc
+run_name: silent-boar-478
+run_uuid: 98b841074b5e429ebb71a83f479f44cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194450813
+status: 3
+tags: []
+user_id: houston

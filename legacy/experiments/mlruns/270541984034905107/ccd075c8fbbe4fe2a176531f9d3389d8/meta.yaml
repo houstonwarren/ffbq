@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/ccd075c8fbbe4fe2a176531f9d3389d8/artifacts
+end_time: 1697442422012
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: ccd075c8fbbe4fe2a176531f9d3389d8
+run_name: salty-fawn-51
+run_uuid: ccd075c8fbbe4fe2a176531f9d3389d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697442421955
+status: 3
+tags: []
+user_id: houston

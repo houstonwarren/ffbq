@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4846513176c5442daab8f34b69d03891/artifacts
+end_time: 1701659563492
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4846513176c5442daab8f34b69d03891
+run_name: redolent-ram-543
+run_uuid: 4846513176c5442daab8f34b69d03891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659563330
+status: 3
+tags: []
+user_id: houston

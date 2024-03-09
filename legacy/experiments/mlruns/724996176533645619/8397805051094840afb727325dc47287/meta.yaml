@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8397805051094840afb727325dc47287/artifacts
+end_time: 1697193659543
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8397805051094840afb727325dc47287
+run_name: bemused-pug-273
+run_uuid: 8397805051094840afb727325dc47287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193659473
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/c7d8506169f04e35a07672e03dad6665/artifacts
+end_time: 1697195941230
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: c7d8506169f04e35a07672e03dad6665
+run_name: classy-sow-760
+run_uuid: c7d8506169f04e35a07672e03dad6665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195941215
+status: 3
+tags: []
+user_id: houston

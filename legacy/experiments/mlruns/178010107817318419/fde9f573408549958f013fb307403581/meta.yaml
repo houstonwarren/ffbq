@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/fde9f573408549958f013fb307403581/artifacts
+end_time: 1697359137025
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: fde9f573408549958f013fb307403581
+run_name: bustling-lamb-767
+run_uuid: fde9f573408549958f013fb307403581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359136965
+status: 3
+tags: []
+user_id: houston

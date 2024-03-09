@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/580721111663086005/5bcc28f2b7e94a8ba26aa6286cb5423f/artifacts
+end_time: 1701660132524
+entry_point_name: ''
+experiment_id: '580721111663086005'
+lifecycle_stage: active
+run_id: 5bcc28f2b7e94a8ba26aa6286cb5423f
+run_name: intelligent-roo-488
+run_uuid: 5bcc28f2b7e94a8ba26aa6286cb5423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660132355
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/bc275023c93f4187b244ade47344e97f/artifacts
+end_time: 1697359067236
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: bc275023c93f4187b244ade47344e97f
+run_name: vaunted-wasp-134
+run_uuid: bc275023c93f4187b244ade47344e97f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359067188
+status: 3
+tags: []
+user_id: houston

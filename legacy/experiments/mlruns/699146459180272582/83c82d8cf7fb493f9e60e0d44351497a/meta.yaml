@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/83c82d8cf7fb493f9e60e0d44351497a/artifacts
+end_time: 1698113765234
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 83c82d8cf7fb493f9e60e0d44351497a
+run_name: burly-dove-853
+run_uuid: 83c82d8cf7fb493f9e60e0d44351497a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113765174
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/ae6585e50c674083aae3aab2fc461d35/artifacts
+end_time: 1701660381598
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: ae6585e50c674083aae3aab2fc461d35
+run_name: selective-asp-983
+run_uuid: ae6585e50c674083aae3aab2fc461d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660381515
+status: 3
+tags: []
+user_id: houston

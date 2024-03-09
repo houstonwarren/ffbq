@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8dce6f2cc8834209ab3ab385a793f06c/artifacts
+end_time: 1701667739378
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8dce6f2cc8834209ab3ab385a793f06c
+run_name: abundant-shark-130
+run_uuid: 8dce6f2cc8834209ab3ab385a793f06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667739246
+status: 3
+tags: []
+user_id: houston

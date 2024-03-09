@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/bb26c05f228f490c914bd246fd3a44d9/artifacts
+end_time: 1701667430997
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: bb26c05f228f490c914bd246fd3a44d9
+run_name: puzzled-doe-926
+run_uuid: bb26c05f228f490c914bd246fd3a44d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667430928
+status: 3
+tags: []
+user_id: houston

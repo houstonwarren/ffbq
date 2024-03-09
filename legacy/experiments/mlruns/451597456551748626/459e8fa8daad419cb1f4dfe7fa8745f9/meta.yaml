@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/459e8fa8daad419cb1f4dfe7fa8745f9/artifacts
+end_time: 1701660427306
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 459e8fa8daad419cb1f4dfe7fa8745f9
+run_name: auspicious-hog-926
+run_uuid: 459e8fa8daad419cb1f4dfe7fa8745f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660427191
+status: 3
+tags: []
+user_id: houston

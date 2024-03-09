@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/067d9cf706924ee3896f65fbfa932a4e/artifacts
+end_time: 1697195786689
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 067d9cf706924ee3896f65fbfa932a4e
+run_name: intelligent-owl-598
+run_uuid: 067d9cf706924ee3896f65fbfa932a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195786675
+status: 3
+tags: []
+user_id: houston

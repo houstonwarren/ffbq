@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/fb79e14ffbe34f8fb10566c0aed77a68/artifacts
+end_time: 1697194797301
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: fb79e14ffbe34f8fb10566c0aed77a68
+run_name: popular-eel-303
+run_uuid: fb79e14ffbe34f8fb10566c0aed77a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194797280
+status: 3
+tags: []
+user_id: houston

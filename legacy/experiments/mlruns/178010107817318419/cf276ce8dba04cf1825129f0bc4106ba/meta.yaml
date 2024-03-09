@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/cf276ce8dba04cf1825129f0bc4106ba/artifacts
+end_time: 1697359116266
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: cf276ce8dba04cf1825129f0bc4106ba
+run_name: bright-turtle-914
+run_uuid: cf276ce8dba04cf1825129f0bc4106ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359116215
+status: 3
+tags: []
+user_id: houston

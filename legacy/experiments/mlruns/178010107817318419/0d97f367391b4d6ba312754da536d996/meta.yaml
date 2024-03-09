@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/0d97f367391b4d6ba312754da536d996/artifacts
+end_time: 1697359096992
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 0d97f367391b4d6ba312754da536d996
+run_name: agreeable-bird-612
+run_uuid: 0d97f367391b4d6ba312754da536d996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359096938
+status: 3
+tags: []
+user_id: houston

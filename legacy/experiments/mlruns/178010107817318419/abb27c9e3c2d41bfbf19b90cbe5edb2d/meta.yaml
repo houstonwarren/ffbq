@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/abb27c9e3c2d41bfbf19b90cbe5edb2d/artifacts
+end_time: 1697359042772
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: abb27c9e3c2d41bfbf19b90cbe5edb2d
+run_name: languid-bear-248
+run_uuid: abb27c9e3c2d41bfbf19b90cbe5edb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359042727
+status: 3
+tags: []
+user_id: houston

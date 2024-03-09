@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/ea44e6ddaa0142fbb0d59a76bdb4fdda/artifacts
+end_time: 1697195979542
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: ea44e6ddaa0142fbb0d59a76bdb4fdda
+run_name: sincere-grub-731
+run_uuid: ea44e6ddaa0142fbb0d59a76bdb4fdda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195979527
+status: 3
+tags: []
+user_id: houston

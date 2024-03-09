@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/6c05a08e690642ba923d4648890347f1/artifacts
+end_time: 1698113458320
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 6c05a08e690642ba923d4648890347f1
+run_name: beautiful-shrimp-559
+run_uuid: 6c05a08e690642ba923d4648890347f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458269
+status: 3
+tags: []
+user_id: houston

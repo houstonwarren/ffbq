@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8cb168ff542442ff87414906b39ec4cd/artifacts
+end_time: 1701667777495
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8cb168ff542442ff87414906b39ec4cd
+run_name: crawling-elk-97
+run_uuid: 8cb168ff542442ff87414906b39ec4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667777317
+status: 3
+tags: []
+user_id: houston

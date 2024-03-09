@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f5e8a903d323447e974b790a852f9d03/artifacts
+end_time: 1697196887555
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f5e8a903d323447e974b790a852f9d03
+run_name: melodic-gull-31
+run_uuid: f5e8a903d323447e974b790a852f9d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196887538
+status: 3
+tags: []
+user_id: houston

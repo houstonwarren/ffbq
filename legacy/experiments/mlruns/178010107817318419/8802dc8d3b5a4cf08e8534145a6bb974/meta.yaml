@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/8802dc8d3b5a4cf08e8534145a6bb974/artifacts
+end_time: 1697359138700
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 8802dc8d3b5a4cf08e8534145a6bb974
+run_name: funny-hog-359
+run_uuid: 8802dc8d3b5a4cf08e8534145a6bb974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359138643
+status: 3
+tags: []
+user_id: houston

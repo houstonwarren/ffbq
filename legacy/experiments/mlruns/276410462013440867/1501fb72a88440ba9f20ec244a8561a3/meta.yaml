@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/1501fb72a88440ba9f20ec244a8561a3/artifacts
+end_time: 1697198174824
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 1501fb72a88440ba9f20ec244a8561a3
+run_name: salty-gnu-962
+run_uuid: 1501fb72a88440ba9f20ec244a8561a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198174802
+status: 3
+tags: []
+user_id: houston

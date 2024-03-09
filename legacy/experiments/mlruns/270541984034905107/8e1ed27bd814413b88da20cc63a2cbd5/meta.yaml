@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/8e1ed27bd814413b88da20cc63a2cbd5/artifacts
+end_time: 1697440615622
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 8e1ed27bd814413b88da20cc63a2cbd5
+run_name: rebellious-ant-434
+run_uuid: 8e1ed27bd814413b88da20cc63a2cbd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440615571
+status: 3
+tags: []
+user_id: houston

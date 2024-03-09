@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/a4afd4b82aa04ecc85bc98143ff91791/artifacts
+end_time: 1697195825704
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: a4afd4b82aa04ecc85bc98143ff91791
+run_name: skillful-owl-371
+run_uuid: a4afd4b82aa04ecc85bc98143ff91791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195825691
+status: 3
+tags: []
+user_id: houston

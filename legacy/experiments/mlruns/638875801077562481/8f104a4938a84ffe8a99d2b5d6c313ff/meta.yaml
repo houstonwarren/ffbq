@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/8f104a4938a84ffe8a99d2b5d6c313ff/artifacts
+end_time: 1701667477789
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 8f104a4938a84ffe8a99d2b5d6c313ff
+run_name: silent-fox-608
+run_uuid: 8f104a4938a84ffe8a99d2b5d6c313ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667477686
+status: 3
+tags: []
+user_id: houston

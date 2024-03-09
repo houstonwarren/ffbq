@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/96928e9e87e84a81ba37cadc2307b326/artifacts
+end_time: 1697359052209
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 96928e9e87e84a81ba37cadc2307b326
+run_name: serious-elk-916
+run_uuid: 96928e9e87e84a81ba37cadc2307b326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359052158
+status: 3
+tags: []
+user_id: houston

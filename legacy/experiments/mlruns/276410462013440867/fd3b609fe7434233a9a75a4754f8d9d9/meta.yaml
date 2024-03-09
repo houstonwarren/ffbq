@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/fd3b609fe7434233a9a75a4754f8d9d9/artifacts
+end_time: 1697195622105
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: fd3b609fe7434233a9a75a4754f8d9d9
+run_name: bedecked-hawk-253
+run_uuid: fd3b609fe7434233a9a75a4754f8d9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195622037
+status: 3
+tags: []
+user_id: houston

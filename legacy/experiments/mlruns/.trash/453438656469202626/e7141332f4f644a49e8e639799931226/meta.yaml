@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/453438656469202626/e7141332f4f644a49e8e639799931226/artifacts
+deleted_time: 1701659398061
+end_time: 1701658640823
+entry_point_name: ''
+experiment_id: '453438656469202626'
+lifecycle_stage: deleted
+run_id: e7141332f4f644a49e8e639799931226
+run_name: lyrical-dolphin-615
+run_uuid: e7141332f4f644a49e8e639799931226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701658640703
+status: 3
+tags: []
+user_id: houston

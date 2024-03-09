@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/cef1f099d1fc40d186191074389f78b4/artifacts
+end_time: 1701660303239
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: cef1f099d1fc40d186191074389f78b4
+run_name: skillful-bat-89
+run_uuid: cef1f099d1fc40d186191074389f78b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660303162
+status: 3
+tags: []
+user_id: houston

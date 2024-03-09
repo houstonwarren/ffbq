@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/550e7a16c5d44126bedd37afed935b56/artifacts
+end_time: 1698113434260
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 550e7a16c5d44126bedd37afed935b56
+run_name: amusing-wasp-347
+run_uuid: 550e7a16c5d44126bedd37afed935b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113434206
+status: 3
+tags: []
+user_id: houston

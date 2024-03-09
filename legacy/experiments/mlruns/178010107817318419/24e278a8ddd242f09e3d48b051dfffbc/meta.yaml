@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/24e278a8ddd242f09e3d48b051dfffbc/artifacts
+end_time: 1697359092112
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 24e278a8ddd242f09e3d48b051dfffbc
+run_name: luxuriant-koi-322
+run_uuid: 24e278a8ddd242f09e3d48b051dfffbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359092064
+status: 3
+tags: []
+user_id: houston

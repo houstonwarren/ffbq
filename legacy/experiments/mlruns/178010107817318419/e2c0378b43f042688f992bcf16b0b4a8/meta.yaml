@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/e2c0378b43f042688f992bcf16b0b4a8/artifacts
+end_time: 1697359071036
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: e2c0378b43f042688f992bcf16b0b4a8
+run_name: abrasive-yak-228
+run_uuid: e2c0378b43f042688f992bcf16b0b4a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359070991
+status: 3
+tags: []
+user_id: houston

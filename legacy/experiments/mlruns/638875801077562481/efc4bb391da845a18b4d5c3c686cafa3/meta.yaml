@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/efc4bb391da845a18b4d5c3c686cafa3/artifacts
+end_time: 1701667407041
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: efc4bb391da845a18b4d5c3c686cafa3
+run_name: polite-boar-888
+run_uuid: efc4bb391da845a18b4d5c3c686cafa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667406949
+status: 3
+tags: []
+user_id: houston

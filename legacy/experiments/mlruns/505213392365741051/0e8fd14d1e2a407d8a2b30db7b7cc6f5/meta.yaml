@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/0e8fd14d1e2a407d8a2b30db7b7cc6f5/artifacts
+end_time: 1701659461381
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 0e8fd14d1e2a407d8a2b30db7b7cc6f5
+run_name: incongruous-fawn-746
+run_uuid: 0e8fd14d1e2a407d8a2b30db7b7cc6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659461266
+status: 3
+tags: []
+user_id: houston

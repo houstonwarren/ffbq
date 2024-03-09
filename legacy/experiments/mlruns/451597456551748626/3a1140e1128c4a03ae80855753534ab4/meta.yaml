@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/3a1140e1128c4a03ae80855753534ab4/artifacts
+end_time: 1701660447921
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 3a1140e1128c4a03ae80855753534ab4
+run_name: smiling-gnu-888
+run_uuid: 3a1140e1128c4a03ae80855753534ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660447784
+status: 3
+tags: []
+user_id: houston

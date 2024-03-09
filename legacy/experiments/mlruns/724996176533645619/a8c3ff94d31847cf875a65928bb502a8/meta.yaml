@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/a8c3ff94d31847cf875a65928bb502a8/artifacts
+end_time: 1697194450716
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: a8c3ff94d31847cf875a65928bb502a8
+run_name: carefree-perch-512
+run_uuid: a8c3ff94d31847cf875a65928bb502a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194450695
+status: 3
+tags: []
+user_id: houston

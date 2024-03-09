@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/cb00f133f99d4bffa1893af5b6ee3fc0/artifacts
+end_time: 1697441251328
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: cb00f133f99d4bffa1893af5b6ee3fc0
+run_name: capricious-stork-746
+run_uuid: cb00f133f99d4bffa1893af5b6ee3fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697441251272
+status: 3
+tags: []
+user_id: houston

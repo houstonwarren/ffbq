@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/289b0b267bbb4011918a30bab7c21602/artifacts
+end_time: 1701667407709
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 289b0b267bbb4011918a30bab7c21602
+run_name: kindly-finch-466
+run_uuid: 289b0b267bbb4011918a30bab7c21602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667407596
+status: 3
+tags: []
+user_id: houston

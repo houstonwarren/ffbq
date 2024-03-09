@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/51854b85fbaa4fcf8d3fe7975a292505/artifacts
+end_time: 1697359096931
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 51854b85fbaa4fcf8d3fe7975a292505
+run_name: luminous-goose-192
+run_uuid: 51854b85fbaa4fcf8d3fe7975a292505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359096877
+status: 3
+tags: []
+user_id: houston

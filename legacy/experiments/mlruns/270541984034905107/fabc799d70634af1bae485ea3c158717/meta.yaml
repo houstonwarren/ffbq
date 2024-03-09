@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/fabc799d70634af1bae485ea3c158717/artifacts
+end_time: 1697440557499
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: fabc799d70634af1bae485ea3c158717
+run_name: masked-fly-145
+run_uuid: fabc799d70634af1bae485ea3c158717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440557413
+status: 3
+tags: []
+user_id: houston

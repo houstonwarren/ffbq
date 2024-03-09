@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/700267c8a74c440f80d1d62da788bc69/artifacts
+end_time: 1701660390762
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 700267c8a74c440f80d1d62da788bc69
+run_name: defiant-deer-973
+run_uuid: 700267c8a74c440f80d1d62da788bc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660390665
+status: 3
+tags: []
+user_id: houston

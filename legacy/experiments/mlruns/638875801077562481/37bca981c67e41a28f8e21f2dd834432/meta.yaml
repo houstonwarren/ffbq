@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/37bca981c67e41a28f8e21f2dd834432/artifacts
+end_time: 1701667710417
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 37bca981c67e41a28f8e21f2dd834432
+run_name: adaptable-dove-226
+run_uuid: 37bca981c67e41a28f8e21f2dd834432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667710253
+status: 3
+tags: []
+user_id: houston

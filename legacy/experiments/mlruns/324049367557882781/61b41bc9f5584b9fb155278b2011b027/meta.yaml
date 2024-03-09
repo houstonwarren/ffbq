@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/324049367557882781/61b41bc9f5584b9fb155278b2011b027/artifacts
+end_time: 1698054461274
+entry_point_name: ''
+experiment_id: '324049367557882781'
+lifecycle_stage: active
+run_id: 61b41bc9f5584b9fb155278b2011b027
+run_name: enthused-swan-499
+run_uuid: 61b41bc9f5584b9fb155278b2011b027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698054461224
+status: 3
+tags: []
+user_id: houston

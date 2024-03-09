@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/574895835f114286a2ea0301300f7f93/artifacts
+end_time: 1698113531647
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 574895835f114286a2ea0301300f7f93
+run_name: likeable-lamb-645
+run_uuid: 574895835f114286a2ea0301300f7f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113531595
+status: 3
+tags: []
+user_id: houston

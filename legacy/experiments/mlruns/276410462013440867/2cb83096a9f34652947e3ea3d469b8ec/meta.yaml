@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/2cb83096a9f34652947e3ea3d469b8ec/artifacts
+end_time: 1697195902497
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 2cb83096a9f34652947e3ea3d469b8ec
+run_name: clumsy-conch-240
+run_uuid: 2cb83096a9f34652947e3ea3d469b8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902430
+status: 3
+tags: []
+user_id: houston

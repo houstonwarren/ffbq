@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e05be0afd4ac4b398448a83c95c25661/artifacts
+end_time: 1701667985084
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e05be0afd4ac4b398448a83c95c25661
+run_name: magnificent-cow-915
+run_uuid: e05be0afd4ac4b398448a83c95c25661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667984927
+status: 3
+tags: []
+user_id: houston

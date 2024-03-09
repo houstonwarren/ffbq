@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/7033ba033cad44e895ce802b55dc4859/artifacts
+end_time: 1698113458827
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 7033ba033cad44e895ce802b55dc4859
+run_name: smiling-rook-106
+run_uuid: 7033ba033cad44e895ce802b55dc4859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113458775
+status: 3
+tags: []
+user_id: houston

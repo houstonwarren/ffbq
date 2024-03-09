@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/ea55a2a92fd747768175fd8f4f87dcfd/artifacts
+end_time: 1698113421950
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: ea55a2a92fd747768175fd8f4f87dcfd
+run_name: angry-snipe-952
+run_uuid: ea55a2a92fd747768175fd8f4f87dcfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113421867
+status: 3
+tags: []
+user_id: houston

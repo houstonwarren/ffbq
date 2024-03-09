@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/d617dbdcf0dd4651b51f79e93ec7efc2/artifacts
+end_time: 1697440493113
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: d617dbdcf0dd4651b51f79e93ec7efc2
+run_name: skittish-fox-530
+run_uuid: d617dbdcf0dd4651b51f79e93ec7efc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440493066
+status: 3
+tags: []
+user_id: houston

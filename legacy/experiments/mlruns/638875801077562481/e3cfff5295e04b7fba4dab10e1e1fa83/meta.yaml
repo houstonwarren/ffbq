@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e3cfff5295e04b7fba4dab10e1e1fa83/artifacts
+end_time: 1701667743429
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e3cfff5295e04b7fba4dab10e1e1fa83
+run_name: illustrious-ape-877
+run_uuid: e3cfff5295e04b7fba4dab10e1e1fa83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667743290
+status: 3
+tags: []
+user_id: houston

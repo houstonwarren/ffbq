@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/76e081a6d2494361801035c1cee95725/artifacts
+end_time: 1698113817406
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 76e081a6d2494361801035c1cee95725
+run_name: luxuriant-hawk-176
+run_uuid: 76e081a6d2494361801035c1cee95725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113817349
+status: 3
+tags: []
+user_id: houston

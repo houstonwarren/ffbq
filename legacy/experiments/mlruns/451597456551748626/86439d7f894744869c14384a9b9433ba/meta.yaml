@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/86439d7f894744869c14384a9b9433ba/artifacts
+end_time: 1701660258078
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 86439d7f894744869c14384a9b9433ba
+run_name: dapper-kite-465
+run_uuid: 86439d7f894744869c14384a9b9433ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660258014
+status: 3
+tags: []
+user_id: houston

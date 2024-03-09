@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/28829c4c27bf46afa300407d38143bb5/artifacts
+end_time: 1697360380590
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 28829c4c27bf46afa300407d38143bb5
+run_name: fearless-flea-637
+run_uuid: 28829c4c27bf46afa300407d38143bb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360380537
+status: 3
+tags: []
+user_id: houston

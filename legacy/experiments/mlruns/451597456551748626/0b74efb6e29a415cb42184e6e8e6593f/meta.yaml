@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/0b74efb6e29a415cb42184e6e8e6593f/artifacts
+end_time: 1701660424106
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 0b74efb6e29a415cb42184e6e8e6593f
+run_name: valuable-fish-924
+run_uuid: 0b74efb6e29a415cb42184e6e8e6593f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660423990
+status: 3
+tags: []
+user_id: houston

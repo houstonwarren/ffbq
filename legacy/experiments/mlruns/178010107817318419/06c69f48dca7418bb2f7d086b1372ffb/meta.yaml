@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/06c69f48dca7418bb2f7d086b1372ffb/artifacts
+end_time: 1697359095367
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 06c69f48dca7418bb2f7d086b1372ffb
+run_name: brawny-croc-780
+run_uuid: 06c69f48dca7418bb2f7d086b1372ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359095317
+status: 3
+tags: []
+user_id: houston

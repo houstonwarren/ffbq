@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d5da0b20ce3e4fb2ac2970fd5015e205/artifacts
+end_time: 1701667850665
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d5da0b20ce3e4fb2ac2970fd5015e205
+run_name: awesome-goose-254
+run_uuid: d5da0b20ce3e4fb2ac2970fd5015e205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667850524
+status: 3
+tags: []
+user_id: houston

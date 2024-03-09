@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/371b1c12d6b747df8fe2f72813652f54/artifacts
+end_time: 1701667424726
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 371b1c12d6b747df8fe2f72813652f54
+run_name: monumental-shrew-196
+run_uuid: 371b1c12d6b747df8fe2f72813652f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667424620
+status: 3
+tags: []
+user_id: houston

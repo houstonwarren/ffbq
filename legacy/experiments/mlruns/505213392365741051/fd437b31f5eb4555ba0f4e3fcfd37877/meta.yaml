@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/fd437b31f5eb4555ba0f4e3fcfd37877/artifacts
+end_time: 1701659445825
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: fd437b31f5eb4555ba0f4e3fcfd37877
+run_name: spiffy-donkey-417
+run_uuid: fd437b31f5eb4555ba0f4e3fcfd37877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659445692
+status: 3
+tags: []
+user_id: houston

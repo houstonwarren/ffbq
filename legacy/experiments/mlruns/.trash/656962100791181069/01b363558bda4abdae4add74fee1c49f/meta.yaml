@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/01b363558bda4abdae4add74fee1c49f/artifacts
+deleted_time: 1701665274136
+end_time: 1701664743186
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 01b363558bda4abdae4add74fee1c49f
+run_name: incongruous-elk-183
+run_uuid: 01b363558bda4abdae4add74fee1c49f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664743159
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/4a65c25931b440069137fb50ad73ddcf/artifacts
+end_time: 1701659612575
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 4a65c25931b440069137fb50ad73ddcf
+run_name: rumbling-seal-551
+run_uuid: 4a65c25931b440069137fb50ad73ddcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659612436
+status: 3
+tags: []
+user_id: houston

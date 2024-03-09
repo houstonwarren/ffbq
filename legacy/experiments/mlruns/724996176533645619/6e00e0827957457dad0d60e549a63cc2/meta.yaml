@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/6e00e0827957457dad0d60e549a63cc2/artifacts
+end_time: 1697194630162
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 6e00e0827957457dad0d60e549a63cc2
+run_name: inquisitive-foal-874
+run_uuid: 6e00e0827957457dad0d60e549a63cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194630141
+status: 3
+tags: []
+user_id: houston

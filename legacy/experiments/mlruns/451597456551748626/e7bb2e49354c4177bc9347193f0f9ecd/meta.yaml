@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e7bb2e49354c4177bc9347193f0f9ecd/artifacts
+end_time: 1701660249826
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e7bb2e49354c4177bc9347193f0f9ecd
+run_name: delightful-bear-380
+run_uuid: e7bb2e49354c4177bc9347193f0f9ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660249752
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/c959019ef898439c820652427a9cff1f/artifacts
+end_time: 1698113613669
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: c959019ef898439c820652427a9cff1f
+run_name: ambitious-deer-371
+run_uuid: c959019ef898439c820652427a9cff1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113613613
+status: 3
+tags: []
+user_id: houston

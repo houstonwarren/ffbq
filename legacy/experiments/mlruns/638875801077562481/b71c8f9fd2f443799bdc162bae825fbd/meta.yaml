@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/b71c8f9fd2f443799bdc162bae825fbd/artifacts
+end_time: 1701667892283
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: b71c8f9fd2f443799bdc162bae825fbd
+run_name: sincere-koi-570
+run_uuid: b71c8f9fd2f443799bdc162bae825fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667892145
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/e717c8af78da4a49a22bdd4547a97fdb/artifacts
+end_time: 1698113626970
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: e717c8af78da4a49a22bdd4547a97fdb
+run_name: clumsy-cub-15
+run_uuid: e717c8af78da4a49a22bdd4547a97fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113626915
+status: 3
+tags: []
+user_id: houston

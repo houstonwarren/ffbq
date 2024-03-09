@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/8dcc24758940408a8ad1eb0a8fb1403c/artifacts
+end_time: 1697194311711
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 8dcc24758940408a8ad1eb0a8fb1403c
+run_name: abundant-ram-336
+run_uuid: 8dcc24758940408a8ad1eb0a8fb1403c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194311692
+status: 3
+tags: []
+user_id: houston

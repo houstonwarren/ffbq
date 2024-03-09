@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/488655900d5e406c9ab7fbe12d6fa595/artifacts
+end_time: 1697196200783
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 488655900d5e406c9ab7fbe12d6fa595
+run_name: receptive-doe-816
+run_uuid: 488655900d5e406c9ab7fbe12d6fa595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196200767
+status: 3
+tags: []
+user_id: houston

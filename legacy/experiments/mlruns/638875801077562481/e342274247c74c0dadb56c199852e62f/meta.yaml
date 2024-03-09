@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/e342274247c74c0dadb56c199852e62f/artifacts
+end_time: 1701667546949
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: e342274247c74c0dadb56c199852e62f
+run_name: indecisive-worm-589
+run_uuid: e342274247c74c0dadb56c199852e62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667546850
+status: 3
+tags: []
+user_id: houston

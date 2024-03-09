@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/33c09544f49c4078a3c0aa7fd16e51c8/artifacts
+end_time: 1697198074719
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 33c09544f49c4078a3c0aa7fd16e51c8
+run_name: overjoyed-sloth-379
+run_uuid: 33c09544f49c4078a3c0aa7fd16e51c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198074698
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/9964b767c87b4d39b0efcf591e1f4d22/artifacts
+end_time: 1698114087389
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: 9964b767c87b4d39b0efcf591e1f4d22
+run_name: redolent-hog-134
+run_uuid: 9964b767c87b4d39b0efcf591e1f4d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114087328
+status: 3
+tags: []
+user_id: houston

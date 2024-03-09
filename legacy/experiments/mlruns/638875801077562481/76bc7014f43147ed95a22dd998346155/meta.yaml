@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/76bc7014f43147ed95a22dd998346155/artifacts
+end_time: 1701667695926
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 76bc7014f43147ed95a22dd998346155
+run_name: crawling-bird-303
+run_uuid: 76bc7014f43147ed95a22dd998346155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667695782
+status: 3
+tags: []
+user_id: houston

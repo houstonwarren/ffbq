@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/e98e1aa92888488cb70592b6bdff07c1/artifacts
+end_time: 1697194686254
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: e98e1aa92888488cb70592b6bdff07c1
+run_name: capable-carp-882
+run_uuid: e98e1aa92888488cb70592b6bdff07c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194686233
+status: 3
+tags: []
+user_id: houston

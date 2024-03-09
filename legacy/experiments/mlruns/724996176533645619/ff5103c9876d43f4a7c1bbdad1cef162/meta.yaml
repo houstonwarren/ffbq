@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/ff5103c9876d43f4a7c1bbdad1cef162/artifacts
+end_time: 1697193693073
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: ff5103c9876d43f4a7c1bbdad1cef162
+run_name: placid-sloth-284
+run_uuid: ff5103c9876d43f4a7c1bbdad1cef162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193693062
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/ebe12d18f20e4f778b6481864f86f3f1/artifacts
+end_time: 1701667598880
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: ebe12d18f20e4f778b6481864f86f3f1
+run_name: bustling-ox-581
+run_uuid: ebe12d18f20e4f778b6481864f86f3f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667598734
+status: 3
+tags: []
+user_id: houston

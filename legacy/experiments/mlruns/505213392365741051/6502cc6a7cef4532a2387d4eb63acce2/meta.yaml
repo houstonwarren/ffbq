@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6502cc6a7cef4532a2387d4eb63acce2/artifacts
+end_time: 1701659533902
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6502cc6a7cef4532a2387d4eb63acce2
+run_name: unique-hound-284
+run_uuid: 6502cc6a7cef4532a2387d4eb63acce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659533764
+status: 3
+tags: []
+user_id: houston

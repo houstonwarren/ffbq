@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/68d771e1a7394eb0abd0fe17c8dbb6f8/artifacts
+end_time: 1701667421267
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 68d771e1a7394eb0abd0fe17c8dbb6f8
+run_name: adorable-mink-863
+run_uuid: 68d771e1a7394eb0abd0fe17c8dbb6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667421135
+status: 3
+tags: []
+user_id: houston

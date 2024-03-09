@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/308269661f6e46c9904c035f8b9db9a8/artifacts
+end_time: 1697440639607
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 308269661f6e46c9904c035f8b9db9a8
+run_name: enthused-snail-546
+run_uuid: 308269661f6e46c9904c035f8b9db9a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440639554
+status: 3
+tags: []
+user_id: houston

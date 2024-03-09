@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/5dbbf24f451d4e5f9e8e6d4399e18aaf/artifacts
+end_time: 1697359056899
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 5dbbf24f451d4e5f9e8e6d4399e18aaf
+run_name: tasteful-asp-611
+run_uuid: 5dbbf24f451d4e5f9e8e6d4399e18aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359056840
+status: 3
+tags: []
+user_id: houston

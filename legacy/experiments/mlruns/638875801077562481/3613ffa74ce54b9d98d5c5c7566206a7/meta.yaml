@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/3613ffa74ce54b9d98d5c5c7566206a7/artifacts
+end_time: 1701667835203
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 3613ffa74ce54b9d98d5c5c7566206a7
+run_name: unruly-flea-844
+run_uuid: 3613ffa74ce54b9d98d5c5c7566206a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667835057
+status: 3
+tags: []
+user_id: houston

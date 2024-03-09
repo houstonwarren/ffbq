@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/f244218be51b4d4ca1023b952e2ed31a/artifacts
+end_time: 1697440524841
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: f244218be51b4d4ca1023b952e2ed31a
+run_name: intelligent-mule-369
+run_uuid: f244218be51b4d4ca1023b952e2ed31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440524786
+status: 3
+tags: []
+user_id: houston

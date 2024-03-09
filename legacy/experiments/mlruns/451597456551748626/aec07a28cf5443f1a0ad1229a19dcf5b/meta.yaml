@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/aec07a28cf5443f1a0ad1229a19dcf5b/artifacts
+end_time: 1701660333843
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: aec07a28cf5443f1a0ad1229a19dcf5b
+run_name: monumental-carp-56
+run_uuid: aec07a28cf5443f1a0ad1229a19dcf5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660333760
+status: 3
+tags: []
+user_id: houston

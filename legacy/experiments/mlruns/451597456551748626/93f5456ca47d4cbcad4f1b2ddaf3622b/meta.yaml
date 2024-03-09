@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/93f5456ca47d4cbcad4f1b2ddaf3622b/artifacts
+end_time: 1701660405527
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: 93f5456ca47d4cbcad4f1b2ddaf3622b
+run_name: chill-frog-455
+run_uuid: 93f5456ca47d4cbcad4f1b2ddaf3622b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660405434
+status: 3
+tags: []
+user_id: houston

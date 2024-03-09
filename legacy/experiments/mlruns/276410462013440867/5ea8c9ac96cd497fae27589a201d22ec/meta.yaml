@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/5ea8c9ac96cd497fae27589a201d22ec/artifacts
+end_time: 1697197061121
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 5ea8c9ac96cd497fae27589a201d22ec
+run_name: wistful-zebra-691
+run_uuid: 5ea8c9ac96cd497fae27589a201d22ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697197061104
+status: 3
+tags: []
+user_id: houston

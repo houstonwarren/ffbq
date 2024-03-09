@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/6ff47cb185514f69bfa4e897ec00343e/artifacts
+end_time: 1701659469440
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 6ff47cb185514f69bfa4e897ec00343e
+run_name: redolent-kit-334
+run_uuid: 6ff47cb185514f69bfa4e897ec00343e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659469319
+status: 3
+tags: []
+user_id: houston

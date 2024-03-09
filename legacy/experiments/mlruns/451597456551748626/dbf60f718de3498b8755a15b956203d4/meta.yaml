@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/dbf60f718de3498b8755a15b956203d4/artifacts
+end_time: 1701660305953
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: dbf60f718de3498b8755a15b956203d4
+run_name: adventurous-vole-320
+run_uuid: dbf60f718de3498b8755a15b956203d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660305891
+status: 3
+tags: []
+user_id: houston

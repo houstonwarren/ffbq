@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/4152774c1de24723a3d515e4777cb3f3/artifacts
+end_time: 1701667572464
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 4152774c1de24723a3d515e4777cb3f3
+run_name: upset-crow-660
+run_uuid: 4152774c1de24723a3d515e4777cb3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667572331
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/be93dff9c9c44c499d23bfc4f7eb3950/artifacts
+end_time: 1701667651191
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: be93dff9c9c44c499d23bfc4f7eb3950
+run_name: bemused-ray-48
+run_uuid: be93dff9c9c44c499d23bfc4f7eb3950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667651066
+status: 3
+tags: []
+user_id: houston

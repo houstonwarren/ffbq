@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/3541e76e90a046e18262f94fa8f45cef/artifacts
+end_time: 1697195471899
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 3541e76e90a046e18262f94fa8f45cef
+run_name: resilient-boar-544
+run_uuid: 3541e76e90a046e18262f94fa8f45cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195471819
+status: 3
+tags: []
+user_id: houston

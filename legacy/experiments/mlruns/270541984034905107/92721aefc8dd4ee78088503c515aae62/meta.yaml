@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/92721aefc8dd4ee78088503c515aae62/artifacts
+end_time: 1697440687107
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 92721aefc8dd4ee78088503c515aae62
+run_name: salty-koi-711
+run_uuid: 92721aefc8dd4ee78088503c515aae62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440687052
+status: 3
+tags: []
+user_id: houston

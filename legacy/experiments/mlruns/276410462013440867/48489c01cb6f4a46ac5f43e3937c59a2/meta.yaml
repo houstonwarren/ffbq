@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/48489c01cb6f4a46ac5f43e3937c59a2/artifacts
+end_time: 1697195489213
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 48489c01cb6f4a46ac5f43e3937c59a2
+run_name: aged-hog-32
+run_uuid: 48489c01cb6f4a46ac5f43e3937c59a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195489200
+status: 3
+tags: []
+user_id: houston

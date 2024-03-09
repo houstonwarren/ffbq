@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/72ca278b60014e5db8e980d0310b4c43/artifacts
+end_time: 1697359073300
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 72ca278b60014e5db8e980d0310b4c43
+run_name: painted-hawk-521
+run_uuid: 72ca278b60014e5db8e980d0310b4c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359073250
+status: 3
+tags: []
+user_id: houston

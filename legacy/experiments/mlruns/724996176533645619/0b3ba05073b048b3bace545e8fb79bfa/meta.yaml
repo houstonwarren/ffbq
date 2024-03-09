@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0b3ba05073b048b3bace545e8fb79bfa/artifacts
+end_time: 1697193875218
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0b3ba05073b048b3bace545e8fb79bfa
+run_name: secretive-yak-738
+run_uuid: 0b3ba05073b048b3bace545e8fb79bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193875197
+status: 3
+tags: []
+user_id: houston

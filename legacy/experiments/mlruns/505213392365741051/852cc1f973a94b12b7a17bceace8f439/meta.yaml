@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/852cc1f973a94b12b7a17bceace8f439/artifacts
+end_time: 1701659423083
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: 852cc1f973a94b12b7a17bceace8f439
+run_name: rebellious-sheep-656
+run_uuid: 852cc1f973a94b12b7a17bceace8f439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659422958
+status: 3
+tags: []
+user_id: houston

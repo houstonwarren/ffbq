@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/7129df6e6feb45d1819b8f8e9ade22ef/artifacts
+end_time: 1697360260291
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 7129df6e6feb45d1819b8f8e9ade22ef
+run_name: bald-crane-809
+run_uuid: 7129df6e6feb45d1819b8f8e9ade22ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360260241
+status: 3
+tags: []
+user_id: houston

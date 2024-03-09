@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/0c33a81bf0064b31980da6a9035fbb0a/artifacts
+end_time: 1701667963585
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 0c33a81bf0064b31980da6a9035fbb0a
+run_name: redolent-sheep-801
+run_uuid: 0c33a81bf0064b31980da6a9035fbb0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667963427
+status: 3
+tags: []
+user_id: houston

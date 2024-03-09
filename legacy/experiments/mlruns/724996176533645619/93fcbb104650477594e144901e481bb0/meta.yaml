@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/93fcbb104650477594e144901e481bb0/artifacts
+end_time: 1697193709672
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 93fcbb104650477594e144901e481bb0
+run_name: rebellious-smelt-378
+run_uuid: 93fcbb104650477594e144901e481bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697193709627
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/b2c473051ebe4ef1b0eecef586fcc73f/artifacts
+end_time: 1698114484555
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: b2c473051ebe4ef1b0eecef586fcc73f
+run_name: bright-dog-645
+run_uuid: b2c473051ebe4ef1b0eecef586fcc73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698114484491
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/152831005286429860/5247fdf6d25a41c18436ae598ce305f4/artifacts
+end_time: 1697360371701
+entry_point_name: ''
+experiment_id: '152831005286429860'
+lifecycle_stage: active
+run_id: 5247fdf6d25a41c18436ae598ce305f4
+run_name: treasured-owl-541
+run_uuid: 5247fdf6d25a41c18436ae598ce305f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697360371648
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/451597456551748626/e5dbb60fb8a54b46b03d373c87eaa88f/artifacts
+end_time: 1701660485512
+entry_point_name: ''
+experiment_id: '451597456551748626'
+lifecycle_stage: active
+run_id: e5dbb60fb8a54b46b03d373c87eaa88f
+run_name: valuable-croc-436
+run_uuid: e5dbb60fb8a54b46b03d373c87eaa88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701660485381
+status: 3
+tags: []
+user_id: houston

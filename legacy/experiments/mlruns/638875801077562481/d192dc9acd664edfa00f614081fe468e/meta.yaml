@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d192dc9acd664edfa00f614081fe468e/artifacts
+end_time: 1701667820274
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d192dc9acd664edfa00f614081fe468e
+run_name: smiling-crane-128
+run_uuid: d192dc9acd664edfa00f614081fe468e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667820128
+status: 3
+tags: []
+user_id: houston

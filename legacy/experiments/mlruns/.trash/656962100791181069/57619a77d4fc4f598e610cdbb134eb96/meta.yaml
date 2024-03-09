@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/57619a77d4fc4f598e610cdbb134eb96/artifacts
+deleted_time: 1701665274136
+end_time: 1701664866296
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 57619a77d4fc4f598e610cdbb134eb96
+run_name: clumsy-hog-596
+run_uuid: 57619a77d4fc4f598e610cdbb134eb96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664866248
+status: 3
+tags: []
+user_id: houston

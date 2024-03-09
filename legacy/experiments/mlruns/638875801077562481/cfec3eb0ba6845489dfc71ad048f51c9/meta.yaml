@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/cfec3eb0ba6845489dfc71ad048f51c9/artifacts
+end_time: 1701667978359
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: cfec3eb0ba6845489dfc71ad048f51c9
+run_name: abundant-wolf-322
+run_uuid: cfec3eb0ba6845489dfc71ad048f51c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667978191
+status: 3
+tags: []
+user_id: houston

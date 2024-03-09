@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/d332c7cec0374af89e6d01a51d7ac071/artifacts
+end_time: 1701667459502
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: d332c7cec0374af89e6d01a51d7ac071
+run_name: vaunted-ant-341
+run_uuid: d332c7cec0374af89e6d01a51d7ac071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667459398
+status: 3
+tags: []
+user_id: houston

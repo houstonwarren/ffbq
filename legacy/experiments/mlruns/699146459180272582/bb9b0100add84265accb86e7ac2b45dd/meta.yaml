@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/699146459180272582/bb9b0100add84265accb86e7ac2b45dd/artifacts
+end_time: 1698113729615
+entry_point_name: ''
+experiment_id: '699146459180272582'
+lifecycle_stage: active
+run_id: bb9b0100add84265accb86e7ac2b45dd
+run_name: big-tern-27
+run_uuid: bb9b0100add84265accb86e7ac2b45dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698113729551
+status: 3
+tags: []
+user_id: houston

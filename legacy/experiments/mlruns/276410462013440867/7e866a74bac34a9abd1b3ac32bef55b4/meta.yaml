@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/7e866a74bac34a9abd1b3ac32bef55b4/artifacts
+end_time: 1697195902699
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 7e866a74bac34a9abd1b3ac32bef55b4
+run_name: calm-gull-157
+run_uuid: 7e866a74bac34a9abd1b3ac32bef55b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697195902684
+status: 3
+tags: []
+user_id: houston

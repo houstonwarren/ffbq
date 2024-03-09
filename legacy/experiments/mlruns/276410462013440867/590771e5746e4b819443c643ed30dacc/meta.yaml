@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/590771e5746e4b819443c643ed30dacc/artifacts
+end_time: 1697198344555
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: 590771e5746e4b819443c643ed30dacc
+run_name: indecisive-seal-510
+run_uuid: 590771e5746e4b819443c643ed30dacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697198344533
+status: 3
+tags: []
+user_id: houston

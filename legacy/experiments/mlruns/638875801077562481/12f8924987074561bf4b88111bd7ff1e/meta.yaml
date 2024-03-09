@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/638875801077562481/12f8924987074561bf4b88111bd7ff1e/artifacts
+end_time: 1701667528180
+entry_point_name: ''
+experiment_id: '638875801077562481'
+lifecycle_stage: active
+run_id: 12f8924987074561bf4b88111bd7ff1e
+run_name: fearless-lynx-456
+run_uuid: 12f8924987074561bf4b88111bd7ff1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701667528103
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/394fc110efc44fa190cbc274694909db/artifacts
+end_time: 1697359101736
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 394fc110efc44fa190cbc274694909db
+run_name: unruly-ray-999
+run_uuid: 394fc110efc44fa190cbc274694909db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359101674
+status: 3
+tags: []
+user_id: houston

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/276410462013440867/f10a10180e65460f9799f7983ba7a0af/artifacts
+end_time: 1697196547449
+entry_point_name: ''
+experiment_id: '276410462013440867'
+lifecycle_stage: active
+run_id: f10a10180e65460f9799f7983ba7a0af
+run_name: indecisive-shrew-998
+run_uuid: f10a10180e65460f9799f7983ba7a0af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697196547433
+status: 3
+tags: []
+user_id: houston

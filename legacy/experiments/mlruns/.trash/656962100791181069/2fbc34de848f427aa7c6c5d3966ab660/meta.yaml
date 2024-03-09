@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/656962100791181069/2fbc34de848f427aa7c6c5d3966ab660/artifacts
+deleted_time: 1701665274136
+end_time: 1701664899132
+entry_point_name: ''
+experiment_id: '656962100791181069'
+lifecycle_stage: deleted
+run_id: 2fbc34de848f427aa7c6c5d3966ab660
+run_name: placid-chimp-716
+run_uuid: 2fbc34de848f427aa7c6c5d3966ab660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701664899076
+status: 3
+tags: []
+user_id: houston

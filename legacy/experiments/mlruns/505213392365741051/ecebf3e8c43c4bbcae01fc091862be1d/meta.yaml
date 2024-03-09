@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/houston/Library/CloudStorage/Dropbox/devel/ffbq/experiments/mlruns/505213392365741051/ecebf3e8c43c4bbcae01fc091862be1d/artifacts
+end_time: 1701659527635
+entry_point_name: ''
+experiment_id: '505213392365741051'
+lifecycle_stage: active
+run_id: ecebf3e8c43c4bbcae01fc091862be1d
+run_name: bemused-wasp-521
+run_uuid: ecebf3e8c43c4bbcae01fc091862be1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701659527485
+status: 3
+tags: []
+user_id: houston

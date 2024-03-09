@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/178010107817318419/61061d0d84bb46638a0bbb746ff4048d/artifacts
+end_time: 1697359040322
+entry_point_name: ''
+experiment_id: '178010107817318419'
+lifecycle_stage: active
+run_id: 61061d0d84bb46638a0bbb746ff4048d
+run_name: grandiose-moose-113
+run_uuid: 61061d0d84bb46638a0bbb746ff4048d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697359040253
+status: 3
+tags: []
+user_id: houston

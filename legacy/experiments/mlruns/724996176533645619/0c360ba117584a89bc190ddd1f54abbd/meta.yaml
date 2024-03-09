@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/724996176533645619/0c360ba117584a89bc190ddd1f54abbd/artifacts
+end_time: 1697194907940
+entry_point_name: ''
+experiment_id: '724996176533645619'
+lifecycle_stage: active
+run_id: 0c360ba117584a89bc190ddd1f54abbd
+run_name: adorable-cat-834
+run_uuid: 0c360ba117584a89bc190ddd1f54abbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697194907918
+status: 3
+tags: []
+user_id: houston

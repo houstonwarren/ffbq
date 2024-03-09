@@ -1,0 +1,15 @@
+artifact_uri: file:///home/houston/devel/ffbq/experiments/mlruns/270541984034905107/53e7b4211e454197a17d2848ab2ec0d1/artifacts
+end_time: 1697440793997
+entry_point_name: ''
+experiment_id: '270541984034905107'
+lifecycle_stage: active
+run_id: 53e7b4211e454197a17d2848ab2ec0d1
+run_name: worried-shoat-414
+run_uuid: 53e7b4211e454197a17d2848ab2ec0d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697440793945
+status: 3
+tags: []
+user_id: houston
