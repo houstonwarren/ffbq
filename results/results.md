@@ -25,7 +25,7 @@ Importantly, all these experiments are carried out under strictly controlled con
 
 ![genz](genz.png)
 
-## Low-Rank Integration
+## 3. Low-Rank Integration
 *The following text has been adapted from the full paper.*
 
 Lastly, we perform an ablation study of SSBQ against an alternative low-rank GP methodology in Nystr\"om approximation. Specifically, we adapt the sparse variational GP (SVGP) approach, in which $R$ GP inducing point locations are trained through variational inference and subsequently used for low-rank inference. We use a problem setting of integration over a 2D periodic signal.
